@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: "March (current month)"
 sidebar_position: 6
 ---
@@ -17,7 +17,7 @@ waiting for the mysterious figure to go out of the tent. An hour or so
 after, one of the Djinn announced the Amirah Sephirah Al-Marish together
 with many titles.
 
-Â 
+ 
 
 Ralto's tent opened and a court of young female servants went out of it.
 In between them, to the surprise of Golt, Cassidy, his daughter was
@@ -25,7 +25,7 @@ among them. She was wearing blue oriental robes and had in her hands
 some kind of magical cuffs. She was walking sad together with the other
 servants.
 
-Â 
+ 
 
 Golt's world spinned for a second and he just shouted Cassi while
 running towards the crowd, leaving the others behind and confused. He
@@ -35,14 +35,14 @@ jumped, but unfortunatley landed wrongly and sprained his ankle
 difficulting his advance towards the Amirah's commitive. He then slowly
 procceded to make his way towards the commitive.
 
-Â 
+ 
 
 Jori used the room that Golt made to jump also to the lower part,
 unfortunately he jumped on a tieflin with some weird goggles on and the
 guy offended started to fight him, but Jori was fast enough to avoid all
 his punches.
 
-Â 
+ 
 
 Virgula tried to crawl over the heads of the people using his spider
 climb abilities. His first attempt was stopped before even starting but
@@ -51,7 +51,7 @@ head of a gigant Loxodon which was scared and surprised. The commotion
 alerted one of the security golems but the Loxodon being so nice excused
 Virgula and clarified the altercate that ended in nothing.
 
-Â 
+ 
 
 All the distractions made that Golt was only able to come to the
 commitive when Cassidy already went through the portal and the Amirah
@@ -61,7 +61,7 @@ just ignored him. Only one guard that passed by dedicated him a smirk
 and walked past him. He saw as his daughter escaped from his grasp and
 cursed his luck.
 
-Â 
+ 
 
 The party reconvined and Golt explained what happened and who Cassidy
 was. Ralto came out of his tent with some relief expression and cleaning
@@ -69,14 +69,14 @@ some sweat from his forehead. The party decided to approach him, to
 which he gladly say he will meet them in a short time, since he still
 needed to finish some business.
 
-Â 
+ 
 
 The party perused the new items on display and waited for Ralto, while
 they discussed if they would tell him about the elf Zyralis and her
-intention to get back the Espina de OtoÃ±o and they agreed to not have
+intention to get back the Espina de Otoño and they agreed to not have
 more secrets with Ralto.
 
-Â 
+ 
 
 After a while they were invited to Ralto's tent and an unseen servant
 wearing clothes welcomed and guided them inside. Ralto welcomed there
@@ -85,7 +85,7 @@ know what Ralto's business with the Amirah were and to inquire a bit
 about his daughter. But he tried at the begining to be careful while
 choosing his words.
 
-Â 
+ 
 
 After some discussion, he openly told Ralto what the deal was. He told
 him that his daughter was a salve of the Amirah and that he would like
@@ -95,26 +95,26 @@ from all the Djinns she could be a slave from, being it from the Queen
 of Levant was the best it could happen, for it was known that she
 treated them well, for a servant.
 
-Â 
+ 
 
 Ralto explained them that he was doing some business with the Amirah for
 a pair of magical bracelets that would help him with the quest he wanted
-to propose the party. Thanks to the Espina de OtoÃ±o that the party sold
+to propose the party. Thanks to the Espina de Otoño that the party sold
 him, he had the last piece of the puzzle he needed to make a deal with
 her.
 
-Â 
+ 
 
 They party explained Ralto that there was an elf lady that claimed to be
 the rightful owner of the sword and that she was interested in getting
 it back. Ralto said that she was too late and that she had bad luck.
 
-Â 
+ 
 
 Then the party asked Ralto about the quest he had planned and he
 explained it.
 
-Â 
+ 
 
 He wanted the party to find an old friend of him, Urs. Urs was
 apparently a very skilled human smith that lived in the Material Plane
@@ -125,7 +125,7 @@ moment something influenced the weave and made the spell to partially
 fail. He and Urs got separated and Ralto wasn't able to locate Urs
 location until recently.
 
-Â 
+ 
 
 He has certainty that Urs is somewhere in the Shadowfell and he wants
 the party to track him down and bring him back. What he acquired from
@@ -134,14 +134,14 @@ Urs to control his Ursanthropy. For that they would need to infuse the
 bracelets with magic and attach them to him. Once done, Urs would be
 back to his senses and they can bring him back to Ralto.
 
-Â 
+ 
 
 Since Urs has been lost in the Shadowfell for many years, Ralto doesn't
 know in which status he would be currently and what the Shadowfell had
 done to him. He is also unaware of how powerful or not he might be, he
 just knows he should look like a gigantic bear person.
 
-Â 
+ 
 
 In order to ease this quest, he tasked Corsina to elaborate a poison
 that could weakened creatures from the Shadowfell. He told the party
@@ -152,14 +152,14 @@ party, the portal was only able to bring them there and bring them back
 once. After that it will close and he will task other more competent
 party to complete this quest.
 
-Â 
+ 
 
 Since the party was a bit scared, Ralto tried to motivate them by making
 him a generous offer. As a motivation factor, if they managed to bring
 Urs back, he will open a backdoor to the Amirah's home and allow the
 party to go there. One way only, since he was risking a lot doing that.
 
-Â 
+ 
 
 Ralto also told them that they needed to wait a little bit, since just
 had made the deal with the Amirah and he didn't have the bracelets on
@@ -167,18 +167,18 @@ his person yet. But that they should arrive soon. He will let them know
 when they are there and then the party could go to the Shadowfell as his
 convenience (but rather sooner than later).
 
-Â 
+ 
 
 Golt also asked Ralto to show him an image of how he remembered Urs, and
 he created and illusory image of him.
 
-Â 
+ 
 
 With all discussed, Ralto thanked them for coming and ask the party to
 purchase some of his newly acquired goods. The party then left and went
 to digest the information and also do some purchases.
 
-Â 
+ 
 
 They bought a couple of lamps and oil from Jhoras and some fresh blood
 from Corsina (it will last 10 days since it was magically preserved).
@@ -187,16 +187,16 @@ preserve corpses or dead matter longer, to which she said she will
 investigate on how to do it, since so far she could only do while
 preserving it and not keep it as a later point in time.
 
-Â 
+ 
 
 They also got the ingredients they needed for the poison:
 
-Â 
+ 
 
 - 1 Nightshade pistil
 - Some Phase Spider web
 - 1 Midnightbloom seed/
-  Â 
+   
 
 According to Corsina all of these ingredients should grow on the
 Shadowfell and they just needed to mix them in order to craft the
@@ -205,7 +205,7 @@ creatures infused by the shadowfell. She also told them that she would
 be please to purchase any extra ingredients they would have from them
 after they come back.
 
-Â 
+ 
 
 They then decided to inquire more information about the Shadowfell and
 got the following information:
@@ -223,22 +223,22 @@ got the following information:
 When they thought the had everything they needed they left for the
 material plane.
 
-Â 
+ 
 
 Jori bought the boots of wind's favor from Ralto./
-Â 
+ 
 
 2 of March (Day 141)
 
 Day spent on Ralto's bazaar
 
-Â 
+ 
 
 3 of March (Day 142)
 
 Day spent on Ralto's bazaar
 
-Â 
+ 
 
 4 of March (Day 143)
 
@@ -255,7 +255,7 @@ old friend Cat, which to his suprise he answered and told him to go find
 him in Puerto Ballena. Golt had some nice dreams of his family but had
 the feeling he was being observed during them.
 
-Â 
+ 
 
 5 of March (Day 144)
 
@@ -272,7 +272,7 @@ whole city was under alarm, because the long absence of one of the
 Sacred Plumes started to have effects. The other Sacred Plumes were
 trying to manage and to keep the information private.
 
-Â 
+ 
 
 They then divided in two groups, one would go to clean the note and
 Virgula would go with Jhandril to visit Halphanis. Jhandril spoke with
@@ -282,12 +282,12 @@ leave with the others. He thought he had Halphanis, but now he wasn't
 sure anymore. He also gifted Virgula with a Sending Stone and asked him
 to keep him informed, just in case he found his father.
 
-Â 
+ 
 
 Virgula also managed to hear Halphanis mumblin the name Lathor, but he
 didn't know what that was supposed to mean.
 
-Â 
+ 
 
 The other group managed to commission a wizard to cast Mending on the
 note and clean it up. It was written in Abysal and there were some spell
@@ -298,17 +298,17 @@ handle the things in Longsaddle. They also asked him to keep them
 informed in case something new happened. They also purchased the
 Darkvision spell scroll and the materials to inscribe it.
 
-Â 
+ 
 
 The party then decided to leave Longsaddle.
 
-Â 
+ 
 
 6 of March (Day 145)
 
 First day of travel to Orchiva
 
-Â 
+ 
 
 7 of March (Day 146)
 
@@ -317,7 +317,7 @@ Vorskann who called them from the distance. Jori managed to observe that
 something was strange with Vorskann and tried to yell a joke to him. But
 Vorkann ignored him and started to cast a spell.
 
-Â 
+ 
 
 A fight started, and soon they realized that it wasn't Vorskann who was
 there, but the heir of the family Herzblatt, Zyralis. She wanted the
@@ -325,7 +325,7 @@ Snail to access Ralto's dimension and wanted to take it by force. She
 summoned some spectral snakes and adopted a battle stance very similar
 to that of Kespien, but reminiscent of a snake itself.
 
-Â 
+ 
 
 She tried to slow the party, but only some where affected. Jori summoned
 some black bears to help them and tasked them to confront the spectral
@@ -333,7 +333,7 @@ snakes. Virgula tried to cast some spells, but Zyralis counterspelled it
 and he used the unicorn wand, with the bad luck that once again the
 stones nearby started to mock his clothes. He then retreated near Jori.
 
-Â 
+ 
 
 The fight continued and Zyralis summoned some black tentacles from the
 ground who managed to restrain Jori and Virgula. Virgula tried to cast a
@@ -341,7 +341,7 @@ spell using the wand again and he farted creating a disgusting and
 smelly cloud. This cloud hindered him and Jori from seeing what was
 happening during the fight.
 
-Â 
+ 
 
 Golt finally was able to land some hits on Zyralis after the different
 mirror images that she cast on herself dissappeared by the combined
@@ -351,21 +351,21 @@ little mouse. She then tried to defeat Kespien in battle, but the
 combine action of all of them made her weak enough to be forced to
 retreat.
 
-Â 
+ 
 
 She summoned a big serpentine mount and run into the wildness. Kespien,
 who was the closest tried to hit her with a Firebolt but missed.
 
-Â 
+ 
 
 The party, wounded but alive, talked what happend and then decided to
 continue the travel and make rest in Kespien's cabin.
 
-Â 
+ 
 
 8 of March (Day 147)
 
-Â 
+ 
 
 They kept their travel until they found strange stoned had carved and
 randomly assorted in the surroundings of the road. They tried to check
@@ -374,7 +374,7 @@ magic and the only thing they gathered was that they were hand carved
 and recently set there. Jori talked to some birds and found out that the
 stones suddenly fell from the sky without apparent reason.
 
-Â 
+ 
 
 They continue their travels and met a caravan who made camp close to the
 royal bridge. There were a mason company who was there to repair the
@@ -382,7 +382,7 @@ apparent broken bridge. They had been working on it for the past weeks.
 The mason troupe didn't know why the bridge was broken or why the stones
 were there.
 
-Â 
+ 
 
 Within them, there was also John, the trader they originally met in
 Dorelta and the one they saved from some spiders while he was
@@ -395,51 +395,51 @@ Forest were the river was shallower and apparently and old and eccentric
 elve had a raft to cross it. The travel there was lenghty and dangerous,
 because only the roads were more or less secured.
 
-Â 
+ 
 
 The party decided to go and check form themselves the status of the
 bridge. And they were suprised by some whistle in the sky followed by a
 huge boulder that hit Golt and Kespien and a very potent laugh.
 
-Â 
+ 
 
 Golt mounted made his way fater towards the bridge and saw two giants
 playing some kind of game with the stoned of the bridge. They took turns
 on removing some of the bridge stones and hit it with some huge trees.
 They were enjoying themselves and laughing about it.
 
-Â 
+ 
 
 Golt went back to the group, and another stone hit the party again. In
 this case, Virgula was hit because he was busy trying to secure the
 Stone of Good Luck position in his pocket.
 
-Â 
+ 
 
-Â Being dangerous, they decided to go back to the mason's camp and
+ Being dangerous, they decided to go back to the mason's camp and
 discuss what they would do.
 
-Â 
+ 
 
 They informed them and the masons asked the party for help. Not being
 able to repair the bridge, will suppose a hard hit on the commerce on
 all Norberia. Since this bridge was the main point of connection between
 norther and south Norberia.
 
-Â 
+ 
 
 The party was unsure on how to proceed, because they didn't want to risk
 their lives unnecessarily, but also didn't want to leave the poor
 mason's alone there.
 
-Â 
+ 
 
 Jori also confronted Virgula about the stone, because he noticed that he
 was being too careless while holding it. Virgula said that the stone
 brought him luck and that he didn't want to part from it. Because
 holding it, made him fell lucky.
 
-Â 
+ 
 
 They party went back to the masons and rested. They also discussed the
 action plan. There were several ideas but finally they went for trying
@@ -447,7 +447,7 @@ to convince the giants to play a game in which they will have hit each
 other. For that Kespien and Golt would pretend to play the game and
 explain it to the giants.
 
-Â 
+ 
 
 They went to the bridge and the whole group managed to get a glimpse of
 the giants. Kespien was surprised when he noticed that the giants had a
@@ -462,7 +462,7 @@ Golt made their play and hit themselves. Golt was able to convince one
 of the giants to try that on his friend and it hit him hard. The other
 giant got angry and after a short chitchat a fight started.
 
-Â 
+ 
 
 Jori summoned some wolfs, Virgula managed to charm the giants with
 Hypnotic Pattern, while Kespien with his Belmont's Blitz and Golt with
@@ -471,12 +471,12 @@ one, they woke the second one and dealt with him rather easily. Not
 before they took severe damage from the giants that almost left Golt
 unconscious.
 
-Â 
+ 
 
 After defeating the giants they looted them and found a living pig and a
 chest among some other things.
 
-Â 
+ 
 
 They went back to the masons and explained what happened. They were
 welcomed as heroes and offered food and drinks. They also managed to
@@ -485,7 +485,7 @@ friendship), some coin, a silver brooch (25 GP) and a travel ledger
 which mentioned shipments from Puerto Ballena to Nersand and mentioned
 serveral times the name "von Kohlendorf".
 
-Â 
+ 
 
 They then asked the masons about the reparation of the bridge and if
 they could make something provisional for them to pass, to which they
@@ -495,25 +495,25 @@ them to cross. Kespien also asked the party to give information about
 the Red Fang tribes to the reinforcements from Orchiva and also to
 mention that they were saved by the Farbound Fellowship.
 
-Â 
+ 
 
 Virgula informed Jhandril about what has happened and gave word of the
 giants so they would send reinforcements earlier than expected. Jhandril
 told the party that Halphanis was still unconscious.
 
-Â 
+ 
 
 The party enjoyed some rest and ate some of the kelp cakes from John.
 They then got ready and crossed the bridge.
 
-Â 
+ 
 
 At night they decided to mount camp in Kespien's cabin, but before that
 Virgula was able to see some green lights in the distance. Similar to
 those faerie lights that happen from time to time in cemeteries. They
 decided to make shifts during the night just in case.
 
-Â 
+ 
 
 During the third watch, once more Virgula was able to spot the origin of
 the green lights. A big mausoleum was being carried by two hulking
@@ -526,7 +526,7 @@ their defenses and were surrounded, as some ghoulish hobgoblins
 approached from the flanks. Jori was also able to spot some skeletons
 with bows from the very back of the wagon.
 
-Â 
+ 
 
 Virgula introduced himself and from the wagon a pale black dragonborn
 came out and introduced himself as sulphure. They exchange short
@@ -538,7 +538,7 @@ thought that he was the master and a couple of minutes later, another
 identical dragonborn, wearing some kind of intrincate magical staff and
 more expensive robes came out of the mausoleum. He introduced himself as
 [Schwefel
-Sulphure](/docs/ohter-npcs/schwefel-sulphure/schwefel-sulphure)
+Sulphure](/docs/ohter-npcs/schwefel-sulphure/)
 and was willing to make a deal with Virgula. He was interested in the
 Onix Bishop and Marsandian history. For a glimpse in Virgulas memories,
 he would be willing to use an experimental spell that could bring people
@@ -548,7 +548,7 @@ Virgula asked for another thing, perhaps the staff. To what after
 several discussion and almost a rejection from Schwefel Sulphure, he
 agreed.
 
-Â 
+ 
 
 The dragonborn prepared everything and started to probe Virgulas mind.
 In there he saw how Virgula lived as a farmer, how his parents had
@@ -559,7 +559,7 @@ crawl out of the tomb with powers. How he tricked with magic a local
 Count to give him his title. And also how he unconsciously remembered
 that there was indeed an Onix tower in Marsander, close to the palace.
 
-Â 
+ 
 
 While Schwefel was probing on Virgula, the others watched from the
 distance still surrounded by a bunch of zombified creatures, all
@@ -567,7 +567,7 @@ identified by the Divinse Sense of Golt. Interestingly, both of the
 dragonborn were not undead themselves. Either they were twins, or some
 kind of very powerful magic was used to create one of them.
 
-Â 
+ 
 
 Virgulas body started to be surrounded on shadows, up to the point that
 a ball of shadows floated above him, and almost when Schwefel was over
@@ -575,13 +575,13 @@ with the spell, it materialized into a bat made of the same shadows
 which flew away from the party. Something from inside Virgula was set
 free and he was left with a feeling of emptiness.
 
-Â 
+ 
 
 After that Schwefel as promised gave them the staff, which Kespien
 identified, and left to the Dunklelock. The party decided to continue
 their rest before pressing on and Kespien cast the hut again.
 
-Â 
+ 
 
 9 of March (Day 148)
 
@@ -592,7 +592,7 @@ safe to stay short time. And an old lady tried to sell them some
 overpriced trinkets that could keep the plague away from them. But they
 decided not to buy them.
 
-Â 
+ 
 
 Later on the day they were surprised by a distant loud humanoid figure.
 It happened to be a female goliath gladiator that was pursuing the group
@@ -606,7 +606,7 @@ finally Golt succumbed to her mighty strenght. Empowered by the victory
 and immersed in the glory, she said that she will march to "El Barrizal"
 in Puerta Ballena to keep looking for stronger fights.
 
-Â 
+ 
 
 After that they stopped at night for another rest to heal Golt's
 injuries. During the night, Jori met with his spirit animals that warned
@@ -614,18 +614,18 @@ him that the nature was at an imbalance near him and that their
 connection was being weakened by that. They asked Jori to help, because
 an imbalance is always dangerous.
 
-Â 
+ 
 
 10 of March (Day 149)
 
-Â 
+ 
 
 The last day of march towards Orchiva was uneventful. But the flora and
 fauna was drastically changing. The grass and tree leaves were less
 green and abundant. There were almost no small animals or birds. And
 there were suspiciously more insects than usual.
 
-Â 
+ 
 
 By sunset they reached Orchiva. The city was a desolated bunch of houses
 with a central square. They noticed that the front door of the houses
@@ -633,19 +633,19 @@ were decorated with similar trinkets to that the old lady wanted to tell
 them. And they decided to go to the first inn they saw, one with a
 ringed octopus banner at front.
 
-Â 
+ 
 
 Inside the tavern they saw two traders playing cards for passing time.
 One drunken guy in a corner and the inkeeper, a purple tiefling with
 glasses.
 
-Â 
+ 
 
 Virgula and Jori tried to talk to the traders, but they seemed not to
 have any interested in talking to nobody, maybe afraid of the plague or
 just unpolite bastards, who knows.
 
-Â 
+ 
 
 Kespien went to talk to the inkeeper who introduced himself as Lucien.
 He asked for some drinks and rooms and ask about what was happening
@@ -656,14 +656,14 @@ she knew more about it. He also said that the guy over there was Roy,
 who lost his daughter to the plague. He also asked Kespien if they were
 related to the pale one somehow, and they weren't aware of who he was.
 
-Â 
+ 
 
 Golt went to talk to the drunken man, but he wasn't very talkative. He
 was utterly depressed and ranting about having lost everything that was
 worth to him. Golt understood, having felt the same, but left the man
 for the time being. Before leaving the inn, Golt gave him a free drink.
 
-Â 
+ 
 
 They then went to meet with Sister Unvera, the local healer in an
 improvised hospice. The party offered her to have a look at the people
@@ -671,7 +671,7 @@ there to which Golt tried to lay hands and cure normal illnesses without
 effect. And Jori detected that the disease in the people were some kind
 of magical disease, not normal one.
 
-Â 
+ 
 
 The ill, were postrated in makeshift beds, with high fever, respiratory
 problems and some strange itch marks all over their bodies but without
@@ -686,17 +686,17 @@ plague and that he didn't help at all, just console the dying ones. And
 some other thanked him for helping the living with minor healing spells
 and giving proper rites to their dying ones.
 
-Â 
+ 
 
 Sister Unvera also didn't know how the plague started. She just knew
 that the first one to die was Rosaline.
 
-Â 
+ 
 
 The party then decided to leave Sister Unvera alone and maybe go to find
 Inus, but it was already late at night.
 
-Â 
+ 
 
 They decided not to go to Inus and go to bed. They shortly talked to
 Lucien who told them about the landmarks of the small town. He talked
@@ -705,13 +705,13 @@ legendary bard. Roy was also there, but he had passed out from alcohol,
 to which Lucien said he would take care of him and bring him home, as he
 apparently usually did.
 
-Â 
+ 
 
 Kespien suggested Virgula that if he wanted, he could try to replicate
 whatever Schwefel Sulphure did to him. He had a spell that allowed him
 to probe other people mind. Virgula said he would think about it.
 
-Â 
+ 
 
 They all were pretty wasted and decided to go to sleep, all but Kespien
 who had other plans in mind. When he learnt that Abenthy, the same guy
@@ -720,7 +720,7 @@ something valuable to him in the city, he was decided to vandalize it
 somehow. He wanted to take some kind of personal vendetta. He took
 Chminey and sneaked out of the tavern.
 
-Â 
+ 
 
 He then realized that he didn't know where the theater was and started
 to wander the city in the hopes of finding it. Unfortunately the theater
@@ -728,11 +728,11 @@ was not in the city center and he got tired and decided to head back.
 While romaing the lonely city at night, he heard an strange buzzing
 sound everywhere.
 
-Â 
+ 
 
 11 of March (Day 150)
 
-Â 
+ 
 
 They all wake up and had breakfast. The city during the day was a bit
 more lively, just as much as a city asolated by a plage can be. They
@@ -742,7 +742,7 @@ supersticion that people believe could save them from the plague. He
 didn't believe it, but since he wanted to make business, he still
 followed the customs and had one hanging on his tavern.
 
-Â 
+ 
 
 They went outside with the hopes of gathering more information and also
 meeting the pale one, Inus. They noticed that everybody in the city was
@@ -750,7 +750,7 @@ wearing these trinkeks, some on the wrists, some as a necklace and even
 some as crowns. And that most of the citizens were giving them the cold
 shoulder. Foreigners didn't seem to be very welcome these days.
 
-Â 
+ 
 
 The party decided then that the best would be to procure some and
 inquire where they could do that. They were pointed out to an old
@@ -762,21 +762,21 @@ just made them for him. They also asked her if she knew anything, but so
 old and unaware of their surroundings as she were, she knew nothing new
 to the party.
 
-Â 
+ 
 
 They decided to go buy some of the trinkets and they were suprised about
 the price, 15 GP for each. If they just had bought some from that old
 merchant lady by the 5 GP she wanted, they could have saved a lot of
 money. They discussed a little bit and finally only Jori bought one.
 
-Â 
+ 
 
 They then went to meet sister Unvera, because they still had questions.
 Once there they were surprised by a pale humanoid which happened to be
 Inus and was doing some kind of funeral rite on one of the citizens of
 Orchiva. Kespien rushed to talk to him but he asked to wait.
 
-Â 
+ 
 
 Golt decided to ask sister Unvera if she would mind if he took some of
 the trinkets from the deceased, to which she hesitantely agreed and gave
@@ -786,7 +786,7 @@ her pregnancy. Apparently lately the number of stillborns increased and
 she couldn't spare her time to go treat the people and the animals, to
 what Jori accepted.
 
-Â 
+ 
 
 Kespien introduced himself to Inus and quickly understood why people
 were awry of him. He was extremly cold and cutting and he explained that
@@ -798,7 +798,7 @@ neutral position on the topic. Then Inus asked the party to leave him
 be, because he desired not to be disturbed, also not visited in the
 cottage he rented.
 
-Â 
+ 
 
 The party met again and Kespien had an idea, since the plague was
 magical, maybe he could try to dispell it. They went to one child who
@@ -806,14 +806,14 @@ was on the brink of dying and with the permission of sister Unvera cast
 dispel magic on her. For the split of a secon it seemed to work, but
 then everything went back to how it was.
 
-Â 
+ 
 
 They all discuss about what happend and came to the conclusion that, if
 it wasn't a normal disease or poison because neither Jori could detect
 it nor Golt could heal it and it also wasn't a magical effect because
 Kespien couldn't dispel it. Then only once remained. A curse.
 
-Â 
+ 
 
 Because of Golt, they all knew how powerful curses were and how
 difficult to dispel they are. They told that to Inus, to what he seemed
@@ -822,12 +822,12 @@ curses, because he had the staff from Sulphure and he suspected that it
 was cursed on one way or another. Inus asked him where he got that evil
 looking staff, to what Kespien lied and Inus angrily simply left.
 
-Â 
+ 
 
 The party was left with a bitter feeling and little to no clues on where
 to keep investigating.
 
-Â 
+ 
 
 Kespien had the idea to cast fly on Jori and ask him to see from the sky
 if he saw something out of the ordinary. When they did, they didn't
@@ -836,18 +836,18 @@ attention and Jori, blue as he was, was indeed very easy to spot. People
 started talking about the strange foreigners and their magic and rumors
 started to grow.
 
-Â 
+ 
 
 Unfortunately Jori wasn't able to discern much, the farms in the
 distance, an improvised cemetery and the old theater.
 
-Â 
+ 
 
 They decided to split and try to gather more information on the matter.
 Kespien and Golt would go to the nearby cemetery and Virgula and Jori
 would go to the farms.
 
-Â 
+ 
 
 While in the cemetery Golt and Kespien saw a couple of men working
 bringing some of the deceased in a common grave and Inus standing there
@@ -855,26 +855,26 @@ giving his blessing to them, as it was expected from a follower of
 Kelemvor. Golt introduced himself to Inus, but got the same cold
 shoulder as Kespien.
 
-Â 
+ 
 
 They then asked the men at work if they had seen or heard anything out
 of the ordinary and one of them mentioned that peole had heard some
 noises coming from the old theater some days ago and that it might have
 been the old bard revolting on his tomb.
 
-Â 
+ 
 
 Meanwhile Virgula and Jori went to some of the farms and found one that
 needed help. Apparently the farmer told them that the animals were
 behaving strangely, that the eggs from their chicken were either rotted
 or with malformations and that his pregnant cow was having issues.
 
-Â 
+ 
 
 Jori had a look at the eggs and confirmed that they were either rotten
 or had a malformed chick inside was more insect than chicken.
 
-Â 
+ 
 
 He then went to help the cow, to what he masterly delivered the
 unfortunately already dead calve. To his surprise, also the calve
@@ -882,44 +882,44 @@ presented signs of being malformed and had scales instead of skin and
 strange proboscis in the body. The cow, Old Bertha, would survive, but
 there was nothing to be done for the calve.
 
-Â 
+ 
 
 They left the farmer also knowing that the kid of one of their
 neighbours also got affected from the plague, to what they infered that
 it wasn't localized only in the town of Orchiva but also on the
 outskirts.
 
-Â 
+ 
 
 While on the way Jori decided to interrogate some insects if they knew
 something of what was going on. And he just got that they all heared the
 buzz and were called to the city of Orchiva by it.
 
-Â 
+ 
 
 They met and exchanged all the information and decided to go inspect the
 theater.
 
-Â 
+ 
 
 Once there, they noticed that it was empty and abandomned. Also in a
 very bad state. Kespien carved in the stage "Belmont was here" and
 wanted to pee on the wood but in fear of having a ghost or something
 appearing he didn't do it. He and Gold joked about doing it though.
 
-Â 
+ 
 
 After some investigation, they noticed that above the stage, there was
 something missing not so long ago. And after a closer look, they were
 pretty sure that it was some kind of musical instrument.
 
-Â 
+ 
 
 With nothing else of worth, they decided to go back to the town and
 purchase one last trinket for Virgula from Norman and then go to old
 Agatha again.
 
-Â 
+ 
 
 If the theater was so old maybe she knew or remembered what was hanging
 there. She invited them in for tea, to which Jori brew some of his and
@@ -927,27 +927,27 @@ they asked her about the theater. She remembered having been there and
 she knew that it was something there as well, but she didn't recall what
 exactly.
 
-Â 
+ 
 
 Kespien then convinced her to peek on her memories in exchange from
 helping here relive a very nice memory, to what she agreed. Kespien saw
 how Agatha, as a young girl was peeking from a window a play in the
 theater and there he saw an old lute hanging there.
 
-Â 
+ 
 
 With as much information as they could, they went back to the tavern to
 rest and put their thoughts in order. Roy was there again and so was
 Lucien and some other patreons.
 
-Â 
+ 
 
 They asked Lucien if he had heard about what was stolen and he said that
 apparently Maximilian had stolen Abenthy's old lute from the theater. If
 they wanted to know more, they should ask Roy, since he was the captain
 of the town watch.
 
-Â 
+ 
 
 Golt bought Roy a beer and interrogated him about Maximiliam. Apparently
 the poor sould was somewhat the idiot of the town and he had indeed
@@ -956,38 +956,38 @@ theater. Nobody really cared much about the lute anymore and he would
 just spend some time in prison for his theft. The party asked if they
 could go to the jail and talk with Maximiliam, to what Roy agreed.
 
-Â 
+ 
 
 Once there Roy left them alone and told the guard to help them as much
 as he could.
 
-Â 
+ 
 
 The party asked why was Maximiliam here and they read the report from a
 very old book. Apparently Maximiliam had turned himself because he
 commited a crime. He had stolen Abenthy's old lute and gave to a certain
 wandering merchant whose initials started with T.L.
 
-Â 
+ 
 
 The party inmediately suspected that to be the infamous Tom Lancil, but
 so far they didn't have confirmation.
 
-Â 
+ 
 
 They went to meet Maximiliam and found him consumed by the plague and in
 a very bad state. They tried to reason with him, but he was in so much
 pain. Apparently he was hearing the same buzz as Kespien did some time
 ago.
 
-Â 
+ 
 
 Virgula managed to charm him and make him speak a little bit more. And
 Kespien cast protect from good and evil on him allevieting his state.
 Also at some point Kespien casted detect thoughts and peeked into
 Maximilam mind with the hopes of seeing the face of the merchant.
 
-Â 
+ 
 
 What they got from him is that Maximiliam met with a travelling merchant
 named Tobias LeClair, which promised him that in exchange for the lute
@@ -999,7 +999,7 @@ alcohol that only Rosaline was supposed to drink. With both things in
 hand, it was just a matter of time that Maximiliam could win Rosalines
 heart forever.
 
-Â 
+ 
 
 Kespien saw how Maximilam was walking holding the hand of a young woman,
 most probably Rosaline, and had something that look like a vial and a
@@ -1007,7 +1007,7 @@ book on his other hand. The next he saw is how Rosaline collapsed to the
 groung, Maximiliam got scared and threw what seemed to be a book away
 from him, leaving Rosaline on the ground alone.
 
-Â 
+ 
 
 He then turned himself in and since then was consumed by guilt and
 apparently the plague itself. Tired and exhausted they decided to spend
@@ -1015,7 +1015,7 @@ the night in the Inn and put their ideas in order. They asked Lucien if
 he knew where Roy was, but he was the one to ask them that since Roy
 left with them.
 
-Â 
+ 
 
 When they went to sleep, Golt had a vision. He was transported to a sea
 shore and the Unheilmeer was already in his hands. It was pushing him to
@@ -1023,50 +1023,50 @@ go deep into the waters, to what he did. He sank into the nothingness
 and was brought in front of a extremely powerful presence. There this
 entity telepathically told Golt the following words:
 
-Â 
+ 
 
 Obey, Enemy, consume
 
-Â 
+ 
 
 Golt tried to speak with this entity and to provoke it, but it didn't
 react. When he asked who the enemy was, it answered:
 
-Â 
+ 
 
 Obey, Consume, Obox-ob
 
-Â 
+ 
 
 Golt recognize the cadency of the words to be of abysal nature. He then
 asked who he was and mantioned the name Dagon, to what the entity
 reacted annoyed and let Golt surface once again. Not before he managed
 to get a glimpse of what it was, an gargantuan Kraken like creature.
 
-Â 
+ 
 
 Golt woke up drenched in sea water and for the first time in a very long
 time, attempted to establish contact with Unheilmeer.
 
-Â 
+ 
 
 He asked if he had two masters and who this presence was. To what the
 Unheilmeer answered that he had no masters and he confirmed that it was
 Dagon itself. The Unheilmeer had no idea who or what Obox-ob was and
 told Golt that he was hungry and wanted more souls to feed.
 
-Â 
+ 
 
 12 of March (Day 151)
 
-Â 
+ 
 
 They woke up and went down to have breakfast, to what Lucien told them
 about some rumors that happened during the night. Apparently someone had
 seen lights and heard weird chantings coming from the common grave. They
 didn't see who or what it was, they were just too scared.
 
-Â 
+ 
 
 Thy still thought that their best leads would be with Maximilian and
 they went to the jail to check if he had awaken. There they found a very
@@ -1081,11 +1081,11 @@ party asked Roy to attend to reason and not kill Maximilian right away,
 and gained time until the afternoon to make the rest of investigations
 they wanted.
 
-Â 
+ 
 
 They then decided to investigate the common grave.
 
-Â 
+ 
 
 Once there they spoke to the man who saw that and he said that he was
 fast asleep when he saw it and he didn't dare to inspect it further
@@ -1093,12 +1093,12 @@ because it might have been dangerous. The party then investigated the
 scene and they found one black candle in the pit. The candle seemed
 normal and had nothing special to it.
 
-Â 
+ 
 
 From there they decided to investigate Rosaline's tomb and found indeed
 some small holes all around her tomb but nothing else.
 
-Â 
+ 
 
 After that they decided to try to look for the place in the woods that
 Kespien saw and were maybe the book that Tobias Leclair gifted
@@ -1108,14 +1108,14 @@ time towards Inus cottage and nothing else. They decided to divide and
 Jori would stay searching with magic something that could bring them
 closer to solving this case and the others decided to go talk with Inus.
 
-Â 
+ 
 
 To their surprise they saw that Inus cottage was alone. They could peek
 through the windows and saw that everything was sorted in an espartan
 way, they also saw some shelves with books. They debated into going in
 or not and Kespien tried the door which was unlocked.
 
-Â 
+ 
 
 Without doubt they went in and started to peek the small house. Virgula
 found more of the candles and Golt found some tomes about Necromancy,
@@ -1123,7 +1123,7 @@ death rites and planar gates. Also hidden in one of the books there was
 a well used bookmark. It happened to be a love letter from Rosaline to
 Inus, signed with a kiss and covered in dry blood.
 
-Â 
+ 
 
 While all this was happening Jori decided to come back to the cottage
 having found nothing and saw Inus coming back to his place.
@@ -1131,14 +1131,14 @@ having found nothing and saw Inus coming back to his place.
 He tried to call his attention but the open door was apparently more
 important to Inus than the screaming genasi.
 
-Â 
+ 
 
 When the party almost finished reading the letter, Inus came into the
 cottage and surprised them. He was very dissappointed but his face
 expressions were non existant. He accused the party of committing a
 crime, that they didn't deny but appealed to his understanding.
 
-Â 
+ 
 
 They explained him everything they found out until now and he, as
 expected, didn't seem to care much. He said that for the moment he would
@@ -1151,20 +1151,20 @@ common grave in an attempt on ensuring that the dead wouldn't rise as
 undead and assured Kespien that Rosaline wasn't a ghost or could turn
 into one, since he took care of this.
 
-Â 
+ 
 
 He also told that he was sent to Orchiva by Kelemvor itself but the
 reason hadn't been revealed to him yet. He would know when the time
 comes.
 
-Â 
+ 
 
 In a last attempt the party asked him if he could show them where
 Rosaline's body was found and he brought them there. As already stated
 by Inus, nothing of interest was found there since Rosaline's death
 happened already some time ago.
 
-Â 
+ 
 
 Still lost and with time already over, they decided to go back to town
 and confront Roy. Golt was the one to arrive thanks of riding his wolf
@@ -1176,7 +1176,7 @@ made himself noticed and his intimidating pressence calmed the agitated
 man. Roy asked Golt to help bring the people out of this so they could
 talk and when finsihed the rest of the party arrived.
 
-Â 
+ 
 
 Maximilian had escaped the jail, somehow bending the metal cell enough
 to slip through and killed the watchmen. The watchmen presented symptoms
@@ -1184,7 +1184,7 @@ of the plague in it's last stadious and also a mark of being strangled
 by someone strong. They then told Roy that they would take care of this
 and would find out where Maximilian would have gone.
 
-Â 
+ 
 
 The party had two theories, either Maximilian was on Rosaline's tomb or
 at the common grave. So they decided to approach first the young women's
@@ -1195,19 +1195,19 @@ depicting a weird face. Before they could act, Maximilian dissolved in a
 cloud of insects and dissappeared and from the ground nearby some
 demonic insectoid creatures attacked the party.
 
-Â 
+ 
 
 Golt took care of the biggest scorpion they ever saw very skillfully and
 the Unheilmeer talked to him demanding more demonic souls.
 
-Â 
+ 
 
 Virgula used the wand and unfortunately a slow spell took effect centred
 on himself affecting also some of his companions. Jori summoned some
 giant wasps to fight some of the flying creatures and Kespien managed to
 kill some with his spells.
 
-Â 
+ 
 
 After the fight was over, they decided to look for tracks and found
 nothing out of the ordinary on the ground. But from the distance, it
@@ -1217,7 +1217,7 @@ transformed into a warhorse and Golt used his runes to turn himself and
 his wolf gigantic. They then speed as much as they could. Golt would be
 riding along Virgula and Kespien on Horseri.
 
-Â 
+ 
 
 When they reached the outskirts of the city they were able to see it
 better. Apparently something was happening in the city center that was
@@ -1226,7 +1226,7 @@ the sky gathered in circles agove the city square and the streets of
 Orchiva were full of the same demonic insectoids they fought some
 seconds ago.
 
-Â 
+ 
 
 They made their way to the city center killing all the monsters they
 could along the way, saving countless lives of the citizens of Orchiva,
@@ -1236,14 +1236,14 @@ concentration because of the surrounding chaos. Kespien casted
 Protection against good and evil on himself anticipating what would
 come.
 
-Â 
+ 
 
 When they made it to the city center, they saw Maximiliam levitation in
 front of a portal. Next to him this cursed book that he was reading
 from. Two other portals were opened and were releasing this insectoids
 creature all over the city.
 
-Â 
+ 
 
 Lucien was in the norther part of the square, defending the people from
 the monsters coming out of a portal. He had a harp in his left hand and
@@ -1252,7 +1252,7 @@ magic and fencing. He got very surprised when Horsri appeared in front
 of him to trample some of the insects there. But quickly understood that
 they were allies.
 
-Â 
+ 
 
 Golt and Virgula rushed towards Maximiliam trying to stop him. Virgula
 cast a fireball which Maximiliam and the book deflected in its majority
@@ -1261,7 +1261,7 @@ commanded it to attacks Maximiliam. Kespien stood in the middle front
 trying to make crowd control of the insects crawling out of both
 secondary portals.
 
-Â 
+ 
 
 Not later after the party arrived, Maximilam summoned Obox-ob saying
 that he had done as it was commanded from him. Immediately after he
@@ -1271,28 +1271,28 @@ teeth and powerful tongue. The creature took some damage from Golt's
 Unheilmeer, to which it reacted quite excited to feel fiendish blood
 again.
 
-Â 
+ 
 
 The Brooding Mother rolled over Virgula, Golt and Golt's ride leaving
 them proned in the ground and severely hurt. But at the same time it
 took serious damage from the spells of Virgula and the pierces of the
 Unheilmeer.
 
-Â 
+ 
 
 Horsri got surrounded by insects and they managed to debilitate his wild
 shape and force him to turn back to his genasi form. Kespien kept
 tanking attacks thanks to his protective spells and killing insects with
 little effort.
 
-Â 
+ 
 
 At some point Virgula took Espuma de Mar and tried to hit the Brooding
-mother with aÂ  powerful chaos bolt made of poison, to learn that
+mother with a  powerful chaos bolt made of poison, to learn that
 unfortunately this creature, was immune to it. He also managed to avoid
 the sticky tongue that could otherwise would have devoured him.
 
-Â 
+ 
 
 Golt big as he were, also defended extremely well against all of the
 attacks of the brooding mother and the surrounding insects, having to
@@ -1300,7 +1300,7 @@ cast protective spells along the way to avoid being swallowed by the
 creature. Jori summoned some more wasps to help Virgula and Golt against
 the Brooding Mother.
 
-Â 
+ 
 
 The fight kept going and the Fellowship defended very good against all
 the upcoming insects. At some point Inus joined them in his full combat
@@ -1309,7 +1309,7 @@ Brooding mother and commanded the party to attacks with the best they
 had. Unfortunately none were fast enough and one of the wasps took
 advantage of this vulnerability.
 
-Â 
+ 
 
 At some point Kespien also managed to cast a powerful chromatic orb made
 of electricty and he found out that this weakened somehow the brooding
@@ -1318,7 +1318,7 @@ the Brooding Mother swallowed Virgula whole after falling unconscious to
 the ground and being brought back to consciousness by a healing word
 from Jori.
 
-Â 
+ 
 
 The time was runing out, their defenses was starting to weak and one of
 their allies was inside the worm like creature. They all took forces out
@@ -1327,7 +1327,7 @@ was Virgula, blinded and restrained from inside the worm who managed to
 kill the worm with one of his spells. He then managed to crawl out of
 the stomach of the dead creature.
 
-Â 
+ 
 
 But apparently not everything was over. There were still insects coming
 out of the portals and the book was still there. Inus asked the party to
@@ -1337,7 +1337,7 @@ bolt that killed many insects and electrocuted Maximiliam, killing him
 completely and making one of the portals dissappear. The rest of the
 party used some spells and attacks to defend Inus from being disturbed.
 
-Â 
+ 
 
 At some point he managed to succeed on his attempts to break the book
 defenses. He took it on his hands, look at the party and for the very
@@ -1346,7 +1346,7 @@ earlier the whole truth. He then with the book on his hands and claiming
 that this was his destiny and why Kelemvor had sent him here, jumped
 into the big portal.
 
-Â 
+ 
 
 The party decided to gather a breather and start the rescue activities.
 Golt healed Virgula with his lay on hands. They wanted to divide and try
@@ -1354,7 +1354,7 @@ to cover as much terrain as possible helping the injured. Golt would
 stay in front of the closing portal with the wand of pyrotechnics ready
 to alert the others if something went wrong.
 
-Â 
+ 
 
 While the rest were already leaving, he decided to focus one more time
 on his divine senses to see if there were still some demons romaing
@@ -1364,24 +1364,24 @@ Broodmothers body, as big as it was, was still there. Golt managed to
 sense a demon from within the Broodmother. Apparently they didn't finish
 them all. They quickly took defensive positions.
 
-Â 
+ 
 
-GoltÂ  resummoned his wolf. Kespien protected Virgula against good and
+Golt  resummoned his wolf. Kespien protected Virgula against good and
 evil. Jori commanded its wasp to attack any demon in sight and took some
 distance. Virgula as well run as much as he could.
 
-Â 
+ 
 
 Riping the skin of the Broodmother appeared a creature of nightmare. A
 large locust like demon with heavy chitin shaped like and armor, sharp
 fangs and two extremely sharpen and large scythe like arms.
 
-Â 
+ 
 
 It screech in abysal to be the Chitterking, one of Obox-Ob chosen and
 that he was born to devour their souls.
 
-Â 
+ 
 
 The fight began. Golt went charged it to discover that the Chitterking
 wasn't alone. He had some kind of unholy aura who commanded the insects
@@ -1389,7 +1389,7 @@ to disturb everyone in it, but Golt managed to focus on the task at hand
 and hit the demon. The Unheilmeer in its hands was eager to taste
 demonic blood and made Golt aware of that during the whole fight.
 
-Â 
+ 
 
 Kespien tried to affect the demons mind directly with Mind sliver, a
 tactic that the repeated during the whole fight several times. But now
@@ -1398,31 +1398,31 @@ didn't care about his defenses and move towards a more advantageous
 position and emitted a huge screen that caused all of the affected to
 suffer huge headaches and fear the creature temporarily.
 
-Â 
+ 
 
 Virgula tried to mimic Kespien and affected apparently one of it's weak
 points, his mind.
 
-Â 
+ 
 
 Jori tried to freeze the demon but had little effect due to his demonic
 defenses.
 
-Â 
+ 
 
 To the surprise of everyone, the demon was able to teleport in the
 battlefield. What put some of the weaker casters at risk more than what
 they would like to. The demon also retaliated with his scythe against
 some wasps and managed to kill them all.
 
-Â 
+ 
 
 The fight was hard, the chitin of the demon was almost impentrable and
 his demonic resistances made him a tough adversary but slowly it showed
 some signs of tear down. From time to time, Lucien helped the party
 casting Healing word from a safe distance.
 
-Â 
+ 
 
 At some point Golt found strenght in his own beliefs and convictions
 managing to invigorate himself and even the ones near him. Kespien
@@ -1434,7 +1434,7 @@ contacted by his totem animals who told them that they would be willing
 to help once more if the wanted to call them, which he did and
 materialized Pavo into an elemental creature in the battlefield.
 
-Â 
+ 
 
 Golt was really badly hurt and the rest of the party wasn't doing better
 either. They decided to give everything in one last turn. Golt commanded
@@ -1452,38 +1452,38 @@ the portal getting ready to jump in and flee. But Pavo flew over the
 battlefield like an arrow and managed to hit the demon from behind
 holding it in place still.
 
-Â 
+ 
 
 The Unheilmeer shouted to Golt to let him feed of the demon, to which he
 didn't think twice and speared it towards the demon. The Unheilmeer hit
 the demon from the back and started excitedly to absorb the demon. In
 Golt's head he also heared the voice of his patreon agreeing.
 
-Â 
+ 
 
 After the Unheilmeer absorbed all the demons essence, the remains turned
 to ashes together with the Brooding mother and the portal closed.
 
-Â 
+ 
 
 They all gasped with relief as there were no more signs of demons or
 dangers nearby. The people started to gather around, Lucien approached
 them and thanked them for what happened and told them he would like to
 talk to them after they rested and when they were ready.
 
-Â 
+ 
 
 Kespien took the scroll of Skywrite and painted a message in the sky
 announcing that the Farbound Fellowship made this possible.
 
-Â 
+ 
 
 When the clouds scattered, they saw a figure descending towards them
 illuminated by a bright ray of light. It happened to be an angelic
 version of Inus. Kespien and Jori recognized it to most probably be a
 Deva, a server of the gods.
 
-Â 
+ 
 
 All this time, Inus wasn't who he claimed to be. It was an angelic
 creature sent to the material plane by Kelemvor to deal with the book
@@ -1492,7 +1492,7 @@ affairs more, which explained his neutrality whatsoever. He apologized
 for having to hide this truth from them and thanked them in the name of
 Kelemvor for their service.
 
-Â 
+ 
 
 He then offered them to accept a Boon from the god of death itself.
 Which the party willingly accepted. All of them were branded with a
@@ -1503,21 +1503,21 @@ overlook moments in which they would be debating between life and death.
 After that Inus the reborn opened a portal, and before passing through
 it, told the party to don't get into other houses uninvited.
 
-Â 
+ 
 
 After that Jori decided to help Orchiva recover as soon as possible and
 stood 8 hours outside connecting with the nature and nurturing it with
 his magic.
 
-Â 
+ 
 
 The rest, exhausted as they were, decided to go to sleep.
 
-Â 
+ 
 
 13 of March (Day 152)
 
-Â 
+ 
 
 After having a well deserved rest and breakfast, Lucien approached them
 and told them how dire the situation was. They lost 30% of all still
@@ -1525,7 +1525,7 @@ remaining citizens but on the good side, the ones affected by the
 illness were starting to show signs of recovery which was very
 promising.
 
-Â 
+ 
 
 Lucien also told the party that there was a reason that he could use
 some bardic magic, and it was because he was a descendent of the famous
@@ -1535,13 +1535,13 @@ adventure he had. He had a complicated relation with the bard in which
 he despised him but at the same time admired him and that's why he
 decided to stay in Orchiva and maintain his legacy.
 
-Â 
+ 
 
 He also told the party that he wasn't worried about the stolen lute,
 because he knew it wasn't the real one, since the real one was in the
 Abenthy's real tomb.
 
-Â 
+ 
 
 He offered the party to go and see it, since he also wanted to gift the
 party with some things that were in the vault. He drive them through
@@ -1549,7 +1549,7 @@ some secret passages into a small circular room full of trinkets and
 smut books. In this room there were also two a couple of things that
 called the attention of the party.
 
-Â 
+ 
 
 The first one was the Moonweaver's lute, a magnificently crafted lute
 with materials that seemed not from this world. The second one was a
@@ -1559,7 +1559,7 @@ Belmont's Crest on it. This baffled Kespien absolutely. Why the man who
 sang a song to discredit his name and made his life and the ones before
 him so miserable wear the symbol of the same family he helped to curse?
 
-Â 
+ 
 
 They all tried to look for answers in the room and found three plaques
 with the story on how the Moonweaver's lute was crafted. Cryptic words
@@ -1569,18 +1569,18 @@ didn't sing the truth but what was asked by some hero who wanted to be a
 coward. Also they read that apparently there was a hidden verse that
 shouldn't be sung.
 
-Â 
+ 
 
 Kespien was very confused and insecure. What did all this mean? So many
 questions and so little answers.
 
-Â 
+ 
 
 In these verses they also seemed to read references to places that could
 match with Fabros and the curse islands, at least some of them. Once
 again, more questions and little but no proper answers.
 
-Â 
+ 
 
 Lucien was also confused by the news but tried to keep things on track
 and started to look for what he came here for. He found two items to
@@ -1589,12 +1589,12 @@ award the party for their help. Three bottles of a very old wine called
 According to Lucien they would be expensive if sold to a person who
 understood their value.
 
-Â 
+ 
 
 He also gifted, what he thought would be a magical staff but he had no
 means of knowing. Kespien identified it to be a Staff of Healing.
 
-Â 
+ 
 
 Lucien was asked by Golt if he could play the lute, to what Lucien
 politely refused. He then was counterasked if at least Lucien could play
@@ -1602,32 +1602,32 @@ the lute for them and he seemed very nervous about it and started to
 prepare mentally for it, since apparently he had never touched the lute
 himself in fear of what could happen to it.
 
-Â 
+ 
 
 Lucien also asked Kespien if he could dectect what else of the items in
 the room were magical. Kespien used Chimney for it and he was extremely
 surprised to find out several magic auras, but two in special.
 
-Â 
+ 
 
 The first one was that the lute itself had illusion auras on it. The
 second one was a hidden written message over the bard's painting.
 Apparently he managed to find the hidden verse, which hinted to a
 treasure being hidden under the theater stage.
 
-Â 
+ 
 
 Before leaving, Kespien tried to ascertain the magic within the lute and
 he found out that this lute was a normal one who had been magically
 altered to look and feel like the moonweaver's lute. So if this one was
 a fake lute, would the real one be under the stage of the theater?
 
-Â 
+ 
 
 They didn't want to waste any more time and rushed towards the stage,
 all eager to know what hid under there.
 
-Â 
+ 
 
 At the beginning they thought that in order to make the treasure appear,
 they had to sing the last verse to what Kespien attempted his best but
@@ -1635,7 +1635,7 @@ unfortunately nothing happened. After that Golt blasted through the
 planks on the stage and after some time they found a lute's case hidden
 there.
 
-Â 
+ 
 
 Kespien tried to look for magical wards on it, but there were none and
 Golt opened it. In it there were just some parchments that turned to be
@@ -1647,17 +1647,17 @@ Jori also used his translation glassess to attempt to read it, but it
 was not possible since it wasn't really a known language it seemed more
 to be code or shorthand.
 
-Â 
+ 
 
 Kespien asked if he could copy the content of the music sheets and
 Lucien gladly accepted.
 
-Â 
+ 
 
 After all of that they went back to the tavern and made some last
 arrangements.
 
-Â 
+ 
 
 Jori went to meet Sister Unvera who thanked Jori for his services and
 gifted him a Potion of Healing.
@@ -1665,7 +1665,7 @@ gifted him a Potion of Healing.
 Golt went to meet Roy who wanted to give him 10 GP but Golt let him keep
 it.
 
-Â 
+ 
 
 After that they started to get ready but were stopped by Lucien who was
 accompanied by a young lad. Apparently Lucien had been asking around and
@@ -1681,28 +1681,28 @@ him extremely excited about them. Golt made him big and Virgula
 "convinced" him to be invisible. Jori also sprayed him with some water
 and tried to convince him to take an interest for nature.
 
-Â 
+ 
 
 After that the party decided that they should stay one more night in
 Orchiva and wait for Kespien to prepare the spell. Passing an
 opportunity to have a look at the suspicious travelling merchant is not
 something that they could afford.
 
-Â 
+ 
 
 Golt also asked for some building materials from the smithy (hammers, a
 shovel, nails) that they stored in the handy haversack.
 
-Â 
+ 
 
 Jori also took some time to find some spiders and he put them to live in
 Lily.
 
-Â 
+ 
 
 14 of March (Day 153)
 
-Â 
+ 
 
 After waking up, they didn't want to lose more time and they went
 inmediately to meet Thomas. First they met his mother and they managed
@@ -1710,13 +1710,13 @@ to convince her to cast some magic on the kid. It took little
 convincing, thanks to the efforts they put with the kid the day before
 and Kespien was able to pry on the lad's memories about the merchant.
 
-Â 
+ 
 
 Kespien couldn't believe it. What he saw, or better said, who he saw was
 a man looking exactly like John the merchant that the party had saved
 two times already and met not that long ago back in the bridge.
 
-Â 
+ 
 
 After finishing the spell and having dissappointed the kid a little bit
 (due to a big promise from Golt that something amazing would happen that
@@ -1725,14 +1725,14 @@ believe it and started to discuss how was this even possible and even if
 John was telling the truth the last times they saw him. They also
 wondered where he would be now and also what will they do against it.
 
-Â 
+ 
 
 The decission was clear, Golt proposed to contact Jhandril and asked him
 to inform the Radiant Lions about this information. They used the
 Sending Stones to this purpose and Jhandril agreed to go meet them and
 tell them whatever they said.
 
-Â 
+ 
 
 They then decided that it was time to continue with their journey. If
 John was indeed Tobias Leclair, aka Tom Lancil, they knew that they
@@ -1740,19 +1740,19 @@ would meet him in Puerto Ballena in the auction. Also there were several
 other people they would like to meet in Puerto Ballena, so the location
 seemed to be the clearest goal for everyone.
 
-Â 
+ 
 
 They started their journey south.
 
-Â 
+ 
 
 15 of March (Day 154)
 
-Â 
+ 
 
 First day of travel to Puerto Ballena.
 
-Â 
+ 
 
 They asked Jhandril what happened and he told that the Radiant Lions
 didn't really beileve him. Apparently they didn't know Jhandril and if
@@ -1764,7 +1764,7 @@ agent in disguise to Puerto Ballena to investigate Tom Lancil to what
 they Radiant Lion responsible answered that they didn't have
 jurisdiction there, since it was a lawless pirate city.
 
-Â 
+ 
 
 They kept their way south. At night Virgula had a meltdown because he
 thought his "lucky stone" was missing and almost attacked Golt and Jori.
@@ -1775,21 +1775,21 @@ have a look on Virgula once they reach Puerto Ballena. Something that
 they wanted to do anyways since Jori wanted to meet her and Golt might
 want to inquire more about his own curse too.
 
-Â 
+ 
 
 Jori also noticed that a rainstorm was approaching and that it might
 last until the next day.
 
-Â 
+ 
 
 16 of March (Day 155)
 
-Â 
+ 
 
 The party decided to travel even on rain and it made their day progress
 a bit slower than expected.
 
-Â 
+ 
 
 During the night, Jori had a dream in which he saw his old friend
 Fuegoazul, the little dragon that visited him sometimes in dreams. This
@@ -1804,14 +1804,14 @@ waterfall near the Summer Court, wherever that were. Before Jori could
 ask more, he was awaken by his shrub Lily and couldn't dream with
 Fuegoazul anymore.
 
-Â 
+ 
 
 17 of March (Day 156)/
-Â 
+ 
 
 Golt's wolf will forget Zyralis smell.
 
-Â 
+ 
 
 The party continued their travels in a new day, this time without rain
 and after some hours travel they noticed tracks of wheels in the fresh
@@ -1823,7 +1823,7 @@ help and started to investigate where this child could have gone. Golt
 and Virgula looked for tracks and found two possible ways one to the
 North west and one to the South East. There were tracks of boots.
 
-Â 
+ 
 
 Jori talked to the animals that the wanderes had and managed to learn
 from the goats that Ziggy was also a goat and that Laura had been
@@ -1832,7 +1832,7 @@ she run behind him. The party went towards the direction that the goats
 signed and not much later they heard the voice of a young womand calling
 for Ziggy.
 
-Â 
+ 
 
 Before approaching, Jori noticed that the soil underneath their feet was
 somehow loose, not as it should be. But since the girl could be in
@@ -1840,13 +1840,13 @@ danger they decided to keep on. There she was, trying to call for Ziggy
 who had climbed a boulder and she was calling him down desperately. She
 seem unharmed though.
 
-Â 
+ 
 
 The party called for her and told her that they were looking for her and
 approached. To their surprise, from underneath the ground, an Ankheg
 appeared and attacked them with some acid spit.
 
-Â 
+ 
 
 Jori knew exactly what they were, since he had learnt from them back in
 Longsaddle's Arcane Revelry when he took the course on beasts and
@@ -1854,7 +1854,7 @@ monstrosities and knew that they could spit acid up to long distances
 and also that they were weak on their bellies. Also that they were
 gregarious creatures and where there were one, there were others.
 
-Â 
+ 
 
 Virgula reacted the first and he cast a spell that made the creature
 banish at once, he also changed the color of his one hair (somewhere in
@@ -1862,20 +1862,20 @@ his body) to bright pink. The rest approached further to notice that
 there were indeed not only one but a bunch of them, including a bigger
 one who also came out of the ground to attack them.
 
-Â 
+ 
 
 Kespien tried a new spell and managed to safely teleport Laura to a
 distant boulder, ensuring that she didn't touch the ground and also
 taking her out of the reach of the creatures. Golt mounted his wolf and
 turned large and started attacking.
 
-Â 
+ 
 
 Jori summoned a herd of giant goats. The rest of them, some spitted
 their acid and others just attacked, after that they retreated
 underground.
 
-Â 
+ 
 
 It was a cruent fight but the party managed to defeat all creatures.
 Virgula almost died to the bites of the giant ankheg but lucily Golt
@@ -1883,7 +1883,7 @@ managed to kill it by exerting necrotic energy powered by his hatred and
 killed it before. They managed to save Laura but unfortunately Ziggy was
 killed during the fight.
 
-Â 
+ 
 
 They harvested some of the giant Ankheg's caparace and left for the
 Wanderer's camp. There they thanked them for saving their child and
@@ -1891,17 +1891,17 @@ invited them to food and drinks for the night. They also helped carve
 out most of the toxic flesh of the Ankheg and left only the caparece for
 them to transport.
 
-Â 
+ 
 
 18 of March (Day 157)/
-Â 
+ 
 
 Blood bought from Virgula is no longer usable/
-Â 
+ 
 
 Ring of quite influence recovers at dusk the use of Charm person.
 
-Â 
+ 
 
 They said farewell to the travellers and continued their travels. Along
 the way they found the rests of a battle and found the dead body of an
@@ -1911,41 +1911,41 @@ several days ago and the tracks were almost impossible to follow, they
 decided to continue the road ahead in the hopes of getting more
 information.
 
-Â 
+ 
 
 Already by night and before setting up camp, Virgula saw some light
 coming from a roadside Inn and they decided to go in.
 
-Â 
+ 
 
 It was the Emerald Horse, a very big tavern and apparently the only one
 on the old road still working managed by Theodasius, a centaur.
 
-Â 
+ 
 
 In the tavern they say a plethora of people. There was a band of Kenku
 singing and playing music. The lead singer, which apparently was called
 Bigorna, sang by using the voice of Helene Soprani.
 
-Â 
+ 
 
-In a table Jori spotted Ada Gladstone, her girl/friendÂ  together with an
+In a table Jori spotted Ada Gladstone, her girl/friend  together with an
 elve that looked exactly like Felosial and Elosial. They also saw some
 Emerald Watchers on a table nearby playing cards.
 
-Â 
+ 
 
 Golt procured some accomodation for the night and Jori went immediately
 to meet Ada.
 
-Â 
+ 
 
 The surprise was huge and even bigger when Jori started telling all the
 things he had experienced recently. Conversations were exchanged, food
 was eaten and at some point Ada told the party the reason why she was
 there.
 
-Â 
+ 
 
 She was, as Jori already knew, researching for her next contribution to
 the Temple of Knowledge, which consisted in creating an equation that
@@ -1966,7 +1966,7 @@ something happened on the way there and back and she assured Golt that
 she didn't intend to go into the Feyrealm herself, just to study the
 portal from otuside.
 
-Â 
+ 
 
 While the conversation was ongoing, a cloaked figure appeared and it
 happened to be another acquiantance of Jori, Kalina Aspenflare. An older
@@ -1975,21 +1975,21 @@ happy to see Jori and Ada and agreed to introduce the party to her boss
 to talk about the dangers of the road and what they party had seen
 earlier in the morning.
 
-Â 
+ 
 
 At some point, Bigorna and the Kenkus started singing the Belmont Song,
 to which Jori tried to calm down Kespien reminding him that this song
 might have been purposedly planted by his family to demotivate the
 people to pursue the misteries of the cursed Islands.
 
-Â 
+ 
 
 Also at some point Theodasius called the Emerald Watchers out since
 apparently two beasts were fighting outside. It happend to be Golt's
 Wolf and Kalina's Panther that went into a territorial fight. Luckily
 for them, they were able to manage their mounts without further issues.
 
-Â 
+ 
 
 They went back to discuss with the Emerald Watchers about what they see
 and what was going on and Devin Greenshadow, their leader, informed them
@@ -1998,17 +1998,17 @@ awaken of the green dragon Cyanercloris that shared a living with all
 the monsters of Kurz O'ktar. They were trying to get more information
 from the distant elf, when suddenly a familiar sounded:
 
-Â 
+ 
 
-"Biru, biru, biru, biru"â€¦.Ralto was callingâ€¦.
+"Biru, biru, biru, biru"….Ralto was calling….
 
-Â 
+ 
 
 The party decided to go somewhere private in order to answer Ralto's
 call. Ralto told them that he had everything he need to send them to the
 shadowfell and that he was waiting.
 
-Â 
+ 
 
 This created a conflict within the party, Jori wanted to help Ada with
 her petition but on the other side the rest were afraid of what could
@@ -2017,7 +2017,7 @@ asked her to wait a little longer for them. She was a bit dissappointed
 but understood the dire of the situation. Jori decided as well to spend
 the night with Ada to "catch up".
 
-Â 
+ 
 
 Kespien send some messages to Dorn and Jhandril. He warned Dorn about
 the presence of the Red Fangs Tribe, to which he was already aware and
@@ -2025,7 +2025,7 @@ apparently the Silvertusk Brotherhood was already discussing how to
 handle that. Golt wanted to thank Jhandril again for his cooperation
 alerting the Radiant Lions and he said that he did it gladly.
 
-Â 
+ 
 
 Kespien also tested Virgula's attitude towards the Stone of Good luck
 and even tried to identify it again with magic, but unfortunately got
@@ -2036,7 +2036,7 @@ translucid that seemed to be somewhat ghostly and confused. This shadowy
 creature said to Virgula "I will come back to you" before dissappearing
 in the nothingness.
 
-Â 
+ 
 
 Virgula was a bit concerned about what happened and decided to tell Golt
 and Kespien. The latest thought that it could be somewhat related to the
@@ -2044,21 +2044,21 @@ previous events with Schwefel Sulphure when something shadow like jumped
 out of Virgula and flew away in bat form. Whatever it was, they didn't
 have the chances to investigate and didn't know what to think of it.
 
-Â 
+ 
 
 They then decided to go to sleep.
 
-Â 
+ 
 
 19 of March (Day 158)/
-Â 
+ 
 
 After waking up, they all saw as Jori came out of Ada's room alone.
 Apparently he left Lily the Shrub with her for company and as promise
 that he will come back. They then made preparations and left to meet
 Ralto (10 GP were inserted in the Snail).
 
-Â 
+ 
 
 Ralto's bazar had new items on stock and also a new seller, Socration. A
 Faun who dealt on music instruments, books and spell scrolls. Kespien
@@ -2067,24 +2067,24 @@ about the Amirah. Specially the lineage of the Djinn of the winds of
 Levant. He also tasked Socration to try to find any other book he could
 on the Amirah (the tournament, her biography, anything).
 
-Â 
+ 
 
 Virgula purchased two vials of blood from Corsina and bought the
 Evoker's Exchange. Golt traded a potion of mind control for the Tempest
 Griffon Bracers to what Ralto gladly and quickly accepted. The party
 bought also the Dominic's Field Guide to Language.
 
-Â 
+ 
 
 Golt also asked Ralto if he could inquire about the price of a Ring of
 Spell Storing.
 
-Â 
+ 
 
 Then the party met with Ralto and discussed the details of the task
 ahead.
 
-Â 
+ 
 
 Ralto had finally procured a set of magic manacles from the Amirah and
 also had located the possible location of Urs. In order to use the
@@ -2094,12 +2094,12 @@ also mentioned that Urs transformation was inestable and also dangerous,
 therefore he suggested that the party crafted the poison that Corsina
 had developed which could help them attach the manacles on the werbear.
 
-Â 
+ 
 
 Golt also asked (by thinking it) Ralto if he knew about curses and how
 to break them, but unfortunately to him he wasn't an expert on it.
 
-Â 
+ 
 
 Ralto also mentioned that the communication between planes, specially
 the Shadowfell, wasn't easy and therefore he would agree with the party
@@ -2109,12 +2109,12 @@ time passes differently depending on the plane they are, the
 calculations can be a bit wrong and therefore this approach would be the
 most precise.
 
-Â 
+ 
 
 Having all said, the party decided to go to the Shadowfell and crossed a
 portal made of pure darkness that Ralto opened.
 
-Â 
+ 
 
 The Shadowfell was a place of nightmares, no color, no sound, and only
 sadness and dispair. They landed on a forest which trees had bones for
@@ -2123,32 +2123,32 @@ of color and life was something demotivating for the party, but with a
 task ahead and some very important rewards if they achieve it, they
 decided to start the march.
 
-Â 
+ 
 
 Kespien tried to cast a Darkvision spell and quickly noticed that the
 weave in the Shadowfell worked differently, it felt as it was weakened
 or more difficult to thread. This didn't seem to apply to Virgula which
 actually felt empowered.
 
-Â 
+ 
 
 Jori tried to locate the first of the poison components and communed
 with the little nature that was existing. He located a Nightshade
 somewhat north, where the outline of a building could also be seen in
 the distance.
 
-Â 
+ 
 
 They didn't want to lose any more time and marched towards it. While
 travelling, Virgula couldn't avoid but feel a certain familiarity with
 the look of the plane, as if he had seen it before.
 
-Â 
+ 
 
 When they were close enough they noticed that the building was a
 cottage, recently made and apparently abandoned.
 
-Â 
+ 
 
 Virgula picked inside the building and saw no lights and no signs of
 being inhabited. Jori also noticed that in the ground there were huge
@@ -2157,28 +2157,28 @@ nightshade broken within one of this footprints. With no other sight of
 nightshade, they decided that it would be best if they investigated in
 the cottage.
 
-Â 
+ 
 
 Virgula and Kespien would go in and Jori and Golt would keep watch, one
 at each end of the cottage. The members inside the house found an old
 diary, apparently from Urs, which talked about what happened to him and
 the feelings he had within the Shadowfell.
 
-Â 
+ 
 
 They also found a piece of bark, with some carvings on it which seemed
 like a map. While they were investigating the rest of the house,
 something big, very big approached from the rear end of the house
 towards Golt.
 
-Â 
+ 
 
 A massive werebear covered in tendrils of pure darkness growl and
 destroyed trees on his path towards the house. Urs finally made his
 appearance and it seemed as if he wanted to introduce himself to the
 party. His intentions were until now, not clear.
 
-Â 
+ 
 
 Since Golt was making watch, he was the first to spot the werebear and
 react to hit. He attacked him with an Eldritch Blast and also noticed
@@ -2192,14 +2192,14 @@ and Virgula made himself and Kespien invisible. Golt then tried to
 convince Urs that they weren't there to hurt him and his words seemed to
 have an impact on the creature.
 
-Â 
+ 
 
 Urs put his hand in his pouch, took something out and munched it. After
 that he yelled at the party "Run" and managed to content his anger for
 some seconds. The party then decided to not waste this opportunity and
 run away from him.
 
-Â 
+ 
 
 They kept their travel to the north with the hopes that the map they got
 was correct and that they could find some blooms over there. After many
@@ -2210,7 +2210,7 @@ that this plants were the ones that they were looking for and tried to
 conceal light casted on a copper coin without much success. It was
 enough though to notice the dark purple colour of the blooms.
 
-Â 
+ 
 
 They then decided to attempt and harvest them. Kespien was the first
 one, which used his last charge of the cat's grace bracelet he got back
@@ -2222,14 +2222,14 @@ strangely like Virgula, with pale skin and spiky ears. These
 hallucinations also made him fail his attempt, disturbing the whole
 collective of plans in the process.
 
-Â 
+ 
 
 Golt hold his breath and took Kespien out, he gently hit him and made
 him get out of his hallucinations. Golt tried his luck next and hold his
 breath while using a shovel to dig them out of the dirt, but
 unfortunately didn't manage to harvest any of the plants intact.
 
-Â 
+ 
 
 Lastly was Joris turn, which with the help of nature tried to moist the
 soil enough so it would be easier to dig them out and he managed to do
@@ -2239,18 +2239,18 @@ workers and all the common people that could live in any other city of
 Norberia. There was just one peculiarity, that all of them had pale
 skin, white hair and spiky ears.
 
-Â 
+ 
 
 Golt did the same procedure with him and took him out and snapped him
 out of his hallucinations.
 
-Â 
+ 
 
 Now it was Virgulas turn, who tried to use a mage hand to gather the
 plants, but unfortunately his dominion of the hand wasn't as delicate as
 he'd expected and managed to disturb the plants one last time.
 
-Â 
+ 
 
 The plants suddenly all released a huge amount of pollen before closing
 his blooms. A very thick and dense cloud of pollen difficulted the sight
@@ -2258,31 +2258,31 @@ and the sweet nectar was the alarm that some Meenlocks that roamed
 nearby (thanks to the before created light) teleported themselves next
 to the party taking them by surprise.
 
-Â 
+ 
 
 A fierce battle started in which the Meenlocks managed to paralyze Jori
 and Virgula. The party fought fiercely but thanks mainly to Golt who
 dealt with the majority of the creatures killed them. The rest fled
 trying to preserve their own lives.
 
-Â 
+ 
 
 Unfortunately for the party, during this fight they forgot to hold their
 breath and they were all affected by the hallucination effect of the
 plants. But luckily to them, Golt and Jori managed to overcome it.
 
-Â 
+ 
 
 This time Virgula and Golt shared the same hallucinations and similar to
 the rest they saw Marsandians and Marsander, which was confirmed by
-Virgula, and something else. They saw war, chaos, and someÂ  kind of
+Virgula, and something else. They saw war, chaos, and some  kind of
 black hole in the sky which was threatening to engulf the whole world.
 But before they could see more, they were rescued by Jori who used the
 Heling Staff from Abenthy (a present from Lucian) to cure the poison
 from their organism. Not before Kespien painted a moustache on Golt's
 face and stole the Stone of good luck from Virgula.
 
-Â 
+ 
 
 Exhausted they decided to leave the area before looking for a place to
 rest and kept travelling, this time to the east. They found a good place
@@ -2290,11 +2290,11 @@ and decided to open the magical cabin. They all then lay to rest.
 Unbeknown to them, the cabin disappeared in the middle of the night and
 they were left to Shadowfell's mercy. Luckily to them, nothing
 happened./
-Â 
+ 
 
 20 of March (Day 159)
 
-Â 
+ 
 
 When they woke up, they found out that the cabin disappeared and thanked
 their luck. The party couldn't resist but to keep laughing and Golt's
@@ -2304,19 +2304,19 @@ now a bit more resourceful, but also unaware that the Staff came with a
 side effect. Kespien started to smell to rotten eggs, which made him
 less appealing to others and difficulted being next to.
 
-Â 
+ 
 
 Golt didn't hesitate to make him aware of the fact that he stinked, but
 apparently Kespien couldn't really notice.
 
-Â 
+ 
 
 They then decided to head further east and a bit north. After several
 hours of travel, Jori decided to cast Locate animals and tried to locate
 giant spiders, to which he successfully did find some not that further
 way to the east. They were going into the right direction.
 
-Â 
+ 
 
 And the right direction was across some old ruins. They started to
 investigate them and ouf of the shadows some spectral creatures
@@ -2325,49 +2325,49 @@ creature appeared out of nowhere ready to attack the party. The shadows
 and the creatures were incriminating the party for something. Saying
 that it was their fault and that they will pay.
 
-Â 
+ 
 
 21 of March (Day 160)
 
-Â 
+ 
 
 22 of March (Day 161)
 
-Â 
+ 
 
 23 of March (Day 162)
 
-Â 
+ 
 
 24 of March (Day 163)
 
-Â 
+ 
 
 25 of March (Day 164)
 
-Â 
+ 
 
 26 of March (Day 165)
 
-Â 
+ 
 
-Â 
+ 
 
 27 of March (Day 166)
 
-Â 
+ 
 
 28 of March (Day 167)
 
-Â 
+ 
 
 29 of March (Day 168)
 
 Blood bought by Virgula will dry.
 
-Â 
+ 
 
 30 of March (Day 169)
 
-Â 
+ 
 

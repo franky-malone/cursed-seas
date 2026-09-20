@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: "October"
 sidebar_position: 1
 ---
@@ -29,13 +29,13 @@ inn. Presentation were made and drinks were exchanged. They learned of
 the recent murder of a young elf noble and the curfew over
 Dorelta.
 
-Â 
+ 
 
 Golt didn't make it in time to reach
 Dorelta
 and decided to wait before the gates until they were open.
 
-Â 
+ 
 
 12 October (Day 2)
 
@@ -54,7 +54,7 @@ They asked some questions to [Brund
 Redtile](/docs/dorelta/dorelta-npcs/brunn-redtile),
 the innkeeper, about the local situation and decided to go to sleep.
 
-Â 
+ 
 
 13 October (Day 3)
 
@@ -71,7 +71,7 @@ solve the murder before 3 days. The mayoress provided them with safe
 passage after the curfew and promised them to allow to access the
 Herzblatt district if they solved the problems.
 
-Â 
+ 
 
 They then decided to go to the nobles district and meet there the
 Oaktree family directly. Before going in, they were stopped by two
@@ -83,7 +83,7 @@ apparently an acquittance of Jori. Thanks to the combined action of the
 group, but mostly Golt, they managed to secure passage and get an
 audience with the master of the house.
 
-Â 
+ 
 
 They met the Oaktree family after meeting with Mike the butler. There
 they met Mr. and Miss Oaktree. While on the discussion, Kespien used
@@ -94,10 +94,10 @@ session. He promised them 1.500 GP if they could find who did that to
 his son and point the blame to Rulias Clearsong, the mayoress.
 Apparently he had a fond hatred against that woman. The group then
 decided to investigate Morriks room, where they found a love letter to
-Deia Sweethoney, Morriks fiancÃ©e, and a first edition novel in elven of
+Deia Sweethoney, Morriks fiancée, and a first edition novel in elven of
 "The adventures of Captain Algazul", which they stole.
 
-Â 
+ 
 
 They then decided to leave and investigate the mill, where Morriks
 corpse was found. There they asked the miller what he saw or knew, with
@@ -105,11 +105,11 @@ little to no success. But they were able to get a glimpse of the
 corrupted Herzblatt district on the north. After that they decided to
 divide the party to try to gather as much information as possible.
 
-Â 
+ 
 
 Golt would meet with Lady Lucretia Oaktree with hopes of seeing Morriks
 corpse up close but before went to the Sweethoney estate to try and meet
-Morriks fiancÃ©e. Unfortunately due to his appearance he only was able to
+Morriks fiancée. Unfortunately due to his appearance he only was able to
 meet the head of the Sweethoney's house, which refused to allow her
 daughter to pass over more painful moments. Lady Sweethoney confirmed
 the hatred of the noble elves for the human and demi human races of
@@ -117,7 +117,7 @@ Dorelta, specially the mayoress. He then met with Lucretia and was
 allowed to inspect the body of Morrick. He found that the hole he had in
 his chest had a very powerful undead aura on it.
 
-Â 
+ 
 
 The rest of the party travelled back to the Travellers District, but on
 the way they were intercepted by Brakadanth, the faery dragon. He
@@ -126,20 +126,20 @@ some discussions, Brakadanth asked the group to help him with the so
 called "spider people" which the group accepted. He also asked for some
 sweets.
 
-Â 
+ 
 
 When they arrived to the Travelleres District, the party split again.
 Jori and Count Virgula decided to go to the inn and see if the young
 elves were there, which they were. They outplayed them in a card game
 and tried to gain information of what happened with little success.
 
-Â 
+ 
 
 Kespien and Aeriff went to meet and help Felosial in the archives and
 investigated about the Herzblatt family, their history and records about
 their visits to Dorelta.
 
-Â 
+ 
 
 Golt made a stop in the outskirts of the Herzblatt district, where he
 found out that the bridge that crossed the reiver was heavily closed and
@@ -149,27 +149,27 @@ whispers and old one said that it might have been the big stirges that
 sometimes roam the river. After that the decided to march before dawn to
 the Travelers district.
 
-Â 
+ 
 
 14 October (Day 4)
 
-Â 
+ 
 
 Kespien and Aeriff had pulled an all nighter and decided to meet with
 Jori and Virgula.
 
-Â 
+ 
 
 When Jori woke up, he found a mysterious note that was passed under the
 door asking to meet them the next night outside the travelers district.
 
-Â 
+ 
 
 Golt came back and shared everything he had found out in the nobles and
 Herzblatt district with the group and it was almost clear for all of
 them, that whatever happened to Morrik was in the Herzblatt district.
 
-Â 
+ 
 
 While Golt, Virgula and Aeriff decided to go shopping, Jori and Kespien
 went to meet the mayoress. After sharing what they have found until now,
@@ -189,7 +189,7 @@ managed to convince her to extend the time for the bonus in one day, but
 also said that she didn't have the means to match the offer that most
 probably Mr. Oaktree made them. After that they left to meet the others.
 
-Â 
+ 
 
 Once again together, the group decided to go help Brakadanth and his
 fellow fey friends. They even brought him sweets and good berries, which
@@ -208,7 +208,7 @@ large spider with human hands monsters who seemed to be the one lying
 eggs was the monsters to face. They fought harshly against them and turn
 victorious.
 
-Â 
+ 
 
 After that they inspected the dome and killed all remaining eggs they
 could find. They then met Brakadanth who was very happy and gave them a
@@ -217,14 +217,14 @@ happily accepted, since it would allow him to call on the fey creatures
 to aid them in his journey. Aeriff asked Brakadanth to leave the forest
 and join them, but he refused.
 
-Â 
+ 
 
 Instead another faerie dragon, with red scales named Vermelho, decided
 to join them. After that they decided to go back to the traveler's
 district, rest a bit and meet at night with the mysterious person who
 seemed to know what happened to Morrik.
 
-Â 
+ 
 
 When they reached the Inn they found John meeting with a strange man who
 introduced himself as Telrond Whiterose, a rather old elf wearing
@@ -233,7 +233,7 @@ noticed that he was trying to mask a rather rancid smell. After Golt
 used his divine sense, he noticed that this individual had an undead
 aura. He then immediately left the inn rather offended.
 
-Â 
+ 
 
 The group asked John about what they were talking and also Brund to see
 if they knew him and the purpose of his visit. They found out that he
@@ -241,7 +241,7 @@ was seeking the famous red lilies of Dorelta, which were told to blossom
 once a year and have healing properties. Nobody had heard before of that
 flowers.
 
-Â 
+ 
 
 After some rest they left to meet the mysterious informant who turned
 out to be Deia Whitehoney (even though she claimed not to be) and she
@@ -255,26 +255,26 @@ swiftly left. Deia felt responsible for what happened to Morrik since
 she was the one to ask him for this flowers and asked the group to bring
 closure and resolution to what killed Morrik. She then left.
 
-Â 
+ 
 
 The group decided to spend the night in the tavern and recover forces
 for the upcoming travel to the Herzblatt district.
 
-Â 
+ 
 
 15 October (Day 5)
 
 When they arrived they met two guards and agreed to say the word
 "Banana" when they would like to enter again.
 
-Â 
+ 
 
 They investigated the Herzblatt district and went into a house, which
 walls fell onto Golt and Aeriff. They found out that most of the
 buildings had abjuration runes to protect them, but their effect had
 worned out with time.
 
-Â 
+ 
 
 They found old blood stains in one passage and decided to follow it
 towards a church and an old crypt. They looked into the church but found
@@ -287,7 +287,7 @@ cast upon it. He also offered what could be found on his tomb as a
 reward for it and offered them to wield his old weapon to fight the evil
 within the crypt.
 
-Â 
+ 
 
 After that the group decided to investigate to seek this weapon and
 found a closed door. Jori transformed into a mouse and squished through
@@ -318,7 +318,7 @@ have his wounds healed. He then summoned a spirit animal to aid Kespien
 and used the magical water to create an ice knife that killed almost all
 of the undead remaining.
 
-Â 
+ 
 
 When all of the enemies were defeated, the two parties met and decided
 to use the healing capabilities of the pool to their advantage. They
@@ -328,7 +328,7 @@ turned black and the decided to leave it alone. Golt when he saw the
 statue of Selune, tried to convince the group to leave him alone in the
 room with it, but they refused.
 
-Â 
+ 
 
 They then tried to investigate the remaining of the crypt but got pretty
 scared when they saw a big door from where the dark energy seems to
@@ -349,7 +349,7 @@ vampiric" powers to suggest that the little imp should help them with
 their mission and managing to stop him from activating the lever and
 allowing them to go outside.
 
-Â 
+ 
 
 When they did, they found out that they spent way too much time inside
 this crypt and the sun was starting to set down. They then proceed to
@@ -365,10 +365,10 @@ asked for permission to take the blade and Zyralys opened her hands
 allowing Kespien to take it. After he did, he felt the power in the
 blade almost instantly.
 
-Â 
+ 
 
 Armed with new courage, they decided to finally go to observe what was
-behind that ominous door. Kespien used Espina de OtoÃ±o (Velen's Blade)
+behind that ominous door. Kespien used Espina de Otoño (Velen's Blade)
 to break a barrier that was set before the door and they opened it. On
 the other side, they saw the same obnoxious figure from the Imps mind
 and they saw how he made a hole on the heart of another innocent person
@@ -379,7 +379,7 @@ died not so long ago and also had such a hole in her heart. On the back
 there was a living woman who seemed to be another sacrifice to the
 skull.
 
-Â 
+ 
 
 Golt made himself big using his innate powers and when he passed through
 the frame to start the fright, he stopped for a second and had a vision.
@@ -387,7 +387,7 @@ For him it was a lot of time, for the rest just seconds. But when he
 came back to his senses, the spear on his hands seemed to have gained
 some power and he suddenly covered himself into an ice armor.
 
-Â 
+ 
 
 The fight began. The adventurers fought well against several undead and
 Gloran Herzblatt. Aeriff managed to turn some of the undead present
@@ -396,14 +396,14 @@ that damaged and debilitated the combat abilities of the group. Some of
 them got new powers and abilities and some others got whispers from
 deities or other entities that allowed them to gain use strengths they
 didn't know they had yet. They managed to break the barrier that was
-protecting the skull and decided to destroy it using Filo de OtoÃ±o,
+protecting the skull and decided to destroy it using Filo de Otoño,
 after Aeriff recognized the skull to be a potential Lich phylactery.
 When they managed to do so, the little Imp who was invisible all this
 time decided to steal one of the gems incrusted in the skull and flew
 away towards Velen chamber. Gloran finally fell to the hand of Aeriff
 with the magical blade, which turned him into a tree.
 
-Â 
+ 
 
 Some of the tried to follow the imp or an exit and some helped the
 chained woman. They saw as the imp activated a hidden mechanism pulling
@@ -414,7 +414,7 @@ and survived the darts and ignored the command. He then went into the
 room and threw the jewel towards the tomb of Velen, forcing his ghost to
 possess his corpse and animating him as a powerful undead.
 
-Â 
+ 
 
 A fight started in Velens room, which full of soul energy pushed Kespien
 to the ground several times and also broke the infrastructure of the
@@ -431,14 +431,14 @@ Kespien were still at risk of staying inside. Jori and Golt shouted
 Kespien to leave everything and follow them and after some moments of
 hesitation, he did.
 
-Â 
+ 
 
 The group then run for his life avoiding parts of the ceiling that was
 falling down and managed to jump just in time into a separate tunnel
 that opened at the base of the exit. After taking some breath they
 followed the tunnel hoping for an exit and they found it.
 
-Â 
+ 
 
 The exit connected directly to the hidden garden of the Herzblatt in
 which they found the famous red lilies of Dorelta. They also saw the
@@ -462,11 +462,11 @@ valuable goods. Aeriff also connected the name with Tom Lancil,
 apparently someone who managed to get into the Temple of Knowledge and
 steal a book about creation of magic weapons.
 
-Â 
+ 
 
 16 October (Day 6)
 
-Â 
+ 
 
 When they woke up, Aeriff received a Sending from his master, Sacred
 Plume Silica Stein, asking how he was and to prompt him to go to
@@ -482,7 +482,7 @@ to thank the seeker of the Silvertusk Brotherhood, named Thomas Lawson,
 and insisted them to leave his property, for he had more important
 matters to handle. He also gave command to Mike to prepare the horses.
 
-Â 
+ 
 
 Knowing that they might have complicated things for the Mayoress and the
 demi humans, the group decided to gain as much time as possible to allow
@@ -497,7 +497,7 @@ managed to gain some time for Kespien and Jori but not enough to avoid
 them reaching the district. Aeriff, Golt and Virgula then decided to
 give up and go meet the others on the travelers district.
 
-Â 
+ 
 
 When Jori and Kespien arrived to the townhall, they met with the
 mayoress and explained her what happened. Which made her panic
@@ -510,7 +510,7 @@ boy smelled a lot like roses. They went into her warehouse to find
 nothing anymore. Desperate, they tried to reason with the mayoress and
 tried to find a solution to the problem without much success.
 
-Â 
+ 
 
 When the elves riders arrived, they met alone with the mayoress and
 Felosial communicated to the group that Deia Sweethoney, the second
@@ -524,35 +524,35 @@ their service and asked them to leave. The party sad for what they had
 provoked decided to get some rest and part towards Longsaddle the next
 day.
 
-Â 
+ 
 
 17 October (Day 7)
 
-Â 
+ 
 
 1st day of travel to Longsaddle via the Prime Road.
 
-Â 
+ 
 
 18 October (Day 8)
 
-Â 
+ 
 
 2nd day of travel to Longsaddle via the Prime Road.
 
-Â 
+ 
 
 19 October (Day 9)
 
-Â 
+ 
 
 3rd day of travel to Longsaddle via the Prime Road.
 
-Â 
+ 
 
 20 October (Day 10)
 
-Â 
+ 
 
 On the 4th day of travel to Longsaddle via the Prime Road they met a
 group of wanderers. A young beautiful human woman named Lapislazuli read
@@ -577,19 +577,19 @@ been trying to locate. It seemed that destiny brought together some
 members of the group, leaving Kespien and Virgula out of this
 serendipity of coincidences.
 
-Â 
+ 
 
 21 October (Day 11)
 
-Â 
+ 
 
 5th day of travel to Longsaddle via the Prime Road.
 
-Â 
+ 
 
 22 October (Day 12)
 
-Â 
+ 
 
 At the night of the 6th day of travel to Longsaddle they reached it.
 Since it was very late already, Aeriff decided to do a guided tour the
@@ -602,15 +602,15 @@ tavern wasn't the place for him right now and left it. The other enjoyed
 the music until they noticed Kespien absence. They met outside and
 discussed how the song made Kespien feel and what he could do against
 it. They then decided to enjoy some drinks together and tried several of
-the specialities of the Broken Scale. Most of them got intoxicatedÂ  due
+the specialities of the Broken Scale. Most of them got intoxicated  due
 to the strong drink "The dragon's breath" which Vorskann, the copper
 dragonborn innkeeper, created himself. He also told them some of his
 best jokes and tested the humor of the group with them.
 
-Â 
+ 
 
 While enjoying themselves they met some of the patrons:/
-Â 
+ 
 
 - [Eleyna](/docs/players/aeriff/eleyna)
 - [Brasvik](/docs/players/aeriff/brasvik)
@@ -618,7 +618,7 @@ While enjoying themselves they met some of the patrons:/
   Soprani](/docs/players/jori/helene-soprani)
 - [Vorskann](/docs/longsaddle/the-broken-scale-tavern/vorskann)
 
-Â 
+ 
 
 The group discovered that Aeriff had a crush on Eleyna and "tried" to
 help him gain her heart. They also met Brasvik who appeared to be a
@@ -634,35 +634,35 @@ someone from the Silvertusk Brotherhood and they both agreed to know
 Unfortunately he wasn't in town at the moment but had left a message for
 Kespien to wait for him here.
 
-Â 
+ 
 
 They also heard about several
 [rumors](/docs/longsaddle/longsaddle-rumors).
 
-Â 
+ 
 
 After many more drinks, some desserts and some discussions they decided
 to call it a night. Unfortunately due to the incoming Arcane Revelry,
 there were no more rooms available and they all had to crush in Aeriff's
 small house.
 
-Â 
+ 
 
 23 October (Day 13)
 
-Â 
+ 
 
 After they woke up and some morning excersises by Kespien and Golt to
 fight the hangover they decided to explore Longsaddle a little bit. They
 made some purchases in the
-[Arcanazon](/docs/longsaddle/arcanazon/arcanazon),
+[Arcanazon](/docs/longsaddle/arcanazon/),
 they went to the public baths to freshen up, they glanced at the
-[Oratorium](/docs/longsaddle/temple-of-knowledge/temple-of-knowledge)
+[Oratorium](/docs/longsaddle/temple-of-knowledge/)
 and finally went to the [Temple of
-Knowledge's](/docs/longsaddle/temple-of-knowledge/temple-of-knowledge)
+Knowledge's](/docs/longsaddle/temple-of-knowledge/)
 main building.
 
-Â 
+ 
 
 In there they were surprised to meet an elf woman identical to
 [Felosial](/docs/dorelta/dorelta-npcs/felosial),
@@ -677,19 +677,19 @@ creatures named
 which were the core workers of the temple and happened to be the
 centerpiece of Aeriff's studies.
 
-Â 
+ 
 
 The rest met with Sacred Plume Silica Stein and got invited to his house
 for dinner that same day, since he was eager to hear all about the
 happenings of Aeriff and his new found friends in Dorelta.
 
-Â 
+ 
 
 They met at the house of Sacred Plume Silica and enjoyed a meal
 together. Presentations were done and questions were asked, some of the
 topics disucssed were:
 
-Â 
+ 
 
 - Main schools of the Temple of knowledge and the names of their Sacred
   Plumes
@@ -721,17 +721,17 @@ topics disucssed were:
   have a meeting with the group, since it seems that they have many
   questions regarding to history, locations and past events.
 
-Â 
+ 
 
-Â 
+ 
 
 24 October (Day 14)
 
-Â 
+ 
 
 The group decided to join the marvels of the Arcane Revelry.
 
-Â 
+ 
 
 - They purchased Beholder drinks (each eye-straw had a different taste)
 - They purchased magic buns, unfortunately having no benefit out of them
@@ -801,11 +801,11 @@ The group decided to join the marvels of the Arcane Revelry.
 - Golt expressed his desire to help the group as he saw that he alone
   wouldn't be able to achieve as much as he thought.
 
-Â 
+ 
 
 25 October (Day 15)
 
-Â 
+ 
 
 - The group was wakened up by a messenger from the Temple of Knowledge
   with the invitations for the visit to the Sanctum of Eternal Wisdom
@@ -847,7 +847,7 @@ The group decided to join the marvels of the Arcane Revelry.
   themselves the Crescent wave. She needed some time to put her visions
   in order and invited Jori to visit her in Puerto Ballena in the
   [Temple of the Full
-  Moon](/docs/puerto-ballena/temple-of-the-full-moon/temple-of-the-full-moon).
+  Moon](/docs/puerto-ballena/temple-of-the-full-moon/).
   By then she hopefully will know more about who they were.
 - Silica also told them that they will have a meeting with the Sacred
   Plume of Archaeomancy in two days. And asked them to do an errand for
@@ -866,7 +866,7 @@ The group decided to join the marvels of the Arcane Revelry.
 - Vermehlo is still the youngest type of Faerie Dragon there is
   according to Ada.
 
-Â 
+ 
 
 26 October (Day 16)
 
@@ -894,7 +894,7 @@ The group decided to join the marvels of the Arcane Revelry.
   [Verdant
   guardian](/docs/important-items/verdant-guardian))
 
-Â 
+ 
 
 27 October (Day 17) "Aeriffs date"
 
@@ -971,10 +971,10 @@ The group decided to join the marvels of the Arcane Revelry.
   told him it would be fine but if he wanted his blessing he would have
   to demonstrate him that he was ready for it. He asked Kespien to meet
   him the next morning with his group for another training session./
-  Â 
+   
 
 28 October (Day 18)/
-Â 
+ 
 
 - The group woke up and asked joined Kespien in meeting Dorns troops. He
   told them that in order to get his blessing, they would have to work
@@ -1038,7 +1038,7 @@ The group decided to join the marvels of the Arcane Revelry.
     and gathered some information about the creatures they have to
     locate. They also got the rumor that there were bandits in the roads
     going and coming to Kor Kuldir./
-    Â 
+     
 
 29 October (Day 19)
 
@@ -1052,7 +1052,7 @@ a letter before leaving. While at the tavern at night they remembered
 that they forgot about telling Jhandril that they would leave. Kespien
 and Golt went to tell him and he said that he would need one day to
 prepare before leaving./
-Â 
+ 
 
 30 October (Day 20)
 
