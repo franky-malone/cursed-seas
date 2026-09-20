@@ -1,4 +1,4 @@
-// @ts-check
+ // @ts-check
 // `@type` JSDoc annotations allow editor autocompletion and type checking.
 
 /** @type {import('@docusaurus/types').Config} */
@@ -83,37 +83,41 @@ const config = {
       style: 'dark',
       links: [
         {
-          title: 'Community',
+          title: 'Campaign',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: "Travel's Diary",
+              to: '/docs/category/travels-diary/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: "Players' Diary",
+              to: '/docs/category/players-diary/',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Players',
+              to: '/docs/category/players/',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Resources',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Homebrew Rules',
+              to: '/docs/category/homebrew-rules/',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/franky-malone/cursed-seas',
+              label: 'Important Items',
+              to: '/docs/category/important-items/',
+            },
+            {
+              label: 'OneNote',
+              href: 'https://onedrive.live.com/:o:/g/personal/1164a76b05a28ca0/UgCgjKIFa6dkIIARKzgAAAAAAPnZBa8z4LXpLZ0?rtime=N8juWEQX30g&redeem=aHR0cHM6Ly8xZHJ2Lm1zL28vcyFBcUNNb2dWcnAyUVI4Q3Y1MlFXdk0tQzE2UzJkP2U9Q1ZZTkpU',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Cursed Seas. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Cursed Seas.`,
     },
 
     prism: {

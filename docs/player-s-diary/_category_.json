@@ -1,4 +1,9 @@
 ﻿{
-    "label":  "Player\u0027s diary",
-    "position":  12
+  "label": "Player's Diary",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "title": "Player's Diary",
+    "description": "A collection of notes and entries written from the players' perspective."
+  }
 }

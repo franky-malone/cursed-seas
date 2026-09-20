@@ -1,4 +1,9 @@
 ﻿{
-    "label":  "Important Items",
-    "position":  8
+  "label": "Important Items",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "title": "Important Items",
+    "description": "Important magical items and artifacts discovered throughout the Cursed Seas campaign."
+  }
 }
