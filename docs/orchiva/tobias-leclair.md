@@ -12,6 +12,6 @@ Abenthy's old lute.
  
 
 According to Thomas memories, the merchant looked exactly like
-John
+[John](/docs/dorelta/john)
 the merchant the party had met several times before.
 

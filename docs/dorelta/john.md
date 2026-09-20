@@ -23,7 +23,7 @@ inside a coffin that he was paid to carry no questions asked.
 
 His job is to transport goods between cities the fastest possible. In
 Dorelta his main contact is
-Lara.
+[Lara](/docs/dorelta/dorelta-npcs/lara).
 
  
 

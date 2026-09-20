@@ -7,6 +7,6 @@ Thursday, November 30, 2023
 
 1:25 PM
 
-A huge statue in honor of the founder of Dorelta, the elf Velen
-Herbsblatt.
+A huge statue in honor of the founder of Dorelta, the elf [Velen
+Herbsblatt](/docs/dorelta/family-herzblatt/velen-herzblatt).
 

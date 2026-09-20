@@ -20,8 +20,8 @@ seen since then.
 
  
 
-See diary of Elipsis
-Virgula
+See diary of [Elipsis
+Virgula](/docs/documents/diary-of-elipsis-virgula)
 
  
 

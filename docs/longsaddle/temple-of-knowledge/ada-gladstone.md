@@ -7,6 +7,6 @@ Thursday, April 25, 2024
 
 1:46 PM
 
-See Ada
-Gladstone
+See [Ada
+Gladstone](/docs/players/jori/ada-gladstone)
 

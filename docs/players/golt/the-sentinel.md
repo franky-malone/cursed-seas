@@ -4,14 +4,14 @@ sidebar_position: 6
 ---
 
 It was mentioned by the elder of the wanderers
-Aurora.
+[Aurora](/docs/factions/the-wanderers/aurora-the-elder).
 Apparently it is a dangerous and mysterious figure that creates havoc
 and destruction wherever it goes. It has some connection to the sea.
 
  
 
 There is a
-tale
+[tale](/docs/documents/tale-of-the-sentinel)
 about him.
 
  

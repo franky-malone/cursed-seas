@@ -21,7 +21,7 @@ spiders and an humanoid spider creature called an Ettercap. They
 defeated them and effortlessly forcing the Ettercap to run away.
 
 They also saved a man named
-John
+[John](/docs/dorelta/john)
 and his horses from being the spiders next meal. After that they reached
 Dorelta
 before the closing of the gates and they seek accommodation in the local
@@ -41,17 +41,17 @@ and decided to wait before the gates until they were open.
 
 The party met again and met Golt. After some discussions Golt decided to
 join the party in their investigations for the time being. They read the
-job post and decided to go talk to the local healer, Miranda
-Greywolf.
-Thanks to Jori they figured out what happened to Morrik
-Oaktree.
+job post and decided to go talk to the local healer, [Miranda
+Greywolf](/docs/dorelta/dorelta-npcs/miranda-greywolf).
+Thanks to Jori they figured out what happened to [Morrik
+Oaktree](/docs/dorelta/dorelta-npcs/morrik-oaktree).
 His body was found dead by the mill and his heart was missing. They also
-inspected the big statue of Velen
-Herzblatt.
+inspected the big statue of [Velen
+Herzblatt](/docs/dorelta/family-herzblatt/velen-herzblatt).
 
 They decided to go back to the travelers district before it was dark.
-They asked some questions to Brund
-Redtile,
+They asked some questions to [Brund
+Redtile](/docs/dorelta/dorelta-npcs/brunn-redtile),
 the innkeeper, about the local situation and decided to go to sleep.
 
  
@@ -60,10 +60,10 @@ the innkeeper, about the local situation and decided to go to sleep.
 
 They went to the townhall and tried to convince the secretary of the
 mayoress,
-Felosial,
+[Felosial](/docs/dorelta/dorelta-npcs/felosial),
 to let them pass. Thanks to Aeriff they managed to get a meeting within
-the hour, but before it passed the mayoress Rulias
-Clearsong
+the hour, but before it passed the mayoress [Rulias
+Clearsong](/docs/dorelta/dorelta-npcs/rulias-clearsong)
 came out and agreed to meet them earlier. She explained the situation
 and agreed to give them a reward of 750 GP if they find out who did it
 and why it did it. An additional plus of 60 GP was handled if they could
@@ -612,32 +612,32 @@ best jokes and tested the humor of the group with them.
 While enjoying themselves they met some of the patrons:/
  
 
-- Eleyna
-- Brasvik
-- Helene
-  Soprani
-- Vorskann
+- [Eleyna](/docs/players/aeriff/eleyna)
+- [Brasvik](/docs/players/aeriff/brasvik)
+- [Helene
+  Soprani](/docs/players/jori/helene-soprani)
+- [Vorskann](/docs/longsaddle/the-broken-scale-tavern/vorskann)
 
  
 
 The group discovered that Aeriff had a crush on Eleyna and "tried" to
 help him gain her heart. They also met Brasvik who appeared to be a
 bully to Aeriff. Jori met with Helene and asked about the whereabouts of
-a common friend named Connor and a little bit about Ada
-Gladstone.
+a common friend named Connor and a little bit about [Ada
+Gladstone](/docs/players/jori/ada-gladstone).
 She also asked where she knew the song of the Belmonts from, and she
 answered that from the famous bard
-Abenthy,
+[Abenthy](/docs/ohter-npcs/abenthy),
 which identity was unknown to her. Kespien asked Vorskann if he knew
 someone from the Silvertusk Brotherhood and they both agreed to know
-Dorn.
+[Dorn](/docs/players/kespien-belmont/dorn-firember).
 Unfortunately he wasn't in town at the moment but had left a message for
 Kespien to wait for him here.
 
  
 
 They also heard about several
-rumors.
+[rumors](/docs/longsaddle/longsaddle-rumors).
 
  
 
@@ -655,25 +655,25 @@ small house.
 After they woke up and some morning excersises by Kespien and Golt to
 fight the hangover they decided to explore Longsaddle a little bit. They
 made some purchases in the
-Arcanazon,
+[Arcanazon](/docs/longsaddle/arcanazon/arcanazon),
 they went to the public baths to freshen up, they glanced at the
-Oratorium
-and finally went to the Temple of
-Knowledge's
+[Oratorium](/docs/longsaddle/temple-of-knowledge/temple-of-knowledge)
+and finally went to the [Temple of
+Knowledge's](/docs/longsaddle/temple-of-knowledge/temple-of-knowledge)
 main building.
 
  
 
 In there they were surprised to meet an elf woman identical to
-Felosial,
+[Felosial](/docs/dorelta/dorelta-npcs/felosial),
 which named seemed to be
-Elosial
+[Elosial](/docs/longsaddle/temple-of-knowledge/elosial)
 and happened to be her cousin. She took some messages from the group to
 call on the Sacred Plume Silica Stein and also professor Ada Gladstone.
 Kespien and Jori decided to join the temple for some hours and
 investigate some matters. They were aided by small little robotic
 creatures named
-Modrons,
+[Modrons](/docs/longsaddle/temple-of-knowledge/modrons),
 which were the core workers of the temple and happened to be the
 centerpiece of Aeriff's studies.
 
@@ -820,8 +820,8 @@ The group decided to join the marvels of the Arcane Revelry.
     that there was a book that it was like the holy grail for those
     interested in learning about Marsander and its history who was
     written by the previous Sacred Plume of Archeomancy.
-  - Jori decided to join a class offered by Ada
-    Gladstone
+  - Jori decided to join a class offered by [Ada
+    Gladstone](/docs/players/jori/ada-gladstone)
     in Fae Portals learning about different portal types and how they
     look. Also learning basic information about the different factions
     of the Fey Realm. After the class he reunited with Ada and got
@@ -829,14 +829,14 @@ The group decided to join the marvels of the Arcane Revelry.
   - Golt decided to investigate about the name Dagon and found out that
     it belongs to a very powerful demon.
   - Aeriff researched about vampires finding a very interesting and
-    distracting novel "Eternal
-    Dawn"
+    distracting novel "[Eternal
+    Dawn](/docs/documents/eternal-dawn)"
 - After they finished the research session, Aeriff met Eleyna who asked
   him out to a date in two days and also told him that his master was
   looking for him.
 - When the group met with Silica Stein, they find out that he was
-  meeting a Elisabeth The Twilight
-  Oracle,
+  meeting a [Elisabeth The Twilight
+  Oracle](/docs/puerto-ballena/temple-of-the-full-moon/elisabeth-the-twilight-oracle),
   which turned to be a specialist on curses. She inspected Golt and told
   him that he could only think of three ways to get rid of his curse:
   - Finding true love
@@ -846,13 +846,13 @@ The group decided to join the marvels of the Arcane Revelry.
   group of 5 people, which similar skin color as Jori that called
   themselves the Crescent wave. She needed some time to put her visions
   in order and invited Jori to visit her in Puerto Ballena in the
-  Temple of the Full
-  Moon.
+  [Temple of the Full
+  Moon](/docs/puerto-ballena/temple-of-the-full-moon/temple-of-the-full-moon).
   By then she hopefully will know more about who they were.
 - Silica also told them that they will have a meeting with the Sacred
   Plume of Archaeomancy in two days. And asked them to do an errand for
-  him and go fetch an order from Marvin a local
-  Alchemist.
+  him and go fetch an order from [Marvin a local
+  Alchemist](/docs/longsaddle/marvin-the-alchemist).
 - When they reached Marvin's workshop, they found it covered on a
   poisonous green fog. They rescued Marvin from being consumed by a
   poison weird and fought also some poison mephits along the way. Marvin
@@ -861,7 +861,7 @@ The group decided to join the marvels of the Arcane Revelry.
   that she would still leave to the Emerald Hills in some days, since
   she still would like to finalize her life's work. They then met the
   group and Jori introduced Ada to
-  Vermehlo
+  [Vermehlo](/docs/players/aeriff/vermelho)
   and the rest.
 - Vermehlo is still the youngest type of Faerie Dragon there is
   according to Ada.
@@ -870,8 +870,8 @@ The group decided to join the marvels of the Arcane Revelry.
 
 26 October (Day 16)
 
-- While the group was having breakfast Dorn
-  Firember
+- While the group was having breakfast [Dorn
+  Firember](/docs/players/kespien-belmont/dorn-firember)
   and the rest of the Silvertusk company of Kespien appeared. After a
   short discussion of what happened and looking at the strange group
   that Kespien found, Dorn forced them to go for a morning training
@@ -883,7 +883,7 @@ The group decided to join the marvels of the Arcane Revelry.
   politics. They then parted ways, but Dorn told him to meet him in a
   couple of days again since they will keep their way and this time all
   together.
-- Lory
+- [Lory](/docs/players/kespien-belmont/lory-swiftwind)
   approached Kespien and excused Dorn. Apparently he was a bit on edge
   since they recently lost a member.
 - The group then decided to go shopping and preparing for the upcoming
@@ -891,8 +891,8 @@ The group decided to join the marvels of the Arcane Revelry.
   awakened shrub pot.
 - Kespien managed to copy the spell of identify in his spell book and
   used to identify the magical armor found in the Herzblatt's tomb. (See
-  Verdant
-  guardian)
+  [Verdant
+  guardian](/docs/important-items/verdant-guardian))
 
  
 
@@ -900,19 +900,19 @@ The group decided to join the marvels of the Arcane Revelry.
 
 - They went to meet the Sacred Plume and found some people waiting
   outside wearing rags and having obvious marks of being handcuffed.
-  After a while an old man, whose name apparently was Sir
+  After a while an old man, whose name apparently was [Sir
   Hermenegido H.
-  Hermann,
+  Hermann](/docs/ohter-npcs/sir-hermenegildo-h-hermann),
   came out and took the people with him. They then went in and got
   welcomed by
-  Jhandril,
+  [Jhandril](/docs/longsaddle/temple-of-knowledge/jhandril-dash-virgula),
   the Sacred Plume pupil.
-- After a while the Sacred Plume Halphanis
-  Severus
+- After a while the [Sacred Plume Halphanis
+  Severus](/docs/longsaddle/temple-of-knowledge/sacred-plume-halphanis-severus)
   came out and chat with the group. He was surprised that a Belmont and
   a Virgula were there and after some questions he told his story. (See
-  Haphanis
-  story)
+  [Haphanis
+  story](/docs/documents/halphanis-story))
 - They asked Halphanis about dates of the different events and presented
   themselves. He mentioned that as a man that studied history he valued
   facts rather than believing in fate, but this fortuite encounter did
@@ -930,7 +930,7 @@ The group decided to join the marvels of the Arcane Revelry.
 - Halphanis will provide Jhandril with the means to collect the breath
   and the gland. And they could leave as soon as they wanted.
 - After the meeting they go to meet an old friend of Golt,
-  Falim,
+  [Falim](/docs/players/golt/falim),
   a blind prophet of Lathander the morninglord who was yelling in the
   Oratorium about a big red falling star that will cleanse heresy in the
   world. They exchanged some stories and left him there to keep with his
@@ -940,7 +940,7 @@ The group decided to join the marvels of the Arcane Revelry.
 - Jori received a letter from Ada, where she said that she already left
   and where he could find her if he ever passes nearby.
 - Aeriff prepared himself for the date buying new clothes and met
-  Eleyna.
+  [Eleyna](/docs/players/aeriff/eleyna).
   Since it was his first date, he was unprepared and she took initiative
   and brought him to her favourite eating place. They talked about their
   past and also their future. She mentioned having a mentor that passed
@@ -953,20 +953,20 @@ The group decided to join the marvels of the Arcane Revelry.
   on a bucket of dirt and trash that fell from a nearby roof. Aeriff had
   enough time to react and pushed Eleyna away, getting all the dirt
   himself. They figured out that this might have been orchestrated by
-  Brasvik
+  [Brasvik](/docs/players/aeriff/brasvik)
   and she told him that he proposed to her several times but she
   rejected him. At the end of the date, he tried to kiss her but tripped
   and the situation went awkward.
 - Kespien met with
-  Dorn
+  [Dorn](/docs/players/kespien-belmont/dorn-firember)
   and wanted to apologize, but
-  Dorn
+  [Dorn](/docs/players/kespien-belmont/dorn-firember)
   apologize first. Apparently he was a bit on edge because of the last
   member that they lost and the thought that this would also happen to
   Kespien made him overreact. Moreover after finding out that Tom Lancil
   not only managed to infiltrate the Brotherhood but also the Temple of
   Knowledge, what made him a very dangerous person. Kespien told
-  Dorn
+  [Dorn](/docs/players/kespien-belmont/dorn-firember)
   that he might want to leave the brotherhood, what he already knew and
   told him it would be fine but if he wanted his blessing he would have
   to demonstrate him that he was ready for it. He asked Kespien to meet
@@ -979,41 +979,41 @@ The group decided to join the marvels of the Arcane Revelry.
 - The group woke up and asked joined Kespien in meeting Dorns troops. He
   told them that in order to get his blessing, they would have to work
   as a team, leaded by Kespien and help him to give
-  Dorn
+  [Dorn](/docs/players/kespien-belmont/dorn-firember)
   a single hit. Dorn troops would try to hinder them with all means
   necessary.
 - As both groups advanced one after the other,
-  Gareth
+  [Gareth](/docs/players/kespien-belmont/gareth-stonefist)
   the Half-Orc tried a sweeping attack against Kespien but Golt turned
   into a giant and overpowered him.
-  Lory
+  [Lory](/docs/players/kespien-belmont/lory-swiftwind)
   threw caltrops on the ground that Jori masterfully froze in place
   allowing Kespien to continue.
-  Ariana
+  [Ariana](/docs/players/kespien-belmont/ariana-stormbringer)
   cast some kind of protection on
-  Dorn
+  [Dorn](/docs/players/kespien-belmont/dorn-firember)
   and Virgula tried to convince her to stop doing that. The
-  Tabaxi
+  [Tabaxi](/docs/players/kespien-belmont/dorn-s-tabaxi)
   made
-  Dorn
+  [Dorn](/docs/players/kespien-belmont/dorn-firember)
   invisible, to what Aeriff drank the True Vision potion that he gained
   during the Arcane Revelry and indicated his location just in time for
   Kespien to avoid a fire breath weapon that
-  Dorn
+  [Dorn](/docs/players/kespien-belmont/dorn-firember)
   was exhaling. He did that by teleporting himself behind
-  Dorn
+  [Dorn](/docs/players/kespien-belmont/dorn-firember)
   and tried to hit him with his dagger, but in the very first minute he
   thanks to
-  Ariana's
+  [Ariana](/docs/players/kespien-belmont/ariana-stormbringer)'s
   spell exchange locations with
-  Gareth
+  [Gareth](/docs/players/kespien-belmont/gareth-stonefist)
   .
 - Kespien was invaded by anger which he turned into power and could
   canalize all his inner lightning through his mother's dagger and use a
-  new spell, Belmont's
-  Blitz.
+  new spell, [Belmont's
+  Blitz](/docs/players/kespien-belmont/belmont-s-blitz).
   He moved as fast as lightning and shorten the distance between
-  Dorn
+  [Dorn](/docs/players/kespien-belmont/dorn-firember)
   and himself in the blink of an eye and stabbed him in the chest,
   achieving like that the desired hit.
 - After the contest, Dorn aknowledge Kespien's leadership abilities and

@@ -687,9 +687,9 @@ cub started to behave similar to how the bisons were behaving. With
 little effort, Thrag commanded to wolve to exhale its breath in the vase
 and after some time, the vase was full. Kespien closed it an told
 Jhandril to take it, which he politely rejected by saying that it was
-too heavy for him to carry. Thrag also gifted the group with an amulet
+too heavy for him to carry. Thrag also gifted the group with an [amulet
 made of bison's
-horn,
+horn](/docs/important-items/amulet-of-the-winter-survivor),
 fur and body parts that should protect them against cold and help them
 survive in snowy environments.
 
@@ -837,8 +837,8 @@ wyvern.
 Virgula cast several fireballs from a safe distance and used the unicorn
 wand to create duplicates of himself and get a strange urge to drink
 alcohol. He also manifested a shadowy hound with the appearance of a
-chihuahua, named Count
-Donut.
+chihuahua, named [Count
+Donut.](/docs/players/count-virgula/count-donut)
 
 Jori managed to restrain the Wyvern to the ground avoiding its flying
 capabilities. He also hit him from the distance with some ice and water

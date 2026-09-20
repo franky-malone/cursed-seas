@@ -24,8 +24,8 @@ Tuesday, May 7, 2024
     - Belmont song is from famous bard Abenthy
     - Dorn was in tavern, we have to wait a few days until he comes back
   - We hear rumors:
-    - A member of the Order of the White
-      Scale
+    - A member of the [Order of the White
+      Scale](/docs/factions/order-of-the-white-scale)
       went through Orchiva a few days ago -/> major catastrophe is about
       to occur?
     - New drug from Puerto Ballena: increases spellcasting abilities

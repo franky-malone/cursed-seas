@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 It is the largest river in all of
-Norberia.
-It has its source in the peaks of the Drake, south of the Nevington
-Mountains
+[Norberia](/docs/regions/norberia/norberia).
+It has its source in the peaks of the Drake, south of the [Nevington
+Mountains](/docs/regions/nevington-mountains/nevington-mountains)
 and its mouth in the cursed swamp. Its waters feed the two large lakes
 of Norberia, the Dunklelock and the Lake Grail.
 

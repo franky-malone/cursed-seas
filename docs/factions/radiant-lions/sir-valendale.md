@@ -3,6 +3,6 @@ title: "Sir Valendale"
 sidebar_position: 2
 ---
 
-See Sir
-Valendale
+See [Sir
+Valendale](/docs/players/golt/sir-valendale)
 

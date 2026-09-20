@@ -18,9 +18,9 @@ Sonntag, 6. Juli 2025
     - Most of the grass in the valley is eaten, not enough to sustain
       large herd
     - Thrag brings the wolf cub to fill the vase with ist breath
-    - He provides us with warm winter clothes and the amulet made of
+    - He provides us with warm winter clothes and the [amulet made of
       bison's
-      horn
+      horn](/docs/important-items/amulet-of-the-winter-survivor)
     - Jori has a vision of his spirit totems
     - Advice for wyvern hunt: go into the mountains before winter, there
       will be snowstorms within a week

@@ -11,6 +11,6 @@ Thursday, April 25, 2024
 
 Elosial is a member of the Temple of Knowledge. She was seen first
 working in the entrance of the Hall of Lore. She is the cousin of
-Felosial
+[Felosial](/docs/dorelta/dorelta-npcs/felosial)
 and both of them look very alike.
 

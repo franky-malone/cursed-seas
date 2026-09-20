@@ -537,8 +537,8 @@ wait until he called his master. The party was confused, for they
 thought that he was the master and a couple of minutes later, another
 identical dragonborn, wearing some kind of intrincate magical staff and
 more expensive robes came out of the mausoleum. He introduced himself as
-Schwefel
-Sulphure
+[Schwefel
+Sulphure](/docs/ohter-npcs/schwefel-sulphure/schwefel-sulphure)
 and was willing to make a deal with Virgula. He was interested in the
 Onix Bishop and Marsandian history. For a glimpse in Virgulas memories,
 he would be willing to use an experimental spell that could bring people
@@ -597,8 +597,8 @@ decided not to buy them.
 Later on the day they were surprised by a distant loud humanoid figure.
 It happened to be a female goliath gladiator that was pursuing the group
 following their tales of fights ans victories. She presented herself as
-Vailea Stoneblood, Breaker of
-Peaks
+[Vailea Stoneblood, Breaker of
+Peaks](/docs/ohter-npcs/vailea-stoneblood-breaker-of-peaks)
 and challenged Golt, being the tallest and the strongest, to a fight.
 Golt accepted and the both contendents fought ferociously against each
 other. Both carrying a shield and a spear exchanged hits and strikes but

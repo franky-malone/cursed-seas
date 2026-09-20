@@ -7,8 +7,8 @@ sidebar_position: 9
 
 Young female Halfling with a marvellous voice. She seems to be an
 acclaimed musician. She was seen for the first time in the tavern "The
-broken Scale" singing the popular "Belmont the
-liar"
+broken Scale" singing the popular "[Belmont the
+liar](/docs/players/kespien-belmont/belmont-the-liar-song)"
 song.
 
 She is apparently a friend of Jori from back in Mordian.
