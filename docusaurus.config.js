@@ -1,4 +1,4 @@
- // @ts-check
+// @ts-check
 // `@type` JSDoc annotations allow editor autocompletion and type checking.
 
 /** @type {import('@docusaurus/types').Config} */
@@ -23,6 +23,8 @@ const config = {
 
   onBrokenLinks: 'throw',
 
+  noIndex: true,
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -32,11 +34,20 @@ const config = {
     [
       'classic',
       {
-        docs: {
-          sidebarPath: './sidebars.js',
-          editUrl:
-            'https://github.com/franky-malone/cursed-seas/tree/main/',
-        },
+docs: {
+  sidebarPath: './sidebars.js',
+
+  editUrl: ({docPath}) => {
+    if (
+      docPath.startsWith('players/') ||
+      docPath.startsWith('player-s-diary/')
+    ) {
+      return `https://github.com/franky-malone/cursed-seas/edit/main/docs/${docPath}`;
+    }
+
+    return undefined;
+  },
+},
 
         blog: {
           showReadingTime: true,
