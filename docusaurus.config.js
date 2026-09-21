@@ -68,7 +68,7 @@ docs: {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/favicon.ico',
 
     colorMode: {
       respectPrefersColorScheme: true,
@@ -78,7 +78,7 @@ docs: {
       title: 'Cursed Seas',
       logo: {
         alt: 'Cursed Seas Logo',
-        src: 'img/logo.svg',
+        src: 'img/favicon.ico',
       },
       items: [
         {
