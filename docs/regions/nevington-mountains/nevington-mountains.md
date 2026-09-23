@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nevington mountains"
 sidebar_position: 1
 ---
@@ -10,9 +10,9 @@ sidebar_position: 1
 
 
 Together with the [Mauer
-Mountains](/docs/regions/mauer-mountains/mauer-mountains)
+Mountains](/docs/regions/mauer-mountains/)
 they are the largest mountain system in
-[Norberia](/docs/regions/norberia/norberia).
+[Norberia](/docs/regions/norberia/).
 It is divided into three zones, the western Nevington, the central
 system and the eastern Nevington.
 
@@ -30,4 +30,6 @@ on the west system and [Kor
 Thurim](/docs/regions/nevington-mountains/kor-thurim)
 to the east. From its central area comes a mountain range known as the
 Wyvern's Mountains.
+
+
 

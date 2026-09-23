@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Kor Kuldir"
 sidebar_position: 2
 ---
@@ -14,8 +14,9 @@ manufactured weapons and armors.
 
 It is said, that there is a secret tunnel that connects the two
 fortresses through the
-[Nevington](/docs/regions/nevington-mountains/nevington-mountains)
+[Nevington](/docs/regions/nevington-mountains/)
 Mountains.
+
 
 
 

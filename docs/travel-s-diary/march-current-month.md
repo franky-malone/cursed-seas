@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: "March (current month)"
 sidebar_position: 6
 ---
@@ -73,7 +73,7 @@ needed to finish some business.
 
 The party perused the new items on display and waited for Ralto, while
 they discussed if they would tell him about the elf Zyralis and her
-intention to get back the Espina de OtoÃ±o and they agreed to not have
+intention to get back the Espina de Otoño and they agreed to not have
 more secrets with Ralto.
 
 
@@ -99,7 +99,7 @@ treated them well, for a servant.
 
 Ralto explained them that he was doing some business with the Amirah for
 a pair of magical bracelets that would help him with the quest he wanted
-to propose the party. Thanks to the Espina de OtoÃ±o that the party sold
+to propose the party. Thanks to the Espina de Otoño that the party sold
 him, he had the last piece of the puzzle he needed to make a deal with
 her.
 
@@ -416,7 +416,7 @@ Stone of Good Luck position in his pocket.
 
 
 
-Â Being dangerous, they decided to go back to the mason's camp and
+ Being dangerous, they decided to go back to the mason's camp and
 discuss what they would do.
 
 
@@ -538,7 +538,7 @@ thought that he was the master and a couple of minutes later, another
 identical dragonborn, wearing some kind of intrincate magical staff and
 more expensive robes came out of the mausoleum. He introduced himself as
 [Schwefel
-Sulphure](/docs/ohter-npcs/schwefel-sulphure/schwefel-sulphure)
+Sulphure](/docs/ohter-npcs/schwefel-sulphure/)
 and was willing to make a deal with Virgula. He was interested in the
 Onix Bishop and Marsandian history. For a glimpse in Virgulas memories,
 he would be willing to use an experimental spell that could bring people
@@ -1288,7 +1288,7 @@ little effort.
 
 
 At some point Virgula took Espuma de Mar and tried to hit the Brooding
-mother with aÂ  powerful chaos bolt made of poison, to learn that
+mother with a  powerful chaos bolt made of poison, to learn that
 unfortunately this creature, was immune to it. He also managed to avoid
 the sticky tongue that could otherwise would have devoured him.
 
@@ -1366,7 +1366,7 @@ them all. They quickly took defensive positions.
 
 
 
-GoltÂ  resummoned his wolf. Kespien protected Virgula against good and
+Golt  resummoned his wolf. Kespien protected Virgula against good and
 evil. Jori commanded its wasp to attack any demon in sight and took some
 distance. Virgula as well run as much as he could.
 
@@ -1929,7 +1929,7 @@ Bigorna, sang by using the voice of Helene Soprani.
 
 
 
-In a table Jori spotted Ada Gladstone, her girl/friendÂ  together with an
+In a table Jori spotted Ada Gladstone, her girl/friend  together with an
 elve that looked exactly like Felosial and Elosial. They also saw some
 Emerald Watchers on a table nearby playing cards.
 
@@ -2000,7 +2000,7 @@ from the distant elf, when suddenly a familiar sounded:
 
 
 
-"Biru, biru, biru, biru"ï¿½â‚¬ï¿½.Ralto was callingï¿½â‚¬ï¿½.
+"Biru, biru, biru, biru"?€?.Ralto was calling?€?.
 
 
 
@@ -2275,7 +2275,7 @@ plants. But luckily to them, Golt and Jori managed to overcome it.
 
 This time Virgula and Golt shared the same hallucinations and similar to
 the rest they saw Marsandians and Marsander, which was confirmed by
-Virgula, and something else. They saw war, chaos, and someÂ  kind of
+Virgula, and something else. They saw war, chaos, and some  kind of
 black hole in the sky which was threatening to engulf the whole world.
 But before they could see more, they were rescued by Jori who used the
 Heling Staff from Abenthy (a present from Lucian) to cure the poison
@@ -2368,6 +2368,7 @@ Blood bought by Virgula will dry.
 
 
 30 of March (Day 169)
+
 
 
 

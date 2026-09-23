@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: "October"
 sidebar_position: 1
 ---
@@ -94,7 +94,7 @@ session. He promised them 1.500 GP if they could find who did that to
 his son and point the blame to Rulias Clearsong, the mayoress.
 Apparently he had a fond hatred against that woman. The group then
 decided to investigate Morriks room, where they found a love letter to
-Deia Sweethoney, Morriks fiancÃ©e, and a first edition novel in elven of
+Deia Sweethoney, Morriks fiancée, and a first edition novel in elven of
 "The adventures of Captain Algazul", which they stole.
 
 
@@ -109,7 +109,7 @@ divide the party to try to gather as much information as possible.
 
 Golt would meet with Lady Lucretia Oaktree with hopes of seeing Morriks
 corpse up close but before went to the Sweethoney estate to try and meet
-Morriks fiancÃ©e. Unfortunately due to his appearance he only was able to
+Morriks fiancée. Unfortunately due to his appearance he only was able to
 meet the head of the Sweethoney's house, which refused to allow her
 daughter to pass over more painful moments. Lady Sweethoney confirmed
 the hatred of the noble elves for the human and demi human races of
@@ -368,7 +368,7 @@ blade almost instantly.
 
 
 Armed with new courage, they decided to finally go to observe what was
-behind that ominous door. Kespien used Espina de OtoÃ±o (Velen's Blade)
+behind that ominous door. Kespien used Espina de Otoño (Velen's Blade)
 to break a barrier that was set before the door and they opened it. On
 the other side, they saw the same obnoxious figure from the Imps mind
 and they saw how he made a hole on the heart of another innocent person
@@ -396,7 +396,7 @@ that damaged and debilitated the combat abilities of the group. Some of
 them got new powers and abilities and some others got whispers from
 deities or other entities that allowed them to gain use strengths they
 didn't know they had yet. They managed to break the barrier that was
-protecting the skull and decided to destroy it using Filo de OtoÃ±o,
+protecting the skull and decided to destroy it using Filo de Otoño,
 after Aeriff recognized the skull to be a potential Lich phylactery.
 When they managed to do so, the little Imp who was invisible all this
 time decided to steal one of the gems incrusted in the skull and flew
@@ -602,7 +602,7 @@ tavern wasn't the place for him right now and left it. The other enjoyed
 the music until they noticed Kespien absence. They met outside and
 discussed how the song made Kespien feel and what he could do against
 it. They then decided to enjoy some drinks together and tried several of
-the specialities of the Broken Scale. Most of them got intoxicatedÂ  due
+the specialities of the Broken Scale. Most of them got intoxicated  due
 to the strong drink "The dragon's breath" which Vorskann, the copper
 dragonborn innkeeper, created himself. He also told them some of his
 best jokes and tested the humor of the group with them.
@@ -655,11 +655,11 @@ small house.
 After they woke up and some morning excersises by Kespien and Golt to
 fight the hangover they decided to explore Longsaddle a little bit. They
 made some purchases in the
-[Arcanazon](/docs/longsaddle/arcanazon/arcanazon),
+[Arcanazon](/docs/longsaddle/arcanazon/),
 they went to the public baths to freshen up, they glanced at the
-[Oratorium](/docs/longsaddle/temple-of-knowledge/temple-of-knowledge)
+[Oratorium](/docs/longsaddle/temple-of-knowledge/)
 and finally went to the [Temple of
-Knowledge's](/docs/longsaddle/temple-of-knowledge/temple-of-knowledge)
+Knowledge's](/docs/longsaddle/temple-of-knowledge/)
 main building.
 
 
@@ -847,7 +847,7 @@ The group decided to join the marvels of the Arcane Revelry.
   themselves the Crescent wave. She needed some time to put her visions
   in order and invited Jori to visit her in Puerto Ballena in the
   [Temple of the Full
-  Moon](/docs/puerto-ballena/temple-of-the-full-moon/temple-of-the-full-moon).
+  Moon](/docs/puerto-ballena/temple-of-the-full-moon/).
   By then she hopefully will know more about who they were.
 - Silica also told them that they will have a meeting with the Sacred
   Plume of Archaeomancy in two days. And asked them to do an errand for
@@ -1060,4 +1060,5 @@ While waiting for Jhandril Kespien and Virgula decided to research
 further about the tasks ahead in the Temple of Knowledge, finding out
 some useful information. They prepared everything they needed and got
 ready to part the next day.
+
 
