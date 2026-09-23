@@ -14,14 +14,14 @@ from the red fangs tribe.
 He also had a double of himself, either created by magic or it was
 indeed a twin.
 
- 
+
 
 He offered Virgula a deal to peek his memories about Marsander in
 exchange of
 
 Bringing back to life someone from this memories or his magical staff.
 
- 
+
 
 After the deal, he left for the Dunklelock in search of the Onix Bishop.
 

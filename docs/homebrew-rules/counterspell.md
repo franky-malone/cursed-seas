@@ -10,7 +10,7 @@ Thursday, November 30, 2023
 Counterspell users that have counterspell selected are allowed to make a
 check before deciding to use counterspell.
 
- 
+
 
 This check can be done when the counterspeller is within very close
 quarters of the caster (30 feet or less) and it is an Arcana Check

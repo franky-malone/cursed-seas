@@ -7,7 +7,7 @@ sidebar_position: 9
 
 Golt's birthday
 
- 
+
 
 2 of June (Day 231)
 
@@ -67,4 +67,4 @@ Golt's birthday
 
 30 of June (Day 259)
 
- 
+

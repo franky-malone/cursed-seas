@@ -24,7 +24,7 @@ Monday, June 17, 2024
   - Halphanis told him the story of the Sentinel
   - Silica can try to organize a meeting with Halphanis if necessary
 
- 
+
 
 WE VISIT THE ARCANE REVELRY 🥳
 

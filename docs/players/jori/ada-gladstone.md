@@ -13,13 +13,13 @@ and Fey creatures in general. She seems to have some kind of
 affectionate relationship with Jori but she is still very dedicated to
 her work and career.
 
- 
+
 
 She left Longsaddle and will be located at the Emerald Horse in the
 Emerald Hills.
 
- 
 
- 
+
+
 
 ![](ada-gladstone-assets/ada-gladstone_files/image001.jpg)

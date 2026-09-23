@@ -8,9 +8,9 @@ dragonborn named Vorskann. Two things will tell you that you are close
 to the tavern, either there is music coming out of it or a loud laugh
 coming from Vorskann.
 
- 
 
- 
+
+
 
 Special drinks
 
@@ -37,4 +37,4 @@ Live music --/> Vorskann loves live music and it isn't rare that every
 night there are some bards (most of them are here to join the temple)
 playing some music in exchange of food or accomodation.
 
- 
+

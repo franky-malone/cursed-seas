@@ -5,14 +5,14 @@ sidebar_position: 12
 
 - Making a healing potion is a Downtime task. In order to infuse healing
   potions you need the following:/
-   
+
 
   - suitable place (apothecary, laboratory or alchemist's workshop),
   - special ingredients priced at 25 GP per potion,
   - herbalist kit,
-  - have access to the “cure wounds” spell,
+  - have access to the �€œcure wounds�€? spell,
 
-   
+
 
   If you have all of those things, you can try infusing a potion or
   potions. This requires a period of 8 hours per potion or batch of
@@ -38,7 +38,7 @@ sidebar_position: 12
   /
   To make better potions, the time and cost will increase according to
   the following table:/
-   
+
 
   |                           |                   |                 |             |
   |---------------------------|-------------------|-----------------|-------------|
@@ -47,6 +47,6 @@ sidebar_position: 12
   | Superior Healing (8d4+8)  | Cure Wounds lvl 5 | 700 GP          | 1 week      |
   | Supreme Healing (10d4+20) | Cure Wounds lvl 7 | 5,000 GP        | 3 weeks     |
 
-   
 
-   
+
+

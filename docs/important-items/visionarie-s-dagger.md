@@ -8,7 +8,7 @@ hilt. When someone weilds it, the jewel changes to the same color as the
 wearer's eyes. Its blade gains an elemental affinity depending on the
 color of the jewel.
 
- 
+
 
 It was sold to Ralto
 

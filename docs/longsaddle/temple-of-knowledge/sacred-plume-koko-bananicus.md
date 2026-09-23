@@ -5,9 +5,9 @@ sidebar_position: 6
 
 ![](sacred-plume-koko-bananicus-assets/sacred-plume-koko-bananicus_files/image001.png)
 
- 
 
- 
+
+
 
 An awakened gorilla named Koko Bananicus, the Sacred Plume of
 Numeromancy. He stands upright with a calm, calculating expression and

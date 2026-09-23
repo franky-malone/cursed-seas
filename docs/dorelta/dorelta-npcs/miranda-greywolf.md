@@ -9,7 +9,7 @@ Thursday, November 30, 2023
 
 Old elf woman.
 
- 
+
 
 She is the local healer of Dorelta. Old friend of Marwa, the teacher of
 Jori. She takes care of some of the minor issues and problems that
@@ -18,4 +18,4 @@ dead.
 
 ![](miranda-greywolf-assets/miranda-greywolf_files/image001.jpg)
 
- 
+

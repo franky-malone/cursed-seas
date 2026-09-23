@@ -8,7 +8,7 @@ showing their arts to their people. They usually give shows worth
 remembering and when they arrive in a new city there is great excitement
 and fun among its inhabitants.
 
- 
+
 
 Everyone respects the wanderes when they meet them on the roads and
 knows to help them if necessary.
