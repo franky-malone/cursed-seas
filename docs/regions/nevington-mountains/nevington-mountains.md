@@ -1,28 +1,28 @@
----
+ï»¿---
 title: "Nevington mountains"
 sidebar_position: 1
 ---
 
 ![](nevington-mountains-assets/nevington-mountains_files/image001.png)
 
- 
 
- 
+
+
 
 Together with the [Mauer
-Mountains](/docs/regions/mauer-mountains/)
+Mountains](/docs/regions/mauer-mountains/mauer-mountains)
 they are the largest mountain system in
-[Norberia](/docs/regions/norberia/).
+[Norberia](/docs/regions/norberia/norberia).
 It is divided into three zones, the western Nevington, the central
 system and the eastern Nevington.
 
- 
+
 
 It works as a natural wall for the icy winds that come from the sea of
 icicles which threatens to freeze the whole continent with their
 incesant blow.
 
- 
+
 
 Two dwarven fortresses find their home in these mountains. [Kor
 Kuldir](/docs/regions/nevington-mountains/kor-kuldir)

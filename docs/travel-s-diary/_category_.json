@@ -1,9 +1,4 @@
 ﻿{
-  "label": "Travel's Diary",
-  "position": 10,
-  "link": {
-    "type": "generated-index",
-    "title": "Travel's Diary",
-    "description": "The recorded journey of the Cursed Seas campaign."
-  }
+    "label":  "Travel\u0027s diary",
+    "position":  16
 }

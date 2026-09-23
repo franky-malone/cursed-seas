@@ -19,7 +19,7 @@ victorious. Will you conquer the Gauntlet and earn the esteemed title of
 Gastronomic Champion? The feast awaits, but beware - only the strongest
 stomachs need apply!"
 
- 
+
 
 Summoners Showdown
 

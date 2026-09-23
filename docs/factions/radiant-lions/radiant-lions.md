@@ -9,8 +9,8 @@ individuals as well as patrols in the vicinity of the Prime Road on some
 special mission for the city. They are often called religious fanatics,
 although they always put laws and justice before any other action.
 
- 
 
- 
+
+
 
 ![](radiant-lions-assets/radiant-lions_files/image001.png)

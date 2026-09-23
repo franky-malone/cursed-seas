@@ -1,4 +1,4 @@
----
+ï»¿---
 title: "Kor Kuldir"
 sidebar_position: 2
 ---
@@ -10,12 +10,12 @@ their Thane Faurin Ironsong. Their main trade goods are ore and gems
 that they dig from the depths of the mountain as well as strong ale and
 manufactured weapons and armors.
 
- 
+
 
 It is said, that there is a secret tunnel that connects the two
 fortresses through the
-[Nevington](/docs/regions/nevington-mountains/)
+[Nevington](/docs/regions/nevington-mountains/nevington-mountains)
 Mountains.
 
- 
+
 

@@ -12,7 +12,7 @@ protection. It shimmers with a faint green hue, reminiscent of lush
 forest foliage.
 
 Scale Male stats made of big leaves/
- 
+
 
 Photosynthetic Resilience:
 

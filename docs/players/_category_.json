@@ -1,9 +1,4 @@
 ﻿{
-  "label": "Players",
-  "position": 11,
-  "link": {
-    "type": "generated-index",
-    "title": "Players",
-    "description": "Information, resources, and notes for the players of the Cursed Seas campaign."
-  }
+    "label":  "Players",
+    "position":  11
 }

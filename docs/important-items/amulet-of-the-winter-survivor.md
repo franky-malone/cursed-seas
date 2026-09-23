@@ -14,7 +14,7 @@ This amulet is carved from the horn of a great fog bison, its surface
 etched with swirling runes that seem to shift like blowing snow. The
 leather cord is old but sturdy, braided with the fur of an unknown
 beast. When worn, the amulet exudes a faint chill./
- 
+
 
 Properties:
 

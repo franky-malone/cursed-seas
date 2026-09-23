@@ -1,15 +1,18 @@
----
-id: norberia
+﻿---
 title: "Norberia"
 sidebar_position: 1
 ---
 
 Norberia is a place of wonders and different peoples and biomes.
 
+
+
 From the northern icy tundras behind the [Nevington
-mountais](/docs/regions/nevington-mountains/)
+mountais](/docs/regions/nevington-mountains/nevington-mountains)
 to the hot and sandy deserts in the south west, all of it territory is
 as different as its peoples.
+
+
 
 One black spot is in Norberia, and it is the shadow lands of
 [Marsander](/docs/regions/marsander-shadows),

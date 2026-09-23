@@ -1,9 +1,4 @@
 ﻿{
-  "label": "Homebrew Rules",
-  "position": 7,
-  "link": {
-    "type": "generated-index",
-    "title": "Homebrew Rules",
-    "description": "Rules and systems used in the Cursed Seas campaign."
-  }
+    "label":  "Homebrew rules",
+    "position":  7
 }

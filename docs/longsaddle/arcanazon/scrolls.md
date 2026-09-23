@@ -19,8 +19,8 @@ Cantrip 30 gp
 
 5th 1500 gp (10% have the spell you want)
 
- 
+
 
 If the spell has consumable components the price might be increased.
 
- 
+

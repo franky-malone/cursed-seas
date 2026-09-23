@@ -3,6 +3,8 @@ title: "01.10. …the Shadowfell?!"
 sidebar_position: 12
 ---
 
+01.10. �€�the Shadowfell?!
+
 Wednesday, November 12, 2025
 
 8:32 AM
@@ -14,7 +16,7 @@ Wednesday, November 12, 2025
     - CV tries to climb onto people but fails, a Loxodon is startled and
       alterts a watcher golemn
 
-   
+
 
   - The queen leaves on a palanquin and Golt doesn't manage to convince
     her to stop

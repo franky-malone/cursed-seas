@@ -12,13 +12,13 @@ and do not usually use their divine gifts to cure illnesses of those who
 have already passed the threshold or those who decide that their time
 has come.
 
- 
+
 
 They have sworn their lives to fight against any undead creature that
 popullate the lands of Norberia.
 
- 
 
- 
+
+
 
 ![](order-of-the-white-scale-assets/order-of-the-white-scale_files/image001.png)

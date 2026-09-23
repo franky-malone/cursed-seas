@@ -7,6 +7,6 @@ sidebar_position: 3
 
 End of Virgula's inmunity to alcohol
 
- 
+
 
 Month spent doing downtime

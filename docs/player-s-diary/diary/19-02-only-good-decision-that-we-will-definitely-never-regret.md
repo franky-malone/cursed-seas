@@ -9,9 +9,9 @@ Wednesday, April 02, 2025
 
 - Ralto's shop of magic items:
 
-  - Ralto offers 4000 GP for the Autmun Scimitar – an offer too good to
-    be true?? There seems to be something hidden about the scimitar that
-    only Ralto recognizes... We sell it anyway for short-term gains
+  - Ralto offers 4000 GP for the Autmun Scimitar �€“ an offer too good
+    to be true?? There seems to be something hidden about the scimitar
+    that only Ralto recognizes... We sell it anyway for short-term gains
   - 300 GP for Kespien's dagger
   - Bought items: Wand of the Warmage 900 GP, Sentinel Shield 600 GP,
     Ring of Evasion 700 GP, Periapt of Wound Closure 400 GP, Necklace of
@@ -41,4 +41,4 @@ Wednesday, April 02, 2025
     - We lure out the giant with wyvern sounds
     - CV sneaks into the cave again to try to feed a potion of reduction
       to the wolf to get it out of the cage
-    - The wolf in the cave turns into a half-orc druid – wtf?!
+    - The wolf in the cave turns into a half-orc druid �€“ wtf?!

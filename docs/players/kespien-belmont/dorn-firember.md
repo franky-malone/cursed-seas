@@ -12,13 +12,13 @@ Kespien how to fight and inspire some of his spells in combat. He sent
 Kespien to his first alone mission to Dorelta and told him to meet him
 in Longsaddle afterwards.
 
- 
+
 
 When seemed to be extremely harsh to Kespien, like a very strict father.
 He appreciates discipline and training.
 
- 
 
- 
+
+
 
 ![](dorn-firember-assets/dorn-firember_files/image001.jpg)

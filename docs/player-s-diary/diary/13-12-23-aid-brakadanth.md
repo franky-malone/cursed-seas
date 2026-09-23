@@ -24,10 +24,10 @@ Wednesday, January 24, 2024
     - Mayoress sent guards into district, came back without memory and
       intelligent as vegetables
     - Deadline for bonus payment is extended
-  - Golt’s wife about Herzblatt family: good people, shared elven
+  - Golt�€™s wife about Herzblatt family: good people, shared elven
     culture
-  - Find more information about changing Golt’s appearance at Temple of
-    Knowledge
+  - Find more information about changing Golt�€™s appearance at Temple
+    of Knowledge
   - Meet up to help brakadanth and his fairy friends:
     - Whistle song to call Brakadanth
     - Give berries to fairies, one goodberry to each of us

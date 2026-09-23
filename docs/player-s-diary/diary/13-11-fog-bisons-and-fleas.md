@@ -6,7 +6,7 @@ sidebar_position: 23
 Dienstag, 7. Januar 2025
 
 
- 
+
 
 - Bandit camp aftermath:
   - Free hostages: female dwarven teenager, male and female human

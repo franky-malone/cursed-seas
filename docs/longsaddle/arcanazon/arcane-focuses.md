@@ -20,4 +20,4 @@ Thursday, April 25, 2024
 | Orb of shielding (Marble) | Spellcasting focus and reaction to reduce 1d4 elemental damage. Psychic | Yes | 250 |
 | Ruby of the war mage | Allows a simple or martial weapon to be used as a spellcasting focus | Yes | 350 |
 
- 
+

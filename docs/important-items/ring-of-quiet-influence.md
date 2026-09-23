@@ -8,11 +8,11 @@ miércoles, 8 de mayo de 2024
 
 Ring of Quiet Influence Wondrous item, rare (requires attunement)
 
- 
+
 
 ![](ring-of-quiet-influence-assets/ring-of-quiet-influence_files/image001.png)
 
- 
+
 
 This elegant silver ring features intricate engravings of swirling
 patterns, leading to a prominent letter "V" etched into its surface.
