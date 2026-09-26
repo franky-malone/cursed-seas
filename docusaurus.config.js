@@ -23,6 +23,7 @@ const config = {
 
   onBrokenLinks: 'throw',
 
+  // Prevent search engines from indexing the site
   noIndex: true,
 
   i18n: {
@@ -34,20 +35,20 @@ const config = {
     [
       'classic',
       {
-docs: {
-  sidebarPath: './sidebars.js',
+        docs: {
+          sidebarPath: './sidebars.js',
 
-  editUrl: ({docPath}) => {
-    if (
-      docPath.startsWith('players/') ||
-      docPath.startsWith('player-s-diary/')
-    ) {
-      return `https://github.com/franky-malone/cursed-seas/edit/main/docs/${docPath}`;
-    }
+          editUrl: ({docPath}) => {
+            if (
+              docPath.startsWith('players/') ||
+              docPath.startsWith('player-s-diary/')
+            ) {
+              return `https://github.com/franky-malone/cursed-seas/edit/main/docs/${docPath}`;
+            }
 
-    return undefined;
-  },
-},
+            return undefined;
+          },
+        },
 
         blog: {
           showReadingTime: true,
@@ -67,11 +68,33 @@ docs: {
     ],
   ],
 
+  // Local search
+  themes: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        indexDocs: true,
+        indexBlog: false,
+        indexPages: false,
+        docsRouteBasePath: '/docs',
+
+        // Allow local search even though the website has noIndex: true
+        forceIgnoreNoIndex: true,
+
+        // Highlight searched terms when opening a result
+        highlightSearchTermsOnTargetPage: true,
+      },
+    ],
+  ],
+
   themeConfig: {
     image: 'img/favicon.ico',
 
     colorMode: {
-      respectPrefersColorScheme: true,
+      defaultMode: 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
     },
 
     navbar: {
@@ -80,6 +103,7 @@ docs: {
         alt: 'Cursed Seas Logo',
         src: 'img/favicon.ico',
       },
+
       items: [
         {
           type: 'docSidebar',
@@ -87,22 +111,27 @@ docs: {
           position: 'left',
           label: 'Wiki',
         },
+        {
+          type: 'search',
+          position: 'left',
+        },
       ],
     },
 
     footer: {
       style: 'dark',
+
       links: [
         {
           title: 'Campaign',
           items: [
             {
               label: "Travel's Diary",
-              to: '/docs/category/travels-diary/',
+              to: '/docs/travel-s-diary/march-current-month',
             },
             {
               label: "Players' Diary",
-              to: '/docs/category/players-diary/',
+              to: '/docs/player-s-diary/diary/',
             },
             {
               label: 'Players',
@@ -110,6 +139,7 @@ docs: {
             },
           ],
         },
+
         {
           title: 'Resources',
           items: [
@@ -128,6 +158,7 @@ docs: {
           ],
         },
       ],
+
       copyright: `Copyright © ${new Date().getFullYear()} Cursed Seas.`,
     },
 

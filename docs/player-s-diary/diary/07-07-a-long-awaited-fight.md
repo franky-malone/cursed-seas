@@ -1,11 +1,8 @@
-﻿---
+---
 title: "07.07. A long awaited fight"
 sidebar_position: 16
 ---
 
-Wednesday, July 30, 2025
-
-4:13 PM
 
 - - Conversations with our best friend Jhandril /\<3
     - Jhandril asks CV how to keep a secret

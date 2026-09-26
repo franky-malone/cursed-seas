@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Sacred Plume Silica Stein"
 sidebar_position: 2
 ---
 
-Thursday, April 25, 2024
-
-1:37 PM
 
 Sacred Plume of Archanabiology of the Temple of Knowledge. He is
 renowned for having written the "Bestiary Stein", which is supposed to

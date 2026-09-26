@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Spellbook Transcription Progress"
 sidebar_position: 2
 ---
 
-Friday, July 11, 2025
-
-9:08 AM
 
 Spell Scroll Transcription:
 

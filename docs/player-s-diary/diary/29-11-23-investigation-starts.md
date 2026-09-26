@@ -1,11 +1,8 @@
-﻿---
+---
 title: "29.11.23 Investigation starts"
 sidebar_position: 39
 ---
 
-Tuesday, December 12, 2023
-
-5:58 PM
 
 - Morrik Oaktree, eldest son of noble elf family, was found dead stuck
   in the water mill. Meet Golt

@@ -1,11 +1,8 @@
-﻿---
+---
 title: "24.01.24 Into the Herzblatt district"
 sidebar_position: 36
 ---
 
-Saturday, February 17, 2024
-
-5:53 PM
 
 - - John sits in the tavern next to a guy named Telron Whiterose
     - Smells like roses, masks rancid smell -/> undead

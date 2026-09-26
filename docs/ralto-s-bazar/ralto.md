@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Ralto"
 sidebar_position: 1
 ---
 
-Thursday, May 16, 2024
-
-9:31 AM
 
 ![](ralto-assets/ralto_files/image001.png)
 

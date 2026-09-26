@@ -5,9 +5,6 @@ sidebar_position: 12
 
 01.10. …the Shadowfell?!
 
-Wednesday, November 12, 2025
-
-8:32 AM
 
 - - We are in Ralto's bazaar and have just seen the Amirah accompanied
     by Golt's daughter as one of her servants

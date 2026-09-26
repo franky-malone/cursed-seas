@@ -1,11 +1,8 @@
-﻿---
+---
 title: "19.06. Arcane Revelry 2"
 sidebar_position: 30
 ---
 
-Tuesday, June 25, 2024
-
-9:34 PM
 
 - - Summoner's Showdown:
     - Jori wins his first fight against Leonara but loses the second

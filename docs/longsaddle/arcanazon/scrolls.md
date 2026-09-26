@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Scrolls"
 sidebar_position: 3
 ---
 
-Thursday, April 25, 2024
-
-2:18 PM
 
 Cantrip 30 gp
 

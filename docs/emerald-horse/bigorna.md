@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Bigorna"
 sidebar_position: 2
 ---
 
-Tuesday, June 30, 2026
-
-1:34 PM
 
 ![](bigorna-assets/bigorna_files/image001.png)
 

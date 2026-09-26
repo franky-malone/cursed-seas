@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Deia Sweethoney"
 sidebar_position: 9
 ---
 
-Thursday, December 7, 2023
-
-3:43 PM
 
 Former fiancee of Morrick Oaktree.
 

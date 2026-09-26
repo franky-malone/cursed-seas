@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Counterspell"
 sidebar_position: 2
 ---
 
-Thursday, November 30, 2023
-
-10:07 AM
 
 Counterspell users that have counterspell selected are allowed to make a
 check before deciding to use counterspell.

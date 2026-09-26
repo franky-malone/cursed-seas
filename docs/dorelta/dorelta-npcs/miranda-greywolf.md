@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Miranda Greywolf"
 sidebar_position: 6
 ---
 
-Thursday, November 30, 2023
-
-9:54 AM
 
 Old elf woman.
 

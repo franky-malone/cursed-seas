@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Eleyna"
 sidebar_position: 5
 ---
 
-Thursday, April 25, 2024
-
-1:40 PM
 
 ![](eleyna-assets/eleyna_files/image001.png)
 

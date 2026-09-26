@@ -1,11 +1,8 @@
-﻿---
+---
 title: "15.05. Arcane Revelry 1"
 sidebar_position: 31
 ---
 
-Monday, June 17, 2024
-
-11:44 AM
 
 - We visit Silica Stein in his house
   - Moving plants not native in Longsaddle, house full of creatures

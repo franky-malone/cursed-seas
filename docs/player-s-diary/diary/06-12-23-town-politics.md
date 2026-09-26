@@ -1,11 +1,8 @@
-﻿---
+---
 title: "06.12.23 Town politics"
 sidebar_position: 38
 ---
 
-Tuesday, December 12, 2023
-
-5:58 PM
 
 - - Visit Oaktree house
     - Butler Mike (old)

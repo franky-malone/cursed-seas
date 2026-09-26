@@ -3,9 +3,6 @@ title: "Kespien Belmont"
 sidebar_position: 1
 ---
 
-Thursday, November 30, 2023
-
-3:10 PM
 
 Birthday 26.02
 

@@ -1,11 +1,8 @@
-﻿---
+---
 title: "03.04. Dorelta Aftermath"
 sidebar_position: 33
 ---
 
-Wednesday, April 24, 2024
-
-9:08 AM
 
 - - Loot:
     - We take some red lillies from the garden

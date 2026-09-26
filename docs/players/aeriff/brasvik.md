@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Brasvik"
 sidebar_position: 4
 ---
 
-Thursday, April 25, 2024
-
-1:39 PM
 
 ![](brasvik-assets/brasvik_files/image001.png)
 

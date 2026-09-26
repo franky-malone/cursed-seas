@@ -1,11 +1,8 @@
-﻿---
+---
 title: "24.07. Dorn's Challenge"
 sidebar_position: 27
 ---
 
-Tuesday, August 27, 2024
-
-8:25 PM
 
 - - Golt should visit Halphanis in the next days
   - Halphanis proposes tasks for us to earn a copy of the map of Fabros:

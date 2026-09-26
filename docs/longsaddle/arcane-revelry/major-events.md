@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Major events"
 sidebar_position: 3
 ---
 
-Thursday, April 25, 2024
-
-2:06 PM
 
 Gauntlet of Gastro
 

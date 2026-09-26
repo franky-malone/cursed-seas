@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Elosial"
 sidebar_position: 9
 ---
 
-Thursday, April 25, 2024
-
-1:39 PM
 
 ![](elosial-assets/elosial_files/image001.jpg)
 

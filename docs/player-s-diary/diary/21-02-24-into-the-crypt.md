@@ -1,11 +1,8 @@
-﻿---
+---
 title: "21.02.24 Into the crypt"
 sidebar_position: 35
 ---
 
-Tuesday, March 12, 2024
-
-8:16 PM
 
 - - Fight in the front of the crypt against zombies, skeletons and a
     ghoul

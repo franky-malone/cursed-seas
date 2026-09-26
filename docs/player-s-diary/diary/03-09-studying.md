@@ -1,11 +1,8 @@
-﻿---
+---
 title: "03.09. Studying"
 sidebar_position: 14
 ---
 
-Tuesday, September 16, 2025
-
-6:58 PM
 
 3 months of downtime until the exam:
 

@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Arcane Focuses"
 sidebar_position: 4
 ---
 
-Thursday, April 25, 2024
-
-2:18 PM
 
 |  |  |  |  |
 |----|----|----|----|

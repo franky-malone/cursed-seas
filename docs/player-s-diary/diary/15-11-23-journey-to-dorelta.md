@@ -1,11 +1,8 @@
-﻿---
+---
 title: "15.11.23 Journey to Dorelta"
 sidebar_position: 40
 ---
 
-Tuesday, November 28, 2023
-
-8:56 PM
 
 - - Aerif travels on road to Dorelta and discovers abandoned cart
   - Meets Jori and Phoenix, who are on their way to Dorelta as well

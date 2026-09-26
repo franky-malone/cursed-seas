@@ -1,11 +1,8 @@
-﻿---
+---
 title: "24.04. Arrival in Longsaddle"
 sidebar_position: 32
 ---
 
-Tuesday, May 7, 2024
-
-8:45 PM
 
 - - We spend the evening in the tavern "The Broken Scale"
     - Tavern keeper: Vorskann (bronze dragonborn with scar on his head)

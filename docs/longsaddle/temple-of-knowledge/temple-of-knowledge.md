@@ -3,9 +3,6 @@ title: "Temple of Knowledge"
 sidebar_position: 1
 ---
 
-Thursday, April 25, 2024
-
-1:20 PM
 
 Description
 

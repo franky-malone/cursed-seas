@@ -1,11 +1,8 @@
-﻿---
+---
 title: "24.06. John I thought you were our friend"
 sidebar_position: 4
 ---
 
-Tuesday, July 07, 2026
-
-5:34 PM
 
 - - Orchiva aftermath:
     - Golt buys supplies

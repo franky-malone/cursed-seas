@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Abenthy"
 sidebar_position: 2
 ---
 
-Thursday, April 25, 2024
-
-1:58 PM
 
 A famous bard artist composer of several pieces, including "The Belmont
 song" and "The story of the Sentinel".

@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Lara"
 sidebar_position: 3
 ---
 
-Thursday, November 30, 2023
-
-9:53 AM
 
 Female half-elf owner of Dorelta's supply shop. She takes care of
 providing the people of Dorelta and travelers of the necessary equipment

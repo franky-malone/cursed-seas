@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Mr. Oaktree"
 sidebar_position: 16
 ---
 
-Thursday, December 7, 2023
-
-3:37 PM
 
 Middle age elf man. Head of the Oaktree house of Dorelta.
 

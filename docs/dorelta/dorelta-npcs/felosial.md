@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Felosial"
 sidebar_position: 4
 ---
 
-Thursday, November 30, 2023
-
-9:53 AM
 
 Young elf woman.
 

@@ -1,12 +1,9 @@
-﻿---
+---
 title: "13.05. The chitter king & the bard king"
 sidebar_position: 5
 ---
 
 
-Tuesday, June 23, 2026
-
-6:22 PM
 
 - - Golt senses a fiendish presence inside brooding mother
     - A large insectoid creature is crawling out of the larva: "Chitter

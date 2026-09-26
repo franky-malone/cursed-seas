@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Morrik Oaktree"
 sidebar_position: 15
 ---
 
-Thursday, November 30, 2023
-
-9:54 AM
 
 Eldest son of the Oaktree family. Young elf male.
 

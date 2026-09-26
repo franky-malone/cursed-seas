@@ -3,9 +3,6 @@ title: "Red Fangs tribe"
 sidebar_position: 8
 ---
 
-Thursday, November 13, 2025
-
-3:03 PM
 
 The Red Fangs are a militarized goblinoid tribe forged in the ruins of a
 shattered hobgoblin legion. Survivors of an ancient campaign, they

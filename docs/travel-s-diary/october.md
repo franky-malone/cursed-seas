@@ -3,9 +3,6 @@ title: "October"
 sidebar_position: 1
 ---
 
-Thursday, November 30, 2023
-
-1:37 PM
 
 11 October (Day 1)
 

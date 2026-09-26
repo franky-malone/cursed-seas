@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Ada Gladstone"
 sidebar_position: 7
 ---
 
-Thursday, April 25, 2024
-
-1:46 PM
 
 Member of the Temple of knowledge and an active professor. Jori seems to
 know her from his hometown. She seems to be specialized in Fey Portals

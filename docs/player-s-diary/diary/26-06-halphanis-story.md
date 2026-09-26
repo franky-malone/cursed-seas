@@ -1,11 +1,8 @@
-﻿---
+---
 title: "26.06. Halphanis' Story"
 sidebar_position: 29
 ---
 
-Wednesday, July 3, 2024
-
-7:53 AM
 
 - - Temple of Knowledge:
     - Aeriff researches about the famous vampire Eduardo

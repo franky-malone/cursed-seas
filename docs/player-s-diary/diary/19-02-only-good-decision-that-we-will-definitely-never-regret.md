@@ -3,9 +3,6 @@ title: "19.02. Only good decision that we will definitely never regret"
 sidebar_position: 19
 ---
 
-Wednesday, April 02, 2025
-
-2:03 PM
 
 - Ralto's shop of magic items:
 

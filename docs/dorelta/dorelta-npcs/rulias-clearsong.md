@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Rulias Clearsong"
 sidebar_position: 5
 ---
 
-Thursday, November 30, 2023
-
-9:53 AM
 
 Half-elf woman. Mayoress of Dorelta. She is a calm woman but the concern
 of the current situation seems to have her on edge. She was looking for

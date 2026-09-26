@@ -1,11 +1,8 @@
-﻿---
+---
 title: "03.07. Marvin the Alchemist"
 sidebar_position: 28
 ---
 
-Wednesday, July 24, 2024
-
-4:33 PM
 
 - - Vengance wins Summoner's Showdown
   - We offer to help SIlica with some errands and are tasked to help

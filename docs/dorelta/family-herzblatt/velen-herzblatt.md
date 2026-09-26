@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Velen Herzblatt"
 sidebar_position: 2
 ---
 
-Thursday, November 30, 2023
-
-9:55 AM
 
 ![](velen-herzblatt-assets/velen-herzblatt_files/image001.png)
 

@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Telrond Whiterose"
 sidebar_position: 4
 ---
 
-Friday, January 26, 2024
-
-1:38 PM
 
 ![](telrond-whiterose-assets/telrond-whiterose_files/image001.png)
 

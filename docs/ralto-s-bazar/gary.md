@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Gary"
 sidebar_position: 2
 ---
 
-Thursday, May 16, 2024
-
-9:31 AM
 
 ![](gary-assets/gary_files/image001.png)
 

@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Mini games"
 sidebar_position: 2
 ---
 
-Thursday, April 25, 2024
-
-2:00 PM
 
 The Arcane Hammer Contest
 

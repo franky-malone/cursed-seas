@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Dorn Firember"
 sidebar_position: 3
 ---
 
-Thursday, November 30, 2023
-
-3:14 PM
 
 Kespiens tutor and boss from the Silvertusk Brotherhood. He taught
 Kespien how to fight and inspire some of his spells in combat. He sent

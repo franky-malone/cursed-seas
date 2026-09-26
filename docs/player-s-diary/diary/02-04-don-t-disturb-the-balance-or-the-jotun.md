@@ -1,11 +1,8 @@
-﻿---
+---
 title: "02.04. Don't disturb the balance (or the Jotun)"
 sidebar_position: 18
 ---
 
-Wednesday, April 09, 2025
-
-4:23 PM
 
 - - The Jotun comes out of the cave to investigate the distraction we
     made

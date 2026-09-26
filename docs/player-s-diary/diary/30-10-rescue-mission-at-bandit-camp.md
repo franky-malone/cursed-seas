@@ -1,11 +1,8 @@
-﻿---
+---
 title: "30.10. Rescue Mission at Bandit Camp"
 sidebar_position: 24
 ---
 
-Wednesday, November 13, 2024
-
-11:58 AM
 
 - - Plan: Steal the boat!
     - Invisible CV and squirrel Jori sneak into the camp to get to the

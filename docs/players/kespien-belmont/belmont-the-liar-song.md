@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Belmont the liar song"
 sidebar_position: 8
 ---
 
-Thursday, November 30, 2023
-
-3:25 PM
 
 There is apparently a popular song talking about the Belmonts which gave
 them the reputation of being liars.

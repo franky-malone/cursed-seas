@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Brunn Redtile"
 sidebar_position: 2
 ---
 
-Thursday, November 30, 2023
-
-9:52 AM
 
 Rather short human.
 

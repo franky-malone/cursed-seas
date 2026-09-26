@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Longsaddle rumors"
 sidebar_position: 4
 ---
 
-Thursday, April 25, 2024
-
-1:12 PM
 
 A member of the "Order of the White Scale", located in the the Scale
 Hills to the north, passed towards Orchiva a tenday ago. He was pale as

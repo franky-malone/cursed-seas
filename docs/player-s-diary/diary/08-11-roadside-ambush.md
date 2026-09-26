@@ -1,11 +1,8 @@
-﻿---
+---
 title: "08.11. Roadside ambush"
 sidebar_position: 11
 ---
 
-Wednesday, November 12, 2025
-
-8:56 AM
 
 - - Kespien contacts Cat and get's a reply! He is in Puerto Ballena
   - Golt feels presence during the night

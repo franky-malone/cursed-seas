@@ -1,11 +1,8 @@
-﻿---
+---
 title: "18.09. Attack! Retreat! Attack!"
 sidebar_position: 25
 ---
 
-Tuesday, October 08, 2024
-
-2:25 PM
 
 - - Fight against the bandits:
     - We surrender to guards, they want travelers to pay them money for

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "18.03. How justified is ✨entering and a lil snooping✨ in the face of murderous demon-insects? "
 sidebar_position: 7
 ---
@@ -6,9 +6,6 @@ sidebar_position: 7
 18.03. How justified is “entering and a lil snooping” in the face of
 murderous demon-insects?
 
-Tuesday, April 28, 2026
-
-6:37 PM
 
 - Long rest
 - Golt feels a presence in the back of his mind and has a vision of him

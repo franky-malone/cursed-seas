@@ -1,11 +1,8 @@
-﻿---
+---
 title: "13.03.24 Fight against necromancer"
 sidebar_position: 34
 ---
 
-Monday, April 01, 2024
-
-7:47 PM
 
 - - We entered the big chamber in the family crypt of the Herzblatt
     family and a fight against Gloran Herzblatt, a necromancer!

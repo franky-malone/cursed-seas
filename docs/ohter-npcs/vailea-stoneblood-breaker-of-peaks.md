@@ -1,11 +1,8 @@
-﻿---
+---
 title: "Vailea Stoneblood, Breaker of Peaks"
 sidebar_position: 14
 ---
 
-Wednesday, February 18, 2026
-
-2:53 PM
 
 ![](vailea-stoneblood-breaker-of-peaks-assets/vailea-stoneblood-breaker-of-peaks_files/image001.png)
 

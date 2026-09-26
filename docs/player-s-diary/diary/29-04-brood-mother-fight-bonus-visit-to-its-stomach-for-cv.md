@@ -1,11 +1,8 @@
-﻿---
+---
 title: "29.04. Brood mother fight (bonus visit to its stomach for CV)"
 sidebar_position: 6
 ---
 
-Tuesday, May 12, 2026
-
-5:48 PM
 
 
 

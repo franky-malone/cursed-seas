@@ -4,9 +4,6 @@ sidebar_position: 37
 ---
 
 
-Wednesday, January 24, 2024
-
-9:46 AM
 
 - - Someone slipped a note underneath the door to Jori's room during the
     night: a handwritten note with no signature or name, but with the
