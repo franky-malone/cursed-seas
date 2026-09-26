@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Red Fangs tribe"
 sidebar_position: 8
 ---
@@ -11,7 +11,7 @@ The Red Fangs are a militarized goblinoid tribe forged in the ruins of a
 shattered hobgoblin legion. Survivors of an ancient campaign, they
 merged with ogre clans and goblin scavengers to form a nomadic warband,
 dedicated to conquest, vengeance, and the humiliation of the
-�€œcivilized.�€? They see destruction as divine reclamation, tearing
+“civilized.” They see destruction as divine reclamation, tearing
 down what soft races build, leaving only red-stained fangs and ash
 behind.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Crafting healing potions"
 sidebar_position: 12
 ---
@@ -10,7 +10,7 @@ sidebar_position: 12
   - suitable place (apothecary, laboratory or alchemist's workshop),
   - special ingredients priced at 25 GP per potion,
   - herbalist kit,
-  - have access to the �€œcure wounds�€? spell,
+  - have access to the “cure wounds” spell,
 
 
 

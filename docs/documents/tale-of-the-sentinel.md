@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tale of the Sentinel"
 sidebar_position: 4
 ---
@@ -28,7 +28,7 @@ a harbinger of doom to all who dare to cross his path.
 
 The Sentinel is no mere apparition; he is a harbinger of carnage, a
 terror born of the darkest depths. When he emerges from the waters'
-embrace, his actions are clear�€”to rend and tear, to maim and devour.
+embrace, his actions are clear—to rend and tear, to maim and devour.
 None who cross his path are spared from his wrath, for his appetite
 knows no bounds. His victims are left with their limbs torn asunder by
 the savage bite of his helm. The Sentinel shows no mercy, no remorse, as
@@ -39,12 +39,12 @@ comes with crushing power of the waves, leaving a sea of red behind.
 
 But heed this, dear listeners, for the tale of the Sentinel is not one
 of mindless savagery alone. Whispers carried on the salt-laden breeze
-speak of a deeper truth�€”a purpose that drives the creature's
+speak of a deeper truth—a purpose that drives the creature's
 relentless pursuit. It is said that the Sentinel is moved by a darken
-power, a demon if you like, to seek something�€”or someone�€”lost to the
+power, a demon if you like, to seek something—or someone—lost to the
 depths of time. Some say it is treasure beyond imagining, a hoard of
 wealth and power that could shake the very foundations of the world.
-Others whisper of a soul�€”a lost love or a fallen comrade�€”bound to
+Others whisper of a soul—a lost love or a fallen comrade—bound to
 the sea by a cruel twist of fate.
 
 
@@ -52,6 +52,6 @@ the sea by a cruel twist of fate.
 Whatever the truth may be, the Sentinel's quest is one shrouded in
 mystery and shadow, a journey that leads him ever onward, driven by an
 unseen force that binds him to the sea. So let the tale of the Sentinel
-serve as a warning�€”a reminder of the dangers that lurk beneath the
+serve as a warning—a reminder of the dangers that lurk beneath the
 waves, and the secrets that lie buried in the depths of the ocean's
 embrace.

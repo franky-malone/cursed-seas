@@ -14,11 +14,11 @@ continent and has one of the most impressive fleets of ships known, only
 rivaled by Gardis.
 
 Due to the recent discovery of the
-[Lútaca](/docs/regions/l-taca/)
+[LÃºtaca](/docs/regions/l-taca/)
 continent, it has seen a new era thanks to the new riches brought from
-Lútaca. It has control over the entire continental northeast, over Fin
+LÃºtaca. It has control over the entire continental northeast, over Fin
 Island and the first city of
-[Lútaca](/docs/regions/l-taca/),
+[LÃºtaca](/docs/regions/l-taca/),
 [Puerto
 Arena](/docs/regions/l-taca/puerto-arena).
 But their influence extends as far as Longsaddle, having consuls at

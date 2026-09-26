@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Urs Diaries"
 sidebar_position: 14
 ---
@@ -25,11 +25,11 @@ Something went wrong. I felt the weave unstability. I woke in a forest
 that weeps blood, beneath trees with faces that watch without knowing
 how I landed here or how much time has past. I am alone, Ralto is
 nowhere to be seen. The air itself hums with hunger, and I have blanks
-in my memory. The light won�€™t stay lit much longer.
+in my memory. The light won’t stay lit much longer.
 
 
 
-Between the changes, I�€™ve managed to build a home from shadowwood and
+Between the changes, I’ve managed to build a home from shadowwood and
 a workshop in a nearby cave. The ore from this land hums with pain. But
 I can't temper it, nobody can. Perhaps I can build something to control
 it.
@@ -39,7 +39,7 @@ people, I can't shake the thought that I'm constantly being watched.
 
 
 
-This place�€� it breathes through me. Something lives by the water. A
+This place… it breathes through me. Something lives by the water. A
 distant weep that remembers being flesh. It seeps into the soul.
 
 
@@ -54,8 +54,8 @@ I must stay me.
 
 
 
-Light fades �€��€� metal sings �€�.. Ralto, if you �€�.. the forge
+Light fades …… metal sings ….. Ralto, if you ….. the forge
 
-It burns �€�.. Silver �€�. skin �€�. Can't control anym�€�.
+It burns ….. Silver …. skin …. Can't control anym….
 
-I�€�. URS�€�.CURSE.�€�RIA
+I…. URS….CURSE.…RIA

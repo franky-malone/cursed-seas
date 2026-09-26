@@ -3,7 +3,7 @@ title: "18.03. How justified is ✨entering and a lil snooping✨ in the face of
 sidebar_position: 7
 ---
 
-18.03. How justified is �œ�entering and a lil snooping�œ� in the face of
+18.03. How justified is “entering and a lil snooping” in the face of
 murderous demon-insects?
 
 Tuesday, April 28, 2026

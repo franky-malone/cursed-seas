@@ -1,4 +1,4 @@
-﻿---
+---
 title: "12.11. A deadly baseball game"
 sidebar_position: 10
 ---
@@ -34,5 +34,5 @@ Dienstag, 17. Februar 2026
 
 
 
-�€œThat�€™s the beautiful thing about baseball. You can be any size and
-be successful.�€? �€“ Andrew Benintendi
+“That’s the beautiful thing about baseball. You can be any size and
+be successful.” – Andrew Benintendi

@@ -28,3 +28,11 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+/* Hide breadcrumbs only on the World Map page */
+.world-map-page {
+  display: contents;
+}
+
+body:has(.world-map-page) .theme-doc-breadcrumbs {
+  display: none;
+}

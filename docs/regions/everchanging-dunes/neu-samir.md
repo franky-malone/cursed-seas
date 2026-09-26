@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Neu Samir"
 sidebar_position: 2
 ---
@@ -15,7 +15,7 @@ Crystal sea and by caravan through the Mauer Mountains.
 
 
 
-Unfortunately, the Sea of �€‹�€‹Crystal is extremely dangerous due to
+Unfortunately, the Sea of Crystal is extremely dangerous due to
 its unpredictable currents that cause ships to run aground on the
 numerous coral reefs leaving the caravans as the main source to
 transport valuable cargo and paying the toll at Steinkeep, what is the

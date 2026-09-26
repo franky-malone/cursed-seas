@@ -1,4 +1,4 @@
-﻿---
+---
 title: "19.02. Only good decision that we will definitely never regret"
 sidebar_position: 19
 ---
@@ -9,7 +9,7 @@ Wednesday, April 02, 2025
 
 - Ralto's shop of magic items:
 
-  - Ralto offers 4000 GP for the Autmun Scimitar �€“ an offer too good
+  - Ralto offers 4000 GP for the Autmun Scimitar – an offer too good
     to be true?? There seems to be something hidden about the scimitar
     that only Ralto recognizes... We sell it anyway for short-term gains
   - 300 GP for Kespien's dagger
@@ -41,4 +41,4 @@ Wednesday, April 02, 2025
     - We lure out the giant with wyvern sounds
     - CV sneaks into the cave again to try to feed a potion of reduction
       to the wolf to get it out of the cage
-    - The wolf in the cave turns into a half-orc druid �€“ wtf?!
+    - The wolf in the cave turns into a half-orc druid – wtf?!

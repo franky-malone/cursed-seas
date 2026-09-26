@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Halphanis Story"
 sidebar_position: 5
 ---
@@ -132,7 +132,7 @@ contemplative. He grew distant, spending hours alone in his cabin or
 with his eyes fixed on the horizon as if he was searching for something
 only he could see. Some also said to have him heard talking to himself
 inside his chambers, repeting a word over and over, Ipletherion. He also
-brought with him a weapon unlike any I had ever seen�€”a spear he called
+brought with him a weapon unlike any I had ever seen—a spear he called
 by the name Unheilmeer. It was made of a metal as dark as the deepest
 waters. He never left anyone get close enough to it but I felt a strange
 pressence emanating from it.

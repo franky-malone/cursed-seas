@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Temple of Knowledge"
 sidebar_position: 1
 ---
@@ -18,7 +18,7 @@ grand edifice stands as a beacon for scholars, arcanists, bards, and all
 seekers of wisdom who dare to tread its hallowed halls. Whispers of old
 claim that within its labyrinthine depths resides the sum total of
 mortal understanding, preserved within the countless tomes and ancient
-scrolls that line its shelves. A common saying in Norberia tells �€œIf
+scrolls that line its shelves. A common saying in Norberia tells “If
 it ain't in the Temple's books, it ain't nowhere yet"
 
 
