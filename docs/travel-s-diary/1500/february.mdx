@@ -1,4 +1,4 @@
-﻿---
+---
 title: "February"
 sidebar_position: 5
 ---
@@ -78,8 +78,27 @@ Golt
 
 
 
-26 of February (Day 135)
 
+import {
+  TravelDiary,
+  DiaryNav,
+  DiaryEntry
+} from '@site/src/components/TravelDiary';
+
+<TravelDiary>
+
+<DiaryNav
+  days={[
+    {id: 'feb-26', number: 26, date: '26 February', day: 135},
+    {id: 'feb-30', number: 30, date: '30 February', day: 139},
+  ]}
+/>
+<DiaryEntry
+  id="feb-26"
+  date="26 February"
+  day={135}
+  preview="Kespien Birthday"
+>
 26 February
 
 Kespien Birthday
@@ -106,8 +125,14 @@ accomplish for what they owe him.
 
 
 
-30 of February (Day 139)
 
+</DiaryEntry>
+<DiaryEntry
+  id="feb-30"
+  date="30 February"
+  day={139}
+  preview="Exam of the Temple of Knowledge"
+>
 Exam of the Temple of Knowledge
 
 
@@ -222,3 +247,7 @@ The group then took the rest of the night to discuss and get some rest.
 
 
 
+
+</DiaryEntry>
+
+</TravelDiary>

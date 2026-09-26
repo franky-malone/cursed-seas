@@ -1,14 +1,37 @@
 import React, {
   createContext,
   useContext,
+  useEffect,
   useState,
 } from 'react';
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 import styles from './styles.module.css';
 
 const TravelDiaryContext = createContext(null);
 
-export function TravelDiary({children, latestId = null}) {
+/*
+ * CURRENT CAMPAIGN DAY
+ *
+ * Change ONLY these two values when the campaign advances.
+ *
+ * Examples:
+ *
+ * March 21:
+ * url: '/docs/travel-s-diary/1500/march-current-month'
+ * id: 'mar-21'
+ *
+ * April 1:
+ * url: '/docs/travel-s-diary/1500/april'
+ * id: 'apr-1'
+ */
+const CURRENT_DAY = {
+  url: '/docs/travel-s-diary/1500/march-current-month',
+  id: 'mar-20',
+};
+
+export function TravelDiary({children}) {
   const [openEntries, setOpenEntries] = useState(new Set());
   const [activeId, setActiveId] = useState(null);
 
@@ -44,7 +67,6 @@ export function TravelDiary({children, latestId = null}) {
     setEntryOpen(id, true);
     setActiveId(id);
 
-    // Wait until React has expanded the entry before scrolling.
     requestAnimationFrame(() => {
       requestAnimationFrame(() => {
         const element = document.getElementById(id);
@@ -77,12 +99,46 @@ export function TravelDiary({children, latestId = null}) {
     setOpenEntries(new Set());
   };
 
+  /*
+   * If the page is opened with a hash such as:
+   *
+   * #mar-20
+   *
+   * automatically open that diary entry.
+   */
+  useEffect(() => {
+    if (typeof window === 'undefined') {
+      return;
+    }
+
+    const hash = window.location.hash.replace('#', '');
+
+    if (!hash) {
+      return;
+    }
+
+    const element = document.getElementById(hash);
+
+    if (!element) {
+      return;
+    }
+
+    setEntryOpen(hash, true);
+    setActiveId(hash);
+
+    setTimeout(() => {
+      element.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start',
+      });
+    }, 100);
+  }, []);
+
   return (
     <TravelDiaryContext.Provider
       value={{
         openEntries,
         activeId,
-        latestId,
         setActiveId,
         toggleEntry,
         openEntry,
@@ -100,11 +156,12 @@ export function TravelDiary({children, latestId = null}) {
 export function DiaryNav({days}) {
   const {
     activeId,
-    latestId,
     openEntry,
     expandAll,
     collapseAll,
   } = useContext(TravelDiaryContext);
+
+  const currentDayUrl = useBaseUrl(CURRENT_DAY.url);
 
   return (
     <div className={styles.navWrapper}>
@@ -115,12 +172,10 @@ export function DiaryNav({days}) {
         <div className={styles.days}>
           {days.map((day) => {
             const isActive = activeId === day.id;
-            const isLatest = latestId === day.id;
 
             const classes = [
               styles.dayButton,
               isActive ? styles.activeDay : '',
-              isLatest ? styles.latestDay : '',
             ]
               .filter(Boolean)
               .join(' ');
@@ -131,43 +186,40 @@ export function DiaryNav({days}) {
                 type="button"
                 className={classes}
                 onClick={() => openEntry(day.id)}
-                title={
-                  isLatest
-                    ? `${day.date} — Day ${day.day} — Latest entry`
-                    : `${day.date} — Day ${day.day}`
-                }
+                title={`${day.date} — Day ${day.day}`}
                 aria-current={isActive ? 'true' : undefined}
               >
                 {day.number}
-
-                {isLatest && (
-                  <span
-                    className={styles.latestDot}
-                    aria-label="Latest entry"
-                    title="Latest entry"
-                  />
-                )}
               </button>
             );
           })}
         </div>
 
-        <div className={styles.navActions}>
-          <button
-            type="button"
-            className={styles.actionButton}
-            onClick={expandAll}
+        <div className={styles.navBottom}>
+          <a
+            className={styles.currentDayButton}
+href={`${currentDayUrl}#${CURRENT_DAY.id}`}
           >
-            Expand all
-          </button>
+            Go to current day →
+          </a>
 
-          <button
-            type="button"
-            className={styles.actionButton}
-            onClick={collapseAll}
-          >
-            Collapse all
-          </button>
+          <div className={styles.navActions}>
+            <button
+              type="button"
+              className={styles.actionButton}
+              onClick={expandAll}
+            >
+              Expand all
+            </button>
+
+            <button
+              type="button"
+              className={styles.actionButton}
+              onClick={collapseAll}
+            >
+              Collapse all
+            </button>
+          </div>
         </div>
       </nav>
     </div>
@@ -186,19 +238,16 @@ export function DiaryEntry({
   const {
     openEntries,
     activeId,
-    latestId,
     setActiveId,
     toggleEntry,
   } = useContext(TravelDiaryContext);
 
-  const explicitlyControlled =
-    openEntries.has(id);
+  const explicitlyControlled = openEntries.has(id);
 
   const open =
     explicitlyControlled || defaultOpen;
 
   const isActive = activeId === id;
-  const isLatest = latestId === id;
 
   return (
     <article
@@ -207,7 +256,6 @@ export function DiaryEntry({
       className={[
         styles.entry,
         isActive ? styles.activeEntry : '',
-        isLatest ? styles.latestEntry : '',
       ]
         .filter(Boolean)
         .join(' ')}
@@ -215,17 +263,9 @@ export function DiaryEntry({
     >
       <header className={styles.entryHeader}>
         <div>
-          <div className={styles.dateRow}>
-            <h2 className={styles.date}>
-              {date}
-            </h2>
-
-            {isLatest && (
-              <span className={styles.latestBadge}>
-                Latest
-              </span>
-            )}
-          </div>
+          <h2 className={styles.date}>
+            {date}
+          </h2>
 
           {title && (
             <div className={styles.entryTitle}>

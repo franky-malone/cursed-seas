@@ -2,6 +2,10 @@
   margin-top: 1rem;
 }
 
+/* =========================================================
+   STICKY NAVIGATION
+   ========================================================= */
+
 .navWrapper {
   position: sticky;
   top: var(--ifm-navbar-height);
@@ -17,19 +21,21 @@
   padding: 0.65rem 0;
 }
 
+/* =========================================================
+   DAY BUTTONS
+   ========================================================= */
+
 .days {
   display: flex;
   gap: 0.4rem;
 
-  padding-bottom: 0.55rem;
+  padding-bottom: 0.65rem;
 
   overflow-x: auto;
   scrollbar-width: thin;
 }
 
 .dayButton {
-  position: relative;
-
   flex: 0 0 auto;
 
   min-width: 2.5rem;
@@ -62,38 +68,60 @@
   color: var(--ifm-color-white);
 }
 
-.latestDay {
-  border-width: 2px;
-  border-color: var(--ifm-color-primary);
-}
+/* =========================================================
+   BOTTOM PART OF NAVIGATION
+   ========================================================= */
 
-.activeDay.latestDay {
-  border-color: var(--ifm-color-primary-darkest);
-}
+.navBottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
 
-.latestDot {
-  position: absolute;
-
-  top: -0.25rem;
-  right: -0.25rem;
-
-  width: 0.55rem;
-  height: 0.55rem;
-
-  border: 2px solid var(--ifm-background-color);
-  border-radius: 50%;
-
-  background: var(--ifm-color-primary);
-}
-
-.activeDay .latestDot {
-  background: var(--ifm-color-primary-darkest);
+  padding-bottom: 0.65rem;
 }
 
 .navActions {
   display: flex;
+  align-items: center;
   gap: 1rem;
 }
+
+/* =========================================================
+   CURRENT DAY BUTTON
+   ========================================================= */
+
+.currentDayButton {
+  display: inline-flex;
+  align-items: center;
+
+  padding: 0.4rem 0.75rem;
+
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: 0.45rem;
+
+  color: var(--ifm-color-primary);
+
+  font-size: 0.85rem;
+  font-weight: 700;
+
+  text-decoration: none;
+
+  transition:
+    background 0.15s ease,
+    color 0.15s ease;
+}
+
+.currentDayButton:hover {
+  background: var(--ifm-color-primary);
+  color: var(--ifm-color-white);
+
+  text-decoration: none;
+}
+
+/* =========================================================
+   EXPAND / COLLAPSE
+   ========================================================= */
 
 .actionButton {
   padding: 0;
@@ -114,6 +142,10 @@
   text-decoration: underline;
 }
 
+/* =========================================================
+   DIARY ENTRIES
+   ========================================================= */
+
 .entry {
   scroll-margin-top: calc(var(--ifm-navbar-height) + 7rem);
 
@@ -127,10 +159,6 @@
   border-bottom-color: var(--ifm-color-primary);
 }
 
-.latestEntry {
-  position: relative;
-}
-
 .entryHeader {
   display: flex;
   justify-content: space-between;
@@ -140,34 +168,12 @@
   margin-bottom: 1rem;
 }
 
-.dateRow {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.6rem;
-}
-
 .date {
   margin: 0;
 
   font-size: 1.55rem;
   text-transform: uppercase;
   letter-spacing: 0.03em;
-}
-
-.latestBadge {
-  padding: 0.18rem 0.5rem;
-
-  border: 1px solid var(--ifm-color-primary);
-  border-radius: 999px;
-
-  color: var(--ifm-color-primary);
-
-  font-size: 0.7rem;
-  font-weight: 700;
-  line-height: 1.2;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
 }
 
 .dayLabel {
@@ -207,6 +213,10 @@
   display: none;
 }
 
+/* =========================================================
+   READ / HIDE ENTRY BUTTON
+   ========================================================= */
+
 .expandButton {
   padding: 0;
 
@@ -225,6 +235,10 @@
   text-decoration: underline;
 }
 
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
 @media (max-width: 600px) {
   .navWrapper {
     margin-left: -0.5rem;
@@ -242,7 +256,13 @@
     gap: 0.5rem;
   }
 
+  .navBottom {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
   .navActions {
+    width: 100%;
     justify-content: space-between;
   }
 

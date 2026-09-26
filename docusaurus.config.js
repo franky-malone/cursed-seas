@@ -127,7 +127,7 @@ const config = {
           items: [
             {
               label: "Travel's Diary",
-              to: '/docs/travel-s-diary/march-current-month',
+              to: '/docs/travel-s-diary/1500/march-current-month',
             },
             {
               label: "Players' Diary",
