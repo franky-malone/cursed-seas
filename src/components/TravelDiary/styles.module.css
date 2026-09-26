@@ -1,0 +1,252 @@
+.diary {
+  margin-top: 1rem;
+}
+
+.navWrapper {
+  position: sticky;
+  top: var(--ifm-navbar-height);
+  z-index: 5;
+
+  margin-bottom: 2rem;
+
+  background: var(--ifm-background-color);
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.dayNav {
+  padding: 0.65rem 0;
+}
+
+.days {
+  display: flex;
+  gap: 0.4rem;
+
+  padding-bottom: 0.55rem;
+
+  overflow-x: auto;
+  scrollbar-width: thin;
+}
+
+.dayButton {
+  position: relative;
+
+  flex: 0 0 auto;
+
+  min-width: 2.5rem;
+  height: 2.5rem;
+
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 0.45rem;
+
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition:
+    background 0.15s ease,
+    border-color 0.15s ease,
+    transform 0.15s ease;
+}
+
+.dayButton:hover {
+  border-color: var(--ifm-color-primary);
+  background: var(--ifm-color-emphasis-100);
+}
+
+.activeDay {
+  border-color: var(--ifm-color-primary);
+  background: var(--ifm-color-primary);
+  color: var(--ifm-color-white);
+}
+
+.latestDay {
+  border-width: 2px;
+  border-color: var(--ifm-color-primary);
+}
+
+.activeDay.latestDay {
+  border-color: var(--ifm-color-primary-darkest);
+}
+
+.latestDot {
+  position: absolute;
+
+  top: -0.25rem;
+  right: -0.25rem;
+
+  width: 0.55rem;
+  height: 0.55rem;
+
+  border: 2px solid var(--ifm-background-color);
+  border-radius: 50%;
+
+  background: var(--ifm-color-primary);
+}
+
+.activeDay .latestDot {
+  background: var(--ifm-color-primary-darkest);
+}
+
+.navActions {
+  display: flex;
+  gap: 1rem;
+}
+
+.actionButton {
+  padding: 0;
+
+  border: 0;
+  background: transparent;
+
+  color: var(--ifm-color-primary);
+
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+
+  cursor: pointer;
+}
+
+.actionButton:hover {
+  text-decoration: underline;
+}
+
+.entry {
+  scroll-margin-top: calc(var(--ifm-navbar-height) + 7rem);
+
+  margin-bottom: 2.5rem;
+  padding: 1rem 0 1.5rem;
+
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.activeEntry {
+  border-bottom-color: var(--ifm-color-primary);
+}
+
+.latestEntry {
+  position: relative;
+}
+
+.entryHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+
+  margin-bottom: 1rem;
+}
+
+.dateRow {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.date {
+  margin: 0;
+
+  font-size: 1.55rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.latestBadge {
+  padding: 0.18rem 0.5rem;
+
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: 999px;
+
+  color: var(--ifm-color-primary);
+
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.dayLabel {
+  flex-shrink: 0;
+
+  padding: 0.3rem 0.65rem;
+
+  border-radius: 999px;
+
+  background: var(--ifm-color-emphasis-200);
+
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.entryTitle {
+  margin-top: 0.3rem;
+
+  color: var(--ifm-color-emphasis-700);
+
+  font-size: 0.95rem;
+  font-style: italic;
+}
+
+.preview {
+  margin-bottom: 1rem;
+
+  color: var(--ifm-color-emphasis-800);
+}
+
+.content {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.expandButton {
+  padding: 0;
+
+  border: 0;
+  background: transparent;
+
+  color: var(--ifm-color-primary);
+
+  font: inherit;
+  font-weight: 600;
+
+  cursor: pointer;
+}
+
+.expandButton:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .navWrapper {
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  .date {
+    font-size: 1.3rem;
+  }
+
+  .entryHeader {
+    gap: 0.5rem;
+  }
+
+  .navActions {
+    justify-content: space-between;
+  }
+
+  .actionButton {
+    font-size: 0.8rem;
+  }
+}
