@@ -244,7 +244,7 @@ const locations = [
     name: 'Emerald Hills',
     x: 47.87,
     y: 53.70,
-    link: '/docs/regions/emerald-hills/',
+    link: '/docs/regions/emerald-mangroves/Emerald-hills',
   },
 ];
 
