@@ -3,45 +3,60 @@ title: "Spellbook Transcription Progress"
 sidebar_position: 2
 ---
 
+A record of Kespien's available spell scrolls, transcription resources, and progress copying spells into his spellbook.
 
-Spell Scroll Transcription:
+## Transcription Rules
 
-For every level you need 50gp worth of material components and 2h of
-study to decipher the code.
+### Spell Scrolls
 
+Copying a spell from a spell scroll requires:
 
+| Cost | Per Spell Level |
+|---|---:|
+| **Time** | 2 hours |
+| **Materials** | 50 gp |
 
-Replacing your Spellbook:
+The time is spent studying the scroll and deciphering its magical notation.
 
-For every level you need 10gp worth of material components and 1h of
-study to copy into a new spellbook.
+### Replacing the Spellbook
 
+Copying a known spell into a replacement spellbook requires:
 
+| Cost | Per Spell Level |
+|---|---:|
+| **Time** | 1 hour |
+| **Materials** | 10 gp |
 
-Spellscrolls at hand:
+---
 
-Skywrite - 4h / 100gp
+## Available Spell Scrolls
 
-Enhance Ability - 4h 100gp
+| Spell | Time | Cost |
+|---|---:|---:|
+| **Skywrite** | 4 hours | 100 gp |
+| **Enhance Ability** | 4 hours | 100 gp |
 
+---
 
+## Available Resources
 
+| Resource | Remaining |
+|---|---:|
+| **Transcription Time** | 12 hours |
+| **Transcription Funds** | 120 gp |
 
+---
 
-Leftover transcription: 12h / 120gp
+## Transcription Log
 
+### Journey to the Misty Hills
 
+**Spent:** 4 hours · 40 gp
 
-[TABLE]
+Spells copied from **Victoria's Spellbook**:
 
-
-
-Transcription log:
-
-Journey to the Misty Hills - 4h - 40GP
-
-From Victorias Spellbook
-
-- Mage Armor 1h / 10gp
-- Expeditious Retreat 1h / 10gp
-- Mage Blade 2h / 20gp
+| Spell | Time | Cost |
+|---|---:|---:|
+| Mage Armor | 1 hour | 10 gp |
+| Expeditious Retreat | 1 hour | 10 gp |
+| Mage Blade | 2 hours | 20 gp |

@@ -1,4 +1,8 @@
 ﻿{
-    "label":  "Kespien Belmont",
-    "position":  1
+  "label": "Kespien Belmont",
+  "position": 1,
+  "link": {
+    "type": "doc",
+    "id": "players/kespien-belmont/kespien-belmont"
+  }
 }
