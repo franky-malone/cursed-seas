@@ -95,7 +95,7 @@ For the first time, Jori had both a reason and the courage to leave Mordian.
 
 Jori knew little about the location of Myth Coralis or the nature of the [Unheilmeer](/docs/important-items/unheilmeer).
 
-Travellers had once told him of an enormous library in [Longsaddle](/docs/regions/longsaddle) known as the [Temple of Knowledge](/docs/longsaddle/temple-of-knowledge/temple-of-knowledge). If answers existed anywhere, Jori believed he might find them there.
+Travellers had once told him of an enormous library in [Longsaddle](/docs/regions/longsaddle) known as the [Temple of Knowledge](/docs/longsaddle/temple-of-knowledge/). If answers existed anywhere, Jori believed he might find them there.
 
 Before leaving, his mentor asked him to visit an old friend in [Dorelta](/docs/regions/autumn-forest/dorelta): [Miranda Greywolf](/docs/dorelta/dorelta-npcs/miranda-greywolf), a fellow protector of nature.
 
