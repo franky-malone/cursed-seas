@@ -1,4 +1,8 @@
 ﻿{
-    "label":  "Jori",
-    "position":  3
+  "label": "Jori",
+  "position": 3,
+  "link": {
+    "type": "doc",
+    "id": "players/jori/jori"
+  }
 }

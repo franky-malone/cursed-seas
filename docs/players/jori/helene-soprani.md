@@ -5,20 +5,21 @@ sidebar_position: 9
 
 ![](helene-soprani-assets/helene-soprani_files/image001.jpg)
 
-Young female Halfling with a marvellous voice. She seems to be an
-acclaimed musician. She was seen for the first time in the tavern "The
-broken Scale" singing the popular "[Belmont the
-liar](/docs/players/kespien-belmont/belmont-the-liar-song)"
-song.
+| | |
+|---|---|
+| **Race** | Halfling |
+| **Occupation** | Musician |
+| **Origin** | [Mordian](/docs/regions/mauer-mountains/mordian) |
+| **Connection** | Childhood friend of Jori |
 
-She is apparently a friend of Jori from back in Mordian.
+## Overview
 
-At some point she was travelling with someone named Connor who left for
-Puerto Ballena.
+Helene Soprani is a young halfling musician with a marvellous voice and an old friend of [Jori](/docs/players/jori/) from Mordian.
 
-She was tasked to write a song about the group (with some focus on
-Aeriff) and their adventures in Dorelta.
+She was first encountered performing at [The Broken Scale](/docs/longsaddle/the-broken-scale-tavern/the-broken-scale-tavern.md), where she sang the popular [Belmont the Liar](/docs/players/kespien-belmont/belmont-the-liar-song).
 
-She also didn't seem to be much concerned about singing the Belmont
-song, since it was one of the audience's favourite.
+Helene was travelling with someone named **Connor**, who later departed for [Puerto Ballena](/docs/regions/puerto-ballena).
 
+She was eventually tasked with composing a song about the group's adventures in Dorelta, with particular focus on Aeriff.
+
+Despite the group's connection to Kespien, Helene had few reservations about performing *[Belmont the Liar](/docs/players/kespien-belmont/belmont-the-liar-song)* after all, it was one of the audience's favourites.

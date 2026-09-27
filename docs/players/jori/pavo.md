@@ -3,5 +3,8 @@ title: "Pavo"
 sidebar_position: 3
 ---
 
+# Pavo
 
-Totem animal of Jori. It is a sea eagle.
+**Pavo** is one of [Jori's](/docs/players/jori/) druidic totem animals.
+
+He takes the form of a **sea eagle**.
