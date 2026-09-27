@@ -3,9 +3,6 @@ title: "The plague"
 sidebar_position: 14
 ---
 
-sábado, 21 de febrero de 2026
-
-
 It started some months ago when the first victim presented the symptoms.
 It seems not to affect everyone the same and it is not contagious by
 touch.

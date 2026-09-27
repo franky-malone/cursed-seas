@@ -9,32 +9,33 @@ to the tavern, either there is music coming out of it or a loud laugh
 coming from Vorskann.
 
 
+### Special drinks
 
+**Dragon's Breath**
 
+> A drink of Vorskann's own creation. It is said that
+> it is too strong that even the hardiest dwarves can't handle it without
+> being inmediately intoxicated. Anyone who is able to withstand it, will
+> earn Vorskann's trust.
 
-Special drinks
+**Zwergenmeister**
 
-Dragon's Breath --/> A drink of Vorskann's own creation. It is said that
-it is too strong that even the hardiest dwarves can't handle it without
-being inmediately intoxicated. Anyone who is able to withstand it, will
-earn Vorskann's trust.
+### Special foods
 
-Zwergenmeister
+**Dragon's Eye Dessert**
 
-Special foods
+> A decadent dessert resembling a dragon's eye, made
+> with a sphere of chocolate ganache encased in a layer of edible gold
+> leaf, served atop a bed of raspberry coulis.
 
-Dragon's Eye Dessert: A decadent dessert resembling a dragon's eye, made
-with a sphere of chocolate ganache encased in a layer of edible gold
-leaf, served atop a bed of raspberry coulis.
+### Other amenities
 
-Other amenities
+**Dragon's Schicha**
 
-Dragon's Schicha --/> Allows to create figures in the air like Gandalf
-in the Lord of the Rings
+> Allows to create figures in the air while smoking it.
 
-/
-Live music --/> Vorskann loves live music and it isn't rare that every
-night there are some bards (most of them are here to join the temple)
-playing some music in exchange of food or accomodation.
+**Live music**
 
-
+> Vorskann loves live music and it isn't rare that every
+> night there are some bards (most of them are here to join the temple)
+> playing some music in exchange of food or accomodation.
