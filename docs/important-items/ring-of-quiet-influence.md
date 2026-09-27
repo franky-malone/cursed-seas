@@ -3,10 +3,7 @@ title: "Ring of quiet influence"
 sidebar_position: 11
 ---
 
-miércoles, 8 de mayo de 2024
-
-
-Ring of Quiet Influence Wondrous item, rare (requires attunement)
+(Requires attunement)
 
 
 

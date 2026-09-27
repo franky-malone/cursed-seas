@@ -11,7 +11,7 @@ flexible, allowing for swift movement while providing excellent
 protection. It shimmers with a faint green hue, reminiscent of lush
 forest foliage.
 
-Scale Male stats made of big leaves/
+Scale Male stats made of big leaves
 
 
 Photosynthetic Resilience:
@@ -24,3 +24,5 @@ hit point for each Hit Die spent during the short rest. This minor
 regeneration does not function in darkness or artificial light.
 
 Sylvan Concealment:
+
+Once per long rest, the wearer can invoke the power of the vestments to blend seamlessly with natural surroundings for a brief period. When activated, the armor grants advantage on Stealth checks made to hide in forested areas or areas with dense vegetation. This effect lasts for up to one hour or until the wearer attacks or casts a spell.

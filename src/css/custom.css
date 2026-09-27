@@ -36,3 +36,12 @@
 body:has(.world-map-page) .theme-doc-breadcrumbs {
   display: none;
 }
+@media (max-width: 996px) {
+  .navbar-wiki-link {
+    display: flex !important;
+  }
+}
+/* Hide the # anchor shown when hovering over headings */
+.hash-link {
+  display: none;
+}

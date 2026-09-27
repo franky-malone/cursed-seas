@@ -35,7 +35,7 @@ export default function Home() {
 
           <Link
             className={styles.enterButton}
-            to="/docs/regions/norberia/"
+            to="/docs/world-map"
           >
             ENTER THE WORLD
           </Link>

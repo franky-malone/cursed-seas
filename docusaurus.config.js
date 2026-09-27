@@ -97,26 +97,27 @@ const config = {
       respectPrefersColorScheme: false,
     },
 
-    navbar: {
-      title: 'Cursed Seas',
-      logo: {
-        alt: 'Cursed Seas Logo',
-        src: 'img/favicon.ico',
-      },
+navbar: {
+  title: 'Cursed Seas',
+  logo: {
+    alt: 'Cursed Seas Logo',
+    src: 'img/favicon.ico',
+  },
 
-      items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'wikiSidebar',
-          position: 'left',
-          label: 'Wiki',
-        },
-        {
-          type: 'search',
-          position: 'left',
-        },
-      ],
+  items: [
+    {
+      type: 'docSidebar',
+      sidebarId: 'wikiSidebar',
+      position: 'left',
+      label: 'Wiki',
+      className: 'navbar-wiki-link',
     },
+    {
+      type: 'search',
+      position: 'left',
+    },
+  ],
+},
 
     footer: {
       style: 'dark',

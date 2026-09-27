@@ -4,12 +4,12 @@ sidebar_position: 2
 ---
 
 [Silica
-Stein](/docs/players/aeriff/sacred-plume-silica-stein)
+Stein](/docs/longsaddle/temple-of-knowledge/sacred-plume-silica-stein)
 
 [Ada
-Gladstone](/docs/players/jori/ada-gladstone)
+Gladstone](/docs/longsaddle/temple-of-knowledge/ada-gladstone)
 
-[Brasvik](/docs/players/aeriff/brasvik)
+[Brasvik](/docs/longsaddle/temple-of-knowledge/brasvik)
 
 [Elosial](/docs/longsaddle/temple-of-knowledge/elosial)
 
@@ -28,4 +28,6 @@ Bananicus](/docs/longsaddle/temple-of-knowledge/sacred-plume-koko-bananicus)
 
 [Eulius
 Federreich](/docs/longsaddle/temple-of-knowledge/highets-inkwell-eulius-federreich)
+
+
 

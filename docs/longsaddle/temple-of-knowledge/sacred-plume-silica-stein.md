@@ -1,13 +1,12 @@
 ---
 title: "Sacred Plume Silica Stein"
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 
-See [Silica
-Stein](/docs/players/aeriff/sacred-plume-silica-stein)
+Sacred Plume of Archanabiology of the Temple of Knowledge. He is
+renowned for having written the "Bestiary Stein", which is supposed to
+contain all information regarding creatures and monsters that existed.
+He is also the adoptive father of Aeriff.
 
 ![](sacred-plume-silica-stein-assets/sacred-plume-silica-stein_files/image001.jpg)
-
-
-
