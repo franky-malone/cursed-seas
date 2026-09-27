@@ -1,4 +1,4 @@
-﻿---
+---
 title: "15.01. Battle at the Crater"
 sidebar_position: 21
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rosaline"
 sidebar_position: 1
 ---

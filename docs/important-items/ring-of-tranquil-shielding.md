@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ring of Tranquil Shielding"
 sidebar_position: 9
 ---

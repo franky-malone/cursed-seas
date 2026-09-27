@@ -23,7 +23,7 @@
   position: relative;
   z-index: 1;
 
-  width: min(800px, 90%);
+  width: min(800px, 92%);
   text-align: center;
   color: white;
 
@@ -109,7 +109,68 @@
   text-decoration: none;
   transform: translateY(-2px);
 }
+.navigationGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
 
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.navigationCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 130px;
+  padding: 1.4rem 1rem;
+
+  color: white;
+  background: rgba(0, 0, 0, 0.4);
+
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  border-radius: 4px;
+
+  text-decoration: none;
+
+  backdrop-filter: blur(3px);
+
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.navigationCard:hover {
+  color: white;
+  background: rgba(0, 0, 0, 0.7);
+  border-color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+
+  transform: translateY(-3px);
+}
+
+.cardIcon {
+  margin-bottom: 0.6rem;
+
+  font-size: 1.8rem;
+  line-height: 1;
+}
+
+.cardTitle {
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+}
+
+.cardDescription {
+  margin-top: 0.35rem;
+
+  font-size: 0.8rem;
+  opacity: 0.75;
+}
 @media screen and (max-width: 600px) {
   .hero {
     min-height: calc(100vh - 60px);
@@ -132,4 +193,18 @@
   .tagline {
     font-size: 1rem;
   }
+  .navigationGrid {
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+}
+
+.navigationCard {
+  min-height: 90px;
+  padding: 1rem;
+}
+
+.cardIcon {
+  font-size: 1.5rem;
+  margin-bottom: 0.4rem;
+}
 }

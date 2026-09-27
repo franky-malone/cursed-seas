@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Falim"
 sidebar_position: 7
 ---

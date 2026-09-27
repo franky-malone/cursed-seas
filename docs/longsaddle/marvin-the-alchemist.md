@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Marvin the alchemist"
 sidebar_position: 7
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Kespien Belmont"
 sidebar_position: 1
 ---
@@ -35,7 +35,7 @@ Despite the ridicule surrounding his name, Kespien dreamed of becoming an advent
 
 ### The Goblin Raid
 
-When Kespien was thirteen, Crosscove suffered a devastating goblin raid.
+When Kespien was thirteen, [Crosscove](/docs/regions/mauer-mountains/crosscove) suffered a devastating goblin raid.
 
 His parents, [Jean Belmont](/docs/factions/belmont-family/jean-belmont) and [Victoria Belmont](/docs/factions/belmont-family/victoria-belmont), were brutally killed during the attack, leaving Kespien orphaned and burdened by guilt.
 
@@ -45,9 +45,9 @@ The event would shape much of the person he eventually became.
 
 Kespien was rescued by [Dorn Firember](/docs/factions/silvertusk-brotherhood/dorn-firember), a member of the [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/), who took the young Belmont under his wing and brought him to [Mordian](/docs/regions/mauer-mountains/mordian).
 
-Under Dorn's rigorous training, Kespien began transforming from a frail and impulsive boy into a disciplined adventurer.
+Under [Dorn Firember's](/docs/factions/silvertusk-brotherhood/dorn-firember) rigorous training, Kespien began transforming from a frail and impulsive boy into a disciplined adventurer.
 
-Dorn became one of the most important figures in Kespien's life and the mentor who set him on the path he follows today.
+[Dorn Firember](/docs/factions/silvertusk-brotherhood/dorn-firember) became one of the most important figures in Kespien's life and the mentor who set him on the path he follows today.
 
 ### Becoming a Bladesinger
 
@@ -65,7 +65,7 @@ Kespien stands around **175 cm tall**, with a slim, muscular build suited to agi
 
 A mild burn scar across his chest remains from a near-fatal encounter with a fire elemental.
 
-His travelling clothes combine practicality with pride in his heritage. His jacket bears the [Belmont Crest](/docs/factions/belmont-family/belmont-s-crest): a blue shield crossed by a silver sword, surrounded by flowing silver ornamentation.
+His travelling clothes combine practicality with pride in his heritage. His jacket bears the [Belmont Crest](/docs/factions/belmont-family/belmont-s-crest), a blue shield crossed by a silver sword, surrounded by flowing silver ornamentation.
 
 ---
 
@@ -97,12 +97,12 @@ Both are reminders of the family he lost, but also of the legacy he continues to
 | [Jean Belmont](/docs/factions/belmont-family/jean-belmont) | Father |
 | [Victoria Belmont](/docs/factions/belmont-family/victoria-belmont) | Mother |
 | [Carter "The Cat"](/docs/puerto-ballena/carter-the-cat) | Childhood best friend |
-| [Dorn Firember](/docs/factions/silvertusk-brotherhood/dorn-firember) | Mentor and superior in the Silvertusk Brotherhood |
+| [Dorn Firember](/docs/factions/silvertusk-brotherhood/dorn-firember) | Mentor and superior in the [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood) |
 | [Lory Swiftwind](/docs/factions/silvertusk-brotherhood/lory-swiftwind) | Mentor who taught him to rely on agility and speed |
 | [Chimney](/docs/players/kespien-belmont/chimney) | Familiar |
 | [Ariana Stormbringer](/docs/factions/silvertusk-brotherhood/ariana-stormbringer) | Companion |
 | [Gareth Stonefist](/docs/factions/silvertusk-brotherhood/gareth-stonefist) | Companion |
-| [Dorn's Tabaxi](/docs/factions/silvertusk-brotherhood/dorn-s-tabaxi) | Mysterious Tabaxi associated with Dorn |
+| [Dorn's Tabaxi](/docs/factions/silvertusk-brotherhood/dorn-s-tabaxi) | Mysterious Tabaxi associated with [Dorn Firember](/docs/factions/silvertusk-brotherhood/dorn-firember) |
 
 ---
 

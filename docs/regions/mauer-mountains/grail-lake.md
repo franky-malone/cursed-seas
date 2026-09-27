@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Grail lake"
 sidebar_position: 2
 ---

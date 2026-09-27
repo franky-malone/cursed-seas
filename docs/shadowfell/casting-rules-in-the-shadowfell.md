@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Casting rules in the Shadowfell"
 sidebar_position: 2
 ---

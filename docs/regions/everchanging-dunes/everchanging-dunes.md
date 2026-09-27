@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Everchanging dunes"
 sidebar_position: 1
 ---

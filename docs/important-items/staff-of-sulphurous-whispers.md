@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Staff of Sulphurous Whispers"
 sidebar_position: 12
 ---

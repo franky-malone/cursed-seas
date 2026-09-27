@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Healing potions"
 sidebar_position: 1
 ---

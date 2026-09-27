@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Abenthy's theater"
 sidebar_position: 4
 ---

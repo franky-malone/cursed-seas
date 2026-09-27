@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Letter from Tom Lancil to Dondarrion Fairbug"
 sidebar_position: 8
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Critical hits"
 sidebar_position: 8
 ---

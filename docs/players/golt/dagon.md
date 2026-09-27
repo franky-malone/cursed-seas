@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Dagon"
 sidebar_position: 5
 ---

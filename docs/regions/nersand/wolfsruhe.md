@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Wolfsruhe"
 sidebar_position: 3
 ---

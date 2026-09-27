@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Silvertusk Brotherhood"
 sidebar_position: 1
 ---

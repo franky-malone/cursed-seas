@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lapislazuli"
 sidebar_position: 2
 ---

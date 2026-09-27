@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Aurora, the elder"
 sidebar_position: 3
 ---

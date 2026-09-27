@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Brooding Mother"
 sidebar_position: 17
 ---

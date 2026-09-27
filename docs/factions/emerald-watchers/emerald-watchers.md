@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Emerald watchers"
 sidebar_position: 1
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Dunkle peaks"
 sidebar_position: 3
 ---

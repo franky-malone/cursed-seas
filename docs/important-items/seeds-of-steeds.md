@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Seeds of Steeds"
 sidebar_position: 5
 ---

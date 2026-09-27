@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pages of the \"Tome of elemental enchantment\""
 sidebar_position: 9
 ---

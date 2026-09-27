@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Old Bertha"
 sidebar_position: 11
 ---

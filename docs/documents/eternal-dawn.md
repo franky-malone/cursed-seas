@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Eternal Dawn"
 sidebar_position: 6
 ---

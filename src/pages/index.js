@@ -33,12 +33,39 @@ export default function Home() {
             This is the chronicle of those who dared to sail them.
           </p>
 
-          <Link
-            className={styles.enterButton}
-            to="/docs/world-map"
-          >
-            ENTER THE WORLD
-          </Link>
+          <div className={styles.navigationGrid}>
+            <Link className={styles.navigationCard} to="/docs/world-map">
+              <span className={styles.cardIcon}>🗺️</span>
+              <span className={styles.cardTitle}>WORLD MAP</span>
+              <span className={styles.cardDescription}>
+                Explore Norberia
+              </span>
+            </Link>
+
+            <Link className={styles.navigationCard} to="/docs/players">
+              <span className={styles.cardIcon}>⚔️</span>
+              <span className={styles.cardTitle}>PLAYERS</span>
+              <span className={styles.cardDescription}>
+                Meet the adventurers
+              </span>
+            </Link>
+
+            <Link className={styles.navigationCard} to="/docs/travel-s-diary">
+              <span className={styles.cardIcon}>📖</span>
+              <span className={styles.cardTitle}>TRAVEL'S DIARY</span>
+              <span className={styles.cardDescription}>
+                Follow the journey
+              </span>
+            </Link>
+
+            <Link className={styles.navigationCard} to="/docs/player-s-diary">
+              <span className={styles.cardIcon}>📜</span>
+              <span className={styles.cardTitle}>PLAYER'S DIARY</span>
+              <span className={styles.cardDescription}>
+                Adventures and records
+              </span>
+            </Link>
+          </div>
         </div>
       </main>
     </Layout>

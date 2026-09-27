@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Agatha"
 sidebar_position: 9
 ---

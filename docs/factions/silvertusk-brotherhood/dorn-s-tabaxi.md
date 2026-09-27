@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Dorn's Tabaxi"
 sidebar_position: 7
 ---

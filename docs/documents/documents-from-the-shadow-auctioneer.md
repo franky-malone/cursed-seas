@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Documents from The Shadow Auctioneer"
 sidebar_position: 3
 ---

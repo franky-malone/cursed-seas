@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Unicorn wand"
 sidebar_position: 6
 ---

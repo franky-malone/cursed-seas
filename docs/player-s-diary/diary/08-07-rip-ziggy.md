@@ -1,4 +1,4 @@
-﻿---
+---
 title: "08.07. RIP Ziggy"
 sidebar_position: 3
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Visionarie's Dagger"
 sidebar_position: 3
 ---

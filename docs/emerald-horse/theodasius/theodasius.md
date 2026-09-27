@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Theodasius"
 sidebar_position: 1
 ---

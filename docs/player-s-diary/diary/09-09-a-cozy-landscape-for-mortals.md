@@ -1,4 +1,4 @@
-﻿---
+---
 title: "09.09. A cozy landscape for mortals"
 sidebar_position: 2
 ---

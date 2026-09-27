@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ironsong Clan"
 sidebar_position: 1
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lingering injuries"
 sidebar_position: 7
 ---

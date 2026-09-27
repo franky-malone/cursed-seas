@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The cursed Swamp"
 sidebar_position: 2
 ---

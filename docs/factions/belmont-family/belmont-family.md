@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Belmont Family"
 sidebar_position: 1
 ---
@@ -27,9 +27,7 @@ Stories of Manfred's journeys aboard the [Yellow Wolf](/docs/factions/belmont-fa
 
 The Belmont name is closely associated with tales of [Manfred Belmont](/docs/factions/belmont-family/manfred-belmont) and his journeys aboard the [Yellow Wolf](/docs/factions/belmont-family/yellow-wolf).
 
-Whether those stories were true or embellished, they eventually became the subject of the popular song **Belmont the Liar**, which cemented the family's reputation as storytellers and liars.
-
-Kespien continues to carry the family's legacy through the belongings inherited from his parents, including his mother's spellbook and his father's broken longsword.
+Whether those stories were true or embellished, they eventually became the subject of the popular song [Belmont the Liar](/docs/factions/belmont-family/belmont-the-liar-song), which cemented the family's reputation as storytellers and liars.
 
 ---
 

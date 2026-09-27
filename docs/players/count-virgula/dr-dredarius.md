@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Dr Dredarius"
 sidebar_position: 6
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Exam rules"
 sidebar_position: 2
 ---

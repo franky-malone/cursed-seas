@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Death saving throws"
 sidebar_position: 5
 ---

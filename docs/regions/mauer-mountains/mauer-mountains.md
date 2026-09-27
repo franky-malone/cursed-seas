@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mauer Mountains"
 sidebar_position: 1
 ---

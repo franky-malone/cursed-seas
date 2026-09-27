@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jade Watchers"
 sidebar_position: 2
 ---

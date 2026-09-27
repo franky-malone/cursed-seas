@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Socration"
 sidebar_position: 6
 ---

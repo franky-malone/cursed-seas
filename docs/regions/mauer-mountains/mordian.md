@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mordian"
 sidebar_position: 4
 ---

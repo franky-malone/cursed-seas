@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Onyx Bishop"
 sidebar_position: 2
 ---

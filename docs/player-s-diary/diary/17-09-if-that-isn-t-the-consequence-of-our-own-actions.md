@@ -1,4 +1,4 @@
-﻿---
+---
 title: "17.09. If that isn't the consequence of our own actions"
 sidebar_position: 13
 ---

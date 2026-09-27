@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Shadow poison recipe"
 sidebar_position: 3
 ---

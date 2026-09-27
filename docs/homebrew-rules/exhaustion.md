@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Exhaustion"
 sidebar_position: 10
 ---

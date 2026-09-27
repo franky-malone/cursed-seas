@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amirah Sephira Al-Marish"
 sidebar_position: 1
 ---

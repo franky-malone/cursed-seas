@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Eulius Federreich Letter"
 sidebar_position: 11
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Espuma de Mar"
 sidebar_position: 7
 ---

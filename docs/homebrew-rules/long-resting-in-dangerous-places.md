@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Long resting in dangerous places"
 sidebar_position: 4
 ---

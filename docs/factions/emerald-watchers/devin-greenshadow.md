@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Devin Greenshadow"
 sidebar_position: 2
 ---

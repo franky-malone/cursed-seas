@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Emerald mangroves"
 sidebar_position: 1
 ---

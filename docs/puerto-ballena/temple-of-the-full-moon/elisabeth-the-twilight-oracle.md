@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Elisabeth the Twilight Oracle"
 sidebar_position: 2
 ---

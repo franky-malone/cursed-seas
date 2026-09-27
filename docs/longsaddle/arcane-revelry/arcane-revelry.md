@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Arcane Revelry"
 sidebar_position: 1
 ---

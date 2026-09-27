@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Verdant Guardian"
 sidebar_position: 4
 ---

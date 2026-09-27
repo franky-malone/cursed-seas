@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Love letter"
 sidebar_position: 2
 ---

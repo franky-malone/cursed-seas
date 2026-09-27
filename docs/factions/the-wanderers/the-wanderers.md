@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The wanderers"
 sidebar_position: 1
 ---

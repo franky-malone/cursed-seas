@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ringed Octopus Inn"
 sidebar_position: 2
 ---

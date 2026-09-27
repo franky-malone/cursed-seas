@@ -132,11 +132,11 @@ navbar: {
             },
             {
               label: "Players' Diary",
-              to: '/docs/player-s-diary/diary/',
+              to: '/docs/player-s-diary/diary',
             },
             {
               label: 'Players',
-              to: '/docs/category/players/',
+              to: '/docs/players',
             },
           ],
         },

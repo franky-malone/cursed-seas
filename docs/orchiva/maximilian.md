@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Maximilian"
 sidebar_position: 7
 ---

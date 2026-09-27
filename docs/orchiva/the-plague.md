@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The plague"
 sidebar_position: 14
 ---

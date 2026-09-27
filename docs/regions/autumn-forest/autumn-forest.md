@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Autumn Forest"
 sidebar_position: 1
 ---

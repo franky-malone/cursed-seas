@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hyggelig"
 sidebar_position: 2
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ship of vision"
 sidebar_position: 8
 ---

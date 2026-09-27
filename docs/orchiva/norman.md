@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Norman"
 sidebar_position: 10
 ---

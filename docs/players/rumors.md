@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rumors"
 sidebar_position: 7
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Radiant lions"
 sidebar_position: 1
 ---

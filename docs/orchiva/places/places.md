@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Places"
 sidebar_position: 1
 ---

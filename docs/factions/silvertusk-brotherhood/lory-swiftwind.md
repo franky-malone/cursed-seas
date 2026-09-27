@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lory Swiftwind"
 sidebar_position: 4
 ---

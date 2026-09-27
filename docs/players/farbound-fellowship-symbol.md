@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Farbound Fellowship Symbol"
 sidebar_position: 6
 ---

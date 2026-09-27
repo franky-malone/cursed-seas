@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amulet of the Winter survivor"
 sidebar_position: 10
 ---

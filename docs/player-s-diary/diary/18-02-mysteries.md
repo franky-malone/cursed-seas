@@ -1,4 +1,4 @@
-﻿---
+---
 title: "18.02. Mysteries"
 sidebar_position: 9
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Items after meteorite"
 sidebar_position: 8
 ---

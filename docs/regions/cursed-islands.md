@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cursed Islands"
 sidebar_position: 2
 ---

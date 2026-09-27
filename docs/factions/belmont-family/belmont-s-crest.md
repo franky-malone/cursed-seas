@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Belmont's Crest"
 sidebar_position: 10
 ---

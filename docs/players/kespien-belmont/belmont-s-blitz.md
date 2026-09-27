@@ -1,10 +1,12 @@
-﻿---
+---
 title: "Belmont's Blitz"
 sidebar_position: 9
 ---
 
+import BelmontBlitz from './belmont-s-blitz-assets/belmont-s-blitz_files/image001.png';
+
 <img
-  src="./belmont-s-blitz-assets/belmont-s-blitz_files/image001.png"
+  src={BelmontBlitz}
   alt="Belmont's Blitz"
-  style={{width: '100%', maxWidth: '800px'}}
+  style={{width: '100%'}}
 />

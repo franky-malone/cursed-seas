@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Meenlocks"
 sidebar_position: 5
 ---

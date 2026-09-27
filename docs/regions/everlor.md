@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Everlor"
 sidebar_position: 10
 ---

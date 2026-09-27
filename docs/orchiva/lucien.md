@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lucien"
 sidebar_position: 6
 ---

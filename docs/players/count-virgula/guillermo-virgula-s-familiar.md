@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Guillermo virgula's familiar"
 sidebar_position: 5
 ---

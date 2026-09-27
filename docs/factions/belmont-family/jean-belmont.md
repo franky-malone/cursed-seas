@@ -1,12 +1,11 @@
-﻿---
+---
 title: "Jean Belmont"
 sidebar_position: 3
 ---
 
 | | |
 |---|---|
-| **Family** | [Belmont Family](/docs/factions/belmont-family/) |
-| **Son** | [Kespien Belmont](/docs/players/kespien-belmont/) |
+| **Affiliation** | [Belmont Family](/docs/factions/belmont-family/) |
 | **Status** | Deceased |
 
 ## Overview

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "13.11. Fog Bisons and Fleas"
 sidebar_position: 23
 ---

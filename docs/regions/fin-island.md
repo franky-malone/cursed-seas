@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fin Island"
 sidebar_position: 11
 ---

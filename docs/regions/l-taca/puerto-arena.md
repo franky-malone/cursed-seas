@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Puerto Arena"
 sidebar_position: 2
 ---

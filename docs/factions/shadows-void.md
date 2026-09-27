@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Shadows void"
 sidebar_position: 6
 ---

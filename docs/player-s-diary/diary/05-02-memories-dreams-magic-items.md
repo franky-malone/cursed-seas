@@ -1,4 +1,4 @@
-﻿---
+---
 title: "05.02. Memories, Dreams & Magic Items"
 sidebar_position: 20
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Staff of Healing"
 sidebar_position: 14
 ---

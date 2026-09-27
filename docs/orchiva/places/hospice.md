@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hospice"
 sidebar_position: 3
 ---

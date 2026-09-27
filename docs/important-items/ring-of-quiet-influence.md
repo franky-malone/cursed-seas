@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ring of quiet influence"
 sidebar_position: 11
 ---

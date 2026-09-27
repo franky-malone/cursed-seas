@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Crosscove"
 sidebar_position: 5
 ---

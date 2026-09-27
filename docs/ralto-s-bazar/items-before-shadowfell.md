@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Items before Shadowfell"
 sidebar_position: 11
 ---

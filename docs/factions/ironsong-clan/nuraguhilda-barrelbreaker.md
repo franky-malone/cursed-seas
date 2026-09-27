@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nuraguhilda Barrelbreaker"
 sidebar_position: 3
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lathor"
 sidebar_position: 4
 ---

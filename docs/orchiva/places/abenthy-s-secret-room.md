@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Abenthy's secret room"
 sidebar_position: 5
 ---

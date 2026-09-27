@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chimney"
 sidebar_position: 12
 ---

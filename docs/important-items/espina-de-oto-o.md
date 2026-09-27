@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Espina de Otoño"
 sidebar_position: 2
 ---

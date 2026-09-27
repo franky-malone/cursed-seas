@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lútaca"
 sidebar_position: 1
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ariana Stormbringer"
 sidebar_position: 5
 ---

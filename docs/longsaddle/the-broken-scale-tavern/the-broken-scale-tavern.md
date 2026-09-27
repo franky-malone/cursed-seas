@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The broken Scale tavern"
 sidebar_position: 1
 ---

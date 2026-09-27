@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Julia"
 sidebar_position: 2
 ---

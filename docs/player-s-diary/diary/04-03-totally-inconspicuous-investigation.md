@@ -1,4 +1,4 @@
-﻿---
+---
 title: "04.03. Totally inconspicuous investigation"
 sidebar_position: 8
 ---

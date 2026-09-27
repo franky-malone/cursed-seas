@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sorento (Tavern)"
 sidebar_position: 5
 ---

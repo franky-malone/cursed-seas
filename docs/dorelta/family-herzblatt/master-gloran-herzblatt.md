@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Master Gloran Herzblatt"
 sidebar_position: 3
 ---

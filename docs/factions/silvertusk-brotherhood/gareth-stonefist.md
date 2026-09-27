@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gareth Stonefist"
 sidebar_position: 6
 ---

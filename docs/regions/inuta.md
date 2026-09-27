@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Inuta"
 sidebar_position: 13
 ---

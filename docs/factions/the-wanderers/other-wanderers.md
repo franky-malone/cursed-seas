@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Other Wanderers"
 sidebar_position: 4
 ---

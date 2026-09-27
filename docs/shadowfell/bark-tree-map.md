@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bark tree map"
 sidebar_position: 4
 ---

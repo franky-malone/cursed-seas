@@ -1,12 +1,11 @@
-﻿---
+---
 title: "Victoria Belmont"
 sidebar_position: 4
 ---
 
 | | |
 |---|---|
-| **Family** | [Belmont Family](/docs/factions/belmont-family/) |
-| **Son** | [Kespien Belmont](/docs/players/kespien-belmont/) |
+| **Affiliation** | [Belmont Family](/docs/factions/belmont-family/) |
 | **Status** | Deceased |
 
 ## Overview

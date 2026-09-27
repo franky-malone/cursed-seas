@@ -1,4 +1,4 @@
-﻿---
+---
 title: "El Barrizal"
 sidebar_position: 2
 ---

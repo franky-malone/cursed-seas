@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Possible rewards for meteorite quest"
 sidebar_position: 7
 ---

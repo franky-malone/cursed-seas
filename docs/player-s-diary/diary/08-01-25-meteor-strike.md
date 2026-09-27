@@ -1,4 +1,4 @@
-﻿---
+---
 title: "08.01.25 Meteor Strike"
 sidebar_position: 22
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Insectoid monsters"
 sidebar_position: 15
 ---

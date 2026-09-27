@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Moonpearl"
 sidebar_position: 8
 ---

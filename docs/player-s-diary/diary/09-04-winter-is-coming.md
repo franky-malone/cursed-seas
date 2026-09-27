@@ -1,4 +1,4 @@
-﻿---
+---
 title: "09.04. Winter is coming"
 sidebar_position: 17
 ---

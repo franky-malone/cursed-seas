@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Dunklelock"
 sidebar_position: 1
 ---

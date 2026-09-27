@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cassidy"
 sidebar_position: 10
 ---

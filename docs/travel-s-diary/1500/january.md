@@ -1,4 +1,4 @@
-﻿---
+---
 title: "January"
 sidebar_position: 4
 ---

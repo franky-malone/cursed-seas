@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jhoras (Mundane Items)"
 sidebar_position: 4
 ---

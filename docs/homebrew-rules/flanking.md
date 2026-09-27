@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Flanking"
 sidebar_position: 3
 ---

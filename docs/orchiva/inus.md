@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Inus"
 sidebar_position: 3
 ---

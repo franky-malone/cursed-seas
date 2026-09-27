@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Order of the white Scale"
 sidebar_position: 7
 ---

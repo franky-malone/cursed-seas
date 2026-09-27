@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Revivify scrolls"
 sidebar_position: 6
 ---

@@ -1,14 +1,14 @@
-﻿---
+---
 title: "Manfred Belmont"
 sidebar_position: 2
 ---
 
 | | |
 |---|---|
-| **Family** | [Belmont Family](/docs/factions/belmont-family/) |
+| **Affiliation** | [Belmont Family](/docs/factions/belmont-family/) |
 | **Known for** | Voyages to the [Cursed Islands](/docs/regions/cursed-islands) |
 | **Ship** | [Yellow Wolf](/docs/factions/belmont-family/yellow-wolf)|
-| **Legacy** | Inspiration for *Belmont the Liar* |
+| **Legacy** | Inspiration for [Belmont the Liar](/docs/factions/belmont-family/belmont-the-liar-song) |
 
 ## Overview
 

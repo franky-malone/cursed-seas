@@ -1,4 +1,4 @@
-﻿---
+---
 title: "28.08. Departure to Misty Hills"
 sidebar_position: 26
 ---

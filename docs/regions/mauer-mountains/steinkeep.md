@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Steinkeep"
 sidebar_position: 3
 ---

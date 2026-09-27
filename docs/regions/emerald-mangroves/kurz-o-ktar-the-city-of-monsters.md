@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Kurz O'ktar (The city of monsters)"
 sidebar_position: 2
 ---

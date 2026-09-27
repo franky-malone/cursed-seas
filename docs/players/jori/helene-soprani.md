@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Helene Soprani"
 sidebar_position: 9
 ---
