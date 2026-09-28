@@ -3,7 +3,7 @@ title: "Frostbound Ettin"
 sidebar_position: 8
 ---
 
-![](frostbound-ettin-assets/frostbound-ettin_files/image001.png)
+![](frostbound-ettin-assets/frostbound-ettin_files/image001.webp)
 
 It lived in a cave somewhere at the base of the Nevington Mountains. It
 had a winter wolf cub inside a cage, that turned to be something else.

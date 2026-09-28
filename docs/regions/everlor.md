@@ -3,7 +3,7 @@ title: "Everlor"
 sidebar_position: 10
 ---
 
-![](everlor-assets/everlor_files/image001.png)
+![](everlor-assets/everlor_files/image001.webp)
 
 Located in the center of the Misty Forest, Everlor is the great capital
 of all the elves of the continent of Norberia. Although there are elves

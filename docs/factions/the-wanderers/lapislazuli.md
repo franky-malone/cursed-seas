@@ -3,7 +3,7 @@ title: "Lapislazuli"
 sidebar_position: 2
 ---
 
-![](lapislazuli-assets/lapislazuli_files/image001.jpg)
+![](lapislazuli-assets/lapislazuli_files/image001.webp)
 
 She read the fortune of some of the players while travelling with them
 to Longsaddle.

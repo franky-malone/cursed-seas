@@ -4,7 +4,7 @@ sidebar_position: 4
 ---
 
 
-![](telrond-whiterose-assets/telrond-whiterose_files/image001.png)
+![](telrond-whiterose-assets/telrond-whiterose_files/image001.webp)
 
 It was found in the Traveller's Inn of Dorelta. He didn't say much,
 because he left inmediately after being prompted by Count Virgula about

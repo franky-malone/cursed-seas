@@ -3,7 +3,7 @@ title: "Northell"
 sidebar_position: 2
 ---
 
-![](northell-assets/northell_files/image001.png)
+![](northell-assets/northell_files/image001.webp)
 
 Volcano located north of
 [Northeaven](/docs/regions/northeaven/).

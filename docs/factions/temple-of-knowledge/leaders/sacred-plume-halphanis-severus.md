@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Sacred Plume Halphanis Severus"
 sidebar_position: 3
 ---
 
-![](sacred-plume-halphanis-severus-assets/sacred-plume-halphanis-severus_files/image001.jpg)
+![](sacred-plume-halphanis-severus-assets/sacred-plume-halphanis-severus_files/image001.webp)
 
 | | |
 |---|---|

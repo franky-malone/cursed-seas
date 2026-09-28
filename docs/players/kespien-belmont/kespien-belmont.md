@@ -3,7 +3,7 @@ title: "Kespien Belmont"
 sidebar_position: 1
 ---
 
-![](kespien-belmont-assets/kespien-belmont_files/image001.jpg)
+![](kespien-belmont-assets/kespien-belmont_files/image001.webp)
 
 | | |
 |---|---|

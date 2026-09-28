@@ -10,6 +10,6 @@ their travels.
 
 
 
-![](vermelho-assets/vermelho_files/image001.jpg)
+![](vermelho-assets/vermelho_files/image001.webp)
 
 

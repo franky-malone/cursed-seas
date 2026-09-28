@@ -13,4 +13,4 @@ although they always put laws and justice before any other action.
 
 
 
-![](radiant-lions-assets/radiant-lions_files/image001.png)
+![](radiant-lions-assets/radiant-lions_files/image001.webp)

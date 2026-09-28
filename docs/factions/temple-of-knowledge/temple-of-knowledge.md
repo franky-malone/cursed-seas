@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Temple of Knowledge"
 sidebar_position: 1
 ---
@@ -18,7 +18,7 @@ A common saying in Norberia goes:
 > *"If it ain't in the Temple's books, it ain't nowhere yet."*
 
 <img
-  src={require('./temple-of-knowledge-assets/knowledge-s-temple_files/image001.png').default}
+  src={require('./temple-of-knowledge-assets/knowledge-s-temple_files/image001.webp').default}
   alt="Temple of Knowledge"
   style={{width: '100%', maxWidth: '900px', display: 'block', margin: '2rem auto'}}
 />

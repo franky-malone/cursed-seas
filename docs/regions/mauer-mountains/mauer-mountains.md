@@ -3,7 +3,7 @@ title: "Mauer Mountains"
 sidebar_position: 1
 ---
 
-![](mauer-mountains-assets/mauer-mountains_files/image001.png)
+![](mauer-mountains-assets/mauer-mountains_files/image001.webp)
 
 Together with the Nevington Mountains they are the other major mountain
 system of Norberia.

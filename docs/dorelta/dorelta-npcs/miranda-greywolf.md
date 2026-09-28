@@ -13,6 +13,6 @@ Jori. She takes care of some of the minor issues and problems that
 happen in Dorelta. She also takes care of preparing and examining the
 dead.
 
-![](miranda-greywolf-assets/miranda-greywolf_files/image001.jpg)
+![](miranda-greywolf-assets/miranda-greywolf_files/image001.webp)
 
 

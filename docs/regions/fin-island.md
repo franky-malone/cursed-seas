@@ -3,7 +3,7 @@ title: "Fin Island"
 sidebar_position: 11
 ---
 
-![](fin-island-assets/fin-island_files/image001.png)
+![](fin-island-assets/fin-island_files/image001.webp)
 
 Until the recent discovery of the new continent of Lútaca, it was
 believed that it was the end of the known world and that beyond it there

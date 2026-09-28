@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Brasvik"
 sidebar_position: 4
 ---
 
 
-![](brasvik-assets/brasvik_files/image001.png)
+![](brasvik-assets/brasvik_files/image001.webp)
 
 A member of the temple of knowledge (passed his exams a couple years
 ago) and acquitance of Aeriff. He is tall (~195cm) for being an elf and

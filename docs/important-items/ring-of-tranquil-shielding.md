@@ -3,7 +3,7 @@ title: "Ring of Tranquil Shielding"
 sidebar_position: 9
 ---
 
-![](ring-of-tranquil-shielding-assets/ring-of-tranquil-shielding_files/image001.jpg)
+![](ring-of-tranquil-shielding-assets/ring-of-tranquil-shielding_files/image001.webp)
 
 A golden ring with an embedded moonstone gem, this ring excludes
 

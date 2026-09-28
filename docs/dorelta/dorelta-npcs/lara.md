@@ -18,6 +18,6 @@ the nearby.
 Apparently she did some handling with a young boy that smelled like
 roses to store something on her warehouse.
 
-![](lara-assets/lara_files/image001.jpg)
+![](lara-assets/lara_files/image001.webp)
 
 

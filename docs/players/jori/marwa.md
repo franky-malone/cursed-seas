@@ -3,7 +3,7 @@ title: "Marwa"
 sidebar_position: 2
 ---
 
-![](jori-assets/jori_files/marwa.jpg)
+![](jori-assets/jori_files/marwa.webp)
 
 **Marwa** is [Jori's](/docs/players/jori/) druidic mentor and teacher.
 

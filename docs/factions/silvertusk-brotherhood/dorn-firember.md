@@ -3,7 +3,7 @@ title: "Dorn Firember"
 sidebar_position: 3
 ---
 
-![](dorn-firember-assets/dorn-firember_files/image001.jpg)
+![](dorn-firember-assets/dorn-firember_files/image001.webp)
 
 | | |
 |---|---|

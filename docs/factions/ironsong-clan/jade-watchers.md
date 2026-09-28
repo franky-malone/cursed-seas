@@ -8,6 +8,6 @@ with jade green armor, shields and weapons.
 
 
 
-![](jade-watchers-assets/jade-watchers_files/image001.png)
+![](jade-watchers-assets/jade-watchers_files/image001.webp)
 
 

@@ -9,6 +9,6 @@ Herzblatt's tomb.
 
 
 
-![](poem-by-adrue-herzblatt-assets/poem-by-adrue-herzblatt_files/image001.png)
+![](poem-by-adrue-herzblatt-assets/poem-by-adrue-herzblatt_files/image001.webp)
 
 

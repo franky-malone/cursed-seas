@@ -5,7 +5,7 @@ sidebar_position: 4
 
 # Jhoras — Mundane Items
 
-![](jhoras-mundane-items-assets/jhoras-mundane-items_files/image001.jpg)
+![](jhoras-mundane-items-assets/jhoras-mundane-items_files/image001.webp)
 
 ## Available Items
 

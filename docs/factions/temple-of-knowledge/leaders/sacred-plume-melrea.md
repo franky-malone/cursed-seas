@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Melrea"
 sidebar_position: 10
 ---
 
-![](sacred-plume-melrea-assets/sacred-plume-melrea_files/image001.png)
+![](sacred-plume-melrea-assets/sacred-plume-melrea_files/image001.webp)
 
 ## Overview
 

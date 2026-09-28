@@ -4,9 +4,9 @@ sidebar_position: 10
 ---
 
 
-![](amulet-of-the-winter-survivor-assets/amulet-of-the-winter-survivor_files/image001.png)
+![](amulet-of-the-winter-survivor-assets/amulet-of-the-winter-survivor_files/image001.webp)
 
-![](amulet-of-the-winter-survivor-assets/amulet-of-the-winter-survivor_files/image002.png)
+![](amulet-of-the-winter-survivor-assets/amulet-of-the-winter-survivor_files/image002.webp)
 
 Wondrous Item, Uncommon, Requires Attunement
 

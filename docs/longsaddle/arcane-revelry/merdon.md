@@ -8,6 +8,6 @@ A crazy gnome inventor that sells very cheap inventions of his own.
 
 
 
-![](merdon-assets/merdon_files/image001.jpg)
+![](merdon-assets/merdon_files/image001.webp)
 
 

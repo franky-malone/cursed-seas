@@ -1,6 +1,6 @@
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
-import norberiaMap from '@site/static/img/norberia-map.jpg';
+import norberiaMap from '@site/static/img/world-map.webp';
 import styles from './index.module.css';
 
 export default function Home() {

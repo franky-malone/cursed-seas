@@ -3,7 +3,7 @@ title: "Belmont's Crest"
 sidebar_position: 10
 ---
 
-![](belmont-s-crest-assets/belmont-s-crest_files/image001.jpg)
+![](belmont-s-crest-assets/belmont-s-crest_files/image001.webp)
 
 ## The Belmont Crest
 
@@ -13,7 +13,7 @@ It depicts a **silver sword upon a blue shield**, surrounded by elegant silver l
 
 Despite the reputation attached to the Belmont name, [Kespien Belmont](/docs/players/kespien-belmont/) continues to openly wear the family crest. It can be seen prominently embroidered on his jacket.
 
-The crest also appears on the blade of the broken longsword Kespien inherited from his father, Jean Belmont](/docs/factions/belmont-family/jean-belmont).
+The crest also appears on the blade of the broken longsword Kespien inherited from his father, [Jean Belmont](/docs/factions/belmont-family/jean-belmont).
 
 ---
 

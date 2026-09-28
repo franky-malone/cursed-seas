@@ -3,7 +3,7 @@ title: "Vorskann"
 sidebar_position: 2
 ---
 
-![](vorskann-assets/vorskann_files/image001.jpg)
+![](vorskann-assets/vorskann_files/image001.webp)
 
 Owner of the tavern The broken Scale. He enjoys music very much and
 tries to have someone playing every single night.

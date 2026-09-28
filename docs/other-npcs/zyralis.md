@@ -13,4 +13,4 @@ kind of relationship with the Herzblatt family from Dorelta.
 It was last seen in a room in the tavern the Broken Scale from
 Longsaddle, where she teleported herself out with a portal.
 
-![](zyralis-assets/zyralis_files/image001.png)
+![](zyralis-assets/zyralis_files/image001.webp)

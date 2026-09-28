@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 
-![](eleyna-assets/eleyna_files/image001.png)
+![](eleyna-assets/eleyna_files/image001.webp)
 
 Fellow classmate and study buddy of Aerif. Is actively trying to become
 part of the temple of knowledge but her lack of resources makes her

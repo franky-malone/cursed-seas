@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Silica Stein"
 sidebar_position: 2
 ---
 
-![](sacred-plume-silica-stein-assets/sacred-plume-silica-stein_files/image001.jpg)
+![](sacred-plume-silica-stein-assets/sacred-plume-silica-stein_files/image001.webp)
 
 ## Overview
 

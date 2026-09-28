@@ -3,7 +3,7 @@ title: "Elisabeth the Twilight Oracle"
 sidebar_position: 2
 ---
 
-![](elisabeth-the-twilight-oracle-assets/elisabeth-the-twilight-oracle_files/image001.jpg)
+![](elisabeth-the-twilight-oracle-assets/elisabeth-the-twilight-oracle_files/image001.webp)
 
 A white dragonborn that seems to have a close connection to Sacred Plume
 Silica Stein. She is according to Silica the greatest specialist is

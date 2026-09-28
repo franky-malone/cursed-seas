@@ -64,8 +64,8 @@ const locations = [
   },
   {
     name: 'Wolfsruhe',
-    x: 79.50,
-    y: 24.48,
+    x: 78.09,
+    y: 23.59,
     link: '/docs/regions/nersand/wolfsruhe',
   },
   {
@@ -148,8 +148,8 @@ const locations = [
   },
   {
     name: 'Orchiva',
-    x: 42.13,
-    y: 45.91,
+    x: 40.53,
+    y: 45.74,
     link: '/docs/regions/orchiva',
   },
   {
@@ -249,7 +249,7 @@ const locations = [
 ];
 
 export default function InteractiveMap() {
-  const mapImage = useBaseUrl('/img/world-map.jpg');
+  const mapImage = useBaseUrl('/img/world-map.webp');
 
   const viewportRef = useRef(null);
 

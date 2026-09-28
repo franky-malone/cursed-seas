@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Melosial"
 sidebar_position: 10
 ---
@@ -14,7 +14,7 @@ She is a Lore Seeker the first rank of the Temple of Knowledge
 
 
 
-![](melosial-assets/melosial_files/image001.png)
+![](melosial-assets/melosial_files/image001.webp)
 
 
 

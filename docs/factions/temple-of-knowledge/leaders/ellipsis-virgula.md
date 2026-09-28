@@ -3,7 +3,7 @@ title: "Former Sacred Plume Ellipsis Virgula"
 sidebar_position: 6
 ---
 
-![](ellipsis-virgula-assets/ellipsis-virgula_files/image001.png)
+![](ellipsis-virgula-assets/ellipsis-virgula_files/image001.webp)
 
 | | |
 |---|---|

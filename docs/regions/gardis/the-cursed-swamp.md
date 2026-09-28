@@ -3,7 +3,7 @@ title: "The cursed Swamp"
 sidebar_position: 2
 ---
 
-![](the-cursed-swamp-assets/the-cursed-swamp_files/image001.png)
+![](the-cursed-swamp-assets/the-cursed-swamp_files/image001.webp)
 
 
 

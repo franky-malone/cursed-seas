@@ -7,7 +7,7 @@ sidebar_position: 11
 
 
 
-![](ring-of-quiet-influence-assets/ring-of-quiet-influence_files/image001.png)
+![](ring-of-quiet-influence-assets/ring-of-quiet-influence_files/image001.webp)
 
 
 

@@ -15,6 +15,6 @@ Ruluas Clearsong and force a change of political power in Dorelta.
 
 
 
-![](mr-oaktree-assets/mr-oaktree_files/image001.jpg)
+![](mr-oaktree-assets/mr-oaktree_files/image001.webp)
 
 

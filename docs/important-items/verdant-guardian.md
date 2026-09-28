@@ -3,7 +3,7 @@ title: "Verdant Guardian"
 sidebar_position: 4
 ---
 
-![](verdant-guardian-assets/verdant-guardian_files/image001.png)
+![](verdant-guardian-assets/verdant-guardian_files/image001.webp)
 
 Verdant Guardian is a set of finely crafted elven chainmail adorned with
 intricate patterns of vines and leaves. The armor is lightweight and

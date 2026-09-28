@@ -26,5 +26,5 @@ Dorelta his main contact is
 
 
 
-![](john-assets/john_files/image001.jpg)
+![](john-assets/john_files/image001.webp)
 

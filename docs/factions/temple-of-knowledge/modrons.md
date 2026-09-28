@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Modrons"
 sidebar_position: 14
 ---
 
-![](modrons-assets/modrons_files/image001.png)
+![](modrons-assets/modrons_files/image001.webp)
 
 Diminutive automatons known as Modrons, whispered to be the ancient
 architects of the temple itself, tasked with the sacred duty of

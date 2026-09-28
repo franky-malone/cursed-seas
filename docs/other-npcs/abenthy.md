@@ -15,4 +15,4 @@ left hints to some secrets.
 
 
 
-![](abenthy-assets/abenthy_files/image001.png)
+![](abenthy-assets/abenthy_files/image001.webp)

@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 
-![](vailea-stoneblood-breaker-of-peaks-assets/vailea-stoneblood-breaker-of-peaks_files/image001.png)
+![](vailea-stoneblood-breaker-of-peaks-assets/vailea-stoneblood-breaker-of-peaks_files/image001.webp)
 
 A mighty gladiator goliath woman that bested Golt in a 1vs1 fight on the
 Royal Road direction to Orchiva.

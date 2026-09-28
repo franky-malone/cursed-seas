@@ -3,7 +3,7 @@ title: "Aurora, the elder"
 sidebar_position: 3
 ---
 
-![](aurora-the-elder-assets/aurora-the-elder_files/image001.jpg)
+![](aurora-the-elder-assets/aurora-the-elder_files/image001.webp)
 
 She was the elder of the Wanderer's troup that the players met while
 travelling to Longsaddle. She told the [story of The

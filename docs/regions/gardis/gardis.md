@@ -3,7 +3,7 @@ title: "Gardis"
 sidebar_position: 1
 ---
 
-![](gardis-assets/gardis_files/image001.png)
+![](gardis-assets/gardis_files/image001.webp)
 
 Located in the Sea of Crystal, Gardis is the second largest human
 in Norberia.

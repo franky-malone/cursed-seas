@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Koko Bananicus"
 sidebar_position: 6
 ---
 
-![](sacred-plume-koko-bananicus-assets/sacred-plume-koko-bananicus_files/image001.png)
+![](sacred-plume-koko-bananicus-assets/sacred-plume-koko-bananicus_files/image001.webp)
 
 ## Overview
 

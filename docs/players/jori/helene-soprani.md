@@ -3,7 +3,7 @@ title: "Helene Soprani"
 sidebar_position: 9
 ---
 
-![](helene-soprani-assets/helene-soprani_files/image001.jpg)
+![](helene-soprani-assets/helene-soprani_files/image001.webp)
 
 | | |
 |---|---|

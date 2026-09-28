@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 
-![](bigorna-assets/bigorna_files/image001.png)
+![](bigorna-assets/bigorna_files/image001.webp)
 
 Lead singer of the band Bigorna and the Kenkus.
 

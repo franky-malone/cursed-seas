@@ -3,7 +3,7 @@ title: "Marsander Shadows"
 sidebar_position: 3
 ---
 
-![](marsander-shadows-assets/marsander-shadows_files/image001.png)
+![](marsander-shadows-assets/marsander-shadows_files/image001.webp)
 
 Located in the northeast of the continent, the shadows of Marsander is
 the name given to the lands of the ancient kingdom of Marsander.

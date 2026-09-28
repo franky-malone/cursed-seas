@@ -6,7 +6,7 @@ sidebar_position: 7
 sábado, 7 de marzo de 2026
 
 
-![](maximilian-assets/maximilian_files/image001.jpg)
+![](maximilian-assets/maximilian_files/image001.webp)
 
 He is regarded as the idiot of Orchiva. He apparently was in love with
 Rosaline.

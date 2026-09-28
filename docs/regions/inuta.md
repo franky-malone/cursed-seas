@@ -3,7 +3,7 @@ title: "Inuta"
 sidebar_position: 13
 ---
 
-![](inuta-assets/inuta_files/image001.png)
+![](inuta-assets/inuta_files/image001.webp)
 
 
 

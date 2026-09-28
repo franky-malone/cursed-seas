@@ -3,7 +3,7 @@ title: "Thrag"
 sidebar_position: 9
 ---
 
-![](thrag-assets/thrag_files/image001.png)
+![](thrag-assets/thrag_files/image001.webp)
 
 It was pretending to be a winter wolves cub in a cage inside the Jotuns
 cave. When the Jotun left the cave for fighting what seemed to be a

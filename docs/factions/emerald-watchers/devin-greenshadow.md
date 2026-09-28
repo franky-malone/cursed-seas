@@ -3,7 +3,7 @@ title: "Devin Greenshadow"
 sidebar_position: 2
 ---
 
-![](devin-greenshadow-assets/devin-greenshadow_files/image001.jpg)
+![](devin-greenshadow-assets/devin-greenshadow_files/image001.webp)
 
 Member of the Emerald Watchers seen in the Emerald Horse with some of
 his men.

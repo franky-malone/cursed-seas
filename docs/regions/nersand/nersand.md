@@ -3,7 +3,7 @@ title: "Nersand"
 sidebar_position: 1
 ---
 
-![](nersand-assets/nersand_files/image001.png)
+![](nersand-assets/nersand_files/image001.webp)
 
 Located in the northeast of
 [Norberia](/docs/regions/norberia/)

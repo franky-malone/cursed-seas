@@ -16,6 +16,6 @@ He claimed to know Fuegoazul back in the Feywild.
 
 
 
-![](brakadanth-assets/brakadanth_files/image001.jpg)
+![](brakadanth-assets/brakadanth_files/image001.webp)
 
 

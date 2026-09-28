@@ -3,7 +3,7 @@ title: "Rabenax"
 sidebar_position: 4
 ---
 
-![](rabenax-assets/rabenax_files/image001.jpg)
+![](rabenax-assets/rabenax_files/image001.webp)
 
 She is rarely the first one you notice in a crowded hall, but almost
 always the last one you forget. Small, black-feathered, and hunched

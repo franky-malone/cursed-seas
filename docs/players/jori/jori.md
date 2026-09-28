@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Jori"
 sidebar_position: 1
 ---
 
-![](jori-assets/jori_files/image001.jpg)
+![](jori-assets/jori_files/image001.webp)
 
 | | |
 |---|---|

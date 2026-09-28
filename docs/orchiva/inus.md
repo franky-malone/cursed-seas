@@ -20,12 +20,12 @@ meddle with mortal affairs. He just simply wasn't allowed to do it.
 
 
 
-![](inus-assets/inus_files/image001.png)
+![](inus-assets/inus_files/image001.webp)
 
 
 
 
 
-![](inus-assets/inus_files/image002.png)
+![](inus-assets/inus_files/image002.webp)
 
-![](inus-assets/inus_files/image003.png)
+![](inus-assets/inus_files/image003.webp)

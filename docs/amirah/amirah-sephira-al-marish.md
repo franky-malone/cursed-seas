@@ -3,7 +3,7 @@ title: "Amirah Sephira Al-Marish"
 sidebar_position: 1
 ---
 
-![](amirah-sephira-al-marish-assets/amirah-sephira-al-marish_files/image001.png)
+![](amirah-sephira-al-marish-assets/amirah-sephira-al-marish_files/image001.webp)
 
 Daughter of the majestic king Djinn Husam al-Bali ben Nafhat al-Yugayyim
 

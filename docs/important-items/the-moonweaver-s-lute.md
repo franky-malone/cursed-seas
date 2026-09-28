@@ -20,6 +20,6 @@ touched./
 - Tuning pegs: Forged from cooled basalt, veined with red fire-opal./
 
 
-![](the-moonweaver-s-lute-assets/the-moonweaver-s-lute_files/image001.png)
+![](the-moonweaver-s-lute-assets/the-moonweaver-s-lute_files/image001.webp)
 
 

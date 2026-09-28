@@ -3,7 +3,7 @@ title: "Socration"
 sidebar_position: 6
 ---
 
-![](socration-assets/socration_files/image001.png)
+![](socration-assets/socration_files/image001.webp)
 
 He is another merchant that has placed his shop on Ralto's bazaar. He
 handles with books, music instruments and spell scrolls.

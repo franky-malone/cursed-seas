@@ -3,7 +3,7 @@ title: "Chimney"
 sidebar_position: 12
 ---
 
-![](chimney-assets/chimney_files/image001.png)
+![](chimney-assets/chimney_files/image001.webp)
 
 ## Chimney
 

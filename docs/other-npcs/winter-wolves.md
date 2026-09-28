@@ -3,7 +3,7 @@ title: "Winter wolves"
 sidebar_position: 10
 ---
 
-![](winter-wolves-assets/winter-wolves_files/image001.png)
+![](winter-wolves-assets/winter-wolves_files/image001.webp)
 
 A pack of winter wolves were found in the forest at the base of the
 Wyvern Mountains.

@@ -3,7 +3,7 @@ title: "Zarzaparrilla"
 sidebar_position: 5
 ---
 
-![](zarzaparrilla-assets/zarzaparrilla_files/image001.jpg)
+![](zarzaparrilla-assets/zarzaparrilla_files/image001.webp)
 
 She is an oddity, even among Firbolgs. Towering over the other
 applicants with moss and twigs in her hair, she speaks only in bursts of

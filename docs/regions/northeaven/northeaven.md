@@ -3,7 +3,7 @@ title: "Northeaven"
 sidebar_position: 1
 ---
 
-![](northeaven-assets/northeaven_files/image001.png)
+![](northeaven-assets/northeaven_files/image001.webp)
 
 Northeaven is situated at the northwesternmost tip of
 [Norberia](/docs/regions/norberia/).

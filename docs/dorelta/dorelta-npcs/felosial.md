@@ -17,6 +17,6 @@ Stein.
 She likes bureaucracy a little too much and usually mess with people
 that try to make an appointment with the mayoress.
 
-![](felosial-assets/felosial_files/image001.jpg)
+![](felosial-assets/felosial_files/image001.webp)
 
 

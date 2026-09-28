@@ -15,4 +15,4 @@ over time.
 
 
 
-![](shadows-void-assets/shadows-void_files/image001.png)
+![](shadows-void-assets/shadows-void_files/image001.webp)

@@ -12,6 +12,6 @@ Their eldest son, Morrik Oaktree, was recently found brutally murdered.
 
 
 
-![](family-oaktree-assets/family-oaktree_files/image001.png)
+![](family-oaktree-assets/family-oaktree_files/image001.webp)
 
 

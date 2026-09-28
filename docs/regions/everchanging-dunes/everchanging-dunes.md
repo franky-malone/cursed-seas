@@ -3,7 +3,7 @@ title: "Everchanging dunes"
 sidebar_position: 1
 ---
 
-![](everchanging-dunes-assets/everchanging-dunes_files/image001.png)
+![](everchanging-dunes-assets/everchanging-dunes_files/image001.webp)
 
 This enormous desert is located on the other side of the Mauer
 Mountains.

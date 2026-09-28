@@ -3,7 +3,7 @@ title: "Hatu-khnum-amen"
 sidebar_position: 3
 ---
 
-![](hatu-khnum-amen-assets/hatu-khnum-amen_files/image001.jpg)
+![](hatu-khnum-amen-assets/hatu-khnum-amen_files/image001.webp)
 
 A soft-spoken but ever-alert Tabaxi from the golden dunes of Neu Samir,
 walks with the calm elegance of one who observes before acting. Draped

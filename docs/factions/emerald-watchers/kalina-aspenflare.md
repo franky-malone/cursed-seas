@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Kalina Aspenflare"
 sidebar_position: 3
 ---
 
-![](kalina-aspenflare-assets/kalina-aspenflare_files/image001.jpg)
+![](kalina-aspenflare-assets/kalina-aspenflare_files/image001.webp)
 
 Kalina Aspenflare is a former pupil and old friend of **Jori**, as well as a friend of [Ada Gladstone](/docs/factions/temple-of-knowledge/members/ada-gladstone).
 

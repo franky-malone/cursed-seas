@@ -3,7 +3,7 @@ title: "Dunklelock"
 sidebar_position: 1
 ---
 
-![](dunklelock-assets/dunklelock_files/image001.png)
+![](dunklelock-assets/dunklelock_files/image001.webp)
 
 One of the great lakes of Norberia, fed by water from the River Forgan.
 

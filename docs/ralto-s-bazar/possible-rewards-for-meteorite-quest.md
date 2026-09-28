@@ -27,7 +27,7 @@ Allow to change 1/day one known/prepared spell of level 2
 
 
 
-![](possible-rewards-for-meteorite-quest-assets/possible-rewards-for-meteorite-quest_files/image001.png)
+![](possible-rewards-for-meteorite-quest-assets/possible-rewards-for-meteorite-quest_files/image001.webp)
 
 
 

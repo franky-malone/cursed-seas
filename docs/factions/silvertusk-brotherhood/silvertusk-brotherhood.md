@@ -21,4 +21,4 @@ working in small cells, which all then report to Guludur.
 
 
 
-![](silvertusk-brotherhood-assets/silvertusk-brotherhood_files/image001.png)
+![](silvertusk-brotherhood-assets/silvertusk-brotherhood_files/image001.webp)

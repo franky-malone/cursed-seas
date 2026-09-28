@@ -32,11 +32,11 @@ something darker than seawater.
 
 
 
-![](the-sentinel-assets/the-sentinel_files/image001.png)
+![](the-sentinel-assets/the-sentinel_files/image001.webp)
 
 
 
-![](the-sentinel-assets/the-sentinel_files/image002.png)
+![](the-sentinel-assets/the-sentinel_files/image002.webp)
 
 
 

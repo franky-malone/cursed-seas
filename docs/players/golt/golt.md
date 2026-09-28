@@ -10,7 +10,7 @@ that he has big black runes incrusted in his chest.
 
 
 
-![](golt-assets/golt_files/image001.png)
+![](golt-assets/golt_files/image001.webp)
 
 
 

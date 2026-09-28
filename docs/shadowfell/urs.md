@@ -3,7 +3,7 @@ title: "Urs"
 sidebar_position: 1
 ---
 
-![](urs-assets/urs_files/image001.png)
+![](urs-assets/urs_files/image001.webp)
 
 Legendary human Smith from the Material Plane and very good friend of
 Ralto. He used to travel the planes in search of high Yal levels of ore.

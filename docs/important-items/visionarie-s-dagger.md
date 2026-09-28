@@ -12,7 +12,7 @@ color of the jewel.
 
 It was sold to Ralto
 
-![](visionarie-s-dagger-assets/visionarie-s-dagger_files/image001.jpg)
+![](visionarie-s-dagger-assets/visionarie-s-dagger_files/image001.webp)
 
 The weapon does an additional 1 elemental damage based on the color of
 the bearer's eyes:/

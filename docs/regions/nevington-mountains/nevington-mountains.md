@@ -3,7 +3,7 @@ title: "Nevington mountains"
 sidebar_position: 1
 ---
 
-![](nevington-mountains-assets/nevington-mountains_files/image001.png)
+![](nevington-mountains-assets/nevington-mountains_files/image001.webp)
 
 
 

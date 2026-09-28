@@ -3,7 +3,7 @@ title: "Steinkeep"
 sidebar_position: 3
 ---
 
-![](steinkeep-assets/steinkeep_files/image001.png)
+![](steinkeep-assets/steinkeep_files/image001.webp)
 
 More than a city, it is a great fortress located in the middle of the
 Mauer Mountains and serving as a border between Norberia and the rest of

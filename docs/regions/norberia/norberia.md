@@ -19,6 +19,6 @@ One black spot is in Norberia, and it is the shadow lands of
 where only the bravest or stupid dare to set a foot in order to seek
 lost treasures left by the Marsanderians after the big war.
 
-![](norberia-assets/norberia_files/image001.jpg)
+![Map of Norberia](/img/world-map.webp)
 
 

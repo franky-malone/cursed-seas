@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 
-![](ralto-assets/ralto_files/image001.png)
+![](ralto-assets/ralto_files/image001.webp)
 
 Ralto is "apparently" an interplanar merchant. He travels using a big
 snail in which he stores several valuable magic items.

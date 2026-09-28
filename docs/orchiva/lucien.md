@@ -11,4 +11,4 @@ alive in Orchiva.
 
 He is a descendent from Abenthy the famous bard.
 
-![](lucien-assets/lucien_files/image001.jpg)
+![](lucien-assets/lucien_files/image001.webp)

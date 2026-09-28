@@ -3,7 +3,7 @@ title: "Master Gloran Herzblatt"
 sidebar_position: 3
 ---
 
-![](master-gloran-herzblatt-assets/master-gloran-herzblatt_files/image001.png)
+![](master-gloran-herzblatt-assets/master-gloran-herzblatt_files/image001.webp)
 
 He was the one behind the murders in Dorelta and seems to be doing some
 kind of ritual deep behind the Crypt of the Herzblatt.
