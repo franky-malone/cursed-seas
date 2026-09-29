@@ -11,3 +11,4 @@ She is a member of the **Emerald Watchers** and serves in [Devin Greenshadow's](
 
 Kalina was present in the **Emerald Hills** after several fey portals were reported to have opened in the region. Ada planned to meet her there and trusted Kalina to protect her during the investigation.
 
+

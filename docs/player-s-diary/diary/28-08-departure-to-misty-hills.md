@@ -52,3 +52,4 @@ Donnerstag, 12. September 2024
     - Golt tries to chase on horse but is stopped
     - Fight! Illusionary half-ogers, invisible mage, ... it's looking
       rough, should we surrender?
+

@@ -43,3 +43,4 @@ Dienstag, 14. Januar 2025
     - In the crater: one giant elemental made from one half of the
       meteorite, other half is intact
     - Elemental fights with dwarves from Kor Kuldir
+

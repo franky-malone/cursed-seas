@@ -23,3 +23,4 @@ Properties:
 - Once per long rest, the wearer can focus on the amulet to sense the
   presence of beasts within 1 mile, feeling their movements like a
   hunter tracking prey.
+

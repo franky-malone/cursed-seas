@@ -32,3 +32,4 @@ sidebar_position: 34
     - Golt spreads ashes of his wife: "she took everything when the
       lance impaled his wife's heart", she answers "there is always a
       flicker of moonlight"
+

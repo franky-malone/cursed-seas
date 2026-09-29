@@ -39,3 +39,4 @@ Dienstag, 15. September 2026
   - We find journal entries of Urs and carvings in a bark that resemble a map
   - Huge roar, bearapproaching from behind the cottage
   - RUN
+

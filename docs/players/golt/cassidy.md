@@ -7,3 +7,4 @@ sidebar_position: 10
 
 Golt's lost daughter (Currently 13). She was kidnapped 5 years ago
 during Golt's absence.
+

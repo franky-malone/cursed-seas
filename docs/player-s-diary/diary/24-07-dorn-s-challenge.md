@@ -43,3 +43,4 @@ sidebar_position: 27
       uses potion of truesight
     - Dorn and Gareth switch position, then Kespien uses Belmont's Blitz
       (-/> blessing?)
+

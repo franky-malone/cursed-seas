@@ -9,3 +9,4 @@ sidebar_position: 2
   - Town hall
   - Tavern/inn: barkeep Brunn
   - Healer: Miranda Greywolf, lives in statue district
+

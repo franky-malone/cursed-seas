@@ -51,3 +51,4 @@ sidebar_position: 5
     - Underneath the floor is a lute case containing a scroll
     - The scroll contains gibberish text that might be a music song, we
       need a more powerful bard to decipher it
+

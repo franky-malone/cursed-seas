@@ -27,7 +27,7 @@ almost every city of Norberia.
 It has a highly transited maritime trade route with
 [Gardis](/docs/regions/gardis/),
 unfortunately it passest through [Puerto
-Ballena,](/docs/regions/puerto-ballena)
+Ballena,](/docs/puerto-ballena/)
 which causes it to be in a constant conflict with the pirates living
 there.
 
@@ -48,6 +48,7 @@ get whatever their hearts desired.
 Once every 100 years a tournament of valor is held here by a mistery
 figure named the Amirah. It is believed that the winner see their
 biggest wish come true.
+
 
 
 

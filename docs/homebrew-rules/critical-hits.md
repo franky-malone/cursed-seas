@@ -20,3 +20,4 @@ Example:
 
 If you score a critical hit with a one handed longsword you will deal 8
 damage + 1d8 extra for the critical hit.
+

@@ -29,7 +29,7 @@ Jori is a water genasi druid from [Mordian](/docs/regions/mauer-mountains/mordia
 
 Jori was raised in [Mordian](/docs/regions/mauer-mountains/mordian) by his halfling father and paternal family. Although he always looked different from the other halflings, he grew up loved and accepted by those around him.
 
-His mother was **Undina**, a marid who met Jori's father while he was working as a sailor in [Puerto Ballena](/docs/regions/puerto-ballena).
+His mother was **Undina**, a marid who met Jori's father while he was working as a sailor in [Puerto Ballena](/docs/puerto-ballena/).
 
 According to his father, Undina gathered kelp from [Grail Lake](/docs/regions/mauer-mountains/grail-lake) and shaped it into a small bundle. Together, they submerged it beneath the waters and wished for their love to bear fruit.
 
@@ -97,7 +97,7 @@ Jori knew little about the location of Myth Coralis or the nature of the [Unheil
 
 Travellers had once told him of an enormous library in [Longsaddle](/docs/regions/longsaddle) known as the [Temple of Knowledge](/docs/factions/temple-of-knowledge/). If answers existed anywhere, Jori believed he might find them there.
 
-Before leaving, his mentor asked him to visit an old friend in [Dorelta](/docs/regions/autumn-forest/dorelta): [Miranda Greywolf](/docs/dorelta/dorelta-npcs/miranda-greywolf), a fellow protector of nature.
+Before leaving, his mentor asked him to visit an old friend in [Dorelta](/docs/dorelta/): [Miranda Greywolf](/docs/dorelta/npcs/miranda-greywolf), a fellow protector of nature.
 
 A series of mysterious murders had taken place in the city, apparently connected to something of dark origin.
 
@@ -131,7 +131,11 @@ And so his journey began.
 | [Lily](/docs/players/jori/lily) | Companion |
 | [Lyra](/docs/players/jori/lyra) | Druidic totem |
 | [Pavo](/docs/players/jori/pavo) | Druidic totem |
-| [Miranda Greywolf](/docs/dorelta/dorelta-npcs/miranda-greywolf) | Ally in Dorelta |
+| [Miranda Greywolf](/docs/dorelta/npcs/miranda-greywolf) | Ally in Dorelta |
 | **Conor McMellot** | Childhood acquaintance |
+
+
+
+
 
 

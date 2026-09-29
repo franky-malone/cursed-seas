@@ -44,3 +44,4 @@ Dienstag, 7. Januar 2025
   - White ice wyvern
   - Unconscious: CV, Golt, Jhandril
   - Golt heals with lay on hands
+

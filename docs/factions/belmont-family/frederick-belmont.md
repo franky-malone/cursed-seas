@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Frederick Belmont"
 sidebar_position: 3
 ---
@@ -82,6 +82,7 @@ Frederick, the rest of the crew, and [Halphanis Severus's](/docs/factions/temple
 - [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus)
 - [Black Albatros](/docs/factions/belmont-family/black-albatros)
 - [Cursed Islands](/docs/regions/cursed-islands)
+
 
 
 

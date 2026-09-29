@@ -33,7 +33,7 @@ Despite this, Dorn clearly cares about his pupil and takes pride in his developm
 
 ## Kespien's First Mission
 
-Dorn eventually entrusted Kespien with his first solo mission, sending him to [Dorelta](/docs/regions/autumn-forest/dorelta).
+Dorn eventually entrusted Kespien with his first solo mission, sending him to [Dorelta](/docs/dorelta/).
 
 He instructed Kespien to meet him again in [Longsaddle](/docs/regions/longsaddle) once the mission was complete.
 
@@ -43,4 +43,7 @@ He instructed Kespien to meet him again in [Longsaddle](/docs/regions/longsaddle
 
 - [Kespien Belmont](/docs/players/kespien-belmont/)
 - [Birthday Sending from Dorn](/docs/players/kespien-belmont/birthday-sending-from-dorn)
+
+
+
 

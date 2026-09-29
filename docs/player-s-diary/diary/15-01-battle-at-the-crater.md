@@ -28,3 +28,4 @@ Dienstag, 4. Februar 2025
     - Jade watchers: Nuraguhilda Barrelbreaker, follower of Moradin
       (good-aligned father of dwarves)
     - We spend the night at camp with the dwarves
+

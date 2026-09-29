@@ -20,7 +20,7 @@ const locations = [
     name: 'Puerto Ballena',
     x: 56.33,
     y: 63.31,
-    link: '/docs/regions/puerto-ballena',
+    link: '/docs/puerto-ballena/',
   },
 
   // --- Northern region ---
@@ -144,13 +144,13 @@ const locations = [
     name: 'Dorelta',
     x: 18.12,
     y: 28.23,
-    link: '/docs/regions/autumn-forest/dorelta',
+    link: '/docs/dorelta/',
   },
   {
     name: 'Orchiva',
     x: 40.53,
     y: 45.74,
-    link: '/docs/regions/orchiva',
+    link: '/docs/orchiva',
   },
   {
     name: 'Neu Samir',
@@ -244,7 +244,7 @@ const locations = [
     name: 'Emerald Hills',
     x: 47.87,
     y: 53.70,
-    link: '/docs/regions/emerald-mangroves/Emerald-hills',
+link: '/docs/emerald-hills/',
   },
 ];
 
@@ -700,3 +700,7 @@ export default function InteractiveMap() {
     </div>
   );
 }
+
+
+
+

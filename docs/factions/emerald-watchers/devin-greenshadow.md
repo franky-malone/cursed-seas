@@ -11,3 +11,4 @@ his men.
 He claims that the roads are no longer safe due to an increase attack of
 goblinoid creatures of the Red Fang Tribe. Most probably motivated by
 the awaken of a green Dragon from the Emeral Groves.
+

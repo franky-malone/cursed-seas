@@ -20,3 +20,4 @@ Jean and his wife, [Victoria Belmont](/docs/factions/belmont-family/victoria-bel
 - [Belmont's Crest](/docs/factions/belmont-family/belmont-s-crest)
 
 
+

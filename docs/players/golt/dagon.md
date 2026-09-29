@@ -16,3 +16,4 @@ Ipletherion.
 It seems to be a very powerful demonic entity which threatened Golt to
 comply with the pact they did or suffer the consequences as some other
 of his chosen before did.
+

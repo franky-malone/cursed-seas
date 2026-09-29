@@ -28,3 +28,4 @@ Kuldir. If the next caravan doesn't come soon, the reserves of alcohol
 supplies could come short.
 
 
+

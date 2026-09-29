@@ -31,7 +31,7 @@ Now an adventurer of the **Farbound Fellowship**, Kespien carries both the remna
 
 Kespien was born in [Crosscove](/docs/regions/mauer-mountains/crosscove), a modest town overshadowed by the infamous reputation of the [Belmont Family](/docs/factions/belmont-family/).
 
-Despite the ridicule surrounding his name, Kespien dreamed of becoming an adventurer. As a child, he shared those dreams with his best friend, [Carter "The Cat"](/docs/puerto-ballena/carter-the-cat).
+Despite the ridicule surrounding his name, Kespien dreamed of becoming an adventurer. As a child, he shared those dreams with his best friend, [Carter "The Cat"](/docs/puerto-ballena/npcs/carter-the-cat).
 
 ### The Goblin Raid
 
@@ -96,7 +96,7 @@ Both are reminders of the family he lost, but also of the legacy he continues to
 |---|---|
 | [Jean Belmont](/docs/factions/belmont-family/jean-belmont) | Father |
 | [Victoria Belmont](/docs/factions/belmont-family/victoria-belmont) | Mother |
-| [Carter "The Cat"](/docs/puerto-ballena/carter-the-cat) | Childhood best friend |
+| [Carter "The Cat"](/docs/puerto-ballena/npcs/carter-the-cat) | Childhood best friend |
 | [Dorn Firember](/docs/factions/silvertusk-brotherhood/dorn-firember) | Mentor and superior in the [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood) |
 | [Lory Swiftwind](/docs/factions/silvertusk-brotherhood/lory-swiftwind) | Mentor who taught him to rely on agility and speed |
 | [Chimney](/docs/players/kespien-belmont/chimney) | Familiar |

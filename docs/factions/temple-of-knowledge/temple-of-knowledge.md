@@ -221,3 +221,4 @@ The current holders of these title are:
 At the pinnacle of the Temple's hierarchy stands the **Highest Inkwell**.
 
 The current holder of the title is [Eulius Federreich](./leaders/highest-inkwell-eulius-federreich.md).
+

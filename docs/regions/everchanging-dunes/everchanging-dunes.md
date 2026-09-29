@@ -18,3 +18,4 @@ death in the dunes.
 
 In addition to the big capital of Neu Samir, in its dunes there are many
 nomadic tribes that subsist in small oases and caves.
+

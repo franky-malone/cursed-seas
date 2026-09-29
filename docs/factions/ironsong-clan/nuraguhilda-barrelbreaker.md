@@ -7,3 +7,4 @@ sidebar_position: 3
 
 Leader of a battalion of the Jade Watchers from Kor Kuldir. She claimed
 to be a cleric of Moradin.
+

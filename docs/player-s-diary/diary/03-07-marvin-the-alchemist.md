@@ -23,3 +23,4 @@ sidebar_position: 28
     - CV: potion of climbing
     - Golt: potion of diminution (reduce)
     - Kespien: potion of polychromy
+

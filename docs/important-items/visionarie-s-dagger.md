@@ -35,3 +35,4 @@ purple: psychic
 red: fire
 
 white: radiant
+

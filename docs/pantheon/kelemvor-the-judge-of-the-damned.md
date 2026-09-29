@@ -9,3 +9,4 @@ destination. He was master of the Crystal Spire in the Fugue Plane. His
 followers tasked themselves with three duties. Preparing people for
 death by ordering their affairs, prevent things that prevent people from
 dying naturally, and destroying undead.
+

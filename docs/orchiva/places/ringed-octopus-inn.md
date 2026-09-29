@@ -4,3 +4,4 @@ sidebar_position: 2
 ---
 
 ![](ringed-octopus-inn-assets/ringed-octopus-inn_files/image001.webp)
+

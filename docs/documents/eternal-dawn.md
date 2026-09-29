@@ -24,3 +24,4 @@ overwhelming displays of affection or by making them listen to bad
 poetry. Alas, these insights, though vivid and entertaining, do little
 to illuminate any real weaknesses or behaviors of actual vampires you
 might face.
+

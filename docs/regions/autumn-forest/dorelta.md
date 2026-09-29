@@ -1,1 +1,0 @@
-Dorelta is a city composed of four major districts inside the [Autumn Woods](../autumn-forest/autumn-forest.md). It is said that originally an elven clan from [Everlor](../everlor.md) established the city here.

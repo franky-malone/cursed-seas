@@ -12,3 +12,4 @@ When the turn of reading Golt's fortune came, she collapsed to the
 ground saying the name "The Sentinel is here".
 
 She then asked the elder Aurora to tell about the Sentinel to the group.
+

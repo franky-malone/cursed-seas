@@ -56,7 +56,7 @@ Silica is renowned for writing the **Bestiary Stein**, a comprehensive work conc
 
 His expertise extends beyond cataloguing creatures. He is capable of examining unusual biological and magical phenomena and identifying the properties of unfamiliar organisms and substances.
 
-When shown the unusual red lilies found in [Dorelta](/docs/regions/autumn-forest/dorelta), for example, Silica was quickly able to determine that, if properly treated, they possessed the ability to heal numerous illnesses.
+When shown the unusual red lilies found in [Dorelta](/docs/dorelta/), for example, Silica was quickly able to determine that, if properly treated, they possessed the ability to heal numerous illnesses.
 
 ## Relationship with Aeriff
 
@@ -80,7 +80,7 @@ He also discussed the **Sentinel** with the party. Based on what they told him, 
 
 Silica took particular interest in [Golt's](/docs/players/golt/) physical transformation.
 
-Since curses were outside his own specialization, he consulted [Elisabeth the Twilight Oracle](/docs/puerto-ballena/temple-of-the-full-moon/elisabeth-the-twilight-oracle), a specialist in curses.
+Since curses were outside his own specialization, he consulted [Elisabeth the Twilight Oracle](/docs/puerto-ballena/places/temple-of-the-full-moon/npcs/elisabeth-the-twilight-oracle), a specialist in curses.
 
 After examining Golt, Elisabeth suggested three possible ways in which his condition might be reversed:
 
@@ -111,3 +111,6 @@ Together with [Halphanis Severus](./sacred-plume-halphanis-severus), [Koko Banan
 Following the events in Dorelta, Silica and the other Sacred Plumes became occupied with managing the arrival of large numbers of refugees in Longsaddle.
 
 During this period, Aeriff was preparing for the Temple examination while also acting as an intermediary between Silica and the Farbound Fellowship.
+
+
+

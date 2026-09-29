@@ -17,3 +17,4 @@ exchange of bringing back to life someone from this memories or his magical staf
 After the deal, he left for the Dunklelock in search of the Onix Bishop.
 
 ![](schwefel-sulphure-assets/schwefel-sulphure_files/image001.webp)
+

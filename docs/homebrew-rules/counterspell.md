@@ -20,3 +20,4 @@ quarters of the caster (30 feet or less) and it is an Arcana Check
 - If you pass the DC by 5 or more you also get to know the exact spell
   that is being cast (in game explanation you can anticipate what is
   about to happen when you see the spell).
+

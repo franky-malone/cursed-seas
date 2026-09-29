@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jhandril / Dash Virgula"
 sidebar_position: 15
 ---
@@ -150,3 +150,4 @@ Despite having learned his true identity, Jhandril is still trying to understand
 | [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) | Biological father |
 | [Count Virgula](/docs/players/count-virgula) | Paternal uncle and newfound family |
 | **Sandria** | Biological mother |
+

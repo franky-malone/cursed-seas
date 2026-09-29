@@ -28,3 +28,4 @@ sidebar_position: 24
       Kespien lightning bolt, Aerif mass healing word, CV fireball (and
       gets a Marsander flashback), Jori summons murky tidal wave
     - Remaining bandits surrender
+

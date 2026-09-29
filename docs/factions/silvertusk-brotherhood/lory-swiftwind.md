@@ -25,3 +25,4 @@ These lessons eventually became an important part of Kespien's fighting style an
 Lory is small and agile, with mischievous eyes that constantly seem to assess her surroundings. She has a quick, sly smile and moves with grace and stealth.
 
 Her clothing is practical and dark, allowing her to blend easily
+

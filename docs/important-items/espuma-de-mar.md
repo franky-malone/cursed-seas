@@ -28,3 +28,4 @@ For **1 minute** after consuming a dose:
 **10 minutes after the last consumed dose**, the user must make a **DC 15 Constitution saving throw**.
 
 On a failed save, the user is **poisoned for 1d4 + 1 hours**.
+

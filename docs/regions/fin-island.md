@@ -18,3 +18,4 @@ After the discovery of Lútaca, Nersand is trying to rebuild Fin Island
 into a middle port between the new continent and Norberia, which has
 increased the interest of numerous sailors and has seen its population
 increased exponentially.
+

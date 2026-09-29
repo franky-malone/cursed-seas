@@ -54,3 +54,4 @@ sidebar_position: 25
       almost gets noticed by a guy taking a shit
     - Gnome mage leaves tent with boss: "one-eyed stray", tabaxi with
       eye-patch
+

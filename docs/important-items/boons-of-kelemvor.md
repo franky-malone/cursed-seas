@@ -19,3 +19,4 @@ While you are unconscious and making death saving throws, when you
 suffer a hit that would cause you to fail two death saving throws, you
 instead suffer only one failed death saving throw. You can use this
 feature one time.
+

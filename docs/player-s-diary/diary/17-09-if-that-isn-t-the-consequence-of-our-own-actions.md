@@ -34,3 +34,4 @@ Dienstag, 30. September 2025
       powerful djinn noble
     - Amirah Sephira Al-Marish, queen of all djinns of the wind
     - She is with several young servants, one of them is Golt's daughter
+

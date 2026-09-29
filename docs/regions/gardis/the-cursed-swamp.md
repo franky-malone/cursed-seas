@@ -15,3 +15,4 @@ of casting curses that last for several generations.
 
 Numerous monsters live there and it is generally an area to be avoided
 by all Norberians.
+

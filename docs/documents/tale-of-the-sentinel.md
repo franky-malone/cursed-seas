@@ -55,3 +55,4 @@ unseen force that binds him to the sea. So let the tale of the Sentinel
 serve as a warning—a reminder of the dangers that lurk beneath the
 waves, and the secrets that lie buried in the depths of the ocean's
 embrace.
+
