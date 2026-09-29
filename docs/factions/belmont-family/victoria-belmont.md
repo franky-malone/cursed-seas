@@ -3,11 +3,6 @@ title: "Victoria Belmont"
 sidebar_position: 4
 ---
 
-| | |
-|---|---|
-| **Affiliation** | [Belmont Family](/docs/factions/belmont-family/) |
-| **Status** | Deceased |
-
 ## Overview
 
 **Victoria Belmont** was the mother of [Kespien Belmont](/docs/players/kespien-belmont/).

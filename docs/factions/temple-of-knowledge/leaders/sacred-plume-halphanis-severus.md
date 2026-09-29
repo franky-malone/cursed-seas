@@ -3,13 +3,18 @@ title: "Sacred Plume Halphanis Severus"
 sidebar_position: 3
 ---
 
-![](sacred-plume-halphanis-severus-assets/sacred-plume-halphanis-severus_files/image001.webp)
+<div style={{
+  display: 'flex',
+  gap: '2rem',
+  alignItems: 'center',
+  flexWrap: 'wrap',
+  marginBottom: '2rem'
+}}>
 
-| | |
-|---|---|
-| **Position** | Sacred Plume of Archaeomancy |
-| **Affiliation** | [Temple of Knowledge](/docs/factions/temple-of-knowledge/) |
-| **Status** | Unconscious and injured |
+<div style={{
+  flex: '1 1 400px',
+  minWidth: 0
+}}>
 
 ## Overview
 
@@ -26,6 +31,26 @@ Despite his considerable knowledge and position within the Temple, many of these
 Halphanis arrived in [Longsaddle](/docs/regions/longsaddle) many years ago with little money but a strong fascination with history and ancient civilizations.
 
 Determined to study at the [Temple of Knowledge](/docs/factions/temple-of-knowledge/), he eventually earned a scholarship under [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula), then Sacred Plume of Archaeomancy.
+
+</div>
+
+<img
+  src={require('./sacred-plume-halphanis-severus-assets/sacred-plume-halphanis-severus_files/image001.webp').default}
+  alt="Halphanis Severus"
+  style={{
+    width: '35%',
+    minWidth: '280px',
+    maxWidth: '420px',
+    height: 'auto',
+    objectFit: 'cover',
+    borderRadius: '8px',
+    flex: '0 1 420px'
+  }}
+/>
+
+</div>
+
+
 
 Ellipsis became far more than an academic mentor to him. Halphanis regarded him as a tutor, friend and eventually a father figure.
 

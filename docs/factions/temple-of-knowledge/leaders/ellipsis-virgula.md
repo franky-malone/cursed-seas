@@ -3,14 +3,19 @@ title: "Former Sacred Plume Ellipsis Virgula"
 sidebar_position: 6
 ---
 
-![](ellipsis-virgula-assets/ellipsis-virgula_files/image001.webp)
 
-| | |
-|---|---|
-| **Former Position** | Sacred Plume of Archaeomancy |
-| **Affiliation** | [Temple of Knowledge](/docs/factions/temple-of-knowledge/) |
-| **Race** | Marsandian |
-| **Status** | Missing |
+<div style={{
+  display: 'flex',
+  gap: '2rem',
+  alignItems: 'center',
+  flexWrap: 'wrap',
+  marginBottom: '2rem'
+}}>
+
+<div style={{
+  flex: '1 1 400px',
+  minWidth: 0
+}}>
 
 ## Overview
 
@@ -25,6 +30,25 @@ Ellipsis was himself a **Marsandian survivor**.
 His research eventually became focused on **Mythals**, **Myth Coralis** and the lost archipelago of **Fabros**. He abandoned his position at the Temple and disappeared while attempting to reach the legendary [Cursed Islands](/docs/regions/cursed-islands).
 
 His current whereabouts remain unknown.
+
+
+</div>
+
+<img
+  src={require('./ellipsis-virgula-assets/ellipsis-virgula_files/image001.webp').default}
+  alt="Ellipsis Virgula"
+  style={{
+    width: '35%',
+    minWidth: '280px',
+    maxWidth: '420px',
+    height: 'auto',
+    objectFit: 'cover',
+    borderRadius: '8px',
+    flex: '0 1 420px'
+  }}
+/>
+
+</div>
 
 ---
 

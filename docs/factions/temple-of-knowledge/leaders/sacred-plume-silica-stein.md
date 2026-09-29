@@ -1,9 +1,20 @@
 ---
-title: "Silica Stein"
+title: "Sacred Plume Silica Stein"
 sidebar_position: 2
 ---
 
-![](sacred-plume-silica-stein-assets/sacred-plume-silica-stein_files/image001.webp)
+<div style={{
+  display: 'flex',
+  gap: '2rem',
+  alignItems: 'center',
+  flexWrap: 'wrap',
+  marginBottom: '2rem'
+}}>
+
+<div style={{
+  flex: '1 1 400px',
+  minWidth: 0
+}}>
 
 ## Overview
 
@@ -18,6 +29,24 @@ He is also the adoptive father and mentor of [Aeriff](../members/aeriff).
 Silica's field of expertise is **Arcanobiology**, one of the four Schools of Knowledge of the Temple.
 
 His knowledge focuses primarily on living creatures, monsters, magical transformations, and unusual biological phenomena. Although highly knowledgeable within his field, Silica readily admits when a subject lies outside his expertise. In particular, he does not consider himself an expert on history and knew relatively little about subjects such as **Myth Coralis**, the **Ipletherion**, or the **Unheilmeer** when questioned about them.
+
+</div>
+
+<img
+  src={require('./sacred-plume-silica-stein-assets/sacred-plume-silica-stein_files/image001.webp').default}
+  alt="Silica Stein"
+  style={{
+    width: '35%',
+    minWidth: '280px',
+    maxWidth: '420px',
+    height: 'auto',
+    objectFit: 'cover',
+    borderRadius: '8px',
+    flex: '0 1 420px'
+  }}
+/>
+
+</div>
 
 He is familiar with the stories surrounding **Marsander** and knows that some Marsandians survived the catastrophe and continued living in hiding. According to Silica, expeditions to obtain living specimens from Marsander are particularly difficult because much of what remains there consists of dangerous monsters and shadows.
 

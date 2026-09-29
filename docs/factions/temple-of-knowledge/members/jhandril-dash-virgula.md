@@ -5,31 +5,16 @@ sidebar_position: 15
 
 <div style={{
   display: 'flex',
-  gap: '1rem',
-  marginBottom: '1.5rem'
+  gap: '2rem',
+  alignItems: 'center',
+  flexWrap: 'wrap',
+  marginBottom: '2rem'
 }}>
-  <img
-    src={require('./jhandril-dash-virgula-assets/jhandril-dash-virgula_files/image001.webp').default}
-    alt="Jhandril"
-    style={{
-      width: 'calc(50% - 0.5rem)',
-      height: 'auto',
-      objectFit: 'cover',
-      borderRadius: '8px'
-    }}
-  />
 
-  <img
-    src={require('./jhandril-dash-virgula-assets/jhandril-dash-virgula_files/dash-virgula.webp').default}
-    alt="Dash Virgula"
-    style={{
-      width: 'calc(50% - 0.5rem)',
-      height: 'auto',
-      objectFit: 'cover',
-      borderRadius: '8px'
-    }}
-  />
-</div>
+<div style={{
+  flex: '1 1 400px',
+  minWidth: 0
+}}>
 
 **Jhandril**, whose real name is **Dash Virgula**, is a young Marsandian wizard and the pupil and adopted son of [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus).
 
@@ -44,6 +29,24 @@ Seeking to give his pupil some practical experience, Halphanis sent Jhandril on 
 His knowledge obtained through his studies proved useful while travelling through the Wyvern Mountains, where he helped the group identify and avoid potential dangers. During negotiations with a group of dwarves, he also managed to secure **10% of their ore** for the party.
 
 [Kespien](/docs/players/kespien-belmont) was particularly impressed by Jhandril's growth during the expedition and eventually gifted him a **Wand of the War Mage** in recognition of how much he had developed.
+
+</div>
+
+<img
+    src={require('./jhandril-dash-virgula-assets/jhandril-dash-virgula_files/image001.webp').default}
+  alt="Temple of Knowledge"
+  style={{
+    width: '35%',
+    minWidth: '280px',
+    maxWidth: '420px',
+    height: 'auto',
+    objectFit: 'cover',
+    borderRadius: '8px',
+    flex: '0 1 420px'
+  }}
+/>
+
+</div>
 
 ## The Expedition
 
@@ -65,7 +68,20 @@ Jhandril agreed.
 
 He then revealed another ability he had kept hidden and used a **Teleportation Circle** spell scroll to return the group directly to the [Temple of Knowledge](/docs/factions/temple-of-knowledge) in Longsaddle.
 
-## Dash Virgula
+<div style={{
+  display: 'flex',
+  gap: '2rem',
+  alignItems: 'center',
+  flexWrap: 'wrap',
+  marginBottom: '2rem'
+}}>
+
+<div style={{
+  flex: '1 1 400px',
+  minWidth: 0
+}}>
+
+## The revelation
 
 Jhandril eventually learned that almost everything he believed about his origins had been deliberately concealed from him.
 
@@ -82,6 +98,23 @@ The boy was living in an orphanage where he suffered mistreatment from both the 
 Halphanis adopted him.
 
 Initially motivated by the connection to his former master, Halphanis soon came to genuinely regard Jhandril as his own son. Wanting to protect him from his heritage and the dangers associated with it, Halphanis magically altered the boy's appearance and memories so that he would grow up unaware that he was Marsandian.
+</div>
+
+<img
+    src={require('./jhandril-dash-virgula-assets/jhandril-dash-virgula_files/dash-virgula.webp').default}
+  alt="Temple of Knowledge"
+  style={{
+    width: '35%',
+    minWidth: '280px',
+    maxWidth: '420px',
+    height: 'auto',
+    objectFit: 'cover',
+    borderRadius: '8px',
+    flex: '0 1 420px'
+  }}
+/>
+
+</div>
 
 Jhandril therefore spent most of his life believing that his magically altered appearance was his real one.
 

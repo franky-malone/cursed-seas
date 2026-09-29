@@ -1,9 +1,20 @@
 ---
-title: "Koko Bananicus"
+title: "Sacred Plume Koko Bananicus"
 sidebar_position: 6
 ---
 
-![](sacred-plume-koko-bananicus-assets/sacred-plume-koko-bananicus_files/image001.webp)
+<div style={{
+  display: 'flex',
+  gap: '2rem',
+  alignItems: 'center',
+  flexWrap: 'wrap',
+  marginBottom: '2rem'
+}}>
+
+<div style={{
+  flex: '1 1 400px',
+  minWidth: 0
+}}>
 
 ## Overview
 
@@ -19,18 +30,26 @@ His dark fur is partially covered by elaborate robes decorated with arcane symbo
 
 He carries a staff decorated with rotating, number-inscribed rings and abacus beads, while scrolls, wax tablets, and old tomes fill the satchel he carries with him.
 
+</div>
+
+<img
+  src={require('./sacred-plume-koko-bananicus-assets/sacred-plume-koko-bananicus_files/image001.webp').default}
+  alt="Koko Bananicus"
+  style={{
+    width: '35%',
+    minWidth: '280px',
+    maxWidth: '420px',
+    height: '500px',
+    objectFit: 'cover',
+    borderRadius: '8px',
+    flex: '0 1 420px'
+  }}
+/>
+
+</div>
+
 ## Role in the Temple
 
 Koko holds the rank of **Sacred Plume**, making him one of the highest-ranking members of the Temple beneath the [Highest Inkwell Eulius Federreich](./highest-inkwell-eulius-federreich).
 
 His field is **Numeromancy**, one of the four Schools of Knowledge represented by the Sacred Plumes.
-
-## Temple Examination
-
-Koko participated as one of the examiners during the Temple examination attended by [Kespien Belmont](/docs/players/kespien-belmont/).
-
-Together with [Halphanis Severus](./sacred-plume-halphanis-severus), [Silica Stein](./sacred-plume-silica-stein), and [Melrea](./sacred-plume-melrea), Koko questioned the candidates and listened to their answers before the examination concluded with a final question from the Highest Inkwell.
-
-Among the candidates were Kespien, [Aeriff](../members/aeriff), Zarzaparrilla, Hatu-khnum-amen, and Rabenax.
-
-Aeriff was ultimately declared the winner of the examination.

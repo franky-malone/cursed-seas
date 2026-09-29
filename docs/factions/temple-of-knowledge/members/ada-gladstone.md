@@ -3,7 +3,18 @@ title: "Ada Gladstone"
 sidebar_position: 7
 ---
 
-![](ada-gladstone-assets/ada-gladstone_files/image001.webp)
+<div style={{
+  display: 'flex',
+  gap: '2rem',
+  alignItems: 'center',
+  flexWrap: 'wrap',
+  marginBottom: '2rem'
+}}>
+
+<div style={{
+  flex: '1 1 400px',
+  minWidth: 0
+}}>
 
 **Ada Gladstone** is a scholar and active professor at the [Temple of Knowledge](/docs/factions/temple-of-knowledge/), specializing in **Fey Portals and the Fey Realm**. She is an old acquaintance of [Jori](/docs/players/jori/) and has developed a somewhat romantic relationship with him.
 
@@ -16,6 +27,24 @@ At the Temple of Knowledge, she teaches classes about Fey Portals, including the
 Her life's work is considerably more ambitious: Ada is attempting to develop an **equation capable of accurately predicting the location of portals to the Fey Realm**.
 
 This research eventually led her away from the safety of the Temple and into the field, searching for places where Fey activity could provide enough information to test and refine her theories.
+
+</div>
+
+<img
+  src={require('./ada-gladstone-assets/ada-gladstone_files/image001.webp').default}
+  alt="Temple of Knowledge"
+  style={{
+    width: '35%',
+    minWidth: '280px',
+    maxWidth: '420px',
+    height: 'auto',
+    objectFit: 'cover',
+    borderRadius: '8px',
+    flex: '0 1 420px'
+  }}
+/>
+
+</div>
 
 ## Relationship with Jori
 

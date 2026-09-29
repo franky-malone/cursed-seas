@@ -7,6 +7,19 @@ sidebar_position: 1
 
 ## Description
 
+<div style={{
+  display: 'flex',
+  gap: '2rem',
+  alignItems: 'center',
+  flexWrap: 'wrap',
+  marginBottom: '2rem'
+}}>
+
+<div style={{
+  flex: '1 1 400px',
+  minWidth: 0
+}}>
+
 In the heart of Longsaddle, nestled within the embrace of the city's bustling streets and winding alleys, lies the revered sanctum known as the **Temple of Knowledge**.
 
 A bastion of erudition and enlightenment, this grand edifice stands as a beacon for scholars, arcanists, bards, and all seekers of wisdom who dare to tread its hallowed halls.
@@ -17,11 +30,41 @@ A common saying in Norberia goes:
 
 > *"If it ain't in the Temple's books, it ain't nowhere yet."*
 
+</div>
+
 <img
   src={require('./temple-of-knowledge-assets/knowledge-s-temple_files/image001.webp').default}
   alt="Temple of Knowledge"
-  style={{width: '100%', maxWidth: '900px', display: 'block', margin: '2rem auto'}}
+  style={{
+    width: '35%',
+    minWidth: '280px',
+    maxWidth: '420px',
+    height: 'auto',
+    objectFit: 'cover',
+    borderRadius: '8px',
+    flex: '0 1 420px'
+  }}
 />
+
+</div>
+
+---
+
+## Known members
+
+| Known Members | Rank | School |
+|---|---|---|
+| [Brasvik](./members/brasvik.md) | **Lore Scribe** | — |
+| [Aeriff](./members/aeriff.md) | **Lore Scribe** | — |
+| [Elosial](./members/elosial.md) | **Lore Scribe** | — |
+| [Melosial](./members/melosial.md) | **Lore Scribe** | — |
+| [Jhandril](./members/jhandril-dash-virgula.md) | **Chronicle Seeker** | — |
+| [Ada Gladstone](./members/ada-gladstone.md) | **Custodian of Secrets** | — |
+| [Silica Stein](./leaders/sacred-plume-silica-stein.md) | **Sacred Plume** | Arcanobiology |
+| [Halphanis Severus](./leaders/sacred-plume-halphanis-severus.md) | **Sacred Plume** | Archaeomancy |
+| [Melrea](./leaders/sacred-plume-melrea.md) | **Sacred Plume** | Elemental Arts |
+| [Koko Bananicus](./leaders/sacred-plume-koko-bananicus.md) | **Sacred Plume** | Numeromancy |
+| [Eulius Federreich](./leaders/highest-inkwell-eulius-federreich.md) | **Highest Inkwell** | — |
 
 ---
 
@@ -145,26 +188,36 @@ This system allows visitors to contribute to the upkeep of the Hall while provid
 
 The hierarchy of the Temple progresses through several ranks, culminating in the **Highest Inkwell**.
 
-| Rank | Known Members | School |
-|---|---|---|
-| **Lore Scribe** | [Brasvik](./members/brasvik.md) | — |
-| **Lore Scribe** | [Aeriff](./members/aeriff.md) | — |
-| **Lore Scribe** | [Elosial](./members/elosial.md) | — |
-| **Lore Scribe** | [Melosial](./members/melosial.md) | — |
-| **Chronicle Seeker** | [Jhandril](./members/jhandril-dash-virgula.md) | — |
-| **Custodian of Secrets** | [Ada Gladstone](./members/ada-gladstone.md) | — |
-| **Sacred Plume** | [Silica Stein](./leaders/sacred-plume-silica-stein.md) | Arcanobiology |
-| **Sacred Plume** | [Halphanis Severus](./leaders/sacred-plume-halphanis-severus.md) | Archaeomancy |
-| **Sacred Plume** | [Melrea](./leaders/sacred-plume-melrea.md) | Elemental Arts |
-| **Sacred Plume** | [Koko Bananicus](./leaders/sacred-plume-koko-bananicus.md) | Numeromancy |
-| **Highest Inkwell** | [Eulius Federreich](./leaders/highest-inkwell-eulius-federreich.md) | — |
+### Lore Scribe
+
+A Lore Scribe is a recognized scholar of the Temple of Knowledge and the first formal rank within its academic hierarchy. Candidates must contribute an original piece of knowledge in their chosen field and successfully pass an examination after their work has been reviewed by senior members of the Temple. Lore Scribes gain access to advanced Temple resources, including limited access to the Sanctum of Eternal Wisdom, and are expected to continue contributing new knowledge to the Temple each year.
+
+### Chronicle Seeker
+
+A Chronicle Seeker is an experienced scholar who has demonstrated the ability to produce several meaningful contributions to their field, including research undertaken at the request of a senior member of the Temple.
+They enjoy greater access to the Temple's restricted resources than Lore Scribes, but must continue their research and undergo a yearly Proof of Knowledge conducted by their mentor to retain their rank.
+
+### Custodian of Secrets
+
+A Custodian of Secrets is a senior scholar who combines academic expertise with teaching and mentorship. Reaching this rank requires an established body of original research, completing work assigned by a Sacred Plume, and demonstrating the ability to teach others.
+Custodians are expected to help preserve and transmit the Temple's accumulated knowledge. They must mentor at least one lower ranking member and periodically prove their expertise before the Sacred Plume responsible for their School of Knowledge.
 
 ### Sacred Plumes
 
 Only **four Sacred Plumes** may hold the title at any given time, with one presiding over each of the Temple's Schools of Knowledge.
 
+The current holders of these title are:
+
+[Silica Stein](./leaders/sacred-plume-silica-stein.md) Sacred Plume of Arcanobiology 
+
+[Halphanis Severus](./leaders/sacred-plume-halphanis-severus.md) Sacred Plume of Archaeomancy 
+
+[Melrea](./leaders/sacred-plume-melrea.md) Sacred Plume of Elemental Arts 
+
+[Koko Bananicus](./leaders/sacred-plume-koko-bananicus.md) Sacred Plume of Numeromancy 
+
 ### Highest Inkwell
 
-At the pinnacle of the Temple's hierarchy stands a single **Highest Inkwell**.
+At the pinnacle of the Temple's hierarchy stands the **Highest Inkwell**.
 
-The current holder of the title is **Eulius Federreich**.
+The current holder of the title is [Eulius Federreich](./leaders/highest-inkwell-eulius-federreich.md).

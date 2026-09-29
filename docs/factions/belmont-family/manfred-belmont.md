@@ -3,13 +3,6 @@ title: "Manfred Belmont"
 sidebar_position: 2
 ---
 
-| | |
-|---|---|
-| **Affiliation** | [Belmont Family](/docs/factions/belmont-family/) |
-| **Known for** | Voyages to the [Cursed Islands](/docs/regions/cursed-islands) |
-| **Ship** | [Yellow Wolf](/docs/factions/belmont-family/yellow-wolf)|
-| **Legacy** | Inspiration for [Belmont the Liar](/docs/factions/belmont-family/belmont-the-liar-song) |
-
 ## Overview
 
 **Manfred Belmont** was an ancestor of [Kespien Belmont](/docs/players/kespien-belmont/), remembered as an explorer and storyteller whose extraordinary tales eventually earned the Belmont family a reputation for dishonesty.

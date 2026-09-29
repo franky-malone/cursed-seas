@@ -3,7 +3,18 @@ title: "Belmont's Crest"
 sidebar_position: 10
 ---
 
-![](belmont-s-crest-assets/belmont-s-crest_files/image001.webp)
+<div style={{
+  display: 'flex',
+  gap: '2rem',
+  alignItems: 'center',
+  flexWrap: 'wrap',
+  marginBottom: '2rem'
+}}>
+
+<div style={{
+  flex: '1 1 400px',
+  minWidth: 0
+}}>
 
 ## The Belmont Crest
 
@@ -15,7 +26,23 @@ Despite the reputation attached to the Belmont name, [Kespien Belmont](/docs/pla
 
 The crest also appears on the blade of the broken longsword Kespien inherited from his father, [Jean Belmont](/docs/factions/belmont-family/jean-belmont).
 
----
+</div>
+
+<img
+  src={require('./belmont-s-crest-assets/belmont-s-crest_files/image001.webp').default}
+  alt="Temple of Knowledge"
+  style={{
+    width: '35%',
+    minWidth: '280px',
+    maxWidth: '420px',
+    height: 'auto',
+    objectFit: 'cover',
+    borderRadius: '8px',
+    flex: '0 1 420px'
+  }}
+/>
+
+</div>
 
 ## Related Pages
 

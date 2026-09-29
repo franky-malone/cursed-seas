@@ -3,11 +3,6 @@ title: "Jean Belmont"
 sidebar_position: 3
 ---
 
-| | |
-|---|---|
-| **Affiliation** | [Belmont Family](/docs/factions/belmont-family/) |
-| **Status** | Deceased |
-
 ## Overview
 
 **Jean Belmont** was the father of [Kespien Belmont](/docs/players/kespien-belmont/).

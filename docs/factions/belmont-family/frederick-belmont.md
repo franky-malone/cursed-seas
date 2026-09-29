@@ -3,12 +3,6 @@ title: "Frederick Belmont"
 sidebar_position: 3
 ---
 
-| | |
-|---|---|
-| **Affiliation** | [Belmont Family](/docs/factions/belmont-family/) |
-| **Occupation** | Captain of the [Black Albatros](/docs/factions/belmont-family/black-albatros) |
-| **Status** | Deceased |
-
 ## Overview
 
 **Frederick Belmont** was a direct descendant of [Manfred Belmont](/docs/factions/belmont-family/manfred-belmont) and captain of the [Black Albatros](/docs/factions/belmont-family/black-albatros).
