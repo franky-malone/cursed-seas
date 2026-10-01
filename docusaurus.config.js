@@ -158,6 +158,19 @@ navbar: {
             },
           ],
         },
+{
+  title: 'Privacy',
+  items: [
+    {
+      label: 'Privacy Policy',
+      to: '/privacy',
+    },
+{
+  label: 'Cookie settings',
+  href: '#',
+},
+  ],
+},
       ],
 
       copyright: `Copyright © ${new Date().getFullYear()} Cursed Seas.`,
