@@ -165,15 +165,14 @@ navbar: {
       label: 'Privacy Policy',
       to: '/privacy',
     },
-{
-  label: 'Cookie settings',
-  href: '#',
-},
+    {
+      label: 'Cookie settings',
+      href: '#',
+    },
   ],
 },
       ],
 
-      copyright: `Copyright © ${new Date().getFullYear()} Cursed Seas.`,
     },
 
     prism: {

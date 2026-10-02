@@ -26,12 +26,12 @@ export default function PrivacyPolicy() {
 
             <p>
               Francisco Ojeda Nunez<br />
-              Mühlenkampstraße 24B, 31515 Wunstorf<br />
+              Wunstorf<br />
               Germany
             </p>
 
             <p>
-              Email: francisco.ojedanunez@gmail.com
+              Email: cursedseas.campaign@gmail.com
             </p>
 
             <h2>2. Hosting through GitHub Pages</h2>
