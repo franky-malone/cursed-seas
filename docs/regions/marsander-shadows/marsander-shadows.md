@@ -1,6 +1,7 @@
 ---
 title: "Marsander Shadows"
 sidebar_position: 3
+slug: /regions/marsander-shadows
 ---
 
 ![](marsander-shadows-assets/marsander-shadows_files/image001.webp)

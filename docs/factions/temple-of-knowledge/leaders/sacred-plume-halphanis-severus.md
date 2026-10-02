@@ -28,7 +28,7 @@ Despite his considerable knowledge and position within the Temple, many of these
 
 ## Early Life
 
-Halphanis arrived in [Longsaddle](/docs/regions/longsaddle) many years ago with little money but a strong fascination with history and ancient civilizations.
+Halphanis arrived in [Longsaddle](/docs/longsaddle/) many years ago with little money but a strong fascination with history and ancient civilizations.
 
 Determined to study at the [Temple of Knowledge](/docs/factions/temple-of-knowledge/), he eventually earned a scholarship under [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula), then Sacred Plume of Archaeomancy.
 
@@ -64,7 +64,7 @@ A year after [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellip
 
 The letters revealed two extraordinary truths.
 
-Ellipsis was himself a surviving Marsandian, and he believed the Mythal of Myth Coralis could provide enough power to alter history itself. His intention was to travel to Fabros, harness the Mythal and use it to turn back time—saving his brother **Ponto** and preventing Queen Sanderia and the Marsandian catastrophe.
+Ellipsis was himself a surviving Marsandian, and he believed the Mythal of Myth Coralis could provide enough power to alter history itself. His intention was to travel to Fabros, harness the Mythal and use it to turn back timeâ€”saving his brother **Ponto** and preventing Queen Sanderia and the Marsandian catastrophe.
 
 Halphanis decided he had to find his mentor, both to discover whether Ellipsis could actually accomplish his plan and to determine whether he should help him or stop him.
 
@@ -102,7 +102,7 @@ A violent storm destroyed the ship, and Halphanis became its only known survivor
 
 [Frederick Belmont](/docs/factions/belmont-family/frederick-belmont), [Irina](/docs/other-npcs/irina) and the rest of the crew disappeared with the ship.
 
-Halphanis returned to [Longsaddle](/docs/regions/longsaddle) devastated. He attempted scrying, divination and every other means available to him to locate the missing crew, but none succeeded.
+Halphanis returned to [Longsaddle](/docs/longsaddle/) devastated. He attempted scrying, divination and every other means available to him to locate the missing crew, but none succeeded.
 
 The loss of Irina and the failure to find Ellipsis pushed him into a deep depression.
 
@@ -184,7 +184,7 @@ After learning how Golt obtained the weapon, Halphanis magically examined it and
 - A **dark and fathomless thread**
 - A third thread that appeared almost severed and was pulling strongly away
 
-Golt associated these mysteries with the names **Lathor** and **Dagon**, as well as the **Sentinel** and **Selûne**.
+Golt associated these mysteries with the names **Lathor** and **Dagon**, as well as the **Sentinel** and **SelÃ»ne**.
 
 Halphanis promised to investigate further.
 

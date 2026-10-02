@@ -8,7 +8,7 @@ const locations = [
     name: 'Longsaddle',
     x: 31.48,
     y: 32.69,
-    link: '/docs/regions/longsaddle',
+    link: '/docs/longsaddle/',
   },
   {
     name: 'Nersand',
@@ -167,7 +167,7 @@ const locations = [
 
   // --- Southern / island region ---
   {
-    name: 'L’Taca',
+    name: 'LÃ¢â‚¬â„¢Taca',
     x: 94.53,
     y: 88.36,
     link: '/docs/regions/l-taca/',
@@ -238,7 +238,7 @@ const locations = [
     name: 'Marsander',
     x: 58.62,
     y: 22.95,
-    link: '/docs/regions/Marsander',
+    link: '/docs/regions/marsander-shadows/marsander',
   },
   {
     name: 'Emerald Hills',
@@ -609,7 +609,7 @@ export default function InteractiveMap() {
                 </strong>
 
                 <small>
-                  Open wiki page →
+                  Open wiki page Ã¢â€ â€™
                 </small>
               </span>
             </Link>
@@ -649,7 +649,7 @@ export default function InteractiveMap() {
             aria-label="Zoom out"
             title="Zoom out"
           >
-            −
+            Ã¢Ë†â€™
           </button>
 
           <button
@@ -658,7 +658,7 @@ export default function InteractiveMap() {
             aria-label="Reset map"
             title="Reset map"
           >
-            ↺
+            Ã¢â€ Âº
           </button>
 
           <button
@@ -673,7 +673,7 @@ export default function InteractiveMap() {
             title="Coordinate editor"
             aria-pressed={coordinateMode}
           >
-            ⌖
+            Ã¢Å’â€“
           </button>
 
         </div>

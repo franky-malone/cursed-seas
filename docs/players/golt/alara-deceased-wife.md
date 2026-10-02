@@ -1,5 +1,6 @@
 ---
 title: "Alara (Deceased wife)"
+sidebar_label: "Alara"
 sidebar_position: 2
 ---
 

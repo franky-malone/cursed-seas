@@ -3,13 +3,21 @@ title: "Count Donut"
 sidebar_position: 4
 ---
 
+<img
+  src={require('./count-donut-assets/count-donut_files/image001.webp').default}
+  alt="Count Donut"
+  style={{
+    float: 'left',
+    width: '400px',
+    maxWidth: '100%',
+    marginRight: '2rem',
+    marginBottom: '1rem',
+    borderRadius: '8px'
+  }}
+/>
 
-Favorite hound of Count Virgula. It manifested as a shadowy hound at
-Virgulas control that helped in combat.
+**Count Donut** is [Count Virgula's](/docs/players/count-virgula/) favorite hound.
 
+He manifests as a **shadowy hound** under Virgula's control and assists him in combat.
 
-
-
-
-![](count-donut-assets/count-donut_files/image001.webp)
-
+<div style={{clear: 'both'}}></div>

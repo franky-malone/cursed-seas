@@ -3,82 +3,84 @@ title: "Rumors"
 sidebar_position: 7
 ---
 
-Kespien
+Rumors, stories, and fragments of information known by individual members of the party.
 
+---
 
+## Kespien
 
-- There is a powerful drug named "Espuma de mar" that is getting
-  popularity among the Silvertusk Brotherhood mercenaries. It is
-  supposed to enhance your capabilities, but it also has side effects.
-  Those who consume it regularly see their skin harden with
-  barnacle-like crusts, lose their teeth and their gums turn blue like
-  the sea.
+### Espuma de Mar
 
+There is a powerful drug known as **Espuma de Mar** that is becoming increasingly popular among the [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/) mercenaries.
 
+It is said to enhance the capabilities of those who consume it, but it also has disturbing side effects. Regular users reportedly develop **barnacle-like crusts on their skin**, lose their teeth, and see their gums turn **blue like the sea**.
 
-- You have heard of the Bestiary Stein, the holy grail of all monster
-  enciclopedia. It is said that it was written by one of the higher rank
-  members of the Temple of Knowledge and that very few exemplaries
-  exist.
+### The Bestiary Stein
 
+You have heard of the **Bestiary Stein**, considered the holy grail of monster encyclopedias.
 
+It is said to have been written by one of the highest-ranking members of the [Temple of Knowledge](/docs/factions/temple-of-knowledge/), and only a handful of copies are believed to exist.
 
-Jori
+---
 
+## Jori
 
+### Fuegoazul
 
-- You once dreamt of a tiny dragon made of blue gemstone. It was
-  friendly and it visited you for several weeks, until one day it
-  disappeared. He introduced herself as Fuegoazul and visited you some
-  more times.
-- A flock of migrating birds coming from the northeast, told you about a
-  new danger in the mountains. A huge white bird that threatens all the
-  live there has taken the mountains as its new home.
+You once dreamt of a tiny dragon made of **blue gemstone**. She was friendly and visited you in your dreams for several weeks before suddenly disappearing.
 
-Aeriff
+She introduced herself as **Fuegoazul**, and has visited your dreams several more times since.
 
+### The White Bird
 
+A flock of migrating birds arriving from the northeast warned you about a new danger in the mountains.
 
-- You once read about a fey entity called Fuegoblanco, he is also known
-  as the lord of portals.
+A **huge white bird** has apparently made the mountains its new home and threatens the creatures living there.
 
+---
 
+## Aeriff
 
-- You have overheard your master talking to other sacred plumes that
-  someone by the name of Tom Lancil broke into the Temple of Knowledge
-  and stole a book about creation of magic weapons.
+### Fuegoblanco
 
+You once read about a powerful fey entity called **Fuegoblanco**, also known as the **Lord of Portals**.
 
+### Tom Lancil
 
-Golt
+You once overheard your master speaking with other Sacred Plumes about someone named **Tom Lancil**.
 
+Apparently, he broke into the [Temple of Knowledge](/docs/factions/temple-of-knowledge/) and stole a book concerning the **creation of magical weapons**.
 
+---
 
-- Puerto ballena has always been a dangerous place, but since a few
-  years a new pirate band named the pirates of the red shadow wanted to
-  change the reputation. They have been in conversations with Nersand to
-  stop pirating and start offering their expertise on the seas to make
-  the expeditions to Lutaca safer. They are also actively confronting
-  the other pirate bands of Puerto Ballena.
+## Golt
 
+### The Pirates of the Red Shadow
 
+[P​uerto Ballena](/docs/puerto-ballena/) has always been a dangerous place, but in recent years a pirate band known as the **Pirates of the Red Shadow** has attempted to change that reputation.
 
-- Before you left the Radiant Lions, there was one criminal who you
-  never caught. He signed all his crimes with the initials T. L. He
-  mostly stole valuable items who later got sold in the black market.
+They have been negotiating with [Nersand](/docs/regions/nersand/) to abandon piracy and instead use their expertise at sea to make expeditions to **Lútaca** safer.
 
+At the same time, they have been actively confronting the other pirate bands operating from Puerto Ballena.
 
+### T. L.
 
-- You know of the great tournament of Nersand, organized every 100 years
-  but a powerful interplanar being known as the "Amirah". Whoever wins
-  the tournament will see their wishes come true.
+Before leaving the **Radiant Lions**, there was one criminal you never managed to catch.
 
+They signed their crimes with the initials **T. L.** and primarily stole valuable objects that later appeared on the black market.
 
+### The Great Tournament of Nersand
 
-Virgula
+You know of the **Great Tournament of Nersand**, an event held once every hundred years and organized by a powerful interplanar being known as [Amirah](/docs/amirah-s-domains/amirah-sephira-al-marish).
 
+Whoever wins the tournament is said to have **their wishes come true**.
 
+---
 
-- You have heard of a very powerful weapon named Aleatoria. Apparently
-  it can change forms, each with its different powers and abilities.
+## Virgula
 
+### Aleatoria
+
+You have heard of a very powerful weapon known as **Aleatoria**.
+
+Apparently, the weapon can **change between different forms**, each possessing its own powers and abilities.

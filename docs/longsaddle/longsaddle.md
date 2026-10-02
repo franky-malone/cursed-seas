@@ -1,6 +1,7 @@
 ---
 title: "Longsaddle"
-sidebar_position: 16
+sidebar_position: 1
+slug: /longsaddle/
 ---
 
 The city is dedicated to knowledge and study. It is the home of the

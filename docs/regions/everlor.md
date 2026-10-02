@@ -1,6 +1,6 @@
 ---
 title: "Everlor"
-sidebar_position: 10
+sidebar_position: 7
 ---
 
 ![](everlor-assets/everlor_files/image001.webp)

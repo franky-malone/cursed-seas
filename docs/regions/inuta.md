@@ -1,6 +1,6 @@
 ---
 title: "Inuta"
-sidebar_position: 13
+sidebar_position: 12
 ---
 
 ![](inuta-assets/inuta_files/image001.webp)

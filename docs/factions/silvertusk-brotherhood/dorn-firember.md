@@ -35,7 +35,7 @@ Despite this, Dorn clearly cares about his pupil and takes pride in his developm
 
 Dorn eventually entrusted Kespien with his first solo mission, sending him to [Dorelta](/docs/dorelta/).
 
-He instructed Kespien to meet him again in [Longsaddle](/docs/regions/longsaddle) once the mission was complete.
+He instructed Kespien to meet him again in [Longsaddle](/docs/longsaddle/) once the mission was complete.
 
 ---
 

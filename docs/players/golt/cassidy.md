@@ -1,10 +1,23 @@
 ---
 title: "Cassidy"
-sidebar_position: 10
+sidebar_position: 2
 ---
 
-![](cassidy-assets/cassidy_files/image001.webp)
+<img
+  src={require('./cassidy-assets/cassidy_files/image001.webp').default}
+  alt="Cassidy"
+  style={{
+    float: 'left',
+    width: '400px',
+    maxWidth: '100%',
+    marginRight: '2rem',
+    marginBottom: '1rem',
+    borderRadius: '8px'
+  }}
+/>
 
-Golt's lost daughter (Currently 13). She was kidnapped 5 years ago
-during Golt's absence.
+**Cassidy** is [Golt's](/docs/players/golt/) lost daughter, currently 13 years old.
 
+She was kidnapped five years ago during Golt's absence.
+
+<div style={{clear: 'both'}}></div>

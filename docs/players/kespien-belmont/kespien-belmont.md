@@ -3,7 +3,18 @@ title: "Kespien Belmont"
 sidebar_position: 1
 ---
 
-![](kespien-belmont-assets/kespien-belmont_files/image001.webp)
+<img
+  src={require('./kespien-belmont-assets/kespien-belmont_files/image001.webp').default}
+  alt="Kespien Belmont"
+  style={{
+    float: 'left',
+    width: '400px',
+    maxWidth: '100%',
+    marginRight: '2rem',
+    marginBottom: '1rem',
+    borderRadius: '8px'
+  }}
+/>
 
 | | |
 |---|---|

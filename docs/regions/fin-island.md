@@ -1,6 +1,6 @@
 ---
 title: "Fin Island"
-sidebar_position: 11
+sidebar_position: 9
 ---
 
 ![](fin-island-assets/fin-island_files/image001.webp)

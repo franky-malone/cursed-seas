@@ -1,5 +1,6 @@
 ---
 title: "Kurz O'ktar (The city of monsters)"
+sidebar_label: "Kurz O'ktar"
 sidebar_position: 2
 ---
 

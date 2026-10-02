@@ -92,7 +92,7 @@ For years, Ellipsis concealed his true heritage, even using a magical ring capab
 
 ## The Crescent Wave and Myth Coralis
 
-During his research, Ellipsis discovered a Selûnite legend concerning an organization known as the **Crescent Wave**.
+During his research, Ellipsis discovered a SelÃ»nite legend concerning an organization known as the **Crescent Wave**.
 
 According to the legend, these champions of the Moonmaiden had once defended the mythical city of **Myth Coralis** from a great evil using the power of a **Mythal**.
 
@@ -169,7 +169,7 @@ The contents gave Count Virgula further insight into what his brother had experi
 
 ## Disappearance
 
-Ellipsis left [Longsaddle](/docs/regions/longsaddle) without informing Halphanis or the Temple of his destination.
+Ellipsis left [Longsaddle](/docs/longsaddle/) without informing Halphanis or the Temple of his destination.
 
 Evidence discovered afterward strongly suggests that he intended to reach **Fabros** and locate **Myth Coralis**.
 

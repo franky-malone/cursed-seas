@@ -1,6 +1,6 @@
 ---
 title: "The plague"
-sidebar_position: 14
+sidebar_position: 99
 ---
 
 It started some months ago when the first victim presented the symptoms.
