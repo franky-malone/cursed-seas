@@ -1,7 +1,20 @@
 ---
-title: "The Shadow Auctioneer (T.L.)"
+title: "The Shadow Auctioneer"
 sidebar_position: 1
 ---
+
+<img
+  src={require('./the-shadow-auctioneer-t-l-assets/the-shadow-auctioneer-t-l_files/image001.webp').default}
+  alt="The Shadow Auctioneer"
+  style={{
+    float: 'left',
+    width: '400px',
+    maxWidth: '100%',
+    marginRight: '2rem',
+    marginBottom: '1rem',
+    borderRadius: '8px'
+  }}
+/>
 
 A mysterious individual who apparently handles with valuable items. He
 managed to get a book from the private part of the Temple of Knowledge.
@@ -27,12 +40,3 @@ Brotherhood that got the mission from Mr. Oaktree.
 
 A travelling merchant that goes by the name Tobias Leclair was seen in
 Orchiva and supposedly gave the book to Maximiliam.
-
-
-
-
-
-![](the-shadow-auctioneer-t-l-assets/the-shadow-auctioneer-t-l_files/image001.webp)
-
-
-
