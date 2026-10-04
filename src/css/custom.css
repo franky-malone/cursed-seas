@@ -104,3 +104,7 @@ body:has(.world-map-page) .theme-doc-breadcrumbs {
 .cookie-settings-link:hover {
   text-decoration: underline;
 }
+
+.hidden-sidebar-item {
+  display: none !important;
+}
