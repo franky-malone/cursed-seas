@@ -3,18 +3,15 @@ title: "Kespien Belmont"
 sidebar_position: 1
 ---
 
+<div className="npc-header">
+
 <img
   src={require('./kespien-belmont-assets/kespien-belmont_files/image001.webp').default}
   alt="Kespien Belmont"
-  style={{
-    float: 'left',
-    width: '400px',
-    maxWidth: '100%',
-    marginRight: '2rem',
-    marginBottom: '1rem',
-    borderRadius: '8px'
-  }}
+  className="npc-header-image"
 />
+
+<div className="npc-header-content">
 
 | | |
 |---|---|
@@ -27,6 +24,10 @@ sidebar_position: 1
 | **Main Goal** | Restore the Belmont legacy |
 
 > *A Belmont burdened by the past, determined to forge a different legacy.*
+
+</div>
+
+</div>
 
 ## Overview
 

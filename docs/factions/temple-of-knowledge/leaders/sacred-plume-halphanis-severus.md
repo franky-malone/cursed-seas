@@ -3,18 +3,15 @@ title: "Sacred Plume Halphanis Severus"
 sidebar_position: 3
 ---
 
-<div style={{
-  display: 'flex',
-  gap: '2rem',
-  alignItems: 'center',
-  flexWrap: 'wrap',
-  marginBottom: '2rem'
-}}>
+<div className="npc-header">
 
-<div style={{
-  flex: '1 1 400px',
-  minWidth: 0
-}}>
+<img
+  src={require('./sacred-plume-halphanis-severus-assets/sacred-plume-halphanis-severus_files/image001.webp').default}
+  alt="Halphanis Severus"
+  className="npc-header-image"
+/>
+
+<div className="npc-header-content">
 
 ## Overview
 
@@ -34,23 +31,7 @@ Determined to study at the [Temple of Knowledge](/docs/factions/temple-of-knowle
 
 </div>
 
-<img
-  src={require('./sacred-plume-halphanis-severus-assets/sacred-plume-halphanis-severus_files/image001.webp').default}
-  alt="Halphanis Severus"
-  style={{
-    width: '35%',
-    minWidth: '280px',
-    maxWidth: '420px',
-    height: 'auto',
-    objectFit: 'cover',
-    borderRadius: '8px',
-    flex: '0 1 420px'
-  }}
-/>
-
 </div>
-
-
 
 Ellipsis became far more than an academic mentor to him. Halphanis regarded him as a tutor, friend and eventually a father figure.
 
@@ -60,11 +41,11 @@ He particularly admired Ellipsis' extraordinary ability to restore ancient artif
 
 ## Ellipsis Virgula
 
-A year after [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) disappearance, Halphanis entered his former master's private sanctum searching for answers. There he discovered correspondence between Ellipsis and a Marsandian woman living in disguise in [Gardis](/docs/regions/gardis/).
+A year after [Ellipsis Virgula's](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) disappearance, Halphanis entered his former master's private sanctum searching for answers. There he discovered correspondence between Ellipsis and a Marsandian woman living in disguise in [Gardis](/docs/regions/gardis/).
 
 The letters revealed two extraordinary truths.
 
-Ellipsis was himself a surviving Marsandian, and he believed the Mythal of Myth Coralis could provide enough power to alter history itself. His intention was to travel to Fabros, harness the Mythal and use it to turn back timeâ€”saving his brother **Ponto** and preventing Queen Sanderia and the Marsandian catastrophe.
+Ellipsis was himself a surviving Marsandian, and he believed the Mythal of Myth Coralis could provide enough power to alter history itself. His intention was to travel to Fabros, harness the Mythal and use it to turn back time—saving his brother **Ponto** and preventing Queen Sanderia and the Marsandian catastrophe.
 
 Halphanis decided he had to find his mentor, both to discover whether Ellipsis could actually accomplish his plan and to determine whether he should help him or stop him.
 
@@ -160,7 +141,7 @@ The strange ingredients had another purpose as well: Halphanis intended to use t
 
 Halphanis eventually revealed Jhandril's true identity in the presence of the Farbound Fellowship.
 
-Jhandril was **Dash Virgula**, son of [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) and therefore nephew of **Count Virgula**, whom Halphanis believed to be Ellipsis' supposedly long-dead brother.
+Jhandril was **Dash Virgula**, son of [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) and therefore nephew of [Count Virgula](/docs/players/count-virgula/), whom Halphanis believed to be Ellipsis' supposedly long-dead brother.
 
 Halphanis temporarily removed the magic concealing Dash's Marsandian appearance and told him the truth about his past.
 
@@ -176,7 +157,7 @@ The diary contained further references to **Tom Lancil**, the [Cursed Islands](/
 
 ## Research into the Unheilmeer
 
-Halphanis' connection to the [Unheilmeer](/docs/important-items/unheilmeer) resurfaced when **Golt** revealed that he had become its current wielder.
+Halphanis' connection to the [Unheilmeer](/docs/important-items/unheilmeer) resurfaced when [Golt](/docs/players/golt/) revealed that he had become its current wielder.
 
 After learning how Golt obtained the weapon, Halphanis magically examined it and discovered three strange threads of destiny connected to the spear:
 
@@ -184,7 +165,7 @@ After learning how Golt obtained the weapon, Halphanis magically examined it and
 - A **dark and fathomless thread**
 - A third thread that appeared almost severed and was pulling strongly away
 
-Golt associated these mysteries with the names **Lathor** and **Dagon**, as well as the **Sentinel** and **SelÃ»ne**.
+Golt associated these mysteries with the names [Lathor](/docs/players/golt/lathor) and [Dagon](/docs/players/golt/dagon), as well as the [Sentinel](/docs/players/golt/the-sentinel) and **Selûne**.
 
 Halphanis promised to investigate further.
 
@@ -198,11 +179,11 @@ On **5 March 1500**, [Jhandril](/docs/factions/temple-of-knowledge/members/jhand
 
 The ritual left Halphanis **unconscious and missing a leg**.
 
-Investigation of his laboratory revealed a protection circle containing a small error and damaged notes written in **Abyssal**. Once restored, the notes contained magical terminology as well as the name of **the Sentinel**.
+Investigation of his laboratory revealed a protection circle containing a small error and damaged notes written in **Abyssal**. Once restored, the notes contained magical terminology as well as the name of [the Sentinel](/docs/players/golt/the-sentinel).
 
 The evidence suggested that Halphanis had attempted to summon the Sentinel, or something connected to it.
 
-While unconscious, he was also heard mumbling the name **Lathor**.
+While unconscious, he was also heard mumbling the name [Lathor](/docs/players/golt/lathor).
 
 With one of its Sacred Plumes incapacitated, the [Temple of Knowledge](/docs/factions/temple-of-knowledge/) attempted to keep the incident private while the remaining Sacred Plumes assumed responsibility for maintaining the institution.
 

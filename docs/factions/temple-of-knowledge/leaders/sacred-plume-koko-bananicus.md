@@ -3,18 +3,15 @@ title: "Sacred Plume Koko Bananicus"
 sidebar_position: 6
 ---
 
-<div style={{
-  display: 'flex',
-  gap: '2rem',
-  alignItems: 'center',
-  flexWrap: 'wrap',
-  marginBottom: '2rem'
-}}>
+<div className="npc-header">
 
-<div style={{
-  flex: '1 1 400px',
-  minWidth: 0
-}}>
+<img
+  src={require('./sacred-plume-koko-bananicus-assets/sacred-plume-koko-bananicus_files/image001.webp').default}
+  alt="Koko Bananicus"
+  className="npc-header-image"
+/>
+
+<div className="npc-header-content">
 
 ## Overview
 
@@ -32,25 +29,12 @@ He carries a staff decorated with rotating, number-inscribed rings and abacus be
 
 </div>
 
-<img
-  src={require('./sacred-plume-koko-bananicus-assets/sacred-plume-koko-bananicus_files/image001.webp').default}
-  alt="Koko Bananicus"
-  style={{
-    width: '35%',
-    minWidth: '280px',
-    maxWidth: '420px',
-    height: '500px',
-    objectFit: 'cover',
-    borderRadius: '8px',
-    flex: '0 1 420px'
-  }}
-/>
-
 </div>
+
+---
 
 ## Role in the Temple
 
 Koko holds the rank of **Sacred Plume**, making him one of the highest-ranking members of the Temple beneath the [Highest Inkwell Eulius Federreich](./highest-inkwell-eulius-federreich).
 
 His field is **Numeromancy**, one of the four Schools of Knowledge represented by the Sacred Plumes.
-

@@ -3,31 +3,34 @@ title: "Golt"
 sidebar_position: 1
 ---
 
+<div className="npc-header">
+
 <img
   src={require('./golt-assets/golt_files/image001.webp').default}
   alt="Golt"
-  style={{
-    float: 'left',
-    width: '450px',
-    maxWidth: '100%',
-    marginRight: '2rem',
-    marginBottom: '1rem',
-    borderRadius: '8px'
-  }}
+  className="npc-header-image"
 />
+
+<div className="npc-header-content">
 
 | | |
 |---|---|
-| **Race** | Human *(transformed)* |
-| **Age** | 37 |
-| **Birthday** | 1 June |
-| **Class** | Paladin / Warlock |
+| **Race** | Human *(formerly)* |
+| **Class** | Oathbreaker Paladin / Hexblade |
+| **Origin** | Nersand |
 | **Former Affiliation** | [Radiant Lions](/docs/factions/radiant-lions/) |
+| **Affiliation** | Farbound Fellowship |
 | **Former Deity** | Selûne |
 | **Patron** | [Dagon](/docs/players/golt/dagon) |
-| **Homeland** | [Nersand](/docs/regions/nersand/) |
-| **Family** | [Alara](/docs/players/golt/alara-deceased-wife) (wife, deceased), [Bant](/docs/players/golt/bant) (son), [Cassidy](/docs/players/golt/cassidy) (daughter) |
-| **Notable Item** | [Unheilmeer](/docs/important-items/unheilmeer) |
+| **Birthday** | 01.06 |
+| **Age** | 37 |
+| **Main Goal** | Find his missing children |
+
+> *A fallen knight caught between the goddess he believes abandoned him and the power that answered in her place.*
+
+</div>
+
+</div>
 
 ## Overview
 
@@ -43,7 +46,7 @@ With his family gone and his faith shattered, Golt began wandering [Norberia](/d
 
 Then something answered.
 
-<div style={{clear: 'both'}}></div>
+---
 
 ## Background
 
@@ -51,11 +54,11 @@ Then something answered.
 
 Before his transformation, Golt lived in [Nersand](/docs/regions/nersand/) and served among the [Radiant Lions](/docs/factions/radiant-lions/).
 
-During his entry into the order, **[Sir Valendale](/docs/players/golt/sir-valendale)** led his physical training.
+During his entry into the order, [Sir Valendale](/docs/players/golt/sir-valendale) led his physical training.
 
 Golt followed **Selûne**, regarding the goddess as the guide of his steps. He swore himself to the protection of those who travelled beneath the moon and stars.
 
-As a Radiant Lion, Golt helped defend the borders with **[Marsander](/docs/regions/marsander-shadows/marsander)** against the creatures that crossed into Nersand.
+As a Radiant Lion, Golt helped defend the borders with [Marsander](/docs/regions/marsander-shadows/marsander) against the creatures that crossed into Nersand.
 
 During these years, he also became familiar with the criminal underworld. One criminal in particular repeatedly escaped justice, leaving behind the initials **T. L.** after stealing valuable objects that would later appear on the black market.
 
@@ -63,14 +66,14 @@ Golt never managed to catch them.
 
 ### Alara and the Children
 
-While living in Nersand, Golt met **[Alara](/docs/players/golt/alara-deceased-wife)**, a woman originally from [Dorelta](/docs/dorelta/) who had recently moved to Nersand.
+While living in Nersand, Golt met [Alara](/docs/players/golt/alara-deceased-wife), a woman originally from [Dorelta](/docs/dorelta/) who had recently moved to Nersand.
 
 They fell in love and eventually started a family together.
 
 They had two children:
 
-- **[Bant](/docs/players/golt/bant)**, their son.
-- **[Cassidy](/docs/players/golt/cassidy)**, their daughter.
+- [Bant](/docs/players/golt/bant), their son.
+- [Cassidy](/docs/players/golt/cassidy), their daughter.
 
 For a time, Golt had everything he had sworn to protect: a family, a home, a purpose and his faith.
 
@@ -168,17 +171,19 @@ Power.
 
 The voices asked only one thing in return.
 
-The spear he carried — a weapon they called the **[Unheilmeer](/docs/important-items/unheilmeer)** — had to be brought to a place called the **Ipletherion**.
+The spear he carried — a weapon they called the [Unheilmeer](/docs/important-items/unheilmeer) — had to be brought to a place called the **Ipletherion**.
 
 With Alara's ashes still in his possession, Golt therefore had two paths before him: fulfil his final promise to his wife and bring her home to Dorelta, and decide what to do about the increasingly tempting offer whispered through the Unheilmeer.
 
 Eventually, his wandering brought him together with the **Farbound Fellowship**.
 
+---
+
 ## Alara's Farewell
 
 Golt eventually succeeded in bringing [Alara](/docs/players/golt/alara-deceased-wife) home.
 
-In the **[Herzblatt District](/docs/dorelta/places/herzblatt-district)** of [Dorelta](/docs/dorelta/), the party reached the sacred garden of the Herzblatt family.
+In the [Herzblatt District](/docs/dorelta/places/herzblatt-district) of [Dorelta](/docs/dorelta/), the party reached the sacred garden of the Herzblatt family.
 
 There, among the red lilies and beside a fountain dedicated to Selûne, Golt encountered Alara's spirit one final time.
 
@@ -188,9 +193,11 @@ Golt then scattered her ashes in the garden as he had promised and said his fina
 
 Among her ashes, he found a ring.
 
+---
+
 ## The Unheilmeer
 
-The **[Unheilmeer](/docs/important-items/unheilmeer)** has remained at the center of Golt's story ever since his escape from the Sahuagin.
+The [Unheilmeer](/docs/important-items/unheilmeer) has remained at the center of Golt's story ever since his escape from the Sahuagin.
 
 It is far more than a magical spear.
 
@@ -200,9 +207,9 @@ Its history also appears to extend far beyond Golt himself.
 
 ### Dagon and Lathor
 
-The voices Golt heard eventually led him to **[Dagon](/docs/players/golt/dagon)**, a powerful entity known as the **Prince of the Depths**.
+The voices Golt heard eventually led him to [Dagon](/docs/players/golt/dagon), a powerful entity known as the **Prince of the Depths**.
 
-**[Lathor](/docs/players/golt/lathor)** acts as an emissary of this entity.
+[Lathor](/docs/players/golt/lathor) acts as an emissary of this entity.
 
 Golt entered into a pact with Dagon in exchange for power. The price was the same demand the voices had whispered to him before:
 
@@ -212,13 +219,13 @@ The relationship between Golt and his patron has never been one of simple obedie
 
 Golt has challenged and provoked Dagon, while Dagon has repeatedly made it clear that the weapon does not truly belong to Golt.
 
-During one confrontation, Dagon showed Golt what he could become if he refused to fulfil their agreement: a nightmarish creature known as **[the Sentinel](/docs/players/golt/the-sentinel)**.
+During one confrontation, Dagon showed Golt what he could become if he refused to fulfil their agreement: a nightmarish creature known as [the Sentinel](/docs/players/golt/the-sentinel).
 
 Dagon warned him that the Sentinel would be watching and could hunt him down if necessary to recover the Unheilmeer and complete the mission.
 
 ### The Three Threads
 
-Golt eventually revealed the story of his transformation and the Unheilmeer to **[Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus)**.
+Golt eventually revealed the story of his transformation and the Unheilmeer to [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus).
 
 After magically examining the spear, Halphanis discovered three strange threads of destiny connected to it:
 
@@ -230,6 +237,8 @@ Golt associated the mysteries surrounding these threads with **Selûne**, [Dagon
 
 Halphanis promised to investigate further.
 
+---
+
 ## Selûne
 
 Despite Golt's belief that Selûne abandoned him during his captivity, the Moonmaiden has continued to appear throughout his journey.
@@ -240,9 +249,9 @@ Golt approached the creature and mounted it.
 
 Through the vision, he heard the words:
 
-*"I have never left, child."*
+> *"I have never left, child."*
 
-The **[wolf](/docs/players/golt/selune-s-wolf)** subsequently became Golt's mount and a recurring symbol of Selûne's continued connection to him.
+The [wolf](/docs/players/golt/selune-s-wolf) subsequently became Golt's mount and a recurring symbol of Selûne's continued connection to him.
 
 Later, when Dagon punished Golt by forcing him to experience the terror of drowning, Golt heard the wolf howl and felt a gentle pull trying to save him.
 
@@ -250,11 +259,13 @@ He understood it as Selûne reaching for him once again.
 
 Golt has nevertheless remained conflicted. The silence he experienced during his captivity fundamentally changed his relationship with his former goddess, and he has not fully decided whether he can trust her again.
 
+---
+
 ## The Curse
 
 Golt's transformation has since been investigated by members of the **Temple of Knowledge**.
 
-Eventually, **[Elisabeth the Twilight Oracle](/docs/puerto-ballena/places/temple-of-the-full-moon/npcs/elisabeth-the-twilight-oracle)**, a specialist in curses, examined him and identified his condition as a powerful demonic curse.
+Eventually, [Elisabeth the Twilight Oracle](/docs/puerto-ballena/places/temple-of-the-full-moon/npcs/elisabeth-the-twilight-oracle), a specialist in curses, examined him and identified his condition as a powerful demonic curse.
 
 According to Elisabeth, she could think of three possible ways to reverse it:
 
@@ -263,6 +274,8 @@ According to Elisabeth, she could think of three possible ways to reverse it:
 - Use sufficiently powerful magic capable of producing something comparable to a **Wish** or **Miracle**.
 
 Whether Golt ultimately wishes to return completely to the man he once was remains tied to the larger conflict between his old faith, his new powers and the person he has become since his transformation.
+
+---
 
 ## The Search for His Children
 
@@ -276,7 +289,7 @@ His search eventually produced an unexpected result.
 
 At **Ralto's Bazaar**, Golt finally saw [Cassidy](/docs/players/golt/cassidy) for the first time since her disappearance.
 
-She was among a court of young female servants accompanying **[Amirah Sephira Al-Marish](/docs/amirah-s-domains/amirah-sephira-al-marish)**.
+She was among a court of young female servants accompanying [Amirah Sephira Al-Marish](/docs/amirah-s-domains/amirah-sephira-al-marish).
 
 Cassidy was dressed in blue oriental robes and wore what appeared to be magical cuffs around her hands. She looked unhappy as she walked among the other servants.
 
@@ -298,6 +311,8 @@ Unlike Cassidy, Golt has not yet discovered what happened to him.
 
 His whereabouts remain unknown.
 
+---
+
 ## Return to the Radiant Lions
 
 Golt's relationship with the [Radiant Lions](/docs/factions/radiant-lions/) did not completely end with his transformation.
@@ -308,6 +323,8 @@ He successfully convinced the Lions that he truly was their former companion.
 
 Because Golt also possessed information concerning the criminal **T. L.**, whom he knew from his earlier years in the order, the Radiant Lions allowed him to remain a loose member of the corps.
 
+---
+
 ## Goals
 
 - Find and rescue [Cassidy](/docs/players/golt/cassidy).
@@ -316,6 +333,8 @@ Because Golt also possessed information concerning the criminal **T. L.**, whom 
 - Decide whether to fulfil his pact with [Dagon](/docs/players/golt/dagon) and bring the Unheilmeer to the Ipletherion.
 - Decide whether he can trust Selûne again.
 - Find a way to break his demonic curse.
+
+---
 
 ## Related NPC's
 

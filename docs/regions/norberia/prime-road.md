@@ -16,7 +16,7 @@ route for merchants and travelers seeking secure pass.
 
 
 
-It is frequently patrolled by Radiant Lions and law enforcements of the
+It is frequently patrolled by [Radiant Lions](/docs/factions/radiant-lions/) and law enforcements of the
 nearest city.
 
 

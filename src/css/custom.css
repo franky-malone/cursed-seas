@@ -108,3 +108,84 @@ body:has(.world-map-page) .theme-doc-breadcrumbs {
 .hidden-sidebar-item {
   display: none !important;
 }
+/* Character header */
+
+.character-header {
+  display: grid;
+  grid-template-columns: minmax(220px, 400px) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: start;
+  margin-bottom: 1.5rem;
+}
+
+.character-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+
+.character-info {
+  min-width: 0;
+}
+
+/* Make the quick-reference table use the available space */
+.character-info table {
+  width: 100%;
+  display: table;
+  margin: 0;
+}
+
+.character-info table th,
+.character-info table td {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+/* Responsive header used by character and NPC pages */
+
+.npc-header {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.npc-header-content {
+  flex: 1 1 400px;
+  min-width: 0;
+  order: 1;
+}
+
+.npc-header-image {
+  width: 35%;
+  min-width: 280px;
+  max-width: 420px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  flex: 0 1 420px;
+  order: 2;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .npc-header {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .npc-header-image {
+    order: 1;
+    width: 100%;
+    min-width: 0;
+    max-width: 420px;
+    align-self: center;
+  }
+
+  .npc-header-content {
+    order: 2;
+    width: 100%;
+  }
+}

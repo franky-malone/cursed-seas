@@ -3,18 +3,17 @@ title: "Jhandril / Dash Virgula"
 sidebar_position: 15
 ---
 
-<div style={{
-  display: 'flex',
-  gap: '2rem',
-  alignItems: 'center',
-  flexWrap: 'wrap',
-  marginBottom: '2rem'
-}}>
+<div className="npc-header">
 
-<div style={{
-  flex: '1 1 400px',
-  minWidth: 0
-}}>
+<img
+  src={require('./jhandril-dash-virgula-assets/jhandril-dash-virgula_files/image001.webp').default}
+  alt="Jhandril"
+  className="npc-header-image"
+/>
+
+<div className="npc-header-content">
+
+## Overview
 
 **Jhandril**, whose real name is **Dash Virgula**, is a young Marsandian wizard and the pupil and adopted son of [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus).
 
@@ -32,21 +31,9 @@ His knowledge obtained through his studies proved useful while travelling throug
 
 </div>
 
-<img
-    src={require('./jhandril-dash-virgula-assets/jhandril-dash-virgula_files/image001.webp').default}
-  alt="Temple of Knowledge"
-  style={{
-    width: '35%',
-    minWidth: '280px',
-    maxWidth: '420px',
-    height: 'auto',
-    objectFit: 'cover',
-    borderRadius: '8px',
-    flex: '0 1 420px'
-  }}
-/>
-
 </div>
+
+---
 
 ## The Expedition
 
@@ -66,30 +53,29 @@ The revelation angered several members of the party, particularly [Kespien](/doc
 
 Jhandril agreed.
 
-He then revealed another ability he had kept hidden and used a **Teleportation Circle** spell scroll to return the group directly to the [Temple of Knowledge](/docs/factions/temple-of-knowledge) in Longsaddle.
+He then revealed another ability he had kept hidden and used a **Teleportation Circle** spell scroll to return the group directly to the [Temple of Knowledge](/docs/factions/temple-of-knowledge/) in Longsaddle.
 
-<div style={{
-  display: 'flex',
-  gap: '2rem',
-  alignItems: 'center',
-  flexWrap: 'wrap',
-  marginBottom: '2rem'
-}}>
+---
 
-<div style={{
-  flex: '1 1 400px',
-  minWidth: 0
-}}>
+<div className="npc-header">
 
-## The revelation
+<img
+  src={require('./jhandril-dash-virgula-assets/jhandril-dash-virgula_files/dash-virgula.webp').default}
+  alt="Dash Virgula"
+  className="npc-header-image"
+/>
+
+<div className="npc-header-content">
+
+## The Revelation
 
 Jhandril eventually learned that almost everything he believed about his origins had been deliberately concealed from him.
 
 His real name is **Dash Virgula**.
 
-He is the son of [Elipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) and a Marsandian woman from Gardis named **Sandria**, making him the nephew of [Count Virgula](/docs/players/count-virgula).
+He is the son of [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) and a Marsandian woman from Gardis named **Sandria**, making him the nephew of [Count Virgula](/docs/players/count-virgula).
 
-Years earlier, while investigating the disappearance of his former master [Elipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula), Halphanis discovered that Elipsis had exchanged letters with another Marsandian living in disguise in Gardis.
+Years earlier, while investigating the disappearance of his former master [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula), Halphanis discovered that Ellipsis had exchanged letters with another Marsandian living in disguise in Gardis.
 
 When Halphanis travelled there, he discovered that the woman had died during childbirth, leaving behind a pale child who was believed to be an albino. Halphanis immediately understood the truth: the child was not an albino, but the son of two Marsandians.
 
@@ -98,21 +84,8 @@ The boy was living in an orphanage where he suffered mistreatment from both the 
 Halphanis adopted him.
 
 Initially motivated by the connection to his former master, Halphanis soon came to genuinely regard Jhandril as his own son. Wanting to protect him from his heritage and the dangers associated with it, Halphanis magically altered the boy's appearance and memories so that he would grow up unaware that he was Marsandian.
-</div>
 
-<img
-    src={require('./jhandril-dash-virgula-assets/jhandril-dash-virgula_files/dash-virgula.webp').default}
-  alt="Temple of Knowledge"
-  style={{
-    width: '35%',
-    minWidth: '280px',
-    maxWidth: '420px',
-    height: 'auto',
-    objectFit: 'cover',
-    borderRadius: '8px',
-    flex: '0 1 420px'
-  }}
-/>
+</div>
 
 </div>
 
@@ -128,19 +101,23 @@ Overwhelmed by the revelation, Jhandril fled the room.
 
 The discovery nevertheless created a new bond between Jhandril and Count Virgula. Having spent his entire life without knowing his biological family, Jhandril became afraid of losing them shortly after discovering they existed.
 
-When Halphanis was later gravely injured and left unconscious after a failed ritual, Jhandril admitted this fear to Virgula. He was afraid of being alone: Virgula would eventually leave Longsaddle with the others, his father was still missing, and even Halphanis the person he had always considered his family might no longer be there for him.
+When Halphanis was later gravely injured and left unconscious after a failed ritual, Jhandril admitted this fear to Virgula. He was afraid of being alone: Virgula would eventually leave Longsaddle with the others, his father was still missing, and even Halphanis, the person he had always considered his family, might no longer be there for him.
 
-Jhandril gave Virgula one half of a pair of **Sending Stones**, asking him to remain in contact and to inform him if he discovered anything about Elipsis.
+Jhandril gave Virgula one half of a pair of **Sending Stones**, asking him to remain in contact and to inform him if he discovered anything about Ellipsis.
+
+---
 
 ## Current Situation
 
-Jhandril remains closely connected to both the [Temple of Knowledge](/docs/factions/temple-of-knowledge) and the adventuring party.
+Jhandril remains closely connected to both the [Temple of Knowledge](/docs/factions/temple-of-knowledge/) and the adventuring party.
 
 Following Halphanis's severe injuries, he helped the party investigate his master's laboratory and the failed ritual that had left the Sacred Plume unconscious and cost him a leg.
 
 While the party continued their travels, Jhandril remained in Longsaddle and became one of their principal contacts within the Temple. Through the Sending Stones, [Count Virgula](/docs/players/count-virgula) has continued to keep him informed of important discoveries and dangers encountered during their journey.
 
 Despite having learned his true identity, Jhandril is still trying to understand what being **Dash Virgula** means and what place his newly discovered family will have in his life.
+
+---
 
 ## Related Characters
 
@@ -150,4 +127,16 @@ Despite having learned his true identity, Jhandril is still trying to understand
 | [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) | Biological father |
 | [Count Virgula](/docs/players/count-virgula) | Paternal uncle and newfound family |
 | **Sandria** | Biological mother |
+| [Kespien Belmont](/docs/players/kespien-belmont) | Adventuring companion who helped Jhandril gain confidence |
 
+---
+
+## Related Pages
+
+| Page | Connection |
+|---|---|
+| [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) | Jhandril's biological father |
+| [Count Virgula](/docs/players/count-virgula) | Jhandril's uncle, Ponto Virgula |
+| [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) | Jhandril's adoptive father |
+| [Temple of Knowledge](/docs/factions/temple-of-knowledge/) | Institution where Jhandril was raised and trained |
+| [Diary of Ellipsis Virgula](/docs/documents/diary-of-elipsis-virgula) | Contains information concerning his father's past |

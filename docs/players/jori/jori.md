@@ -1,20 +1,12 @@
----
-title: "Jori"
-sidebar_position: 1
----
+<div className="npc-header">
 
 <img
   src={require('./jori-assets/jori_files/image001.webp').default}
   alt="Jori"
-  style={{
-    float: 'left',
-    width: '350px',
-    maxWidth: '100%',
-    marginRight: '2rem',
-    marginBottom: '1rem',
-    borderRadius: '8px'
-  }}
+  className="npc-header-image"
 />
+
+<div className="npc-header-content">
 
 | | |
 |---|---|
@@ -28,13 +20,16 @@ sidebar_position: 1
 
 > *"Balance must always be preserved."*
 
-<div style={{clear: 'both'}}></div>
+</div>
+
+</div>
 
 ## Overview
 
 Jori is a water genasi druid from [Mordian](/docs/regions/mauer-mountains/mordian) who spent most of his life among the local halflings, tending his kelp farm and helping control the population of Grail trout. His peaceful life ended when his mother, the marid **Undina**, contacted him through [Grail Lake](/docs/regions/mauer-mountains/grail-lake) and tasked him with finding **Myth Coralis**, the [Unheilmeer](/docs/important-items/unheilmeer), and its wielder.
 
 ---
+
 ## History
 
 ### An Unusual Birth
@@ -145,9 +140,3 @@ And so his journey began.
 | [Pavo](/docs/players/jori/pavo) | Druidic totem |
 | [Miranda Greywolf](/docs/dorelta/npcs/miranda-greywolf) | Ally in Dorelta |
 | **Conor McMellot** | Childhood acquaintance |
-
-
-
-
-
-

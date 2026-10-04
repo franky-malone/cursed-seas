@@ -3,18 +3,17 @@ title: "Ada Gladstone"
 sidebar_position: 7
 ---
 
-<div style={{
-  display: 'flex',
-  gap: '2rem',
-  alignItems: 'center',
-  flexWrap: 'wrap',
-  marginBottom: '2rem'
-}}>
+<div className="npc-header">
 
-<div style={{
-  flex: '1 1 400px',
-  minWidth: 0
-}}>
+<img
+  src={require('./ada-gladstone-assets/ada-gladstone_files/image001.webp').default}
+  alt="Ada Gladstone"
+  className="npc-header-image"
+/>
+
+<div className="npc-header-content">
+
+## Overview
 
 **Ada Gladstone** is a scholar and active professor at the [Temple of Knowledge](/docs/factions/temple-of-knowledge/), specializing in **Fey Portals and the Fey Realm**. She is an old acquaintance of [Jori](/docs/players/jori/) and has developed a somewhat romantic relationship with him.
 
@@ -30,31 +29,21 @@ This research eventually led her away from the safety of the Temple and into the
 
 </div>
 
-<img
-  src={require('./ada-gladstone-assets/ada-gladstone_files/image001.webp').default}
-  alt="Temple of Knowledge"
-  style={{
-    width: '35%',
-    minWidth: '280px',
-    maxWidth: '420px',
-    height: 'auto',
-    objectFit: 'cover',
-    borderRadius: '8px',
-    flex: '0 1 420px'
-  }}
-/>
-
 </div>
+
+---
 
 ## Relationship with Jori
 
-Ada and Jori knew each other before the Farbound Fellowship arrived in Longsaddle. Their relationship became considerably closer when they reunited at the Temple of Knowledge.
+Ada and [Jori](/docs/players/jori/) knew each other before the Farbound Fellowship arrived in Longsaddle. Their relationship became considerably closer when they reunited at the [Temple of Knowledge](/docs/factions/temple-of-knowledge/).
 
 After Jori attended one of her classes on Fey Portals, Ada invited him on a date. During their evening together she kissed him, although she also made clear that she intended to leave Longsaddle shortly afterwards to continue her research in the **Emerald Hills**.
 
 Despite their growing affection, Ada remained committed to completing her life's work.
 
 Before leaving Longsaddle, she sent Jori a letter informing him that she had already departed and telling him where he could find her should his travels bring him nearby.
+
+---
 
 ## The Emerald Hills
 
@@ -65,6 +54,8 @@ There she continued investigating reports of Fey activity together with [Melosia
 Her research led her to a cabin approximately two days east of the Emerald Horse, where sightings of Fey creatures suggested that a portal to the Fey Realm might exist nearby. Ada believed that studying such a portal directly could provide invaluable information for her equation.
 
 The roads had become increasingly dangerous due to goblin and monster attacks, however, and Ada was unable to safely reach the site herself. She therefore began searching for adventurers or mercenaries willing to escort her and Melosial there.
+
+---
 
 ## Reunion with Jori
 
@@ -80,4 +71,23 @@ The party initially agreed, but shortly afterwards received an urgent summons fr
 
 Ada was disappointed, but understood the urgency of the situation and agreed to wait for them.
 
-Jori spent the night with her before leaving. The following morning, he left **Lily the Shrub** in Ada's care, both to keep her company and as a promise that he would return.
+Jori spent the night with her before leaving. The following morning, he left [Lily the Shrub](/docs/players/jori/lily) in Ada's care, both to keep her company and as a promise that he would return.
+
+---
+
+## Related Characters
+
+| Character | Connection |
+|---|---|
+| [Jori](/docs/players/jori/) | Old acquaintance and romantic interest |
+| [Melosial](/docs/factions/temple-of-knowledge/members/melosial) | Fellow scholar assisting her research |
+| [Lily](/docs/players/jori/lily) | Left in Ada's care by Jori |
+
+---
+
+## Related Pages
+
+| Page | Connection |
+|---|---|
+| [Temple of Knowledge](/docs/factions/temple-of-knowledge/) | Institution where Ada teaches and conducts her research |
+| [Jori](/docs/players/jori/) | Ada's old acquaintance and romantic interest |

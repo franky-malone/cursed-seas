@@ -3,13 +3,25 @@ title: "Dorn Firember"
 sidebar_position: 3
 ---
 
-![](dorn-firember-assets/dorn-firember_files/image001.webp)
+<div className="character-header">
+
+<img
+  src={require('./dorn-firember-assets/dorn-firember_files/image001.webp').default}
+  alt="Dorn Firember"
+  className="character-header-image"
+/>
+
+<div className="character-header-info">
 
 | | |
 |---|---|
 | **Affiliation** | [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/) |
 | **Role** | Kespien's mentor and superior |
 | **Connection** | Rescued and trained Kespien |
+
+</div>
+
+</div>
 
 ## Overview
 
@@ -39,11 +51,19 @@ He instructed Kespien to meet him again in [Longsaddle](/docs/longsaddle/) once 
 
 ---
 
+## Related Characters
+
+| Character | Connection |
+|---|---|
+| [Kespien Belmont](/docs/players/kespien-belmont/) | Pupil whom Dorn rescued and trained |
+
+---
+
 ## Related Pages
 
-- [Kespien Belmont](/docs/players/kespien-belmont/)
-- [Birthday Sending from Dorn](/docs/players/kespien-belmont/birthday-sending-from-dorn)
-
-
-
-
+| Page | Connection |
+|---|---|
+| [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/) | Dorn's organization |
+| [Birthday Sending from Dorn](/docs/players/kespien-belmont/birthday-sending-from-dorn) | Personal message sent by Dorn to Kespien |
+| [Mordian](/docs/regions/mauer-mountains/mordian) | Where Dorn brought Kespien after rescuing him |
+| [Dorelta](/docs/dorelta/) | Destination of Kespien's first mission |

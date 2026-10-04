@@ -3,18 +3,15 @@ title: "Count Virgula"
 sidebar_position: 1
 ---
 
+<div className="npc-header">
+
 <img
   src={require('./count-virgula-assets/count-virgula_files/image001.webp').default}
   alt="Count Virgula"
-  style={{
-    float: 'left',
-    width: '500px',
-    maxWidth: '100%',
-    marginRight: '2rem',
-    marginBottom: '0.5rem',
-    borderRadius: '8px'
-  }}
+  className="npc-header-image"
 />
+
+<div className="npc-header-content">
 
 | | |
 |---|---|
@@ -25,7 +22,9 @@ sidebar_position: 1
 | **Companion** | [Count Donut](./count-donut) |
 | **Affiliation** | Farbound Fellowship |
 
-<div style={{clear: 'both'}}></div>
+</div>
+
+</div>
 
 ## Overview
 

@@ -3,19 +3,15 @@ title: "Former Sacred Plume Ellipsis Virgula"
 sidebar_position: 6
 ---
 
+<div className="npc-header">
 
-<div style={{
-  display: 'flex',
-  gap: '2rem',
-  alignItems: 'center',
-  flexWrap: 'wrap',
-  marginBottom: '2rem'
-}}>
+<img
+  src={require('./ellipsis-virgula-assets/ellipsis-virgula_files/image001.webp').default}
+  alt="Ellipsis Virgula"
+  className="npc-header-image"
+/>
 
-<div style={{
-  flex: '1 1 400px',
-  minWidth: 0
-}}>
+<div className="npc-header-content">
 
 ## Overview
 
@@ -31,22 +27,7 @@ His research eventually became focused on **Mythals**, **Myth Coralis** and the 
 
 His current whereabouts remain unknown.
 
-
 </div>
-
-<img
-  src={require('./ellipsis-virgula-assets/ellipsis-virgula_files/image001.webp').default}
-  alt="Ellipsis Virgula"
-  style={{
-    width: '35%',
-    minWidth: '280px',
-    maxWidth: '420px',
-    height: 'auto',
-    objectFit: 'cover',
-    borderRadius: '8px',
-    flex: '0 1 420px'
-  }}
-/>
 
 </div>
 
@@ -80,7 +61,7 @@ Even after succeeding him as Sacred Plume of Archaeomancy, Halphanis continued t
 
 ## Marsandian Heritage
 
-Ellipsis publicly presented himself as a scholar of Marsandian history, but secretly he was himself one of the survivors of Marsander.
+Ellipsis publicly presented himself as a scholar of Marsandian history, but secretly he was himself one of the survivors of [Marsander](/docs/regions/marsander-shadows/marsander).
 
 He frequently spoke of his brother **Ponto**, who had raised him after the death of their parents and whom Ellipsis believed had died during the war.
 
@@ -92,7 +73,7 @@ For years, Ellipsis concealed his true heritage, even using a magical ring capab
 
 ## The Crescent Wave and Myth Coralis
 
-During his research, Ellipsis discovered a SelÃ»nite legend concerning an organization known as the **Crescent Wave**.
+During his research, Ellipsis discovered a Selûnite legend concerning an organization known as the **Crescent Wave**.
 
 According to the legend, these champions of the Moonmaiden had once defended the mythical city of **Myth Coralis** from a great evil using the power of a **Mythal**.
 
@@ -150,7 +131,7 @@ Ellipsis left behind a mysterious box bearing a large letter **V**.
 
 Even Halphanis was unable to open it.
 
-When **Count Virgula** eventually encountered the box, he instinctively placed some of his blood upon it. The box immediately opened.
+When [Count Virgula](/docs/players/count-virgula/) eventually encountered the box, he instinctively placed some of his blood upon it. The box immediately opened.
 
 Inside were extracts from [Ellipsis' diary](/docs/documents/diary-of-elipsis-virgula) and the magical ring he had once used to conceal his Marsandian heritage.
 
@@ -181,9 +162,13 @@ No confirmed account of Ellipsis' fate has yet been discovered.
 
 ## Related Pages
 
-- [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus)
-- [Jhandril / Dash Virgula](/docs/factions/temple-of-knowledge/members/jhandril-dash-virgula)
-- [Diary of Ellipsis Virgula](/docs/documents/diary-of-elipsis-virgula)
-- [Temple of Knowledge](/docs/factions/temple-of-knowledge/)
-- [Cursed Islands](/docs/regions/cursed-islands)
-- [Manfred Belmont](/docs/factions/belmont-family/manfred-belmont)
+| Page | Connection |
+|---|---|
+| [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) | Ellipsis' former student and successor |
+| [Jhandril / Dash Virgula](/docs/factions/temple-of-knowledge/members/jhandril-dash-virgula) | Ellipsis' son |
+| [Count Virgula](/docs/players/count-virgula/) | Ellipsis' older brother, Ponto Virgula |
+| [Diary of Ellipsis Virgula](/docs/documents/diary-of-elipsis-virgula) | Surviving extracts from Ellipsis' diary |
+| [Temple of Knowledge](/docs/factions/temple-of-knowledge/) | Institution where Ellipsis served as Sacred Plume |
+| [Marsander](/docs/regions/marsander-shadows/marsander) | Ellipsis' homeland |
+| [Cursed Islands](/docs/regions/cursed-islands) | Destination connected to Ellipsis' disappearance |
+| [Manfred Belmont](/docs/factions/belmont-family/manfred-belmont) | His voyage provided Ellipsis with clues about Fabros |

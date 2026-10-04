@@ -3,18 +3,15 @@ title: "Cassidy"
 sidebar_position: 2
 ---
 
+<div className="npc-header">
+
 <img
   src={require('./cassidy-assets/cassidy_files/image001.webp').default}
   alt="Cassidy"
-  style={{
-    float: 'left',
-    width: '300px',
-    maxWidth: '100%',
-    marginRight: '2rem',
-    marginBottom: '1rem',
-    borderRadius: '8px'
-  }}
+  className="npc-header-image"
 />
+
+<div className="npc-header-content">
 
 | | |
 |---|---|
@@ -29,7 +26,9 @@ sidebar_position: 2
 
 She disappeared five years ago while Golt was away from home.
 
-<div style={{clear: 'both'}}></div>
+</div>
+
+</div>
 
 ## Disappearance
 
@@ -40,6 +39,8 @@ Cassidy and her brother [Bant](/docs/players/golt/bant) were kidnapped by the **
 Their disappearance became one of the defining events of Golt's life. After eventually returning home, he began searching for his missing children and continued doing so throughout his travels.
 
 Years later, Golt even contacted the Shadows Void themselves and paid them to search for Cassidy and Bant and magically contact him if they discovered their whereabouts.
+
+---
 
 ## Reappearance
 
@@ -61,7 +62,9 @@ Although Golt failed to rescue his daughter, the encounter answered one question
 
 **Cassidy was alive.**
 
-Her exact circumstances, why she is with Amirah and what happened to her during the years following her kidnapping remain unknown.
+Her exact circumstances, why she is with Amirah, and what happened to her during the years following her kidnapping remain unknown.
+
+---
 
 ## Related Characters
 

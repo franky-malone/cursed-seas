@@ -3,18 +3,15 @@ title: "Selûne's Wolf"
 sidebar_position: 9
 ---
 
+<div className="npc-header">
+
 <img
   src={require('./selune-s-wolf-assets/selune-s-wolf_files/image001.webp').default}
   alt="Selûne's Wolf"
-  style={{
-    float: 'left',
-    width: '400px',
-    maxWidth: '100%',
-    marginRight: '2rem',
-    marginBottom: '1rem',
-    borderRadius: '8px'
-  }}
+  className="npc-header-image"
 />
+
+<div className="npc-header-content">
 
 | | |
 |---|---|
@@ -27,7 +24,9 @@ sidebar_position: 9
 
 It serves as Golt's mount, but its significance goes beyond that. The wolf is one of the clearest signs that Selûne's connection to her former follower was never completely severed.
 
-<div style={{clear: 'both'}}></div>
+</div>
+
+</div>
 
 ## Selûne's Intervention
 
@@ -49,6 +48,8 @@ Through the vision, Selûne delivered a simple message:
 
 The wolf subsequently became Golt's mount and remained with him as a manifestation of his unresolved connection to the Moonmaiden.
 
+---
+
 ## Against Dagon
 
 The wolf appeared again when [Dagon](/docs/players/golt/dagon) confronted Golt over his pact.
@@ -60,6 +61,8 @@ During the vision, Golt heard the howl of Selûne's Wolf.
 He then felt a gentle force pulling at him, attempting to draw him away from Dagon's influence.
 
 The moment suggested that the struggle surrounding Golt is not merely about his pact or the Unheilmeer. Selûne continues to reach toward him even as Dagon attempts to pull him further into his service.
+
+---
 
 ## Symbolism
 

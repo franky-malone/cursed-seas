@@ -3,18 +3,15 @@ title: "Sacred Plume Melrea"
 sidebar_position: 10
 ---
 
-<div style={{
-  display: 'flex',
-  gap: '2rem',
-  alignItems: 'center',
-  flexWrap: 'wrap',
-  marginBottom: '2rem'
-}}>
+<div className="npc-header">
 
-<div style={{
-  flex: '1 1 400px',
-  minWidth: 0
-}}>
+<img
+  src={require('./sacred-plume-melrea-assets/sacred-plume-melrea_files/image001.webp').default}
+  alt="Melrea"
+  className="npc-header-image"
+/>
+
+<div className="npc-header-content">
 
 ## Overview
 
@@ -32,21 +29,9 @@ Melrea herself levitates slightly above the ground. She carries a staff crowned 
 
 </div>
 
-<img
-src={require('./sacred-plume-melrea-assets/sacred-plume-melrea_files/image001.webp').default}
-  alt="Melrea"
-  style={{
-    width: '35%',
-    minWidth: '280px',
-    maxWidth: '420px',
-    height: '500px',
-    objectFit: 'cover',
-    borderRadius: '8px',
-    flex: '0 1 420px'
-  }}
-/>
-
 </div>
+
+---
 
 ## Role in the Temple
 
