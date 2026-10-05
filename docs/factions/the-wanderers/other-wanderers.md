@@ -3,7 +3,7 @@ title: "Other Wanderers"
 sidebar_position: 4
 ---
 
-- - Ezra, male half elf musician. Member of the wanderers
+ - Ezra, male half elf musician. Member of the wanderers
   - Penelope, female halfling contorsionist artist. Member of the
     wanderers
   - Esther, female Tiefling, dancer. Member of the wanderers

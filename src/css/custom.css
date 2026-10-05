@@ -1,10 +1,13 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
+ * Any CSS included here will be global.
+ * The classic template bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* =========================================================
+   DOCUSAURUS THEME
+   ========================================================= */
+
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
@@ -17,7 +20,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark mode */
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
@@ -28,6 +31,12 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+/* =========================================================
+   WORLD MAP
+   ========================================================= */
+
 /* Hide breadcrumbs only on the World Map page */
 .world-map-page {
   display: contents;
@@ -36,16 +45,32 @@
 body:has(.world-map-page) .theme-doc-breadcrumbs {
   display: none;
 }
+
+
+/* =========================================================
+   NAVBAR
+   ========================================================= */
+
 @media (max-width: 996px) {
   .navbar-wiki-link {
     display: flex !important;
   }
 }
+
+
+/* =========================================================
+   HEADINGS
+   ========================================================= */
+
 /* Hide the # anchor shown when hovering over headings */
 .hash-link {
   display: none;
 }
-/* Cookie consent */
+
+
+/* =========================================================
+   COOKIE CONSENT
+   ========================================================= */
 
 .cookie-consent {
   position: fixed;
@@ -82,16 +107,6 @@ body:has(.world-map-page) .theme-doc-breadcrumbs {
   flex-shrink: 0;
 }
 
-@media (max-width: 700px) {
-  .cookie-consent {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .cookie-consent__buttons {
-    justify-content: flex-end;
-  }
-}
 .cookie-settings-link {
   background: none;
   border: 0;
@@ -105,10 +120,32 @@ body:has(.world-map-page) .theme-doc-breadcrumbs {
   text-decoration: underline;
 }
 
+@media (max-width: 700px) {
+  .cookie-consent {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .cookie-consent__buttons {
+    justify-content: flex-end;
+  }
+}
+
+
+/* =========================================================
+   HIDDEN SIDEBAR ITEMS
+   ========================================================= */
+
 .hidden-sidebar-item {
   display: none !important;
 }
-/* Character header */
+
+
+/* =========================================================
+   CHARACTER HEADER
+   Used for main player pages such as:
+   Kespien, Jori, Golt, Count Virgula, etc.
+   ========================================================= */
 
 .character-header {
   display: grid;
@@ -143,7 +180,30 @@ body:has(.world-map-page) .theme-doc-breadcrumbs {
   overflow-wrap: anywhere;
 }
 
-/* Responsive header used by character and NPC pages */
+/* Character pages on mobile */
+@media (max-width: 768px) {
+  .character-header {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .character-image {
+    width: 100%;
+    max-width: 420px;
+    margin: 0 auto;
+  }
+
+  .character-info {
+    width: 100%;
+  }
+}
+
+
+/* =========================================================
+   NPC HEADER
+   Used for NPC pages such as:
+   Silica, Halphanis, Ellipsis, Koko, Melrea, Ada, Jhandril...
+   ========================================================= */
 
 .npc-header {
   display: flex;
@@ -163,13 +223,14 @@ body:has(.world-map-page) .theme-doc-breadcrumbs {
   min-width: 280px;
   max-width: 420px;
   height: auto;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 8px;
   flex: 0 1 420px;
   order: 2;
+  display: block;
 }
 
-/* Mobile */
+/* NPC pages on mobile */
 @media (max-width: 768px) {
   .npc-header {
     flex-direction: column;
@@ -181,11 +242,121 @@ body:has(.world-map-page) .theme-doc-breadcrumbs {
     width: 100%;
     min-width: 0;
     max-width: 420px;
+    height: auto;
+    object-fit: contain;
     align-self: center;
   }
 
   .npc-header-content {
     order: 2;
     width: 100%;
+  }
+}
+
+
+/* =========================================================
+   LOCATION HEADER
+   Used together with:
+   className="npc-header location-header"
+
+   Examples:
+   Nersand, Hyggelig, Everlor, Gardis, Fin Island,
+   Dunklelock, Emerald Mangroves, Steinkeep, etc.
+   ========================================================= */
+
+.location-header {
+  margin-bottom: 1.5rem;
+}
+
+/*
+ * Location images keep their original aspect ratio.
+ * This prevents rectangular or panoramic images from
+ * becoming distorted or excessively cropped.
+ */
+.location-header-image {
+  width: 42%;
+  max-width: 480px;
+  height: auto;
+
+  object-fit: contain;
+
+  border-radius: 8px;
+
+  flex: 0 0 auto;
+  order: 1;
+
+  display: block;
+}
+
+/*
+ * The text appears beside the image on desktop.
+ */
+.location-header .npc-header-content {
+  order: 2;
+  flex: 1 1 400px;
+  min-width: 0;
+}
+
+
+/* =========================================================
+   LOCATION HEADER — MOBILE
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  /*
+   * Stack image and text vertically.
+   */
+  .location-header {
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 0;
+  }
+
+  /*
+   * Image always appears first.
+   * No fixed height = no distortion.
+   */
+  .location-header-image {
+    order: 1;
+
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+
+    object-fit: contain;
+
+    align-self: center;
+    display: block;
+
+    margin: 0;
+  }
+
+  /*
+   * Text appears directly below the image.
+   */
+  .location-header .npc-header-content {
+    order: 2;
+
+    width: 100%;
+    flex: none;
+
+    margin: 0;
+  }
+
+  /*
+   * Prevent the last paragraph from creating
+   * unnecessary empty space below the header.
+   */
+  .location-header .npc-header-content > :last-child {
+    margin-bottom: 0;
+  }
+
+  /*
+   * Keep the following section reasonably close
+   * to the location introduction.
+   */
+  .location-header + h2 {
+    margin-top: 1.5rem;
   }
 }

@@ -3,19 +3,28 @@ title: "Fin Island"
 sidebar_position: 9
 ---
 
-![](fin-island-assets/fin-island_files/image001.webp)
+<div className="npc-header">
 
-Until the recent discovery of the new continent of Lútaca, it was
-believed that it was the end of the known world and that beyond it there
-was only sea.
+<img
+  src={require('./fin-island-assets/fin-island_files/image001.webp').default}
+  alt="Fin Island"
+  className="location-header-image"
+/>
 
-It is the home of numerous retired sailors and pirates looking to spend
-their last quiet days away from the mainland. It is also the place
-chosen by those who have to disappear for a season or even forever to
-safeguard their lives.
+<div className="npc-header-content">
 
-After the discovery of Lútaca, Nersand is trying to rebuild Fin Island
-into a middle port between the new continent and Norberia, which has
-increased the interest of numerous sailors and has seen its population
-increased exponentially.
+Until the recent discovery of the new continent of **Lútaca**, **Fin Island** was believed to mark the end of the known world. Beyond its shores, there was thought to be nothing but an endless sea.
 
+The island has long been home to numerous **retired sailors and pirates** seeking to spend their final years in peace, far from the mainland.
+
+It has also traditionally served as a refuge for those who need to disappear for a time — or perhaps forever — in order to protect their lives.
+
+The discovery of **Lútaca** dramatically changed the importance of Fin Island.
+
+[Nersand](/docs/regions/nersand/) is attempting to transform the island into an important **waypoint between Norberia and the newly discovered continent**, taking advantage of its strategic position along the growing maritime routes between them.
+
+As a result, Fin Island has attracted increasing numbers of sailors, merchants, adventurers, and others hoping to profit from the new routes to Lútaca, causing the island's population to grow rapidly.
+
+</div>
+
+</div>

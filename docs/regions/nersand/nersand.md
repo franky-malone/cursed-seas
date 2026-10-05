@@ -1,54 +1,61 @@
+<div className="npc-header location-header">
+
+<img
+  src={require('./nersand-assets/nersand_files/image001.webp').default}
+  alt="Nersand"
+  className="location-header-image"
+/>
+
+<div className="npc-header-content">
+
+Located in the northeast of [Norberia](/docs/regions/norberia/), along the **Delta Sea**, **Nersand** is the capital and largest city of the continent.
+
+The city is governed by a council of **seven masked wise individuals**, each responsible for a different aspect of rulership.
+
+Nersand also possesses one of the most impressive fleets in Norberia, rivalled only by that of [Gardis](/docs/regions/gardis/).
+
+</div>
+
+</div>
+
+## The Rise of Nersand
+
+The recent discovery of the continent of [Lútaca](/docs/regions/l-taca/) has ushered Nersand into a new era of prosperity, fuelled by the riches and opportunities arriving from across the sea.
+
+Nersand controls much of northeastern Norberia, as well as [Fin Island](/docs/regions/fin-island) and [Puerto Arena](/docs/regions/l-taca/puerto-arena), the first city established in Lútaca.
+
+Its political influence extends much farther. Nersand maintains consuls in cities throughout Norberia, reaching as far as [Longsaddle](/docs/longsaddle/).
+
 ---
-title: "Nersand"
-sidebar_position: 1
+
+## Trade and the Sea
+
+Nersand maintains a heavily travelled maritime trade route with [Gardis](/docs/regions/gardis/).
+
+Unfortunately, this route passes through the waters surrounding [Puerto Ballena](/docs/puerto-ballena/), resulting in constant conflict between Nersand's ships and the pirates who operate from there.
+
+Nersand is also responsible for keeping the [Prime Road](/docs/regions/norberia/prime-road) safe for travellers and merchants. Several tolls can be found along the road to help maintain and protect this vital trade route.
+
 ---
 
-![](nersand-assets/nersand_files/image001.webp)
+## Factions
 
-Located in the northeast of
-[Norberia](/docs/regions/norberia/)
-in the Delta Sea, Nersand is the capital of the continent. It is
-governed by a council of 7 masked wise individuals each taking care of a
-different aspect of rulership. It is the largest city on the entire
-continent and has one of the most impressive fleets of ships known, only
-rivaled by Gardis.
+Nersand is home to several important factions operating throughout Norberia.
 
-Due to the recent discovery of the
-[Lútaca](/docs/regions/l-taca/)
-continent, it has seen a new era thanks to the new riches brought from
-Lútaca. It has control over the entire continental northeast, over Fin
-Island and the first city of
-[Lútaca](/docs/regions/l-taca/),
-[Puerto
-Arena](/docs/regions/l-taca/puerto-arena).
-But their influence extends as far as Longsaddle, having consuls at
-almost every city of Norberia.
+Among them are the [Radiant Lions](/docs/factions/radiant-lions/), an honourable order of paladins and clerics responsible for defending Nersand and its borders.
 
-It has a highly transited maritime trade route with
-[Gardis](/docs/regions/gardis/),
-unfortunately it passest through [Puerto
-Ballena,](/docs/puerto-ballena/)
-which causes it to be in a constant conflict with the pirates living
-there.
+The [Emerald Watchers](/docs/factions/emerald-watchers/) are another important organization associated with Nersand. Their rangers and scouts operate throughout the wilderness, including the dangerous [Emerald Mangroves](/docs/regions/emerald-mangroves/), where they attempt to prevent its monstrous inhabitants from threatening the [Prime Road](/docs/regions/norberia/prime-road).
 
-It is also responsible for keeping the [Prime
-Road](/docs/regions/norberia/prime-road)
-secure for their travellers and there are several tolls along the way./
+Rumours also speak of a criminal organization known as the [Shadows Void](/docs/factions/shadows-void/), whose influence appears to extend far beyond the city.
 
+---
 
-The city is the house of several important factions of Norberia like the
-honorable order of paladins and clerics of the Radiant Lion, the Emerald
-Watchers rangers and scouts, and there are rumors that there is a
-criminal organization called the Shadows Void.
+## Amirah's Tournament
 
-They are also renown for the centenary big tournament organized by a
-mysterious entity named the Amirah and it was said that the winner could
-get whatever their hearts desired.
+Once every **one hundred years**, Nersand hosts a legendary tournament of valour organized by the mysterious [Amirah Sephira Al-Marish](/docs/amirah-s-domains/amirah-sephira-al-marish).
 
-Once every 100 years a tournament of valor is held here by a mistery
-figure named the Amirah. It is believed that the winner see their
-biggest wish come true.
+The tournament attracts competitors from across the world seeking glory, wealth, and something far greater.
 
+According to legend, whoever emerges victorious may have **whatever their heart desires**.
 
-
-
+The extraordinary power behind this reward has made Amirah's tournament one of the most famous events associated with Nersand.

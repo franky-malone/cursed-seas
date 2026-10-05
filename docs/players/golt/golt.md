@@ -54,7 +54,7 @@ Then something answered.
 
 Before his transformation, Golt lived in [Nersand](/docs/regions/nersand/) and served among the [Radiant Lions](/docs/factions/radiant-lions/).
 
-During his entry into the order, [Sir Valendale](/docs/players/golt/sir-valendale) led his physical training.
+During his entry into the order, [Sir Valendale](/docs/factions/radiant-lions/sir-valendale) led his physical training.
 
 Golt followed **Selûne**, regarding the goddess as the guide of his steps. He swore himself to the protection of those who travelled beneath the moon and stars.
 
@@ -347,7 +347,7 @@ Because Golt also possessed information concerning the criminal **T. L.**, whom 
 | [Lathor](/docs/players/golt/lathor) | Emissary of Dagon |
 | [Selûne's Wolf](/docs/players/golt/selune-s-wolf) | Spiritual wolf sent by Selûne and Golt's mount |
 | [The Sentinel](/docs/players/golt/the-sentinel) | Mysterious creature connected to Dagon and the Unheilmeer |
-| [Sir Valendale](/docs/players/golt/sir-valendale) | Radiant Lion who oversaw Golt's physical training |
+| [Sir Valendale](/docs/factions/radiant-lions/sir-valendale) | Radiant Lion who oversaw Golt's physical training |
 | [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) | Investigated Golt's past and the Unheilmeer |
 | [Elisabeth the Twilight Oracle](/docs/puerto-ballena/places/temple-of-the-full-moon/npcs/elisabeth-the-twilight-oracle) | Curse specialist who examined Golt |
 | [Amirah Sephira Al-Marish](/docs/amirah-s-domains/amirah-sephira-al-marish) | Interplanar figure whose entourage currently includes Cassidy |

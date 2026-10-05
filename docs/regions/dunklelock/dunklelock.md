@@ -3,14 +3,26 @@ title: "Dunklelock"
 sidebar_position: 1
 ---
 
-![](dunklelock-assets/dunklelock_files/image001.webp)
+<div className="npc-header">
 
-One of the great lakes of Norberia, fed by water from the River Forgan.
+<img
+  src={require('./dunklelock-assets/dunklelock_files/image001.webp').default}
+  alt="Dunklelock"
+  className="location-header-image"
+/>
 
-Due to the proximity to the Marsander Shadows, their waters are also
-affected by the same corruption and its waters are said to be infected
-with horrendous monsters.
+<div className="npc-header-content">
 
-In the center of the lake there is a gigantic tower known as the Onyx
-Bishop and it is said to be the home of a powerful female archmage.
+**Dunklelock** is one of the great lakes of [Norberia](/docs/regions/norberia/), fed by the waters of the [Forgan River](/docs/regions/norberia/forgan-river).
 
+Due to its proximity to the [Marsander Shadows](/docs/regions/marsander-shadows/), the lake has been affected by the same corruption that plagues the surrounding region.
+
+Its dark waters are said to be inhabited by **horrendous monsters**, making travel across the lake particularly dangerous.
+
+At the center of Dunklelock stands a gigantic tower known as the **Onyx Bishop**.
+
+The tower is said to be the home of a **powerful female archmage**, although little is known about her identity or what purpose the mysterious structure serves.
+
+</div>
+
+</div>

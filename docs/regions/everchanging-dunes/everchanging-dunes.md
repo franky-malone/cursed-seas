@@ -1,21 +1,26 @@
 ---
-title: "Everchanging dunes"
+title: "Everchanging Dunes"
 sidebar_position: 1
 ---
 
-![](everchanging-dunes-assets/everchanging-dunes_files/image001.webp)
+<div className="npc-header">
 
-This enormous desert is located on the other side of the Mauer
-Mountains.
+<img
+  src={require('./everchanging-dunes-assets/everchanging-dunes_files/image001.webp').default}
+  alt="Everchanging Dunes"
+  className="npc-header-image"
+/>
 
-Its extension is almost the half of the whole Norberia alone. They
-receive their name because the winds are continually changing the
-landscape, making it almost impossible to orient yourself among its
-dunes.
+<div className="npc-header-content">
 
-It is said that anyone who does not have a Samiran as a guide will find
-death in the dunes.
+The **Everchanging Dunes** are an enormous desert located on the other side of the [Mauer Mountains](/docs/regions/mauer-mountains/).
 
-In addition to the big capital of Neu Samir, in its dunes there are many
-nomadic tribes that subsist in small oases and caves.
+The desert covers almost half of Norberia. It takes its name from the relentless winds that continually reshape the landscape, making it almost impossible to navigate among its shifting dunes.
 
+It is said that anyone who ventures into the desert without a **Samiran guide** will eventually find death among the dunes.
+
+In addition to the great capital of **Neu Samir**, many nomadic tribes inhabit the Everchanging Dunes, surviving around small oases and within caves scattered throughout the desert.
+
+</div>
+
+</div>

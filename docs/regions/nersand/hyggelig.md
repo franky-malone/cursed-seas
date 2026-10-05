@@ -3,12 +3,26 @@ title: "Hyggelig"
 sidebar_position: 2
 ---
 
-It is one of the northeasternmost cities in Norberia. Due to the
-continuous winds that hit it, its inhabitants are rather austere and
-bad-tempered.
+<div className="npc-header location-header">
 
-They are in charge of receiving dangerous prisoners coming from the
-whole continent who will spend their days on a prison island nearby.
+<img
+  src={require('./hyggelig-assets/hyggelig_files/image001.webp').default}
+  alt="Hyggelig"
+  className="location-header-image"
+/>
 
-![](hyggelig-assets/hyggelig_files/image001.webp)
+<div className="npc-header-content">
 
+**Hyggelig** is one of the northeasternmost cities in [Norberia](/docs/regions/norberia/).
+
+Due to the relentless winds that batter the city, its inhabitants have developed a reputation for being **austere and bad-tempered**.
+
+## The Prison Island
+
+Hyggelig is responsible for receiving some of the most dangerous prisoners from across Norberia.
+
+From the city, these prisoners are transported to a **nearby prison island**, where they are expected to spend the remainder of their sentences far from the rest of the continent.
+
+</div>
+
+</div>

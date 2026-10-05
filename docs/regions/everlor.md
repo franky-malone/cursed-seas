@@ -3,14 +3,24 @@ title: "Everlor"
 sidebar_position: 7
 ---
 
-![](everlor-assets/everlor_files/image001.webp)
+<div className="npc-header">
 
-Located in the center of the Misty Forest, Everlor is the great capital
-of all the elves of the continent of Norberia. Although there are elves
-who have been born and raised in other cities, most have a common origin
-in Everlor. Few other races are welcome in Everlor as the elves guard
-their secrets with great privacy.
+<img
+  src={require('./everlor-assets/everlor_files/image001.webp').default}
+  alt="Everlor"
+  className="location-header-image"
+/>
 
-Everlor is said to be the most beautiful city that human eyes can see,
-built on enormous trees as old as the first of the elves.
+<div className="npc-header-content">
 
+Located in the heart of the **Misty Forest**, **Everlor** is the great capital of the elves of [Norberia](/docs/regions/norberia/).
+
+Although elves can be found throughout the continent and many have been born and raised in other cities, most trace their origins back to Everlor.
+
+Few members of other races are welcomed within the city, as the elves of Everlor guard their home and its secrets with great secrecy.
+
+Everlor is said to be **the most beautiful city human eyes can behold**, built among enormous trees said to be as old as the first elves themselves.
+
+</div>
+
+</div>
