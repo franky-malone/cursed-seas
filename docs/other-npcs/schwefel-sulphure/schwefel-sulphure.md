@@ -28,3 +28,4 @@ He offered Virgula a deal to peek his memories about Marsander in
 exchange of bringing back to life someone from this memories or his magical staff.
 
 After the deal, he left for the Dunklelock in search of the Onix Bishop.
+

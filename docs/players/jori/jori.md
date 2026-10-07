@@ -140,3 +140,4 @@ And so his journey began.
 | [Pavo](/docs/players/jori/pavo) | Druidic totem |
 | [Miranda Greywolf](/docs/dorelta/npcs/miranda-greywolf) | Ally in Dorelta |
 | **Conor McMellot** | Childhood acquaintance |
+

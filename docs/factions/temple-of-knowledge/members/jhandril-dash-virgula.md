@@ -140,3 +140,4 @@ Despite having learned his true identity, Jhandril is still trying to understand
 | [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) | Jhandril's adoptive father |
 | [Temple of Knowledge](/docs/factions/temple-of-knowledge/) | Institution where Jhandril was raised and trained |
 | [Diary of Ellipsis Virgula](/docs/documents/diary-of-elipsis-virgula) | Contains information concerning his father's past |
+

@@ -21,3 +21,4 @@ sidebar_position: 4
 He manifests as a **shadowy hound** under Virgula's control and assists him in combat.
 
 <div style={{clear: 'both'}}></div>
+

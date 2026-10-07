@@ -23,3 +23,4 @@ Marwa instructed [Jori](/docs/players/jori/) in the ways of nature and taught hi
 It was also through Marwa that [Jori](/docs/players/jori/) inherited the generations-old dream of discovering **Myth Coralis**.
 
 <div style={{clear: 'both'}}></div>
+

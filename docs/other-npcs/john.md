@@ -29,3 +29,4 @@ Dorelta his main contact is
 [Lara](/docs/dorelta/npcs/lara).
 
 He was later found at the bridge crossing the Forgan River. He was stranded because some hill giants destroyed the bridge. He offered the party some kelp cakes and thanked them for their help.
+

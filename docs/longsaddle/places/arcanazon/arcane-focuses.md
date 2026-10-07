@@ -4,9 +4,8 @@ sidebar_position: 4
 ---
 
 
-|  |  |  |  |
-|----|----|----|----|
 | Name | Effect | Attunement | Price |
+|----|----|----|----|
 | Orb of shielding (Basalt) | Spellcasting focus and reaction to reduce 1d4 elemental damage. Fire | Yes | 250 |
 | Orb of shielding (Quartz) | Spellcasting focus and reaction to reduce 1d4 elemental damage. Radiant | Yes | 250 |
 | Orb of shielding (Skarn) | Spellcasting focus and reaction to reduce 1d4 elemental damage. Poison | Yes | 250 |
@@ -16,6 +15,8 @@ sidebar_position: 4
 | Orb of shielding (Chert) | Spellcasting focus and reaction to reduce 1d4 elemental damage. Force | Yes | 250 |
 | Orb of shielding (Marble) | Spellcasting focus and reaction to reduce 1d4 elemental damage. Psychic | Yes | 250 |
 | Ruby of the war mage | Allows a simple or martial weapon to be used as a spellcasting focus | Yes | 350 |
+
+
 
 
 

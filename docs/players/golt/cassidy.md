@@ -74,3 +74,4 @@ Her exact circumstances, why she is with Amirah, and what happened to her during
 | [Alara](/docs/players/golt/alara-deceased-wife) | Mother |
 | [Bant](/docs/players/golt/bant) | Older brother |
 | [Amirah Sephira Al-Marish](/docs/amirah-s-domains/amirah-sephira-al-marish) | Cassidy was last seen among her entourage |
+

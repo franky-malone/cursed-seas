@@ -28,3 +28,5 @@ sidebar_position: 3
 > *The stakes are high, and only one summoner will emerge victorious, claiming the ultimate prize and earning eternal glory.*
 >
 > *Prepare to be amazed as the **Summoners Showdown** begins! May the best summoner triumph!"*
+
+

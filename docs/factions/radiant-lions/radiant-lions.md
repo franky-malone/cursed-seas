@@ -45,3 +45,4 @@ Despite this reputation, the order places **law and justice before other conside
 | [Nersand](/docs/regions/nersand/) | Headquarters of the Radiant Lions |
 | [Prime Road](/docs/regions/norberia/prime-road) | Frequently patrolled by members of the order |
 | [Golt](/docs/players/golt/) | Former member of the Radiant Lions |
+

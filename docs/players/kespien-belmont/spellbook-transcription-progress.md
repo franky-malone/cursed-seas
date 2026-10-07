@@ -60,3 +60,5 @@ Spells copied from **Victoria's Spellbook**:
 | Mage Armor | 1 hour | 10 gp |
 | Expeditious Retreat | 1 hour | 10 gp |
 | Mage Blade | 2 hours | 20 gp |
+
+

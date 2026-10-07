@@ -198,3 +198,4 @@ With one of its Sacred Plumes incapacitated, the [Temple of Knowledge](/docs/fac
 - [Cursed Islands](/docs/regions/cursed-islands)
 - [Unheilmeer](/docs/important-items/unheilmeer)
 - [Halphanis' Story](/docs/documents/halphanis-story)
+

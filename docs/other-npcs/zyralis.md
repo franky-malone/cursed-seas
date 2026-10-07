@@ -41,3 +41,4 @@ Zyralis claimed to come from [Everlor](/docs/regions/everlor) and to be some kin
 She managed to trick [Count Virgula](/docs/players/count-virgula/) into drinking a **Philter of Love** and questioned him about the whereabouts of the **Espina de Otoño**. She seems to have some kind of relationship with the **Herzblatt family** from [Dorelta](/docs/dorelta/).
 
 She was last seen in a room at **The Broken Scale** in [Longsaddle](/docs/longsaddle/), where she escaped by teleporting through a portal.
+

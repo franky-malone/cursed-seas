@@ -3,9 +3,20 @@ title: "Aftari"
 sidebar_position: 4
 ---
 
+<div className="npc-header">
 
-A good looking Tiefling woman who sells incenses.
+<img
+  src={require('./aftari-assets/aftari_files/image001.webp').default}
+  alt="Aftari"
+  className="npc-header-image"
+/>
 
-![](aftari-assets/aftari_files/image001.webp)
+<div className="npc-header-content">
 
+## Overview
 
+**Aftari** is an attractive tiefling woman who makes her living selling **incense**.
+
+</div>
+
+</div>

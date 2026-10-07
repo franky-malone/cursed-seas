@@ -1,36 +1,63 @@
 ---
-title: "Possible rewards for meteorite quest"
+title: "Possible Rewards for Meteorite Quest"
 sidebar_position: 7
-draft: true
+sidebar_class_name: hidden-sidebar-item
 ---
 
-Ring of Feather Falling (Attunement)
+## Possible Rewards
 
-Boots of elvenkind
+| Item | Attunement |
+|---|:---:|
+| Ring of Feather Falling | Yes |
+| Boots of Elvenkind | No |
+| Goggles of Night | No |
+| +1 Handaxe and 20 +1 Arrows | No |
+| Sentinel Shield | No |
+| Ring of Evasion | Yes |
+| Heward's Handy Haversack | No |
+| Returning Belt | Yes |
+| Vial of Spellweaving (Level 2) | Yes |
 
-Goggles of night
+---
 
-+1 Handaxe and 20 +1 Arrows
+## Item Details
 
-Sentinel shield/
-Ring of evasion (Attunement)/
-Heward's Handy Haversack
+### Returning Belt
 
-Returning belt (Attunement)
+*Requires attunement*
 
-Adds the returning property to up to 3 one-handed weapons with the
-throwing property (dagger, hand axe, javelin, light hammer, darts, and
-spear). The weapons cannot be magical beforehand.
+The belt grants the **returning property** to up to **three one-handed weapons with the thrown property**.
 
-Vial of Spellweaving level 2 (Attunement)
+Eligible weapons include:
 
-Allow to change 1/day one known/prepared spell of level 2
+- Dagger
+- Handaxe
+- Javelin
+- Light Hammer
+- Dart
+- Spear
 
+The affected weapons **cannot already be magical**.
 
+---
 
-![](possible-rewards-for-meteorite-quest-assets/possible-rewards-for-meteorite-quest_files/image001.webp)
+### Vial of Spellweaving — Level 2
 
+*Requires attunement*
 
+Once per day, the vial allows its user to change **one known or prepared spell of 2nd level**.
 
+---
 
-
+<img
+  src={require('./possible-rewards-for-meteorite-quest-assets/possible-rewards-for-meteorite-quest_files/image001.webp').default}
+  alt="Possible rewards for the meteorite quest"
+  style={{
+    width: '100%',
+    maxWidth: '600px',
+    height: 'auto',
+    display: 'block',
+    margin: '1.5rem auto',
+    borderRadius: '8px'
+  }}
+/>

@@ -10,3 +10,5 @@ the notion that the untamed state was the state of nature that should
 be. His regular worshiper base consisted of explorers, travelers in wild
 areas, and denizens of rural areas.
 
+
+

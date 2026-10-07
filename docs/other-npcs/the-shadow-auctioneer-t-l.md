@@ -40,3 +40,4 @@ Brotherhood that got the mission from Mr. Oaktree.
 
 A travelling merchant that goes by the name Tobias Leclair was seen in
 Orchiva and supposedly gave the book to Maximiliam.
+

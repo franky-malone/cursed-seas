@@ -20,3 +20,5 @@ If you took bludgeoning damage, roll for Constitution
 
 If you psychic damage, roll for Intelligence
 
+
+

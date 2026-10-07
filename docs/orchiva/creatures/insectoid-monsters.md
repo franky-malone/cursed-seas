@@ -9,3 +9,5 @@ sidebar_position: 15
 
 ![](insectoid-monsters-assets/insectoid-monsters_files/image003.webp)
 
+
+

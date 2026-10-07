@@ -31,3 +31,5 @@ the wearer the following benefits while attuned:
   they were charmed. The ring recover the charges at the dusk of the 7th
   day after the use.
 
+
+

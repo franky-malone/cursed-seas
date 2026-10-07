@@ -10,3 +10,5 @@ that was almost exclusively prayed to in rural areas and one as a mother
 goddess, in whose aspect she collected faith from everybody who felt
 secure at home
 
+
+

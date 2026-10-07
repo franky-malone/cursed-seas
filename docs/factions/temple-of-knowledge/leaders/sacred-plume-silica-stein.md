@@ -74,3 +74,4 @@ Silica used his position within the Temple to grant the group temporary access t
 This allowed them to pursue several different lines of research concerning their respective investigations.
 
 He also helped arrange a meeting between the party and [Halphanis Severus](./sacred-plume-halphanis-severus), the Sacred Plume of Archaeomancy.
+

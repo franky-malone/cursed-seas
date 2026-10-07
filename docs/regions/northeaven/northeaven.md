@@ -46,3 +46,4 @@ Mining therefore remains one of the important resources available to the inhabit
 Since the eruption, the cult of **Chauntea**, goddess of crops and agriculture, has taken on a fundamental role in the survival and development of the city.
 
 Many druids and clerics devoted to the **Mother of Crops** work to make Northeaven more habitable, helping its inhabitants endure the difficult conditions brought about by Northell's continuing volcanic activity.
+

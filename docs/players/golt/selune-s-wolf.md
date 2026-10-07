@@ -73,3 +73,4 @@ He believes Selûne abandoned him at the moment he needed her most. Yet the wolf
 As a result, the wolf is both a companion and a constant reminder of Golt's unresolved relationship with his former goddess.
 
 Whether Golt will eventually reconcile with Selûne remains uncertain.
+

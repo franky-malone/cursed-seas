@@ -21,3 +21,5 @@ The symptoms include:
 It is said that when people started to itch uncontrolably, they will be
 affected by it and their death is sentenced.
 
+
+

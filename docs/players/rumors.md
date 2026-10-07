@@ -84,3 +84,4 @@ Whoever wins the tournament is said to have **their wishes come true**.
 You have heard of a very powerful weapon known as **Aleatoria**.
 
 Apparently, the weapon can **change between different forms**, each possessing its own powers and abilities.
+

@@ -3,24 +3,62 @@ title: "Rabenax"
 sidebar_position: 4
 ---
 
-![](rabenax-assets/rabenax_files/image001.webp)
+<div className="npc-header">
 
-She is rarely the first one you notice in a crowded hall, but almost
-always the last one you forget. Small, black-feathered, and hunched
-slightly from years of mimicking posture as well as sound, this young
-Kenku lingers in the edges of the Temple’s candlelit libraries, always
-listening at every whispered secret and lecture alike. Though her beak
-never forms original sentences, her mimicry is eerily perfect— she can
-recall entire pages of texts, lectures, and even the subtle inflection
-of a speaker’s doubt. There’s something uncanny about hearing the
-stern voice of a Sacred Plume echo from Rabenax’s beak with such
-precision that it’s hard not to glance around the room in confusion.
+<img
+  src={require('./rabenax-assets/rabenax_files/image001.webp').default}
+  alt="Rabenax"
+  className="npc-header-image"
+/>
 
-Despite the limits of her voice, Rabenax’s eyes gleam with quick wit
-and quiet hunger for knowledge. Rumors swirl that she may be Eulius’s
-ward or secret apprentice, a prodigy plucked from obscurity to be tested
-among the best. She speaks little, but watches everything—and when she
-does “speak,” it's often with unexpected humor, mischief, or
-perfectly timed insight. Her presence in the exam is as mysterious as
-her past, but those who underestimate her quickly realize that silence,
-too, is a kind of power.
+<div className="npc-header-content">
+
+## Overview
+
+**Rabenax** is a young kenku often found lingering at the edges of the [Temple of Knowledge](/docs/factions/temple-of-knowledge/)'s candlelit libraries.
+
+Small, black-feathered, and slightly hunched, she is rarely the first person one notices in a crowded hall but almost always the last one they forget.
+
+Quiet and observant, Rabenax is constantly listening, whether to whispered secrets, casual conversations, or scholarly lectures.
+
+## An Exceptional Mimic
+
+Like other kenku, Rabenax does not form original sentences, instead communicating through sounds and words she has heard before.
+
+Her mimicry, however, is **eerily precise**.
+
+She can recall entire passages of texts and lectures, reproducing not only the words but even the smallest details of the original speaker's voice and inflection.
+
+Hearing the stern voice of a **Sacred Plume** suddenly emerge from Rabenax's beak with perfect accuracy can be unsettling enough to make those nearby glance around the room in confusion.
+
+</div>
+
+</div>
+
+## Personality
+
+Despite the limitations of her voice, Rabenax possesses a **quick wit and an insatiable hunger for knowledge**.
+
+She speaks little but watches everything. When she does choose to communicate, the voices and phrases she borrows are often used with unexpected humor, mischief, or perfectly timed insight.
+
+Those who mistake her silence for a lack of understanding usually discover their mistake quickly.
+
+---
+
+## Connection to Eulius
+
+Rumors within the Temple suggest that Rabenax may be [Eulius Federreich's](/docs/factions/temple-of-knowledge/leaders/highest-inkwell-eulius-federreich.md) ward or secret apprentice, a gifted student plucked from obscurity and brought to the Temple to be tested among its best.
+
+Whether these rumors are true remains uncertain, and Rabenax herself offers little clarification about her past.
+
+Her presence at the exams is therefore almost as mysterious as she is.
+
+> **Silence, too, is a kind of power.**
+
+---
+
+## Related Characters
+
+| Character | Connection |
+|---|---|
+| [Eulius Federreich](/docs/factions/temple-of-knowledge/leaders/highest-inkwell-eulius-federreich.md) | Rumored to be Rabenax's mentor or guardian |

@@ -20,3 +20,4 @@ Its strategic position makes it an important transit point for caravans and trav
 </div>
 
 </div>
+

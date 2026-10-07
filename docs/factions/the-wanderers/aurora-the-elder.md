@@ -42,3 +42,4 @@ Aurora was not the original source of the tale.
 She explained that she had heard the story from the majestic bard [Abenthy](/docs/orchiva/npcs/abenthy/), who had passed the tale on to her.
 
 Through Aurora, Abenthy's story became the adventurers' first introduction to the legend of the Sentinel.
+

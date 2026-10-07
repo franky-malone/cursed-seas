@@ -63,3 +63,4 @@ His ghost asked them to help him **defeat the evil within his resting place**.
 | Page | Connection |
 |---|---|
 | [Dorelta](/docs/dorelta/) | City founded by Velen Herzblatt |
+

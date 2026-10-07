@@ -38,3 +38,4 @@ He carries a staff decorated with rotating, number-inscribed rings and abacus be
 Koko holds the rank of **Sacred Plume**, making him one of the highest-ranking members of the Temple beneath the [Highest Inkwell Eulius Federreich](./highest-inkwell-eulius-federreich).
 
 His field is **Numeromancy**, one of the four Schools of Knowledge represented by the Sacred Plumes.
+

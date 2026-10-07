@@ -36,3 +36,4 @@ Rather than operating openly, the organization appears to maintain contacts and 
 | Page | Connection |
 |---|---|
 | [Nersand](/docs/regions/nersand/) | City most strongly associated with the Shadows Void |
+

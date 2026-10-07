@@ -172,3 +172,4 @@ No confirmed account of Ellipsis' fate has yet been discovered.
 | [Marsander](/docs/regions/marsander-shadows/marsander) | Ellipsis' homeland |
 | [Cursed Islands](/docs/regions/cursed-islands) | Destination connected to Ellipsis' disappearance |
 | [Manfred Belmont](/docs/factions/belmont-family/manfred-belmont) | His voyage provided Ellipsis with clues about Fabros |
+

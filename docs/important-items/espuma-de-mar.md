@@ -29,3 +29,5 @@ For **1 minute** after consuming a dose:
 
 On a failed save, the user is **poisoned for 1d4 + 1 hours**.
 
+
+

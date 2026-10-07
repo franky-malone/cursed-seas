@@ -15,3 +15,5 @@ ally within 30 feet. The shield provides temporary hit points equal to
 1d10+ the wearer's Charisma modifier. These temporary hit points last
 for 1 hour or until depleted.
 
+
+

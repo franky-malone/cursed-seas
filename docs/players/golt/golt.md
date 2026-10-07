@@ -265,7 +265,7 @@ Golt has nevertheless remained conflicted. The silence he experienced during his
 
 Golt's transformation has since been investigated by members of the **Temple of Knowledge**.
 
-Eventually, [Elisabeth the Twilight Oracle](/docs/puerto-ballena/places/temple-of-the-full-moon/npcs/elisabeth-the-twilight-oracle), a specialist in curses, examined him and identified his condition as a powerful demonic curse.
+Eventually, [Elisabeth the Twilight Oracle](/docs/puerto-ballena/places/temple-of-the-full-moon/elisabeth-the-twilight-oracle), a specialist in curses, examined him and identified his condition as a powerful demonic curse.
 
 According to Elisabeth, she could think of three possible ways to reverse it:
 
@@ -349,5 +349,8 @@ Because Golt also possessed information concerning the criminal **T. L.**, whom 
 | [The Sentinel](/docs/players/golt/the-sentinel) | Mysterious creature connected to Dagon and the Unheilmeer |
 | [Sir Valendale](/docs/factions/radiant-lions/sir-valendale) | Radiant Lion who oversaw Golt's physical training |
 | [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) | Investigated Golt's past and the Unheilmeer |
-| [Elisabeth the Twilight Oracle](/docs/puerto-ballena/places/temple-of-the-full-moon/npcs/elisabeth-the-twilight-oracle) | Curse specialist who examined Golt |
+| [Elisabeth the Twilight Oracle](/docs/puerto-ballena/places/temple-of-the-full-moon/elisabeth-the-twilight-oracle) | Curse specialist who examined Golt |
 | [Amirah Sephira Al-Marish](/docs/amirah-s-domains/amirah-sephira-al-marish) | Interplanar figure whose entourage currently includes Cassidy |
+
+
+

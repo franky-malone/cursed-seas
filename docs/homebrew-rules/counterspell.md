@@ -21,3 +21,5 @@ quarters of the caster (30 feet or less) and it is an Arcana Check
   that is being cast (in game explanation you can anticipate what is
   about to happen when you see the spell).
 
+
+

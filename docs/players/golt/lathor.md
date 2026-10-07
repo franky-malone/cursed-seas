@@ -51,3 +51,4 @@ The exact nature of Lathor, his relationship with Dagon and his own interest in 
 | Page | Connection |
 |---|---|
 | [Unheilmeer](/docs/important-items/unheilmeer) | The weapon Golt must bring to the Ipletherion |
+

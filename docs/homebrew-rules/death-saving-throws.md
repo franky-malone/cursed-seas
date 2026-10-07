@@ -10,3 +10,5 @@ player and the DM will know about the outcome.
 
 They restart as normal after each combat.
 
+
+

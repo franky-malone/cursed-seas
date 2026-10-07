@@ -1,17 +1,25 @@
 ---
 title: "Brunn Redtile"
-sidebar_position: 2
+sidebar_position: 3
 ---
 
+<div className="npc-header">
 
-Rather short human.
+<img
+  src={require('./brunn-redtile-assets/brunn-redtile_files/image001.webp').default}
+  alt="Brunn Redtile"
+  className="npc-header-image"
+/>
 
+<div className="npc-header-content">
 
+## Overview
 
-Inkeeper of the Travelers Inn in Dorelta. He is a nice and welcoming
-man. He is very proud of the magical hand axes that decorate his tavern.
+**Brunn Redtile** is a rather short human and the welcoming innkeeper of the [Travelers Inn](/docs/dorelta/places/travelers-district/travelers-inn) in [Dorelta](/docs/dorelta/).
 
-![](brunn-redtile-assets/brunn-redtile_files/image001.webp)
+He is a friendly and good-natured man who takes great pride in his tavern and enjoys welcoming travelers passing through the city.
 
+</div>
 
+</div>
 

@@ -21,3 +21,5 @@ Either way, creatures with Blindsight, tremorsense or a similar ability
 that allows them to notice the presence of all attacker nearby, can't be
 flanked.
 
+
+

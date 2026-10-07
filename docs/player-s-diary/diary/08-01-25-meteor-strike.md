@@ -44,3 +44,5 @@ Dienstag, 14. Januar 2025
       meteorite, other half is intact
     - Elemental fights with dwarves from Kor Kuldir
 
+
+

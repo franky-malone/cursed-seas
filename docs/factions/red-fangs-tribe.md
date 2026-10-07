@@ -90,3 +90,4 @@ Whatever survived the Silvertusk Brotherhood's attempts to eradicate the tribe a
 |---|---|
 | [Crosscove](/docs/regions/mauer-mountains/crosscove) | Settlement attacked by the Red Fangs |
 | [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/) | Mercenary organization that fought against the tribe |
+

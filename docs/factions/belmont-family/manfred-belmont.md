@@ -40,3 +40,5 @@ Whether Manfred truly lied about his adventures or whether some of his most unbe
 - [Belmont the Liar](/docs/factions/belmont-family/belmont-the-liar-song)
 - [Cursed Islands](/docs/regions/cursed-islands)
 - [Yellow Wolf](/docs/factions/belmont-family/yellow-wolf)
+
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Helene Soprani"
 sidebar_position: 9
 ---
@@ -34,4 +34,5 @@ Helene was travelling with someone named **Connor**, who later departed for [Pue
 
 She was eventually tasked with composing a song about the group's adventures in Dorelta, with particular focus on Aeriff.
 
-Despite the group's connection to Kespien, Helene had few reservations about performing *[Belmont the Liar](/docs/factions/belmont-family/belmont-the-liar-song)* — after all, it was one of the audience's favourites.
+Despite the group's connection to Kespien, Helene had few reservations about performing *[Belmont the Liar](/docs/factions/belmont-family/belmont-the-liar-song)* � after all, it was one of the audience's favourites.
+

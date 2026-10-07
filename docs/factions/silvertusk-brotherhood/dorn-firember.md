@@ -67,3 +67,4 @@ He instructed Kespien to meet him again in [Longsaddle](/docs/longsaddle/) once 
 | [Birthday Sending from Dorn](/docs/players/kespien-belmont/birthday-sending-from-dorn) | Personal message sent by Dorn to Kespien |
 | [Mordian](/docs/regions/mauer-mountains/mordian) | Where Dorn brought Kespien after rescuing him |
 | [Dorelta](/docs/dorelta/) | Destination of Kespien's first mission |
+

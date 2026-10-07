@@ -1,8 +1,12 @@
 ---
-title: "Marvin the alchemist"
+title: "Marvin the Alchemist"
 sidebar_position: 7
 ---
 
-He was saved by the group from being devoured by an accidental creation
-of his own, a poison weird. He was doing a special job for the Sacre
-Plume Silica Stein when something went wrong.
+## Overview
+
+**Marvin** is an alchemist who was rescued by the group after one of his experiments went terribly wrong.
+
+He had been working on a special assignment for [Sacred Plume Silica Stein](/docs/factions/temple-of-knowledge/leaders/sacred-plume-silica-stein) when he accidentally created a **Poison Weird**, which turned against him and nearly devoured him.
+
+The group intervened and saved Marvin from his own creation.

@@ -42,3 +42,5 @@ Dienstag, 18. März 2025
     - We pick the haversack as a quest reward (other options: magical
       handaxe, setinel shield, returning belt)
 
+
+

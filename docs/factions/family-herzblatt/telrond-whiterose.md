@@ -68,3 +68,4 @@ Gloran had been operating beneath the **Herzblatt family crypt** and was ultimat
 | Page | Connection |
 |---|---|
 | [Dorelta](/docs/dorelta/) | City where Telrond was encountered and investigated |
+

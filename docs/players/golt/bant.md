@@ -8,3 +8,4 @@ sidebar_position: 3
 He was kidnapped five years ago during Golt's absence.
 
 <div style={{clear: 'both'}}></div>
+

@@ -28,3 +28,5 @@ The constant volcanic activity covers the surrounding lands in a dense layer of 
 </div>
 
 The eruption radically changed life in nearby [Northeaven](/docs/regions/northeaven/), turning what had once been a fertile and prosperous region into a much harsher environment.
+
+

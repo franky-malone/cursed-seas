@@ -47,3 +47,4 @@ Among her ashes, he found a ring.
 | [Golt](/docs/players/golt/) | Husband |
 | [Bant](/docs/players/golt/bant) | Son |
 | [Cassidy](/docs/players/golt/cassidy) | Daughter |
+

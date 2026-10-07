@@ -38,3 +38,4 @@ Their knowledge of the wilderness makes them particularly well suited to trackin
 The Emerald Watchers operate under the authority of the ruling council of [Nersand](/docs/regions/nersand/).
 
 Their protection of the Prime Road helps maintain one of the most important overland routes connected to the capital, allowing travellers and merchants to move through otherwise dangerous territory.
+

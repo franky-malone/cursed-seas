@@ -19,3 +19,5 @@ sidebar_position: 6
 | **73** | **Rock Talk.** | You can understand nearby rocks. Unfortunately, they are bullies who relentlessly criticize your clothes. |
 | **81** | **Silent Invisibility.**|  You become *invisible* for the next **1 minute**. During this time, other creatures can't hear you. The invisibility ends if you attack or cast a spell. |
 | **89** | **Rise of the Dead.**| **1d4 skeletons** rise from the ground and attack the nearest creature. They remain until killed. |
+
+

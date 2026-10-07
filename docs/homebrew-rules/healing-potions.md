@@ -19,3 +19,5 @@ Drinking a healing potion within combat can be done in two ways:
 
 Any other non healing potion takes an action to drink or apply.
 
+
+

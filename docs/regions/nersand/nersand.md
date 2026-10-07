@@ -59,3 +59,4 @@ The tournament attracts competitors from across the world seeking glory, wealth,
 According to legend, whoever emerges victorious may have **whatever their heart desires**.
 
 The extraordinary power behind this reward has made Amirah's tournament one of the most famous events associated with Nersand.
+

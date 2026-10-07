@@ -48,3 +48,4 @@ She later became a member of the [Emerald Watchers](/docs/factions/emerald-watch
 | [Jori](/docs/players/jori/) | Former teacher and old friend |
 | [Ada Gladstone](/docs/factions/temple-of-knowledge/members/ada-gladstone) | Friend |
 | [Devin Greenshadow](/docs/factions/emerald-watchers/devin-greenshadow) | Leader of her Emerald Watchers squad |
+

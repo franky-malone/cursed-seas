@@ -19,3 +19,4 @@ sidebar_position: 4
 Formerly known as the One Eyed Man.
 
 Drug dealer from Longsaddle that handles with Espuma de Mar. It happened to be a tabaxi with some martial arts expertise and an amazing speed. He run away after being defeated by the party in his camp.
+

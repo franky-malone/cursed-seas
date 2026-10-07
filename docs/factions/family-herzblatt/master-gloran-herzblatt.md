@@ -66,3 +66,4 @@ The book had been provided to him by the [Shadow Auctioneer](/docs/other-npcs/th
 | Page | Connection |
 |---|---|
 | [Dorelta](/docs/dorelta/) | City where Gloran committed the murders |
+

@@ -26,3 +26,5 @@ Lory is small and agile, with mischievous eyes that constantly seem to assess he
 
 Her clothing is practical and dark, allowing her to blend easily
 
+
+

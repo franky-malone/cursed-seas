@@ -25,3 +25,4 @@ She used a spear and a shield as her weapons and had unending stamina.
 After the fight, and still wounded she run towards Puerto Ballena's "El
 Barrizal" claming that the strength of her ancestors was running through
 her.
+

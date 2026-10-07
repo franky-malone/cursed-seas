@@ -14,3 +14,5 @@ sidebar_position: 11
 | **Evoker's Exchange** | — | 300 GP | Bought by Virgula |
 | **Dominic's Field Guide to Language** | — | 150 GP | Bought by the party |
 | **Circlet of Blasting** | — | 100 GP | — |
+
+

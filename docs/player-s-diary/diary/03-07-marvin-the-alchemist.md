@@ -24,3 +24,5 @@ sidebar_position: 28
     - Golt: potion of diminution (reduce)
     - Kespien: potion of polychromy
 
+
+

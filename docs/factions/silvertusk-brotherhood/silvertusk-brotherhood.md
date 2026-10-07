@@ -57,3 +57,4 @@ Their contribution to the allied war effort earned the organization considerable
 | [Lory Swiftwind](/docs/factions/silvertusk-brotherhood/lory-swiftwind) | Member who helped train Kespien |
 | [Ariana Stormbringer](/docs/factions/silvertusk-brotherhood/ariana-stormbringer) | Member of the Brotherhood |
 | [Gareth Stonefist](/docs/factions/silvertusk-brotherhood/gareth-stonefist) | Member of the Brotherhood |
+

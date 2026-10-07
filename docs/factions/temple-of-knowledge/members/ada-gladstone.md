@@ -91,3 +91,4 @@ Jori spent the night with her before leaving. The following morning, he left [Li
 |---|---|
 | [Temple of Knowledge](/docs/factions/temple-of-knowledge/) | Institution where Ada teaches and conducts her research |
 | [Jori](/docs/players/jori/) | Ada's old acquaintance and romantic interest |
+

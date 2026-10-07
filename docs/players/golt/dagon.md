@@ -83,3 +83,4 @@ Should Golt refuse to complete his task, the creature could be sent after him to
 |---|---|
 | [Golt](/docs/players/golt/) | Warlock bound to Dagon through a pact |
 | [Lathor](/docs/players/golt/lathor) | Demon who speaks
+

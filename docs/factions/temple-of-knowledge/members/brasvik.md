@@ -3,18 +3,37 @@ title: "Brasvik"
 sidebar_position: 4
 ---
 
+<div className="npc-header">
 
-![](brasvik-assets/brasvik_files/image001.webp)
+<img
+  src={require('./brasvik-assets/brasvik_files/image001.webp').default}
+  alt="Brasvik"
+  className="npc-header-image"
+/>
 
-A member of the temple of knowledge (passed his exams a couple years
-ago) and acquitance of Aeriff. He is tall (~195cm) for being an elf and
-handsome. He seems to find pleasure on bullying Aerif.
+<div className="npc-header-content">
 
-He participated in the Summoner's Showdown and cheated. The group
-managed to expose him, to what he cursed whoever did that and promised
-to retaliate against them.
+## Overview
 
-Apparently in an attempt to restore his lost honor he is telling
-everyone that they cheated against him.
+**Brasvik** is a member of the [Temple of Knowledge](/docs/factions/temple-of-knowledge/), having successfully passed the Temple's examinations a few years ago.
 
+He is also an acquaintance of [Aeriff](/docs/factions/temple-of-knowledge/members/aeriff.md), although their relationship is far from friendly. Brasvik seems to take particular pleasure in bullying him.
+
+## Summoner's Showdown
+
+Brasvik participated in the **Summoner's Showdown**, where he attempted to **cheat during the competition**.
+
+The group discovered what he was doing and managed to expose his deception.
+
+Furious at being publicly humiliated, Brasvik cursed whoever had exposed him and **swore that he would eventually retaliate against them**.
+
+</div>
+
+</div>
+
+## Lost Honor
+
+Following the Summoner's Showdown, Brasvik apparently began telling others that **his opponents had been the ones cheating against him**.
+
+Whether this is an attempt to restore his damaged honor, protect his reputation within the Temple, or simply take revenge on those who exposed him remains unclear.
 

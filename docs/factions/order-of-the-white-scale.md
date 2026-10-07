@@ -68,3 +68,4 @@ For the followers of Kelemvor, death itself is not the enemy.
 | Character | Role |
 |---|---|
 | [Inus Theldaran](/docs/orchiva/npcs/inus.md) | Member of the Order of the White Scale |
+

@@ -38,3 +38,4 @@ Melrea herself levitates slightly above the ground. She carries a staff crowned 
 Melrea holds the rank of **Sacred Plume**, making her one of the highest-ranking members of the Temple beneath the [Highest Inkwell Eulius Federreich](./highest-inkwell-eulius-federreich).
 
 Her field is **Elemental Arts**, one of the four Schools of Knowledge represented by the Sacred Plumes.
+
