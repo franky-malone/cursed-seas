@@ -1,13 +1,33 @@
 ---
-title: "Insectoid monsters"
+title: "Insectoid Monsters"
 sidebar_position: 15
 ---
 
-![](insectoid-monsters-assets/insectoid-monsters_files/image001.webp)
+## Insectoid Creatures
 
-![](insectoid-monsters-assets/insectoid-monsters_files/image002.webp)
+A collection of insectoid creatures encountered in Orchiva.
 
-![](insectoid-monsters-assets/insectoid-monsters_files/image003.webp)
+<div className="creature-gallery">
 
+  <a href={require('./insectoid-monsters-assets/insectoid-monsters_files/image001.webp').default} target="_blank" rel="noopener noreferrer">
+    <img
+      src={require('./insectoid-monsters-assets/insectoid-monsters_files/image001.webp').default}
+      alt="Insectoid creature 1"
+    />
+  </a>
 
+  <a href={require('./insectoid-monsters-assets/insectoid-monsters_files/image002.webp').default} target="_blank" rel="noopener noreferrer">
+    <img
+      src={require('./insectoid-monsters-assets/insectoid-monsters_files/image002.webp').default}
+      alt="Insectoid creature 2"
+    />
+  </a>
 
+  <a href={require('./insectoid-monsters-assets/insectoid-monsters_files/image003.webp').default} target="_blank" rel="noopener noreferrer">
+    <img
+      src={require('./insectoid-monsters-assets/insectoid-monsters_files/image003.webp').default}
+      alt="Insectoid creature 3"
+    />
+  </a>
+
+</div>

@@ -167,7 +167,7 @@ const locations = [
 
   // --- Southern / island region ---
   {
-    name: 'LÃ¢â‚¬â„¢Taca',
+    name: 'Lútaca',
     x: 94.53,
     y: 88.36,
     link: '/docs/regions/l-taca/',
@@ -609,7 +609,7 @@ export default function InteractiveMap() {
                 </strong>
 
                 <small>
-                  Open wiki page Ã¢â€ â€™
+                  Open wiki page →
                 </small>
               </span>
             </Link>
@@ -649,7 +649,7 @@ export default function InteractiveMap() {
             aria-label="Zoom out"
             title="Zoom out"
           >
-            Ã¢Ë†â€™
+            -
           </button>
 
           <button
@@ -658,7 +658,7 @@ export default function InteractiveMap() {
             aria-label="Reset map"
             title="Reset map"
           >
-            Ã¢â€ Âº
+            ↺
           </button>
 
           <button
@@ -673,7 +673,7 @@ export default function InteractiveMap() {
             title="Coordinate editor"
             aria-pressed={coordinateMode}
           >
-            Ã¢Å’â€“
+            𖦏
           </button>
 
         </div>

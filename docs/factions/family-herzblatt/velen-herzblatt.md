@@ -41,23 +41,6 @@ When the adventurers explored the Herzblatt family crypt, they discovered that V
 
 His ghost asked them to help him **defeat the evil within his resting place**.
 
-<img
-  src={require('./velen-herzblatt-assets/velen-herzblatt_files/image002.webp').default}
-  alt="Ghost of Velen Herzblatt"
-  style={{
-    width: '100%',
-    maxWidth: '600px',
-    height: 'auto',
-    display: 'block',
-    margin: '1.5rem auto',
-    borderRadius: '8px'
-  }}
-/>
-
-*The ghost of Velen Herzblatt within the family crypt.*
-
----
-
 ## Related Pages
 
 | Page | Connection |

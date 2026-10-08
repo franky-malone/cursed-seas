@@ -1,5 +1,6 @@
 ---
 title: "Red Fangs Tribe"
+slug: /factions/red-fangs-tribe
 sidebar_position: 8
 ---
 

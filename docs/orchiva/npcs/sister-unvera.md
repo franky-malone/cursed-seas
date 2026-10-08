@@ -1,31 +1,28 @@
----
+﻿---
 title: "Sister Unvera"
 sidebar_position: 2
 ---
 
-Halfling healer of Orchiva. She used to act as a veterinarian healing
-the animals of the city when in need and attending complicated births,
-but now she had to start treating also humans affected by the plague.
+<div className="npc-header">
 
+<img
+  src={require('./sister-unvera-assets/sister-unvera_files/image001.webp').default}
+  alt="Sister Unvera"
+  className="npc-header-image"
+/>
 
+<div className="npc-header-content">
 
-She is thankful for Inus and therefore don't want to join the other
-citizen voices that blame him. She still thinks that his view of life is
-very cold and a bit condescendent.
+## Overview
 
+**Sister Unvera** is a halfling healer from [Orchiva](/docs/orchiva/).
 
+Before the plague, she primarily worked as a veterinarian, tending to the city's animals and assisting with complicated births.
 
-![](sister-unvera-assets/sister-unvera_files/image001.webp)
+As the plague spread through Orchiva, she was forced to expand her responsibilities, treating the afflicted inhabitants despite her previous focus on animal care.
 
+She is grateful for the assistance provided by [Inus](./inus), although she finds his attitude toward life and death rather cold and somewhat condescending.
 
+</div>
 
-
-
-
-
-
-
-
-
-
-
+</div>

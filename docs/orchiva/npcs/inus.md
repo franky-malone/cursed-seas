@@ -1,34 +1,62 @@
----
+﻿---
 title: "Inus"
 sidebar_position: 3
 ---
 
-Member of the Order of the white Scale. Known in Orchiva as the pale
-one.
+<div className="npc-header">
 
+<img
+  src={require('./inus-assets/inus_files/image001.webp').default}
+  alt="Inus, the Pale One"
+  className="npc-header-image"
+/>
 
+<div className="npc-header-content">
 
-He has been providing guidance for those whose end was about to come and
-helping a little bit Sister Unvera. He doesn't really care about people
-dying, he thinks that it is part of the cicle.
+## Overview
 
+**Inus**, known in [Orchiva](/docs/orchiva/) as **the Pale One**, is a member of the [Order of the White Scale](/docs/factions/order-of-the-white-scale.md.
 
+He offered guidance and comfort to those approaching death and occasionally assisted [Sister Unvera](./sister-unvera) in caring for the sick.
 
-Finally it was discovered that it is not that he didn't care. He was a
-Deva sent by Kelemvor with the command of destroying the book and not
-meddle with mortal affairs. He just simply wasn't allowed to do it.
+His apparent indifference toward the deaths of Orchiva's inhabitants initially made him seem cold and detached. Inus believed that death was a natural part of the cycle of life and should not be feared or resisted.
 
+However, his true identity and purpose would eventually reveal a very different explanation for his behavior.
 
+</div>
 
-![](inus-assets/inus_files/image001.webp)
+</div>
 
+---
 
+## True Identity
 
+Inus was eventually revealed to be a **Deva**, an angelic servant of [Kelemvor](https://forgottenrealms.fandom.com/wiki/Kelemvor), the god of the dead.
 
+He had been sent to Orchiva with a specific mission: **destroy the book** responsible for the unfolding events.
 
-![](inus-assets/inus_files/image002.webp)
+However, Kelemvor had also commanded him not to interfere in mortal affairs.
 
-![](inus-assets/inus_files/image003.webp)
+This restriction explained Inus's seemingly passive behavior throughout the crisis. His inability to intervene was not the result of indifference, but rather obedience to the divine instructions he had received.
 
+## The Liberation of Orchiva
 
+Following the defeat of the [Chitter King](/docs/orchiva/creatures/chitter-king), Inus appeared before the Farbound Fellowship amid globes of lightning.
 
+He congratulated the adventurers on their victory and apologized for his inability to assist them directly.
+
+As recognition of their actions, Inus offered each member of the fellowship a **boon from Kelemvor**.
+
+## Gallery
+
+<div className="creature-gallery">
+
+  <a href={require('./inus-assets/inus_files/image002.webp').default} target="_blank" rel="noopener noreferrer">
+    <img src={require('./inus-assets/inus_files/image002.webp').default} alt="Inus â€” additional illustration" />
+  </a>
+
+  <a href={require('./inus-assets/inus_files/image003.webp').default} target="_blank" rel="noopener noreferrer">
+    <img src={require('./inus-assets/inus_files/image003.webp').default} alt="Inus â€” additional illustration" />
+  </a>
+
+</div>

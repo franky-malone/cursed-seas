@@ -17,12 +17,6 @@ sidebar_position: 4
 
 **Telrond Whiterose** was a mysterious man encountered at the **Traveller's Inn** in [Dorelta](/docs/dorelta/).
 
-</div>
-
-</div>
-
----
-
 ## Encounter at the Traveller's Inn
 
 The party encountered Telrond Whiterose while staying at the **Traveller's Inn** in [Dorelta](/docs/dorelta/).
@@ -33,7 +27,9 @@ His presence immediately attracted suspicion.
 
 Realizing that the group had become suspicious of him, Telrond quickly left the inn.
 
----
+</div>
+
+</div>
 
 ## The Red Lilies
 

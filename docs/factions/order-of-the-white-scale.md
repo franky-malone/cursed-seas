@@ -1,6 +1,6 @@
 ---
 title: "Order of the White Scale"
-sidebar_position: 7
+sidebar_position: 10
 ---
 
 <div className="npc-header">

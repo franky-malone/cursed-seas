@@ -1,18 +1,26 @@
----
+﻿---
 title: "Rosaline"
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-Daughter of Roy. She fell in love with Inus. Apparently Maximiliam was
-in love with her.
+<div className="npc-header">
 
+<img
+  src={require('./rosaline-assets/rosaline_files/image001.webp').default}
+  alt="Rosaline"
+  className="npc-header-image"
+/>
 
+<div className="npc-header-content">
 
-She was found dead near Inus's house.
+## Overview
 
+**Rosaline** was a young woman from [Orchiva](/docs/orchiva/) and the daughter of [Roy](../roy).
 
+She fell in love with [Inus](../inus), whose cottage she was frequently seen visiting. [Maximilian](../maximilian) also appeared to have romantic feelings for her, although it is unclear whether those feelings were reciprocated.
 
-![](rosaline-assets/rosaline_files/image001.webp)
+Rosaline was eventually found dead near Inus's house.
 
+</div>
 
-
+</div>
