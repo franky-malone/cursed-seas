@@ -16,7 +16,7 @@ sidebar_position: 8
   }}
 />
 
-Awakened Shrub from [Jori](/docs/players/jori/).
+Awakened Shrub from [Jori](/players/jori/).
 
 <div style={{clear: 'both'}}></div>
 

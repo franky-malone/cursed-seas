@@ -108,7 +108,7 @@ Moreover, the Sanctum boasts a meticulously organized library, sorted alphabetic
 
 ## How Is the Temple Organized?
 
-Within the **Sanctum of Eternal Wisdom**, the halls are filled with diminutive automatons known as [**Modrons**](/docs/factions/temple-of-knowledge/other-npcs/modrons).
+Within the **Sanctum of Eternal Wisdom**, the halls are filled with diminutive automatons known as [**Modrons**](/factions/temple-of-knowledge/other-npcs/modrons).
 
 They are whispered to be the ancient architects of the Temple itself, tasked with the sacred duty of gathering and safeguarding the repository of knowledge within its halls.
 

@@ -21,7 +21,7 @@ It has also traditionally served as a refuge for those who need to disappear for
 
 The discovery of **Lútaca** dramatically changed the importance of Fin Island.
 
-[Nersand](/docs/regions/nersand/) is attempting to transform the island into an important **waypoint between Norberia and the newly discovered continent**, taking advantage of its strategic position along the growing maritime routes between them.
+[Nersand](/regions/nersand/) is attempting to transform the island into an important **waypoint between Norberia and the newly discovered continent**, taking advantage of its strategic position along the growing maritime routes between them.
 
 As a result, Fin Island has attracted increasing numbers of sailors, merchants, adventurers, and others hoping to profit from the new routes to Lútaca, causing the island's population to grow rapidly.
 

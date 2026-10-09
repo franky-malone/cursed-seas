@@ -13,7 +13,7 @@ sidebar_position: 1
 
 <div className="npc-header-content">
 
-**Northeaven** is situated at the northwesternmost tip of [Norberia](/docs/regions/norberia/).
+**Northeaven** is situated at the northwesternmost tip of [Norberia](/regions/norberia/).
 
 It received its name from the extraordinary richness of its lands, both for **farming and mining**. Life there was once said to be like living in heaven, as food was plentiful and wealth came easily.
 
@@ -27,7 +27,7 @@ The eruption covered the surrounding lands in a dense layer of **ash and smoke**
 
 </div>
 
-The newly discovered volcano was renamed [Northell](/docs/regions/northeaven/northell).
+The newly discovered volcano was renamed [Northell](/regions/northeaven/northell).
 
 From that moment onward, the name **Northeaven** remained as a sarcastic reminder of the prosperous lives its inhabitants had once enjoyed.
 

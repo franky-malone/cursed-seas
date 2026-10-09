@@ -13,7 +13,7 @@ sidebar_position: 2
 
 <div className="npc-header-content">
 
-**Hyggelig** is one of the northeasternmost cities in [Norberia](/docs/regions/norberia/).
+**Hyggelig** is one of the northeasternmost cities in [Norberia](/regions/norberia/).
 
 Due to the relentless winds that batter the city, its inhabitants have developed a reputation for being **austere and bad-tempered**.
 

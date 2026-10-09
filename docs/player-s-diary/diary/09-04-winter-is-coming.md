@@ -20,7 +20,7 @@ Sonntag, 6. Juli 2025
     - Thrag brings the wolf cub to fill the vase with ist breath
     - He provides us with warm winter clothes and the [amulet made of
       bison's
-      horn](/docs/important-items/amulet-of-the-winter-survivor)
+      horn](/important-items/amulet-of-the-winter-survivor)
     - Jori has a vision of his spirit totems
     - Advice for wyvern hunt: go into the mountains before winter, there
       will be snowstorms within a week

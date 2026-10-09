@@ -13,9 +13,9 @@ sidebar_position: 3
 
 <div className="npc-header-content">
 
-[Kor Kuldir](/docs/regions/nevington-mountains/kor-kuldir)'s
+[Kor Kuldir](/regions/nevington-mountains/kor-kuldir)'s
 twin fortress located in eastern
-[Nevington](/docs/regions/nevington-mountains/). 
+[Nevington](/regions/nevington-mountains/). 
 It is ruled by the Stonebeard clan and it is the main supplier of armor
 and weapons to Nersand.
 

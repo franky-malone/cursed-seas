@@ -15,7 +15,7 @@ sidebar_position: 2
 
 ## Overview
 
-**Vorskann** is the owner of [The Broken Scale Tavern](/docs/longsaddle/places/the-broken-scale-tavern/) in [Longsaddle](/docs/longsaddle/).
+**Vorskann** is the owner of [The Broken Scale Tavern](/longsaddle/places/the-broken-scale-tavern/) in [Longsaddle](/longsaddle/).
 
 A loud and cheerful dragonborn, Vorskann loves music and tries to have someone performing at the tavern every single night.
 

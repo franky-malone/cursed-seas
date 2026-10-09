@@ -15,11 +15,11 @@ sidebar_position: 2
 
 ## Overview
 
-**Lapislazuli** is a fortune teller encountered by the adventurers while travelling toward [Longsaddle](/docs/longsaddle/).
+**Lapislazuli** is a fortune teller encountered by the adventurers while travelling toward [Longsaddle](/longsaddle/).
 
 During the journey, she offered to read the fortunes of several members of the group.
 
-Her reading of [Golt](/docs/players/golt/), however, took a disturbing and unexpected turn.
+Her reading of [Golt](/players/golt/), however, took a disturbing and unexpected turn.
 
 ## Golt's Fortune
 
@@ -35,7 +35,7 @@ The reaction suggested that whatever she had perceived in Golt's fortune was con
 
 After recovering, Lapislazuli asked **Aurora the Elder** to explain the meaning of her warning to the group.
 
-Aurora told them about [The Sentinel](/docs/players/golt/the-sentinel), a mysterious and extremely dangerous figure known to leave destruction in its wake.
+Aurora told them about [The Sentinel](/players/golt/the-sentinel), a mysterious and extremely dangerous figure known to leave destruction in its wake.
 
 The encounter became one of the group's first warnings that Golt had some connection to the Sentinel, although the nature of that connection was not yet understood.
 

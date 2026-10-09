@@ -15,11 +15,11 @@ sidebar_position: 7
 
 ## Overview
 
-**Miranda Greywolf** is an elderly elven woman who serves as the local healer of [Dorelta](/docs/dorelta/).
+**Miranda Greywolf** is an elderly elven woman who serves as the local healer of [Dorelta](/dorelta/).
 
 She tends to the minor injuries, illnesses, and other medical problems that arise among the people of the city.
 
-Miranda is also an old friend of [Marwa](/docs/players/jori/marwa.md), the former teacher and mentor of [Jori](/docs/players/jori/).
+Miranda is also an old friend of [Marwa](/players/jori/marwa.md), the former teacher and mentor of [Jori](/players/jori/).
 
 ## Healer of Dorelta
 
@@ -37,6 +37,6 @@ This makes her a particularly important figure whenever a death occurs under unu
 
 | Character | Connection |
 |---|---|
-| [Marwa](/docs/players/jori/marwa.md) | Old friend |
-| [Jori](/docs/players/jori/) | Former student of her old friend Marwa |
+| [Marwa](/players/jori/marwa.md) | Old friend |
+| [Jori](/players/jori/) | Former student of her old friend Marwa |
 

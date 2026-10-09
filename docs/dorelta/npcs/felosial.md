@@ -15,9 +15,9 @@ sidebar_position: 6
 
 ## Overview
 
-**Felosial** is a young elven woman who serves as the secretary to the **Mayor of [Dorelta](/docs/dorelta/)**.
+**Felosial** is a young elven woman who serves as the secretary to the **Mayor of [Dorelta](/dorelta/)**.
 
-She appears to have some connection to the [Temple of Knowledge](/docs/factions/temple-of-knowledge/) and seems to personally know [Sacred Plume Silica Stein](/docs/factions/temple-of-knowledge/leaders/sacred-plume-silica-stein).
+She appears to have some connection to the [Temple of Knowledge](/factions/temple-of-knowledge/) and seems to personally know [Sacred Plume Silica Stein](/factions/temple-of-knowledge/leaders/sacred-plume-silica-stein).
 
 </div>
 
@@ -39,8 +39,8 @@ She is known to make the process unnecessarily complicated and frequently messes
 
 | Character | Connection |
 |---|---|
-| [Elosial](/docs/factions/temple-of-knowledge/members/elosial) | Cousin  |
-| [Melosial](/docs/factions/temple-of-knowledge/members/melosial) | Cousin  |
+| [Elosial](/factions/temple-of-knowledge/members/elosial) | Cousin  |
+| [Melosial](/factions/temple-of-knowledge/members/melosial) | Cousin  |
 
 ---
 
@@ -48,7 +48,7 @@ She is known to make the process unnecessarily complicated and frequently messes
 
 | Page | Connection |
 |---|---|
-| [Dorelta](/docs/dorelta/) | City where Felosial works |
-| [Temple of Knowledge](/docs/factions/temple-of-knowledge/) | Organization with which Felosial appears to have some connection |
+| [Dorelta](/dorelta/) | City where Felosial works |
+| [Temple of Knowledge](/factions/temple-of-knowledge/) | Organization with which Felosial appears to have some connection |
 
 

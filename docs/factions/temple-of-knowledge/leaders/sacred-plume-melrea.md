@@ -15,7 +15,7 @@ sidebar_position: 10
 
 ## Overview
 
-**Melrea** is a Janni and the current **Sacred Plume of Elemental Arts** at the [Temple of Knowledge](/docs/factions/temple-of-knowledge/).
+**Melrea** is a Janni and the current **Sacred Plume of Elemental Arts** at the [Temple of Knowledge](/factions/temple-of-knowledge/).
 
 As one of the four Sacred Plumes, she presides over **Elemental Arts**, a discipline dedicated to the study and manipulation of elemental forces through magic and artistic expression.
 

@@ -15,7 +15,7 @@ sidebar_position: 9
 
 ## Overview
 
-The **Shadows Void** is a secretive criminal organization believed to operate from the shadows of [Nersand](/docs/regions/nersand/).
+The **Shadows Void** is a secretive criminal organization believed to operate from the shadows of [Nersand](/regions/nersand/).
 
 Rumoured to consist of **thieves, smugglers, and other criminals**, little is known about the true structure or leadership of the organization.
 
@@ -35,5 +35,5 @@ Rather than operating openly, the organization appears to maintain contacts and 
 
 | Page | Connection |
 |---|---|
-| [Nersand](/docs/regions/nersand/) | City most strongly associated with the Shadows Void |
+| [Nersand](/regions/nersand/) | City most strongly associated with the Shadows Void |
 

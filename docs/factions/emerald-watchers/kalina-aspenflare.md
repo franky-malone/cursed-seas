@@ -15,15 +15,15 @@ sidebar_position: 3
 
 ## Overview
 
-**Kalina Aspenflare** is a member of the [Emerald Watchers](/docs/factions/emerald-watchers/) and serves in [Devin Greenshadow's](/docs/factions/emerald-watchers/devin-greenshadow) squad.
+**Kalina Aspenflare** is a member of the [Emerald Watchers](/factions/emerald-watchers/) and serves in [Devin Greenshadow's](/factions/emerald-watchers/devin-greenshadow) squad.
 
-She is a former pupil and old friend of [Jori](/docs/players/jori/), as well as a friend of [Ada Gladstone](/docs/factions/temple-of-knowledge/members/ada-gladstone).
+She is a former pupil and old friend of [Jori](/players/jori/), as well as a friend of [Ada Gladstone](/factions/temple-of-knowledge/members/ada-gladstone).
 
 ## The Emerald Hills
 
 Kalina was present in the **Emerald Hills** after several **Fey portals** were reported to have opened throughout the region.
 
-[Ada Gladstone](/docs/factions/temple-of-knowledge/members/ada-gladstone), whose research focuses on Fey portals and the Fey Realm, planned to meet Kalina there as part of her investigation.
+[Ada Gladstone](/factions/temple-of-knowledge/members/ada-gladstone), whose research focuses on Fey portals and the Fey Realm, planned to meet Kalina there as part of her investigation.
 
 Ada trusted Kalina to protect her while she conducted her research in the region.
 
@@ -35,9 +35,9 @@ Ada trusted Kalina to protect her while she conducted her research in the region
 
 ## Relationship with Jori
 
-Kalina is a former pupil of [Jori](/docs/players/jori/) and an old friend of the druid.
+Kalina is a former pupil of [Jori](/players/jori/) and an old friend of the druid.
 
-She later became a member of the [Emerald Watchers](/docs/factions/emerald-watchers/), eventually joining the squad led by [Devin Greenshadow](/docs/factions/emerald-watchers/devin-greenshadow).
+She later became a member of the [Emerald Watchers](/factions/emerald-watchers/), eventually joining the squad led by [Devin Greenshadow](/factions/emerald-watchers/devin-greenshadow).
 
 ---
 
@@ -45,7 +45,7 @@ She later became a member of the [Emerald Watchers](/docs/factions/emerald-watch
 
 | Character | Connection |
 |---|---|
-| [Jori](/docs/players/jori/) | Former teacher and old friend |
-| [Ada Gladstone](/docs/factions/temple-of-knowledge/members/ada-gladstone) | Friend |
-| [Devin Greenshadow](/docs/factions/emerald-watchers/devin-greenshadow) | Leader of her Emerald Watchers squad |
+| [Jori](/players/jori/) | Former teacher and old friend |
+| [Ada Gladstone](/factions/temple-of-knowledge/members/ada-gladstone) | Friend |
+| [Devin Greenshadow](/factions/emerald-watchers/devin-greenshadow) | Leader of her Emerald Watchers squad |
 

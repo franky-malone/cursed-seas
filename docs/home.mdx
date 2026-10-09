@@ -1,10 +1,10 @@
-
 ---
 id: home
 title: Home
 slug: /
 sidebar_position: 1
 hide_title: true
+hide_table_of_contents: true
 ---
 
 import Link from '@docusaurus/Link';
@@ -12,53 +12,81 @@ import norberiaMap from '@site/static/img/world-map.webp';
 import styles from '@site/src/pages/index.module.css';
 
 <div
-  className={styles.hero}
+  className={`${styles.hero} cursed-seas-home`}
   style={{backgroundImage: `url(${norberiaMap})`}}
 >
   <div className={styles.overlay} />
 
   <div className={styles.content}>
-    <p className={styles.eyebrow}>A D&amp;D CAMPAIGN IN NORBERIA</p>
 
-    <h1 className={styles.title}>CURSED SEAS</h1>
+    <div className={styles.eyebrow}>
+      A D&amp;D CAMPAIGN IN NORBERIA
+    </div>
+
+    <h1 className={styles.title}>
+      CURSED SEAS
+    </h1>
 
     <div className={styles.divider} />
 
-    <p className={styles.description}>
+    <div className={styles.description}>
       Norberia is a land of ancient kingdoms, forgotten secrets, and
       dangers lurking beneath the surface. From bustling cities and
       remote wilderness to cursed seas and realms beyond the mortal
       world, every journey has a story to tell.
-    </p>
+    </div>
 
-    <p className={styles.tagline}>
+    <div className={styles.tagline}>
       This is the chronicle of those who dared to sail them.
-    </p>
+    </div>
 
     <div className={styles.navigationGrid}>
-      <Link className={styles.navigationCard} to="/docs/world-map">
+
+      <Link
+        className={styles.navigationCard}
+        to="/world-map"
+      >
         <span className={styles.cardIcon}>🗺️</span>
         <span className={styles.cardTitle}>WORLD MAP</span>
-        <span className={styles.cardDescription}>Explore Norberia</span>
+        <span className={styles.cardDescription}>
+          Explore Norberia
+        </span>
       </Link>
 
-      <Link className={styles.navigationCard} to="/docs/players">
+      <Link
+        className={styles.navigationCard}
+        to="/players"
+      >
         <span className={styles.cardIcon}>⚔️</span>
         <span className={styles.cardTitle}>PLAYERS</span>
-        <span className={styles.cardDescription}>Meet the adventurers</span>
+        <span className={styles.cardDescription}>
+          Meet the adventurers
+        </span>
       </Link>
 
-      <Link className={styles.navigationCard} to="/docs/travel-s-diary">
+      <Link
+        className={styles.navigationCard}
+        to="/travel-s-diary"
+      >
         <span className={styles.cardIcon}>📖</span>
         <span className={styles.cardTitle}>TRAVEL'S DIARY</span>
-        <span className={styles.cardDescription}>Follow the journey</span>
+        <span className={styles.cardDescription}>
+          Follow the journey
+        </span>
       </Link>
 
-      <Link className={styles.navigationCard} to="/docs/player-s-diary">
+      <Link
+        className={styles.navigationCard}
+        to="/player-s-diary"
+      >
         <span className={styles.cardIcon}>📜</span>
         <span className={styles.cardTitle}>PLAYER'S DIARY</span>
-        <span className={styles.cardDescription}>Adventures and records</span>
+        <span className={styles.cardDescription}>
+          Adventures and records
+        </span>
       </Link>
+
     </div>
+
   </div>
 </div>

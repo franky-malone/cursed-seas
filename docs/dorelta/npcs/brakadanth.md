@@ -17,7 +17,7 @@ sidebar_position: 8
 
 **Brakadanth** is a small **faerie dragon**, roughly the size of a cat, with vibrant purple scales.
 
-He lives in the [Autumn Woods](/docs/regions/autumn-forest/) near [Dorelta](/docs/dorelta/), alongside other faerie dragons he considers his brothers and sisters.
+He lives in the [Autumn Woods](/regions/autumn-forest/) near [Dorelta](/dorelta/), alongside other faerie dragons he considers his brothers and sisters.
 
 The group encountered Brakadanth when he tried to scared them using ilusions of a huge purple dragon. After his ilusion was discoverd, he approached the party seeking help against a group of **spider-like creatures** that had begun hunting his kin.
 
@@ -46,6 +46,6 @@ How well the two knew each other, and what their relationship was like, remains 
 
 | Page | Connection |
 |---|---|
-| [Dorelta](/docs/dorelta/) | Nearby city |
-| [Autumn Woods](/docs/regions/autumn-forest/) | Region where Brakadanth and his kin live |
+| [Dorelta](/dorelta/) | Nearby city |
+| [Autumn Woods](/regions/autumn-forest/) | Region where Brakadanth and his kin live |
 

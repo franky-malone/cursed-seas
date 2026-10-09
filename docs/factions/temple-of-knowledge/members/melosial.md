@@ -15,11 +15,11 @@ sidebar_position: 10
 
 ## Overview
 
-**Melosial** is a student of the [Temple of Knowledge](/docs/factions/temple-of-knowledge/) and currently holds the rank of **Lore Seeker**, the first rank within the Temple.
+**Melosial** is a student of the [Temple of Knowledge](/factions/temple-of-knowledge/) and currently holds the rank of **Lore Seeker**, the first rank within the Temple.
 
-She is the cousin of [Felosial](/docs/dorelta/npcs/felosial) and the sister of [Elosial](/docs/factions/temple-of-knowledge/members/elosial).
+She is the cousin of [Felosial](/dorelta/npcs/felosial) and the sister of [Elosial](/factions/temple-of-knowledge/members/elosial).
 
-Melosial is currently accompanying [Ada Gladstone](/docs/factions/temple-of-knowledge/members/ada-gladstone) in her research and studies.
+Melosial is currently accompanying [Ada Gladstone](/factions/temple-of-knowledge/members/ada-gladstone) in her research and studies.
 
 </div>
 
@@ -29,7 +29,7 @@ Melosial is currently accompanying [Ada Gladstone](/docs/factions/temple-of-know
 
 | Character | Connection |
 |---|---|
-| [Felosial](/docs/dorelta/npcs/felosial) | Cousin |
-| [Elosial](/docs/factions/temple-of-knowledge/members/elosial) | Sister |
-| [Ada Gladstone](/docs/factions/temple-of-knowledge/members/ada-gladstone) | Accompanies her in her research and studies |
+| [Felosial](/dorelta/npcs/felosial) | Cousin |
+| [Elosial](/factions/temple-of-knowledge/members/elosial) | Sister |
+| [Ada Gladstone](/factions/temple-of-knowledge/members/ada-gladstone) | Accompanies her in her research and studies |
 

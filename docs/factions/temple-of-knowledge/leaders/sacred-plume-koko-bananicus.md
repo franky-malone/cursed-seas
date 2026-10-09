@@ -15,7 +15,7 @@ sidebar_position: 6
 
 ## Overview
 
-**Koko Bananicus** is a sentient ape and the current **Sacred Plume of Numeromancy** at the [Temple of Knowledge](/docs/factions/temple-of-knowledge/).
+**Koko Bananicus** is a sentient ape and the current **Sacred Plume of Numeromancy** at the [Temple of Knowledge](/factions/temple-of-knowledge/).
 
 As one of the four Sacred Plumes, Koko presides over **Numeromancy**, the study of patterns, fractals, symmetries, and the mathematical principles underlying the natural world.
 

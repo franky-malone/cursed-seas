@@ -15,9 +15,9 @@ sidebar_position: 10
 
 ## Overview
 
-The **Order of the White Scale** is a monastic order devoted to [Kelemvor, the Judge of the Dead](/docs/pantheon/kelemvor-the-judge-of-the-damned.md).
+The **Order of the White Scale** is a monastic order devoted to [Kelemvor, the Judge of the Dead](/pantheon/kelemvor-the-judge-of-the-damned.md).
 
-The order is based in the **Scales Hills**, south of **West Nevington**, but its members can be encountered throughout [Norberia](/docs/regions/norberia/).
+The order is based in the **Scales Hills**, south of **West Nevington**, but its members can be encountered throughout [Norberia](/regions/norberia/).
 
 Followers of the White Scale are known to appear in places where **great catastrophes and numerous deaths are about to occur or have already occurred**, accompanying the dead on their final journey to the other side.
 
@@ -55,7 +55,7 @@ While the White Scale remains neutral in many conflicts, there is one matter on 
 
 The undead represent a violation of the natural passage between life and death that the order exists to protect.
 
-Members of the White Scale have therefore **sworn their lives to fighting undead creatures** wherever they are found across the lands of [Norberia](/docs/regions/norberia/).
+Members of the White Scale have therefore **sworn their lives to fighting undead creatures** wherever they are found across the lands of [Norberia](/regions/norberia/).
 
 For the followers of Kelemvor, death itself is not the enemy.
 
@@ -67,5 +67,5 @@ For the followers of Kelemvor, death itself is not the enemy.
 
 | Character | Role |
 |---|---|
-| [Inus Theldaran](/docs/orchiva/npcs/inus.md) | Member of the Order of the White Scale |
+| [Inus Theldaran](/orchiva/npcs/inus.md) | Member of the Order of the White Scale |
 

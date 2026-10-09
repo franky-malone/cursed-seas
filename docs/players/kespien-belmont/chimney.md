@@ -16,7 +16,7 @@ sidebar_position: 12
   }}
 />
 
-**Chimney** is [Kespien Belmont's](/docs/players/kespien-belmont/) familiar.
+**Chimney** is [Kespien Belmont's](/players/kespien-belmont/) familiar.
 
 He has a particular fascination with **coins** and seems to take a special interest in them whenever they are nearby.
 

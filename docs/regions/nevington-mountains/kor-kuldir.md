@@ -24,7 +24,7 @@ manufactured weapons and armors.
 
 It is said, that there is a secret tunnel that connects the two
 fortresses through the
-[Nevington](/docs/regions/nevington-mountains/)
+[Nevington](/regions/nevington-mountains/)
 Mountains.
 
 </div>

@@ -17,13 +17,13 @@ sidebar_position: 3
 
 **Master Gloran Herzblatt** was a member of the **Herzblatt family** who was believed to have died many years ago.
 
-In reality, Gloran had survived as an **undead creature** and was responsible for the mysterious murders that plagued [Dorelta](/docs/dorelta/).
+In reality, Gloran had survived as an **undead creature** and was responsible for the mysterious murders that plagued [Dorelta](/dorelta/).
 
-To conceal his true identity, he disguised himself as [Telrond Whiterose](/docs/factions/family-herzblatt/telrond-whiterose/) .
+To conceal his true identity, he disguised himself as [Telrond Whiterose](/factions/family-herzblatt/telrond-whiterose/) .
 
 ## The Murders in Dorelta
 
-Gloran was eventually revealed to be the figure behind the series of murders taking place throughout [Dorelta](/docs/dorelta/).
+Gloran was eventually revealed to be the figure behind the series of murders taking place throughout [Dorelta](/dorelta/).
 
 His activities were connected to the **Herzblatt family crypt**, where he had established himself deep beneath the family's resting place.
 
@@ -41,13 +41,13 @@ His defeat brought an end to the immediate threat lurking beneath the Herzblatt 
 
 The investigation later revealed that Gloran's plans had connections beyond Dorelta.
 
-At some point, Gloran obtained a **book from the restricted section of the [Temple of Knowledge](/docs/factions/temple-of-knowledge/)**.
+At some point, Gloran obtained a **book from the restricted section of the [Temple of Knowledge](/factions/temple-of-knowledge/)**.
 
 </div>
 
 </div>
 
-The book had been provided to him by the [Shadow Auctioneer](/docs/other-npcs/the-shadow-auctioneer-t-l.md), suggesting that someone outside Dorelta had assisted Gloran in obtaining knowledge that would normally have been inaccessible to him.
+The book had been provided to him by the [Shadow Auctioneer](/other-npcs/the-shadow-auctioneer-t-l.md), suggesting that someone outside Dorelta had assisted Gloran in obtaining knowledge that would normally have been inaccessible to him.
 
 ---
 
@@ -56,7 +56,7 @@ The book had been provided to him by the [Shadow Auctioneer](/docs/other-npcs/th
 | Character | Connection |
 |---|---|
 | [Velen Herzblatt](./velen-herzblatt) | Member of the Herzblatt family and founder of Dorelta |
-| [Telrond Whiterose](/docs/factions/family-herzblatt/telrond-whiterose/) | False identity used by Gloran |
+| [Telrond Whiterose](/factions/family-herzblatt/telrond-whiterose/) | False identity used by Gloran |
 | **Shadow Auctioneer** | Provided Gloran with a book from the Temple of Knowledge |
 
 ---
@@ -65,5 +65,5 @@ The book had been provided to him by the [Shadow Auctioneer](/docs/other-npcs/th
 
 | Page | Connection |
 |---|---|
-| [Dorelta](/docs/dorelta/) | City where Gloran committed the murders |
+| [Dorelta](/dorelta/) | City where Gloran committed the murders |
 

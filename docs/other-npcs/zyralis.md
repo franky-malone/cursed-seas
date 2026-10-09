@@ -36,9 +36,9 @@ sidebar_position: 12
 
 </div>
 
-Zyralis claimed to come from [Everlor](/docs/regions/everlor) and to be some kind of noble elf.
+Zyralis claimed to come from [Everlor](/regions/everlor) and to be some kind of noble elf.
 
-She managed to trick [Count Virgula](/docs/players/count-virgula/) into drinking a **Philter of Love** and questioned him about the whereabouts of the **Espina de Otoño**. She seems to have some kind of relationship with the **Herzblatt family** from [Dorelta](/docs/dorelta/).
+She managed to trick [Count Virgula](/players/count-virgula/) into drinking a **Philter of Love** and questioned him about the whereabouts of the **Espina de Otoño**. She seems to have some kind of relationship with the **Herzblatt family** from [Dorelta](/dorelta/).
 
-She was last seen in a room at **The Broken Scale** in [Longsaddle](/docs/longsaddle/), where she escaped by teleporting through a portal.
+She was last seen in a room at **The Broken Scale** in [Longsaddle](/longsaddle/), where she escaped by teleporting through a portal.
 

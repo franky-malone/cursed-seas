@@ -33,7 +33,7 @@ Following a failed teleportation spell, Urs and Ralto became separated and Urs d
 
 ## Lost in the Shadowfell
 
-It is believed that Urs eventually became stranded in the [Shadowfell](/docs/shadowfell/shadowfell.md), where he may have remained for hundreds of years.
+It is believed that Urs eventually became stranded in the [Shadowfell](/shadowfell/shadowfell.md), where he may have remained for hundreds of years.
 
 During this time, the curse of Ursanthropy continued to affect him.
 
@@ -51,4 +51,4 @@ According to Ralto, the golems that protect and serve within **Ralto's Bazaar** 
 
 | Page | Connection |
 |---|---|
-| [Urs Diaries](/docs/documents/urs-diaries) | Records connected to Urs and his planar travels |
+| [Urs Diaries](/documents/urs-diaries) | Records connected to Urs and his planar travels |

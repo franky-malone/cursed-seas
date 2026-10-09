@@ -15,15 +15,15 @@ sidebar_position: 1
 
 ## Overview
 
-The **Radiant Lions** are an order of **paladins, clerics, and men-at-arms** headquartered in [Nersand](/docs/regions/nersand/).
+The **Radiant Lions** are an order of **paladins, clerics, and men-at-arms** headquartered in [Nersand](/regions/nersand/).
 
 The order follows a strict moral code centered around **law and justice**, principles its members are expected to uphold above all else.
 
 ## Protectors of Nersand
 
-Although the Radiant Lions are based in [Nersand](/docs/regions/nersand/), their members can frequently be encountered elsewhere in the surrounding territories.
+Although the Radiant Lions are based in [Nersand](/regions/nersand/), their members can frequently be encountered elsewhere in the surrounding territories.
 
-Both individual members and larger patrols are commonly seen around the [Prime Road](/docs/regions/norberia/prime-road), often carrying out special missions on behalf of Nersand. Their duties can take individual Radiant Lions far from the capital when their missions require it.
+Both individual members and larger patrols are commonly seen around the [Prime Road](/regions/norberia/prime-road), often carrying out special missions on behalf of Nersand. Their duties can take individual Radiant Lions far from the capital when their missions require it.
 
 
 </div>
@@ -42,7 +42,7 @@ Despite this reputation, the order places **law and justice before other conside
 
 | Page | Connection |
 |---|---|
-| [Nersand](/docs/regions/nersand/) | Headquarters of the Radiant Lions |
-| [Prime Road](/docs/regions/norberia/prime-road) | Frequently patrolled by members of the order |
-| [Golt](/docs/players/golt/) | Former member of the Radiant Lions |
+| [Nersand](/regions/nersand/) | Headquarters of the Radiant Lions |
+| [Prime Road](/regions/norberia/prime-road) | Frequently patrolled by members of the order |
+| [Golt](/players/golt/) | Former member of the Radiant Lions |
 

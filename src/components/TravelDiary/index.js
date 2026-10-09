@@ -19,15 +19,15 @@ const TravelDiaryContext = createContext(null);
  * Examples:
  *
  * March 21:
- * url: '/docs/travel-s-diary/1500/march-current-month'
+ * url: '/travel-s-diary/1500/march-current-month'
  * id: 'mar-21'
  *
  * April 1:
- * url: '/docs/travel-s-diary/1500/april'
+ * url: '/travel-s-diary/1500/april'
  * id: 'apr-1'
  */
 const CURRENT_DAY = {
-  url: '/docs/travel-s-diary/1500/march-current-month',
+  url: '/travel-s-diary/1500/march-current-month',
   id: 'mar-20',
 };
 

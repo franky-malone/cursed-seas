@@ -15,7 +15,7 @@ sidebar_position: 3
 
 ## Overview
 
-**Brunn Redtile** is a rather short human and the welcoming innkeeper of the [Travelers Inn](/docs/dorelta/places/travelers-district/travelers-inn) in [Dorelta](/docs/dorelta/).
+**Brunn Redtile** is a rather short human and the welcoming innkeeper of the [Travelers Inn](/dorelta/places/travelers-district/travelers-inn) in [Dorelta](/dorelta/).
 
 He is a friendly and good-natured man who takes great pride in his tavern and enjoys welcoming travelers passing through the city.
 

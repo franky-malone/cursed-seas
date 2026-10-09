@@ -17,7 +17,7 @@ The **Emerald Mangroves** are a vast region of dense mangroves infested with **m
 
 Deep within the mangroves is said to lie **Kurz O'ktar**, a mysterious city inhabited by monsters.
 
-The [Emerald Watchers](/docs/factions/emerald-watchers/) patrol the borders of the region, attempting to keep its dangerous inhabitants at bay and prevent them from threatening travellers along the [Prime Road](/docs/regions/norberia/prime-road).
+The [Emerald Watchers](/factions/emerald-watchers/) patrol the borders of the region, attempting to keep its dangerous inhabitants at bay and prevent them from threatening travellers along the [Prime Road](/regions/norberia/prime-road).
 
 </div>
 

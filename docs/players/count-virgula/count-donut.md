@@ -16,7 +16,7 @@ sidebar_position: 4
   }}
 />
 
-**Count Donut** is [Count Virgula's](/docs/players/count-virgula/) favorite hound.
+**Count Donut** is [Count Virgula's](/players/count-virgula/) favorite hound.
 
 He manifests as a **shadowy hound** under Virgula's control and assists him in combat.
 

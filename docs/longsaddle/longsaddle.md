@@ -24,25 +24,25 @@ by a more powerful wizard.
 />
 
 <a
-  href="/cursed-seas/docs/longsaddle/places/arcanazon"
+  href="/cursed-seas/longsaddle/places/arcanazon"
   className="map-marker"
   style={{ left: '44%', top: '43%' }}
 >Arcanazon</a>
 
 <a
-  href="/cursed-seas/docs/factions/temple-of-knowledge"
+  href="/cursed-seas/factions/temple-of-knowledge"
   className="map-marker"
   style={{ left: '85%', top: '28%' }}
 >Temple of Knowledge</a>
 
 <a
-  href="/cursed-seas/docs/longsaddle/places/the-broken-scale-tavern"
+  href="/cursed-seas/longsaddle/places/the-broken-scale-tavern"
   className="map-marker"
   style={{ left: '62%', top: '54%' }}
 >Broken Scale</a>
 
 <a
-  href="/cursed-seas/docs/dorelta/places/statue-district"
+  href="/cursed-seas/dorelta/places/statue-district"
   className="map-marker"
   style={{ left: '85%', top: '85%' }}
 >Statue District</a>

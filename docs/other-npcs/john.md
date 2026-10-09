@@ -26,7 +26,7 @@ inside a coffin that he was paid to carry no questions asked.
 
 His job is to transport goods between cities the fastest possible. In
 Dorelta his main contact is
-[Lara](/docs/dorelta/npcs/lara).
+[Lara](/dorelta/npcs/lara).
 
 He was later found at the bridge crossing the Forgan River. He was stranded because some hill giants destroyed the bridge. He offered the party some kelp cakes and thanked them for their help.
 

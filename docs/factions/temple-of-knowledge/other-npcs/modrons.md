@@ -15,7 +15,7 @@ sidebar_position: 14
 
 ## Overview
 
-**Modrons** are diminutive mechanical beings found throughout the [Temple of Knowledge](/docs/factions/temple-of-knowledge/).
+**Modrons** are diminutive mechanical beings found throughout the [Temple of Knowledge](/factions/temple-of-knowledge/).
 
 They tirelessly work within its halls, gathering, organizing, cataloguing, and safeguarding the vast repository of knowledge kept within the Temple.
 

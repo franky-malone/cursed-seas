@@ -12,7 +12,7 @@ sidebar_position: 4
 
 ## Overview
 
-**Lory Swiftwind** is a halfling rogue who played an important role in [Kespien Belmont's](/docs/players/kespien-belmont/) training.
+**Lory Swiftwind** is a halfling rogue who played an important role in [Kespien Belmont's](/players/kespien-belmont/) training.
 
 While Dorn Firember taught Kespien discipline and combat, Lory taught him to compensate for his lack of physical strength by relying on **agility, speed, and precision**.
 

@@ -15,7 +15,7 @@ sidebar_position: 2
 
 ## Overview
 
-**Lady Lucretia Oaktree** is an elven noblewoman and a member of the **[Oaktree Family](/docs/dorelta/npcs/oaktree-family/)** of [Dorelta](/docs/dorelta/).
+**Lady Lucretia Oaktree** is an elven noblewoman and a member of the **[Oaktree Family](/dorelta/npcs/oaktree-family/)** of [Dorelta](/dorelta/).
 
 She is the wife of [Mr. Oaktree](./mr-oaktree) and the mother of [Morrik Oaktree](./morrik-oaktree), whose murder became the center of a growing political conflict within Dorelta.
 

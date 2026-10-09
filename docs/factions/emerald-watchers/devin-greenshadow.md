@@ -15,7 +15,7 @@ sidebar_position: 2
 
 ## Overview
 
-**Devin Greenshadow** is a member of the [Emerald Watchers](/docs/factions/emerald-watchers/).
+**Devin Greenshadow** is a member of the [Emerald Watchers](/factions/emerald-watchers/).
 
 He was encountered at the **Emerald Horse**, accompanied by several other members of the organization.
 

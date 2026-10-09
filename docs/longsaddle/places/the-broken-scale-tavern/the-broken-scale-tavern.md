@@ -5,7 +5,7 @@ sidebar_position: 1
 
 ## Overview
 
-**The Broken Scale Tavern** is the most popular tavern and inn in [Longsaddle](/docs/longsaddle/).
+**The Broken Scale Tavern** is the most popular tavern and inn in [Longsaddle](/longsaddle/).
 
 It is owned by [Vorskann](./vorskann), a copper dragonborn whose loud and cheerful personality has become almost as famous as the tavern itself.
 

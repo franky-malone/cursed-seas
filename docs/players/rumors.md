@@ -11,7 +11,7 @@ Rumors, stories, and fragments of information known by individual members of the
 
 ### Espuma de Mar
 
-There is a powerful drug known as **Espuma de Mar** that is becoming increasingly popular among the [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/) mercenaries.
+There is a powerful drug known as **Espuma de Mar** that is becoming increasingly popular among the [Silvertusk Brotherhood](/factions/silvertusk-brotherhood/) mercenaries.
 
 It is said to enhance the capabilities of those who consume it, but it also has disturbing side effects. Regular users reportedly develop **barnacle-like crusts on their skin**, lose their teeth, and see their gums turn **blue like the sea**.
 
@@ -19,7 +19,7 @@ It is said to enhance the capabilities of those who consume it, but it also has 
 
 You have heard of the **Bestiary Stein**, considered the holy grail of monster encyclopedias.
 
-It is said to have been written by one of the highest-ranking members of the [Temple of Knowledge](/docs/factions/temple-of-knowledge/), and only a handful of copies are believed to exist.
+It is said to have been written by one of the highest-ranking members of the [Temple of Knowledge](/factions/temple-of-knowledge/), and only a handful of copies are believed to exist.
 
 ---
 
@@ -49,7 +49,7 @@ You once read about a powerful fey entity called **Fuegoblanco**, also known as 
 
 You once overheard your master speaking with other Sacred Plumes about someone named **Tom Lancil**.
 
-Apparently, he broke into the [Temple of Knowledge](/docs/factions/temple-of-knowledge/) and stole a book concerning the **creation of magical weapons**.
+Apparently, he broke into the [Temple of Knowledge](/factions/temple-of-knowledge/) and stole a book concerning the **creation of magical weapons**.
 
 ---
 
@@ -57,9 +57,9 @@ Apparently, he broke into the [Temple of Knowledge](/docs/factions/temple-of-kno
 
 ### The Pirates of the Red Shadow
 
-[P​uerto Ballena](/docs/puerto-ballena/) has always been a dangerous place, but in recent years a pirate band known as the **Pirates of the Red Shadow** has attempted to change that reputation.
+[P​uerto Ballena](/puerto-ballena/) has always been a dangerous place, but in recent years a pirate band known as the **Pirates of the Red Shadow** has attempted to change that reputation.
 
-They have been negotiating with [Nersand](/docs/regions/nersand/) to abandon piracy and instead use their expertise at sea to make expeditions to **Lútaca** safer.
+They have been negotiating with [Nersand](/regions/nersand/) to abandon piracy and instead use their expertise at sea to make expeditions to **Lútaca** safer.
 
 At the same time, they have been actively confronting the other pirate bands operating from Puerto Ballena.
 
@@ -71,7 +71,7 @@ They signed their crimes with the initials **T. L.** and primarily stole valuabl
 
 ### The Great Tournament of Nersand
 
-You know of the **Great Tournament of Nersand**, an event held once every hundred years and organized by a powerful interplanar being known as [Amirah](/docs/amirah-s-domains/amirah-sephira-al-marish).
+You know of the **Great Tournament of Nersand**, an event held once every hundred years and organized by a powerful interplanar being known as [Amirah](/amirah-s-domains/amirah-sephira-al-marish).
 
 Whoever wins the tournament is said to have **their wishes come true**.
 

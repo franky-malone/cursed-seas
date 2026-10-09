@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sister Unvera"
 sidebar_position: 2
 ---
@@ -15,7 +15,7 @@ sidebar_position: 2
 
 ## Overview
 
-**Sister Unvera** is a halfling healer from [Orchiva](/docs/orchiva/).
+**Sister Unvera** is a halfling healer from [Orchiva](/orchiva/).
 
 Before the plague, she primarily worked as a veterinarian, tending to the city's animals and assisting with complicated births.
 

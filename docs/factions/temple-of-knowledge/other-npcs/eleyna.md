@@ -15,9 +15,9 @@ sidebar_position: 5
 
 ## Overview
 
-**Eleyna** is a classmate and close study partner of [Aeriff](/docs/factions/temple-of-knowledge/members/aeriff.md).
+**Eleyna** is a classmate and close study partner of [Aeriff](/factions/temple-of-knowledge/members/aeriff.md).
 
-She is actively working towards becoming a member of the [Temple of Knowledge](/docs/factions/temple-of-knowledge/), but her limited resources have made her progress considerably slower than she would like.
+She is actively working towards becoming a member of the [Temple of Knowledge](/factions/temple-of-knowledge/), but her limited resources have made her progress considerably slower than she would like.
 
 Eleyna is remarkably intelligent, kind-hearted, and takes her studies extremely seriously.
 
@@ -33,7 +33,7 @@ Despite her talent and dedication, her lack of resources has made advancing thro
 
 ## Aeriff
 
-Eleyna and [Aeriff](/docs/factions/temple-of-knowledge/members/aeriff.md) have been classmates and study partners for some time and share a close friendship.
+Eleyna and [Aeriff](/factions/temple-of-knowledge/members/aeriff.md) have been classmates and study partners for some time and share a close friendship.
 
 Aeriff appears to have had a **crush on Eleyna for the past few years**, but avoided confessing his feelings out of fear that doing so might damage their friendship.
 
@@ -43,4 +43,4 @@ Aeriff appears to have had a **crush on Eleyna for the past few years**, but avo
 
 | Character | Connection |
 |---|---|
-| [Aeriff](/docs/factions/temple-of-knowledge/members/aeriff.md) | Classmate, study partner, and close friend |
+| [Aeriff](/factions/temple-of-knowledge/members/aeriff.md) | Classmate, study partner, and close friend |

@@ -15,7 +15,7 @@ sidebar_position: 4
 
 ## Overview
 
-**Lara** is a female half-elf who owns a supply shop in [Dorelta](/docs/dorelta/).
+**Lara** is a female half-elf who owns a supply shop in [Dorelta](/dorelta/).
 
 She provides both the people of Dorelta and travelers passing through the city with the equipment and supplies necessary to safely travel and adventure beyond its borders.
 

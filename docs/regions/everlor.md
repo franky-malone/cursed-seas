@@ -13,7 +13,7 @@ sidebar_position: 7
 
 <div className="npc-header-content">
 
-Located in the heart of the **Misty Forest**, **Everlor** is the great capital of the elves of [Norberia](/docs/regions/norberia/).
+Located in the heart of the **Misty Forest**, **Everlor** is the great capital of the elves of [Norberia](/regions/norberia/).
 
 Although elves can be found throughout the continent and many have been born and raised in other cities, most trace their origins back to Everlor.
 

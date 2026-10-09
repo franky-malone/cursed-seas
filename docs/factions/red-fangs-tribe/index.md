@@ -20,7 +20,7 @@ The **Red Fangs** are a militarized goblinoid tribe forged from the remnants of 
 
 Survivors of an ancient campaign joined forces with **ogre clans and goblin scavengers**, eventually forming a nomadic warband dedicated to conquest, vengeance, and the humiliation of the so-called civilized races.
 
-The tribe is particularly infamous for the attack on [Crosscove](/docs/regions/mauer-mountains/crosscove) that claimed the lives of [Kespien Belmont's](/docs/players/kespien-belmont/) parents.
+The tribe is particularly infamous for the attack on [Crosscove](/regions/mauer-mountains/crosscove) that claimed the lives of [Kespien Belmont's](/players/kespien-belmont/) parents.
 
 </div>
 
@@ -42,19 +42,19 @@ Their forces are not limited to goblins and hobgoblins. The tribe has historical
 
 ## The Attack on Crosscove
 
-The Red Fangs were responsible for the devastating attack on [Crosscove](/docs/regions/mauer-mountains/crosscove) that changed [Kespien Belmont's](/docs/players/kespien-belmont/) life forever.
+The Red Fangs were responsible for the devastating attack on [Crosscove](/regions/mauer-mountains/crosscove) that changed [Kespien Belmont's](/players/kespien-belmont/) life forever.
 
 Kespien was only thirteen when the tribe attacked the settlement.
 
-His parents, [Jean Belmont](/docs/factions/belmont-family/jean-belmont) and [Victoria Belmont](/docs/factions/belmont-family/victoria-belmont), were killed during the assault.
+His parents, [Jean Belmont](/factions/belmont-family/jean-belmont) and [Victoria Belmont](/factions/belmont-family/victoria-belmont), were killed during the assault.
 
-Kespien survived thanks to the intervention of [Dorn Firember](/docs/factions/silvertusk-brotherhood/dorn-firember) and the [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/).
+Kespien survived thanks to the intervention of [Dorn Firember](/factions/silvertusk-brotherhood/dorn-firember) and the [Silvertusk Brotherhood](/factions/silvertusk-brotherhood/).
 
 ---
 
 ## The Silvertusk Brotherhood
 
-Following the attack, the [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/) dedicated considerable effort to hunting down and eradicating the Red Fangs.
+Following the attack, the [Silvertusk Brotherhood](/factions/silvertusk-brotherhood/) dedicated considerable effort to hunting down and eradicating the Red Fangs.
 
 For a time, the tribe was believed to have been destroyed.
 
@@ -68,7 +68,7 @@ Years later, the **Farbound Fellowship** encountered two **hill giants bearing t
 
 Their appearance provided the first clear indication that remnants of the tribe had survived.
 
-[Dorn Firember](/docs/factions/silvertusk-brotherhood/dorn-firember) later confirmed to [Kespien](/docs/players/kespien-belmont/) that there had been **new reports of Red Fang activity**.
+[Dorn Firember](/factions/silvertusk-brotherhood/dorn-firember) later confirmed to [Kespien](/players/kespien-belmont/) that there had been **new reports of Red Fang activity**.
 
 Whatever survived the Silvertusk Brotherhood's attempts to eradicate the tribe appears to be active once again.
 
@@ -78,10 +78,10 @@ Whatever survived the Silvertusk Brotherhood's attempts to eradicate the tribe a
 
 | Character | Connection |
 |---|---|
-| [Kespien Belmont](/docs/players/kespien-belmont/) | Survivor of the Red Fang attack on Crosscove |
-| [Jean Belmont](/docs/factions/belmont-family/jean-belmont) | Killed during the attack on Crosscove |
-| [Victoria Belmont](/docs/factions/belmont-family/victoria-belmont) | Killed during the attack on Crosscove |
-| [Dorn Firember](/docs/factions/silvertusk-brotherhood/dorn-firember) | Helped rescue Kespien and later confirmed renewed Red Fang activity |
+| [Kespien Belmont](/players/kespien-belmont/) | Survivor of the Red Fang attack on Crosscove |
+| [Jean Belmont](/factions/belmont-family/jean-belmont) | Killed during the attack on Crosscove |
+| [Victoria Belmont](/factions/belmont-family/victoria-belmont) | Killed during the attack on Crosscove |
+| [Dorn Firember](/factions/silvertusk-brotherhood/dorn-firember) | Helped rescue Kespien and later confirmed renewed Red Fang activity |
 
 ---
 
@@ -89,6 +89,6 @@ Whatever survived the Silvertusk Brotherhood's attempts to eradicate the tribe a
 
 | Page | Connection |
 |---|---|
-| [Crosscove](/docs/regions/mauer-mountains/crosscove) | Settlement attacked by the Red Fangs |
-| [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/) | Mercenary organization that fought against the tribe |
+| [Crosscove](/regions/mauer-mountains/crosscove) | Settlement attacked by the Red Fangs |
+| [Silvertusk Brotherhood](/factions/silvertusk-brotherhood/) | Mercenary organization that fought against the tribe |
 

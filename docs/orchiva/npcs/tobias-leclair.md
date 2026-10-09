@@ -1,15 +1,15 @@
-﻿---
+---
 title: "Tobias LeClair"
 sidebar_position: 30
 ---
 
 ## Overview
 
-**Tobias LeClair** is a traveling merchant who visited [Orchiva](/docs/orchiva/) and became involved in the theft of the famous bard [Abenthy's](./abenthy) old lute.
+**Tobias LeClair** is a traveling merchant who visited [Orchiva](/orchiva/) and became involved in the theft of the famous bard [Abenthy's](./abenthy) old lute.
 
 He persuaded [Maximilian](./maximilian) to steal the instrument in exchange for expensive alcohol and a book of love poems.
 
-According to [Thomas](./thomas), Tobias bore an uncanny resemblance to [John](/docs/other-npcs/john), a merchant whom the Farbound Fellowship had encountered on several previous occasions.
+According to [Thomas](./thomas), Tobias bore an uncanny resemblance to [John](/other-npcs/john), a merchant whom the Farbound Fellowship had encountered on several previous occasions.
 
 ## The Theft of Abenthy's Lute
 

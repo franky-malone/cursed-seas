@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chitter King"
 sidebar_position: 3
 ---
@@ -15,7 +15,7 @@ sidebar_position: 3
 
 ## Overview
 
-The **Chitter King** was a powerful insectoid creature encountered by the Farbound Fellowship during the events in [Orchiva](/docs/orchiva/).
+The **Chitter King** was a powerful insectoid creature encountered by the Farbound Fellowship during the events in [Orchiva](/orchiva/).
 
 Identified as the **"chosen one of Obox'ob"**, the creature emerged from a larva shortly after Golt sensed a fiendish presence within the [Brooding Mother](./brooding-mother).
 

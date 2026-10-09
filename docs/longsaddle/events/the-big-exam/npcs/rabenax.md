@@ -15,7 +15,7 @@ sidebar_position: 4
 
 ## Overview
 
-**Rabenax** is a young kenku often found lingering at the edges of the [Temple of Knowledge](/docs/factions/temple-of-knowledge/)'s candlelit libraries.
+**Rabenax** is a young kenku often found lingering at the edges of the [Temple of Knowledge](/factions/temple-of-knowledge/)'s candlelit libraries.
 
 Small, black-feathered, and slightly hunched, she is rarely the first person one notices in a crowded hall but almost always the last one they forget.
 
@@ -47,7 +47,7 @@ Those who mistake her silence for a lack of understanding usually discover their
 
 ## Connection to Eulius
 
-Rumors within the Temple suggest that Rabenax may be [Eulius Federreich's](/docs/factions/temple-of-knowledge/leaders/highest-inkwell-eulius-federreich.md) ward or secret apprentice, a gifted student plucked from obscurity and brought to the Temple to be tested among its best.
+Rumors within the Temple suggest that Rabenax may be [Eulius Federreich's](/factions/temple-of-knowledge/leaders/highest-inkwell-eulius-federreich.md) ward or secret apprentice, a gifted student plucked from obscurity and brought to the Temple to be tested among its best.
 
 Whether these rumors are true remains uncertain, and Rabenax herself offers little clarification about her past.
 
@@ -61,4 +61,4 @@ Her presence at the exams is therefore almost as mysterious as she is.
 
 | Character | Connection |
 |---|---|
-| [Eulius Federreich](/docs/factions/temple-of-knowledge/leaders/highest-inkwell-eulius-federreich.md) | Rumored to be Rabenax's mentor or guardian |
+| [Eulius Federreich](/factions/temple-of-knowledge/leaders/highest-inkwell-eulius-federreich.md) | Rumored to be Rabenax's mentor or guardian |

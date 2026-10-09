@@ -35,20 +35,21 @@ const config = {
     [
       'classic',
       {
-        docs: {
-          sidebarPath: './sidebars.js',
+docs: {
+  sidebarPath: './sidebars.js',
+  routeBasePath: '/',
 
-          editUrl: ({docPath}) => {
-            if (
-              docPath.startsWith('players/') ||
-              docPath.startsWith('player-s-diary/')
-            ) {
-              return `https://github.com/franky-malone/cursed-seas/edit/main/docs/${docPath}`;
-            }
+  editUrl: ({docPath}) => {
+    if (
+      docPath.startsWith('players/') ||
+      docPath.startsWith('player-s-diary/')
+    ) {
+      return `https://github.com/franky-malone/cursed-seas/edit/main/docs/${docPath}`;
+    }
 
-            return undefined;
-          },
-        },
+    return undefined;
+  },
+},
 
         blog: {
           showReadingTime: true,
@@ -69,24 +70,25 @@ const config = {
   ],
 
   // Local search
-  themes: [
-    [
-      require.resolve('@easyops-cn/docusaurus-search-local'),
-      {
-        hashed: true,
-        indexDocs: true,
-        indexBlog: false,
-        indexPages: false,
-        docsRouteBasePath: '/docs',
+// Local search
+themes: [
+  [
+    require.resolve('@easyops-cn/docusaurus-search-local'),
+    {
+      hashed: true,
+      indexDocs: true,
+      indexBlog: false,
+      indexPages: false,
+      docsRouteBasePath: '/',
 
-        // Allow local search even though the website has noIndex: true
-        forceIgnoreNoIndex: true,
+      // Allow local search even though the website has noIndex: true
+      forceIgnoreNoIndex: true,
 
-        // Highlight searched terms when opening a result
-        highlightSearchTermsOnTargetPage: true,
-      },
-    ],
+      // Highlight searched terms when opening a result
+      highlightSearchTermsOnTargetPage: true,
+    },
   ],
+],
 
   themeConfig: {
     image: 'img/favicon.ico',
@@ -112,62 +114,59 @@ navbar: {
 ],
 },
 
-    footer: {
-      style: 'dark',
+footer: {
+  style: 'dark',
 
-      links: [
-        {
-          title: 'Campaign',
-          items: [
-            {
-              label: "Travel's Diary",
-              to: '/docs/travel-s-diary/1500/march-current-month',
-            },
-            {
-              label: "Players' Diary",
-              to: '/docs/player-s-diary/diary',
-            },
-            {
-              label: 'Players',
-              to: '/docs/players',
-            },
-          ],
-        },
-
-        {
-          title: 'Resources',
-          items: [
-            {
-              label: 'Homebrew Rules',
-              to: '/docs/category/homebrew-rules/',
-            },
-            {
-              label: 'Important Items',
-              to: '/docs/category/important-items/',
-            },
-            {
-              label: 'OneNote',
-              href: 'https://onedrive.live.com/:o:/g/personal/1164a76b05a28ca0/UgCgjKIFa6dkIIARKzgAAAAAAPnZBa8z4LXpLZ0?rtime=N8juWEQX30g&redeem=aHR0cHM6Ly8xZHJ2Lm1zL28vcyFBcUNNb2dWcnAyUVI4Q3Y1MlFXdk0tQzE2UzJkP2U9Q1ZZTkpU',
-            },
-          ],
-        },
-{
-  title: 'Privacy',
-  items: [
+  links: [
     {
-      label: 'Privacy Policy',
-      to: '/privacy',
+      title: 'Campaign',
+      items: [
+        {
+          label: "Travel's Diary",
+          to: '/travel-s-diary/1500/march-current-month',
+        },
+        {
+          label: "Players' Diary",
+          to: '/player-s-diary/diary',
+        },
+        {
+          label: 'Players',
+          to: '/players',
+        },
+      ],
     },
     {
-      label: 'Cookie settings',
-      href: '#',
+      title: 'Resources',
+      items: [
+        {
+          label: 'Homebrew Rules',
+          to: '/category/homebrew-rules',
+        },
+        {
+          label: 'Important Items',
+          to: '/category/important-items',
+        },
+        {
+          label: 'OneNote',
+          href: 'https://onedrive.live.com/:o:/g/personal/1164a76b05a28ca0/UgCgjKIFa6dkIIARKzgAAAAAAPnZBa8z4LXpLZ0?rtime=N8juWEQX30g&redeem=aHR0cHM6Ly8xZHJ2Lm1zL28vcyFBcUNNb2dWcnAyUVI4Q3Y1MlFXdk0tQzE2UzJkP2U9Q1ZZTkpU',
+        },
+      ],
+    },
+    {
+      title: 'Privacy',
+      items: [
+        {
+          label: 'Privacy Policy',
+          to: '/privacy',
+        },
+        {
+          label: 'Cookie settings',
+          href: '#',
+        },
+      ],
     },
   ],
 },
-      ],
-
-    },
-
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,

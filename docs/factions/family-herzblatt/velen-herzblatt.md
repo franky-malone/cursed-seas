@@ -15,7 +15,7 @@ sidebar_position: 2
 
 ## Overview
 
-**Velen Herzblatt** was a male elf and the **founder of [Dorelta](/docs/dorelta/)**.
+**Velen Herzblatt** was a male elf and the **founder of [Dorelta](/dorelta/)**.
 
 Long after his death, his ghost remained within the **Herzblatt family crypt**, where the adventurers eventually encountered him.
 
@@ -29,7 +29,7 @@ He asked the group for their help in defeating the evil that had taken hold with
 
 ## Founder of Dorelta
 
-Velen Herzblatt is remembered as the founder of [Dorelta](/docs/dorelta/).
+Velen Herzblatt is remembered as the founder of [Dorelta](/dorelta/).
 
 The **Herzblatt family** remained connected to the city long after his death, with Velen himself eventually being laid to rest within the family's crypt.
 
@@ -45,5 +45,5 @@ His ghost asked them to help him **defeat the evil within his resting place**.
 
 | Page | Connection |
 |---|---|
-| [Dorelta](/docs/dorelta/) | City founded by Velen Herzblatt |
+| [Dorelta](/dorelta/) | City founded by Velen Herzblatt |
 

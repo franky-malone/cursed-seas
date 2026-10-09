@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Brooding Mother"
 sidebar_position: 2
 ---
@@ -15,7 +15,7 @@ sidebar_position: 2
 
 ## Overview
 
-The **Brooding Mother** was a creature encountered by the Farbound Fellowship during the insectoid infestation of [Orchiva](/docs/orchiva/). It crawled out of a portal summoned by [Maximiliam](/docs/orchiva/npcs/maximilian.md) and a cursed book.
+The **Brooding Mother** was a creature encountered by the Farbound Fellowship during the insectoid infestation of [Orchiva](/orchiva/). It crawled out of a portal summoned by [Maximiliam](/orchiva/npcs/maximilian.md) and a cursed book.
 
 After the confrontation, Golt sensed a fiendish presence within the Brooding Mother's corpse. Shortly afterward, a large insectoid creature emerged from a larva: the [Chitter King](./chitter-king).
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Maximilian"
 sidebar_position: 7
 ---
@@ -15,9 +15,9 @@ sidebar_position: 7
 
 ## Overview
 
-**Maximilian** is a resident of [Orchiva](/docs/orchiva/), widely regarded by the townspeople as the village idiot.
+**Maximilian** is a resident of [Orchiva](/orchiva/), widely regarded by the townspeople as the village idiot.
 
-He apparently harbored romantic feelings for [Rosaline](/docs/orchiva/npcs/rosaline/), although it is unclear whether she reciprocated his affection.
+He apparently harbored romantic feelings for [Rosaline](/orchiva/npcs/rosaline/), although it is unclear whether she reciprocated his affection.
 
 Maximilian became involved in the theft of [Abenthy](./abenthy) old lute, which he stole on behalf of a traveling merchant named [Tobias LeClair](./tobias-leclair).
 
@@ -55,7 +55,7 @@ As the plague progressed, his physical and mental condition continued to deterio
 
 | Character | Connection |
 |---|---|
-| [Rosaline](/docs/orchiva/npcs/rosaline/) | His apparent romantic interest |
+| [Rosaline](/orchiva/npcs/rosaline/) | His apparent romantic interest |
 | [Roy](./roy) | Rosaline's father |
 | [Tobias LeClair](./tobias-leclair) | Merchant who commissioned the theft of Abenthy's lute |
 | [Abenthy](./abenthy) | Famous bard whose lute Maximilian stole |

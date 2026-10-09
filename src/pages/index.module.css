@@ -219,3 +219,47 @@
   margin-bottom: 0.4rem;
 }
 }
+/* Homepage background fills the available documentation area */
+.hero {
+  position: relative;
+  width: 100%;
+  max-width: none;
+  min-height: calc(100vh - 60px);
+  margin: 0;
+  padding: 2rem;
+  box-sizing: border-box;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  overflow: hidden;
+  border-radius: 0;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 0;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 850px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+@media (max-width: 996px) {
+  .hero {
+    min-height: calc(100vh - 60px);
+    padding: 2rem 1rem;
+  }
+}

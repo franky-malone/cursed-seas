@@ -13,7 +13,7 @@ sidebar_position: 1
 
 <div className="npc-header-content">
 
-Located on the **Sea of Crystal**, **Gardis** is the second-largest human city in [Norberia](/docs/regions/norberia/).
+Located on the **Sea of Crystal**, **Gardis** is the second-largest human city in [Norberia](/regions/norberia/).
 
 The city possesses an enviable fleet of ships and has become an important maritime hub connecting the different regions surrounding the Sea of Crystal.
 

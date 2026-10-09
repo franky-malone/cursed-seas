@@ -13,7 +13,7 @@ sidebar_position: 1
 
 <div className="npc-header-content">
 
-The **Everchanging Dunes** are an enormous desert located on the other side of the [Mauer Mountains](/docs/regions/mauer-mountains/).
+The **Everchanging Dunes** are an enormous desert located on the other side of the [Mauer Mountains](/regions/mauer-mountains/).
 
 The desert covers almost half of Norberia. It takes its name from the relentless winds that continually reshape the landscape, making it almost impossible to navigate among its shifting dunes.
 

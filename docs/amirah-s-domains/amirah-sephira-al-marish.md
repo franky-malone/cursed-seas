@@ -35,7 +35,7 @@ Amirah Sephira Al-Marish is known by many titles:
 
 ## Tournament of Valor
 
-Amirah is believed to be the mysterious figure responsible for organizing the **Tournament of Valor**, held in [Nersand](/docs/regions/nersand/) once every **100 years**.
+Amirah is believed to be the mysterious figure responsible for organizing the **Tournament of Valor**, held in [Nersand](/regions/nersand/) once every **100 years**.
 
 ---
 
@@ -51,4 +51,4 @@ Amirah is believed to be the mysterious figure responsible for organizing the **
 
 | Page | Connection |
 |---|---|
-| [Nersand](/docs/regions/nersand/) | Location of the Tournament of Valor |
+| [Nersand](/regions/nersand/) | Location of the Tournament of Valor |

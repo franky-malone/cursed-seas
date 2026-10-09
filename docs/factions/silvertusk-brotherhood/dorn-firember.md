@@ -15,7 +15,7 @@ sidebar_position: 3
 
 | | |
 |---|---|
-| **Affiliation** | [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/) |
+| **Affiliation** | [Silvertusk Brotherhood](/factions/silvertusk-brotherhood/) |
 | **Role** | Kespien's mentor and superior |
 | **Connection** | Rescued and trained Kespien |
 
@@ -25,9 +25,9 @@ sidebar_position: 3
 
 ## Overview
 
-**Dorn Firember** is a member of the [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/) and one of the most important figures in [Kespien Belmont's](/docs/players/kespien-belmont/) life.
+**Dorn Firember** is a member of the [Silvertusk Brotherhood](/factions/silvertusk-brotherhood/) and one of the most important figures in [Kespien Belmont's](/players/kespien-belmont/) life.
 
-Dorn rescued Kespien after the goblin raid that killed his parents and later brought him to [Mordian](/docs/regions/mauer-mountains/mordian), where he took the young Belmont under his wing.
+Dorn rescued Kespien after the goblin raid that killed his parents and later brought him to [Mordian](/regions/mauer-mountains/mordian), where he took the young Belmont under his wing.
 
 ---
 
@@ -45,9 +45,9 @@ Despite this, Dorn clearly cares about his pupil and takes pride in his developm
 
 ## Kespien's First Mission
 
-Dorn eventually entrusted Kespien with his first solo mission, sending him to [Dorelta](/docs/dorelta/).
+Dorn eventually entrusted Kespien with his first solo mission, sending him to [Dorelta](/dorelta/).
 
-He instructed Kespien to meet him again in [Longsaddle](/docs/longsaddle/) once the mission was complete.
+He instructed Kespien to meet him again in [Longsaddle](/longsaddle/) once the mission was complete.
 
 ---
 
@@ -55,7 +55,7 @@ He instructed Kespien to meet him again in [Longsaddle](/docs/longsaddle/) once 
 
 | Character | Connection |
 |---|---|
-| [Kespien Belmont](/docs/players/kespien-belmont/) | Pupil whom Dorn rescued and trained |
+| [Kespien Belmont](/players/kespien-belmont/) | Pupil whom Dorn rescued and trained |
 
 ---
 
@@ -63,8 +63,8 @@ He instructed Kespien to meet him again in [Longsaddle](/docs/longsaddle/) once 
 
 | Page | Connection |
 |---|---|
-| [Silvertusk Brotherhood](/docs/factions/silvertusk-brotherhood/) | Dorn's organization |
-| [Birthday Sending from Dorn](/docs/players/kespien-belmont/birthday-sending-from-dorn) | Personal message sent by Dorn to Kespien |
-| [Mordian](/docs/regions/mauer-mountains/mordian) | Where Dorn brought Kespien after rescuing him |
-| [Dorelta](/docs/dorelta/) | Destination of Kespien's first mission |
+| [Silvertusk Brotherhood](/factions/silvertusk-brotherhood/) | Dorn's organization |
+| [Birthday Sending from Dorn](/players/kespien-belmont/birthday-sending-from-dorn) | Personal message sent by Dorn to Kespien |
+| [Mordian](/regions/mauer-mountains/mordian) | Where Dorn brought Kespien after rescuing him |
+| [Dorelta](/dorelta/) | Destination of Kespien's first mission |
 

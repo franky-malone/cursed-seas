@@ -13,9 +13,9 @@ sidebar_position: 1
 
 <div className="npc-header-content">
 
-**Dunklelock** is one of the great lakes of [Norberia](/docs/regions/norberia/), fed by the waters of the [Forgan River](/docs/regions/norberia/forgan-river).
+**Dunklelock** is one of the great lakes of [Norberia](/regions/norberia/), fed by the waters of the [Forgan River](/regions/norberia/forgan-river).
 
-Due to its proximity to the [Marsander Shadows](/docs/regions/marsander-shadows/), the lake has been affected by the same corruption that plagues the surrounding region.
+Due to its proximity to the [Marsander Shadows](/regions/marsander-shadows/), the lake has been affected by the same corruption that plagues the surrounding region.
 
 Its dark waters are said to be inhabited by **horrendous monsters**, making travel across the lake particularly dangerous.
 

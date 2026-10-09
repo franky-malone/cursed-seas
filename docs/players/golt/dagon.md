@@ -5,7 +5,7 @@ sidebar_position: 5
 
 ## Overview
 
-**Dagon**, also known as the **Prince of the Depths**, is a powerful demonic entity connected to [Golt](/docs/players/golt/) and the [Unheilmeer](/docs/important-items/unheilmeer).
+**Dagon**, also known as the **Prince of the Depths**, is a powerful demonic entity connected to [Golt](/players/golt/) and the [Unheilmeer](/important-items/unheilmeer).
 
 Golt first encountered Dagon's name through the Unheilmeer. After speaking it aloud, he eventually entered into a pact with the Prince of the Depths.
 
@@ -17,7 +17,7 @@ In exchange, Golt was tasked with bringing the Unheilmeer to a mysterious place 
 
 ## The Pact
 
-After his transformation and the death of [Alara](/docs/players/golt/alara-deceased-wife), Golt began wandering [Norberia](/docs/regions/norberia/).
+After his transformation and the death of [Alara](/players/golt/alara-deceased-wife), Golt began wandering [Norberia](/regions/norberia/).
 
 Having lost faith in Selûne, he became increasingly obsessed with acquiring enough power to ensure that he would never again be helpless while the people he loved were taken from him.
 
@@ -25,7 +25,7 @@ It was during this period that Golt began hearing voices promising him exactly t
 
 The price seemed simple:
 
-Bring the [Unheilmeer](/docs/important-items/unheilmeer) to the **Ipletherion**.
+Bring the [Unheilmeer](/important-items/unheilmeer) to the **Ipletherion**.
 
 Dagon eventually became the source of Golt's new power and his patron, although their relationship has never resembled one of loyalty or devotion.
 
@@ -39,7 +39,7 @@ What will happen when the spear reaches its destination remains unclear.
 
 Dagon does not always communicate with Golt directly.
 
-The demon [Lathor](/docs/players/golt/lathor) has acted as an intermediary, speaking in the name of the Prince of the Depths and reinforcing the terms of Golt's pact.
+The demon [Lathor](/players/golt/lathor) has acted as an intermediary, speaking in the name of the Prince of the Depths and reinforcing the terms of Golt's pact.
 
 Through Lathor, the same demand has remained consistent:
 
@@ -47,13 +47,13 @@ The Unheilmeer must be brought to the Ipletherion.
 
 ## The Unheilmeer
 
-Dagon appears to have a deep connection to the [Unheilmeer](/docs/important-items/unheilmeer).
+Dagon appears to have a deep connection to the [Unheilmeer](/important-items/unheilmeer).
 
 Although Golt took the weapon from the Sahuagin who held him captive, Dagon has made it clear that he does not consider the spear to truly belong to Golt.
 
 The weapon itself also appears to contain or channel multiple conflicting influences.
 
-When [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) examined the Unheilmeer, he discovered **three threads of destiny** attached to it:
+When [Halphanis Severus](/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) examined the Unheilmeer, he discovered **three threads of destiny** attached to it:
 
 - A **silvery thread**.
 - A **dark and fathomless thread**.
@@ -69,7 +69,7 @@ During one encounter, Dagon forced Golt into a terrifying vision in which he exp
 
 The Prince of the Depths reminded Golt of their agreement and warned him about the consequences of refusing to fulfil it.
 
-Dagon then showed him **[the Sentinel](/docs/players/golt/the-sentinel)**.
+Dagon then showed him **[the Sentinel](/players/golt/the-sentinel)**.
 
 The Sentinel was presented as an example of what Golt could eventually become and as a warning of what awaited those who failed Dagon.
 
@@ -81,6 +81,6 @@ Should Golt refuse to complete his task, the creature could be sent after him to
 
 | Character | Connection |
 |---|---|
-| [Golt](/docs/players/golt/) | Warlock bound to Dagon through a pact |
-| [Lathor](/docs/players/golt/lathor) | Demon who speaks
+| [Golt](/players/golt/) | Warlock bound to Dagon through a pact |
+| [Lathor](/players/golt/lathor) | Demon who speaks
 

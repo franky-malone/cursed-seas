@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Abenthy"
 sidebar_position: 8
 ---
@@ -17,9 +17,9 @@ sidebar_position: 8
 
 **Abenthy** was a renowned bard, artist, and composer, remembered for his musical works and the mysteries he left behind.
 
-Among his best-known compositions are [The Belmont Song](/docs/factions/belmont-family/belmont-the-liar-song.md) and [The Story of the Sentinel](/docs/documents/tale-of-the-sentinel.md).
+Among his best-known compositions are [The Belmont Song](/factions/belmont-family/belmont-the-liar-song.md) and [The Story of the Sentinel](/documents/tale-of-the-sentinel.md).
 
-Abenthy is believed to have lived or died in [Orchiva](/docs/orchiva/), where traces of his legacy can still be found.
+Abenthy is believed to have lived or died in [Orchiva](/orchiva/), where traces of his legacy can still be found.
 
 </div>
 
@@ -29,7 +29,7 @@ Abenthy is believed to have lived or died in [Orchiva](/docs/orchiva/), where tr
 
 ## Legacy
 
-Abenthy left behind a hidden chamber in Orchiva containing smut, treasures and a lute known as the [Moonweaver's Lute](/docs/important-items/the-moonweaver-s-lute.md).
+Abenthy left behind a hidden chamber in Orchiva containing smut, treasures and a lute known as the [Moonweaver's Lute](/important-items/the-moonweaver-s-lute.md).
 
 His compositions and possessions suggest that his legacy extends beyond his music, although the meaning of many of the clues he left behind remains uncertain.
 
@@ -37,5 +37,5 @@ His compositions and possessions suggest that his legacy extends beyond his musi
 
 | Location | Connection |
 |---|---|
-| [Abenthy's Theater](/docs/orchiva/places/abenthy-s-theater) | Theater associated with Abenthy |
-| [Abenthy's Secret Room](/docs/orchiva/places/abenthy-s-secret-room) | Hidden chamber containing treasures and clues left by Abenthy |
+| [Abenthy's Theater](/orchiva/places/abenthy-s-theater) | Theater associated with Abenthy |
+| [Abenthy's Secret Room](/orchiva/places/abenthy-s-secret-room) | Hidden chamber containing treasures and clues left by Abenthy |

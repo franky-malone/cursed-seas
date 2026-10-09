@@ -15,9 +15,9 @@ sidebar_position: 4
 
 ## Overview
 
-**Brasvik** is a member of the [Temple of Knowledge](/docs/factions/temple-of-knowledge/), having successfully passed the Temple's examinations a few years ago.
+**Brasvik** is a member of the [Temple of Knowledge](/factions/temple-of-knowledge/), having successfully passed the Temple's examinations a few years ago.
 
-He is also an acquaintance of [Aeriff](/docs/factions/temple-of-knowledge/members/aeriff.md), although their relationship is far from friendly. Brasvik seems to take particular pleasure in bullying him.
+He is also an acquaintance of [Aeriff](/factions/temple-of-knowledge/members/aeriff.md), although their relationship is far from friendly. Brasvik seems to take particular pleasure in bullying him.
 
 ## Summoner's Showdown
 

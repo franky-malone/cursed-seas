@@ -17,8 +17,8 @@ sidebar_position: 1
 |---|---|
 | **Real Name** | Ponto Virgula |
 | **Known As** | Count Virgula |
-| **Origin** | [Marsander](/docs/regions/marsander-shadows/marsander) |
-| **Family** | [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula), [Dash Virgula](/docs/factions/temple-of-knowledge/members/jhandril-dash-virgula) |
+| **Origin** | [Marsander](/regions/marsander-shadows/marsander) |
+| **Family** | [Ellipsis Virgula](/factions/temple-of-knowledge/leaders/ellipsis-virgula), [Dash Virgula](/factions/temple-of-knowledge/members/jhandril-dash-virgula) |
 | **Companion** | [Count Donut](./count-donut) |
 | **Affiliation** | Farbound Fellowship |
 
@@ -30,11 +30,11 @@ sidebar_position: 1
 
 **Count Virgula** is a mysterious Marsandian survivor who travels with the **Farbound Fellowship**.
 
-For much of his journey, Virgula revealed very little about his past. He claimed to have survived the catastrophe that destroyed [Marsander](/docs/regions/marsander-shadows/marsander), but the truth surrounding his identity gradually proved considerably more complicated.
+For much of his journey, Virgula revealed very little about his past. He claimed to have survived the catastrophe that destroyed [Marsander](/regions/marsander-shadows/marsander), but the truth surrounding his identity gradually proved considerably more complicated.
 
 His real name is **Ponto Virgula**.
 
-He is the supposedly long-dead brother of [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula), former Sacred Plume of Archaeomancy at the [Temple of Knowledge](/docs/factions/temple-of-knowledge/), and the uncle of [Jhandril, whose true name is Dash Virgula](/docs/factions/temple-of-knowledge/members/jhandril-dash-virgula).
+He is the supposedly long-dead brother of [Ellipsis Virgula](/factions/temple-of-knowledge/leaders/ellipsis-virgula), former Sacred Plume of Archaeomancy at the [Temple of Knowledge](/factions/temple-of-knowledge/), and the uncle of [Jhandril, whose true name is Dash Virgula](/factions/temple-of-knowledge/members/jhandril-dash-virgula).
 
 Virgula possesses an unusual connection to **shadow magic**. Among its manifestations are his ability to summon his beloved shadow hound, [Count Donut](./count-donut), and other strange phenomena connected to his altered nature.
 
@@ -42,9 +42,9 @@ Virgula possesses an unusual connection to **shadow magic**. Among its manifesta
 
 ## Ponto Virgula
 
-Before he became known as Count Virgula, he was **Ponto Virgula**, a native of [Marsander](/docs/regions/marsander-shadows/marsander).
+Before he became known as Count Virgula, he was **Ponto Virgula**, a native of [Marsander](/regions/marsander-shadows/marsander).
 
-Ponto was the older brother of [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula). After the death of their parents, Ponto became one of the most important people remaining in his brother's life and effectively helped raise him.
+Ponto was the older brother of [Ellipsis Virgula](/factions/temple-of-knowledge/leaders/ellipsis-virgula). After the death of their parents, Ponto became one of the most important people remaining in his brother's life and effectively helped raise him.
 
 At some point during the conflicts surrounding Marsander, Ellipsis received word that Ponto had been killed in a skirmish near the border.
 
@@ -62,9 +62,9 @@ Ponto, however, had somehow survived.
 
 ## The Fall of Marsander
 
-Exactly what happened to Ponto during and immediately after the destruction of [Marsander](/docs/regions/marsander-shadows/marsander) remains unclear.
+Exactly what happened to Ponto during and immediately after the destruction of [Marsander](/regions/marsander-shadows/marsander) remains unclear.
 
-What is known is that he survived a catastrophe that transformed his homeland into the shadow-ravaged region known today as the [Marsander Shadows](/docs/regions/marsander-shadows/).
+What is known is that he survived a catastrophe that transformed his homeland into the shadow-ravaged region known today as the [Marsander Shadows](/regions/marsander-shadows/).
 
 At some point, Ponto himself became deeply connected to **shadow magic**, eventually emerging as the figure now known as **Count Virgula**.
 
@@ -98,7 +98,7 @@ His knowledge of Marsander and his unusual magical abilities have repeatedly pro
 
 At first, however, much of Virgula's identity remained hidden from both his companions and the people they encountered.
 
-That began to change when the Fellowship arrived at the [Temple of Knowledge](/docs/factions/temple-of-knowledge/) and met [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus).
+That began to change when the Fellowship arrived at the [Temple of Knowledge](/factions/temple-of-knowledge/) and met [Halphanis Severus](/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus).
 
 Halphanis immediately took particular interest in Virgula.
 
@@ -134,9 +134,9 @@ The answers appear increasingly connected to the same destination toward which t
 
 | Character | Relationship |
 |---|---|
-| [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) | Younger brother; believed Ponto had died |
-| [Jhandril / Dash Virgula](/docs/factions/temple-of-knowledge/members/jhandril-dash-virgula) | Nephew and newly discovered family |
-| [Halphanis Severus](/docs/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) | Ellipsis' former pupil and Dash's adoptive father |
+| [Ellipsis Virgula](/factions/temple-of-knowledge/leaders/ellipsis-virgula) | Younger brother; believed Ponto had died |
+| [Jhandril / Dash Virgula](/factions/temple-of-knowledge/members/jhandril-dash-virgula) | Nephew and newly discovered family |
+| [Halphanis Severus](/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) | Ellipsis' former pupil and Dash's adoptive father |
 | [Count Donut](./count-donut) | Beloved shadow hound |
 | [Guillermo](./guillermo-virgula-s-familiar) | Former familiar |
 | [Dr Dredarius](./dr-dredarius) | Rival from Virgula's past |
@@ -145,7 +145,7 @@ The answers appear increasingly connected to the same destination toward which t
 
 ## Related Pages
 
-- [Diary of Ellipsis Virgula](/docs/documents/diary-of-elipsis-virgula)
-- [Marsander](/docs/regions/marsander-shadows/marsander)
-- [Marsander Shadows](/docs/regions/marsander-shadows/)
+- [Diary of Ellipsis Virgula](/documents/diary-of-elipsis-virgula)
+- [Marsander](/regions/marsander-shadows/marsander)
+- [Marsander Shadows](/regions/marsander-shadows/)
 

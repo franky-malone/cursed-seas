@@ -15,11 +15,11 @@ sidebar_position: 5
 
 ## Overview
 
-**Rulias Clearsong** is a half-elf woman who served as the **Mayor of [Dorelta](/docs/dorelta/)**.
+**Rulias Clearsong** is a half-elf woman who served as the **Mayor of [Dorelta](/dorelta/)**.
 
 Normally calm and composed, the increasingly tense political situation in Dorelta has clearly begun to take its toll on her.
 
-She sought the party's help in investigating the murder of the eldest son of the [Oaktree family](/docs/dorelta/npcs/oaktree-family/), hoping to identify the culprit before the incident could ignite a political conflict with Dorelta's elven nobility.
+She sought the party's help in investigating the murder of the eldest son of the [Oaktree family](/dorelta/npcs/oaktree-family/), hoping to identify the culprit before the incident could ignite a political conflict with Dorelta's elven nobility.
 
 </div>
 
@@ -39,7 +39,7 @@ Unable to resolve the situation herself, Rulias turned to the party for assistan
 
 ## The Dangerous Book
 
-Rulias later found herself in even greater trouble with the local nobility after the party informed [Mr. Oaktree](/docs/dorelta/npcs/oaktree-family/mr-oaktree) that someone had stored a **dangerous book in her library**.
+Rulias later found herself in even greater trouble with the local nobility after the party informed [Mr. Oaktree](/dorelta/npcs/oaktree-family/mr-oaktree) that someone had stored a **dangerous book in her library**.
 
 The revelation further damaged her position with the nobles and placed her leadership under considerable pressure.
 
@@ -47,15 +47,15 @@ The revelation further damaged her position with the nobles and placed her leade
 
 ## Casted out
 
-Rulias among some other humans from Dorelta were casted out of the city by the noble elves. They seek refugee in the neighbour city of [Longsaddle](/docs/longsaddle/longsaddle.md).
+Rulias among some other humans from Dorelta were casted out of the city by the noble elves. They seek refugee in the neighbour city of [Longsaddle](/longsaddle/longsaddle.md).
 
 
 ## Related Characters
 
 | Character | Connection |
 |---|---|
-| [Felosial](/docs/dorelta/npcs/felosial) | Rulias's secretary |
-| [Mr. Oaktree](/docs/dorelta/npcs/oaktree-family/mr-oaktree) | Noble involved in the political conflict surrounding Rulias |
+| [Felosial](/dorelta/npcs/felosial) | Rulias's secretary |
+| [Mr. Oaktree](/dorelta/npcs/oaktree-family/mr-oaktree) | Noble involved in the political conflict surrounding Rulias |
 
 
 

@@ -47,7 +47,7 @@ Her strange behavior often leaves other students unsure whether she is profoundl
 
 ## The Temple of Knowledge
 
-Zarzaparrilla did not come to the [Temple of Knowledge](/docs/factions/temple-of-knowledge/) because of its books or scholarly reputation.
+Zarzaparrilla did not come to the [Temple of Knowledge](/factions/temple-of-knowledge/) because of its books or scholarly reputation.
 
 She came because **something in the soil told her to**.
 

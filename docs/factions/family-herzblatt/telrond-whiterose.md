@@ -15,15 +15,15 @@ sidebar_position: 4
 
 ## Overview
 
-**Telrond Whiterose** was a mysterious man encountered at the **Traveller's Inn** in [Dorelta](/docs/dorelta/).
+**Telrond Whiterose** was a mysterious man encountered at the **Traveller's Inn** in [Dorelta](/dorelta/).
 
 ## Encounter at the Traveller's Inn
 
-The party encountered Telrond Whiterose while staying at the **Traveller's Inn** in [Dorelta](/docs/dorelta/).
+The party encountered Telrond Whiterose while staying at the **Traveller's Inn** in [Dorelta](/dorelta/).
 
 His presence immediately attracted suspicion.
 
-[Count Virgula](/docs/players/count-virgula) questioned him about his state of life, while [Golt](/docs/players/golt/) sensed that something about the stranger was unusual.
+[Count Virgula](/players/count-virgula) questioned him about his state of life, while [Golt](/players/golt/) sensed that something about the stranger was unusual.
 
 Realizing that the group had become suspicious of him, Telrond quickly left the inn.
 
@@ -63,5 +63,5 @@ Gloran had been operating beneath the **Herzblatt family crypt** and was ultimat
 
 | Page | Connection |
 |---|---|
-| [Dorelta](/docs/dorelta/) | City where Telrond was encountered and investigated |
+| [Dorelta](/dorelta/) | City where Telrond was encountered and investigated |
 

@@ -3,11 +3,11 @@ title: "Belmont the Liar"
 sidebar_position: 8
 ---
 
-*Belmont the Liar* is a popular sea shanty recounting the supposed adventures of [Manfred Belmont](/docs/factions/belmont-family/manfred-belmont) and his ship, the **Yellow Wolf**.
+*Belmont the Liar* is a popular sea shanty recounting the supposed adventures of [Manfred Belmont](/factions/belmont-family/manfred-belmont) and his ship, the **Yellow Wolf**.
 
 The song mocks Manfred's claims of having sailed to the mysterious **Cursed Islands**, portraying his stories of distant lands and fabulous treasures as nothing more than lies.
 
-Its popularity played an important role in tarnishing the reputation of the [Belmont Family](/docs/factions/belmont-family/), with later generations inheriting the stigma created by the song.
+Its popularity played an important role in tarnishing the reputation of the [Belmont Family](/factions/belmont-family/), with later generations inheriting the stigma created by the song.
 
 > 🎵 [Listen to Belmont the Liar](https://app.suno.ai/song/6a57653f-2a6c-410c-bc7f-327584673771/)
 
@@ -56,9 +56,9 @@ Its popularity played an important role in tarnishing the reputation of the [Bel
 
 | Page | Connection |
 |---|---|
-| [Manfred Belmont](/docs/factions/belmont-family/manfred-belmont) | The Belmont whose adventures inspired the song |
-| [Belmont Family](/docs/factions/belmont-family/) | The family whose reputation was affected by the song |
-| [Kespien Belmont](/docs/players/kespien-belmont/) | A descendant of Manfred who still bears the reputation associated with the song |
+| [Manfred Belmont](/factions/belmont-family/manfred-belmont) | The Belmont whose adventures inspired the song |
+| [Belmont Family](/factions/belmont-family/) | The family whose reputation was affected by the song |
+| [Kespien Belmont](/players/kespien-belmont/) | A descendant of Manfred who still bears the reputation associated with the song |
 | Abenthy | Bard who wrote the song |
 
 

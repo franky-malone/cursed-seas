@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Inus"
 sidebar_position: 3
 ---
@@ -15,7 +15,7 @@ sidebar_position: 3
 
 ## Overview
 
-**Inus**, known in [Orchiva](/docs/orchiva/) as **the Pale One**, is a member of the [Order of the White Scale](/docs/factions/order-of-the-white-scale.md.
+**Inus**, known in [Orchiva](/orchiva/) as **the Pale One**, is a member of the [Order of the White Scale](/factions/order-of-the-white-scale.md.
 
 He offered guidance and comfort to those approaching death and occasionally assisted [Sister Unvera](./sister-unvera) in caring for the sick.
 
@@ -41,7 +41,7 @@ This restriction explained Inus's seemingly passive behavior throughout the cris
 
 ## The Liberation of Orchiva
 
-Following the defeat of the [Chitter King](/docs/orchiva/creatures/chitter-king), Inus appeared before the Farbound Fellowship amid globes of lightning.
+Following the defeat of the [Chitter King](/orchiva/creatures/chitter-king), Inus appeared before the Farbound Fellowship amid globes of lightning.
 
 He congratulated the adventurers on their victory and apologized for his inability to assist them directly.
 

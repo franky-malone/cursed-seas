@@ -16,10 +16,10 @@ sidebar_position: 6
 | | |
 |---|---|
 | **Nature** | Unknown |
-| **Connection** | [Dagon](/docs/players/golt/dagon) |
-| **Associated Item** | [Unheilmeer](/docs/important-items/unheilmeer) |
+| **Connection** | [Dagon](/players/golt/dagon) |
+| **Associated Item** | [Unheilmeer](/important-items/unheilmeer) |
 
-**The Sentinel** is a mysterious and dangerous figure connected to [Dagon](/docs/players/golt/dagon), [Golt](/docs/players/golt/) and the [Unheilmeer](/docs/important-items/unheilmeer).
+**The Sentinel** is a mysterious and dangerous figure connected to [Dagon](/players/golt/dagon), [Golt](/players/golt/) and the [Unheilmeer](/important-items/unheilmeer).
 
 It is said to bring havoc and destruction wherever it appears and seems to possess a deep connection to the sea.
 
@@ -57,25 +57,25 @@ In its hands it carries a massive rusted greatsword. The weapon's handle has bee
 
 ## The Wanderers
 
-One of the first known references to the Sentinel came from [Aurora the Elder](/docs/factions/the-wanderers/aurora-the-elder).
+One of the first known references to the Sentinel came from [Aurora the Elder](/factions/the-wanderers/aurora-the-elder).
 
 According to the Wanderers, the Sentinel is an extremely dangerous and mysterious figure that leaves destruction in its wake.
 
 Its connection to the sea was already known, although its true nature and purpose remained unclear.
 
-A separate account concerning the creature can be found in the [Tale of the Sentinel](/docs/documents/tale-of-the-sentinel).
+A separate account concerning the creature can be found in the [Tale of the Sentinel](/documents/tale-of-the-sentinel).
 
 ---
 
 ## Dagon's Warning
 
-The Sentinel later became directly connected to Golt's pact with [Dagon](/docs/players/golt/dagon).
+The Sentinel later became directly connected to Golt's pact with [Dagon](/players/golt/dagon).
 
 When Golt resisted the Prince of the Depths and questioned their agreement, Dagon confronted him through a terrifying vision.
 
 Golt found himself drowning in an endless ocean as Dagon reminded him of the task he had accepted:
 
-**Bring the [Unheilmeer](/docs/important-items/unheilmeer) to the Ipletherion.**
+**Bring the [Unheilmeer](/important-items/unheilmeer) to the Ipletherion.**
 
 Dagon then showed Golt the Sentinel.
 
@@ -83,13 +83,13 @@ The creature was presented both as a warning and as an example of what could awa
 
 Dagon made it clear that the Sentinel would be watching him.
 
-Should Golt refuse to fulfil his part of the pact, the Sentinel could come for him, recover the [Unheilmeer](/docs/important-items/unheilmeer) and complete the task in his place.
+Should Golt refuse to fulfil his part of the pact, the Sentinel could come for him, recover the [Unheilmeer](/important-items/unheilmeer) and complete the task in his place.
 
 ---
 
 ## Connection to the Unheilmeer
 
-The precise relationship between the Sentinel and the [Unheilmeer](/docs/important-items/unheilmeer) remains unknown.
+The precise relationship between the Sentinel and the [Unheilmeer](/important-items/unheilmeer) remains unknown.
 
 However, both are strongly associated with Dagon and the sea, and Dagon appears confident that the Sentinel could take the weapon from Golt if necessary.
 
@@ -99,9 +99,9 @@ However, both are strongly associated with Dagon and the sea, and Dagon appears 
 
 | Character | Connection |
 |---|---|
-| [Golt](/docs/players/golt/) | Threatened with the Sentinel if he breaks his pact |
-| [Dagon](/docs/players/golt/dagon) | Entity who revealed the Sentinel to Golt |
-| [Lathor](/docs/players/golt/lathor) | Another servant or emissary associated with Dagon |
+| [Golt](/players/golt/) | Threatened with the Sentinel if he breaks his pact |
+| [Dagon](/players/golt/dagon) | Entity who revealed the Sentinel to Golt |
+| [Lathor](/players/golt/lathor) | Another servant or emissary associated with Dagon |
 
 ---
 
@@ -109,6 +109,6 @@ However, both are strongly associated with Dagon and the sea, and Dagon appears 
 
 | Page | Connection |
 |---|---|
-| [Unheilmeer](/docs/important-items/unheilmeer) | Mysterious weapon connected to Dagon and the Sentinel |
-| [Tale of the Sentinel](/docs/documents/tale-of-the-sentinel) | Tale concerning the Sentinel |
+| [Unheilmeer](/important-items/unheilmeer) | Mysterious weapon connected to Dagon and the Sentinel |
+| [Tale of the Sentinel](/documents/tale-of-the-sentinel) | Tale concerning the Sentinel |
 

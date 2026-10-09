@@ -16,7 +16,7 @@ sidebar_position: 2
   }}
 />
 
-[Jori's](/docs/players/jori/) father.
+[Jori's](/players/jori/) father.
 
 <div style={{clear: 'both'}}></div>
 

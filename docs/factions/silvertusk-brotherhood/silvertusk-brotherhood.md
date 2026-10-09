@@ -15,7 +15,7 @@ sidebar_position: 1
 
 ## Overview
 
-The **Silvertusk Brotherhood** is a renowned mercenary organization known throughout [Norberia](/docs/regions/norberia/) for the crucial role it played during the continent's great war against **Marsander**.
+The **Silvertusk Brotherhood** is a renowned mercenary organization known throughout [Norberia](/regions/norberia/) for the crucial role it played during the continent's great war against **Marsander**.
 
 Their actions during the conflict helped the allied nations turn the tide of the war and ultimately secure victory.
 
@@ -53,8 +53,8 @@ Their contribution to the allied war effort earned the organization considerable
 |---|---|
 | **Guludur Silvertusk** | Leader of the Silvertusk Brotherhood |
 | **Martia Silvertusk** | Daughter of Guludur Silvertusk and sub captain of the Silvertusk Brotherhood |
-| [Dorn Firember](/docs/factions/silvertusk-brotherhood/dorn-firember) | Member of the Brotherhood and Kespien's mentor |
-| [Lory Swiftwind](/docs/factions/silvertusk-brotherhood/lory-swiftwind) | Member who helped train Kespien |
-| [Ariana Stormbringer](/docs/factions/silvertusk-brotherhood/ariana-stormbringer) | Member of the Brotherhood |
-| [Gareth Stonefist](/docs/factions/silvertusk-brotherhood/gareth-stonefist) | Member of the Brotherhood |
+| [Dorn Firember](/factions/silvertusk-brotherhood/dorn-firember) | Member of the Brotherhood and Kespien's mentor |
+| [Lory Swiftwind](/factions/silvertusk-brotherhood/lory-swiftwind) | Member who helped train Kespien |
+| [Ariana Stormbringer](/factions/silvertusk-brotherhood/ariana-stormbringer) | Member of the Brotherhood |
+| [Gareth Stonefist](/factions/silvertusk-brotherhood/gareth-stonefist) | Member of the Brotherhood |
 

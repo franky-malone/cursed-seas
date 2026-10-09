@@ -3,9 +3,9 @@ title: "Dorelta"
 sidebar_position: 1
 ---
 
-**Dorelta** is a city composed of four major districts inside the [Autumn Woods](/docs/regions/autumn-forest/).
+**Dorelta** is a city composed of four major districts inside the [Autumn Woods](/regions/autumn-forest/).
 
-It is said that the city was originally established by an elven clan from [Everlor](/docs/regions/everlor).
+It is said that the city was originally established by an elven clan from [Everlor](/regions/everlor).
 
 <div className="interactive-map">
 
@@ -16,25 +16,25 @@ It is said that the city was originally established by an elven clan from [Everl
 />
 
 <a
-  href="/cursed-seas/docs/dorelta/places/herzblatt-district"
+  href="/cursed-seas/dorelta/places/herzblatt-district"
   className="map-marker"
   style={{ left: '25%', top: '17%' }}
 >Herzblatt District</a>
 
 <a
-  href="/cursed-seas/docs/dorelta/places/noble-district"
+  href="/cursed-seas/dorelta/places/noble-district"
   className="map-marker"
   style={{ left: '90%', top: '40%' }}
 >Noble District</a>
 
 <a
-  href="/cursed-seas/docs/dorelta/places/travelers-district"
+  href="/cursed-seas/dorelta/places/travelers-district"
   className="map-marker"
   style={{ left: '35%', top: '95%' }}
 >Travelers District</a>
 
 <a
-  href="/cursed-seas/docs/dorelta/places/statue-district"
+  href="/cursed-seas/dorelta/places/statue-district"
   className="map-marker"
   style={{ left: '85%', top: '85%' }}
 >Statue District</a>

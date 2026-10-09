@@ -10,9 +10,9 @@ sidebar_position: 1
 
 
 Together with the [Mauer
-Mountains](/docs/regions/mauer-mountains/)
+Mountains](/regions/mauer-mountains/)
 they are the largest mountain system in
-[Norberia](/docs/regions/norberia/).
+[Norberia](/regions/norberia/).
 It is divided into three zones, the western Nevington, the central
 system and the eastern Nevington.
 
@@ -25,9 +25,9 @@ incesant blow.
 
 
 Two dwarven fortresses find their home in these mountains. [Kor
-Kuldir](/docs/regions/nevington-mountains/kor-kuldir)
+Kuldir](/regions/nevington-mountains/kor-kuldir)
 on the west system and [Kor
-Thurim](/docs/regions/nevington-mountains/kor-thurim)
+Thurim](/regions/nevington-mountains/kor-thurim)
 to the east. From its central area comes a mountain range known as the
 Wyvern's Mountains.
 

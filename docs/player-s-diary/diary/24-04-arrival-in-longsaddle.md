@@ -22,7 +22,7 @@ sidebar_position: 32
     - Dorn was in tavern, we have to wait a few days until he comes back
   - We hear rumors:
     - A member of the [Order of the White
-      Scale](/docs/factions/order-of-the-white-scale)
+      Scale](/factions/order-of-the-white-scale)
       went through Orchiva a few days ago -/> major catastrophe is about
       to occur?
     - New drug from Puerto Ballena: increases spellcasting abilities

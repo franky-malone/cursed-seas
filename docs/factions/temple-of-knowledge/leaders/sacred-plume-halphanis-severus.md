@@ -15,19 +15,19 @@ sidebar_position: 3
 
 ## Overview
 
-**Halphanis Severus** is the current **Sacred Plume of Archaeomancy** at the [Temple of Knowledge](/docs/factions/temple-of-knowledge/).
+**Halphanis Severus** is the current **Sacred Plume of Archaeomancy** at the [Temple of Knowledge](/factions/temple-of-knowledge/).
 
-An elderly half-elf with a peculiar smell of ink and hands seemingly always stained by it, Halphanis is an accomplished historian and archaeomancer whose life has become deeply intertwined with the mysteries of the [Cursed Islands](/docs/regions/cursed-islands), **Fabros**, **Myth Coralis**, the **Marsandians**, and the [Unheilmeer](/docs/important-items/unheilmeer).
+An elderly half-elf with a peculiar smell of ink and hands seemingly always stained by it, Halphanis is an accomplished historian and archaeomancer whose life has become deeply intertwined with the mysteries of the [Cursed Islands](/regions/cursed-islands), **Fabros**, **Myth Coralis**, the **Marsandians**, and the [Unheilmeer](/important-items/unheilmeer).
 
-Despite his considerable knowledge and position within the Temple, many of these mysteries originate with the man who taught him everything he knew: former Sacred Plume [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula).
+Despite his considerable knowledge and position within the Temple, many of these mysteries originate with the man who taught him everything he knew: former Sacred Plume [Ellipsis Virgula](/factions/temple-of-knowledge/leaders/ellipsis-virgula).
 
 ---
 
 ## Early Life
 
-Halphanis arrived in [Longsaddle](/docs/longsaddle/) many years ago with little money but a strong fascination with history and ancient civilizations.
+Halphanis arrived in [Longsaddle](/longsaddle/) many years ago with little money but a strong fascination with history and ancient civilizations.
 
-Determined to study at the [Temple of Knowledge](/docs/factions/temple-of-knowledge/), he eventually earned a scholarship under [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula), then Sacred Plume of Archaeomancy.
+Determined to study at the [Temple of Knowledge](/factions/temple-of-knowledge/), he eventually earned a scholarship under [Ellipsis Virgula](/factions/temple-of-knowledge/leaders/ellipsis-virgula), then Sacred Plume of Archaeomancy.
 
 </div>
 
@@ -41,7 +41,7 @@ He particularly admired Ellipsis' extraordinary ability to restore ancient artif
 
 ## Ellipsis Virgula
 
-A year after [Ellipsis Virgula's](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) disappearance, Halphanis entered his former master's private sanctum searching for answers. There he discovered correspondence between Ellipsis and a Marsandian woman living in disguise in [Gardis](/docs/regions/gardis/).
+A year after [Ellipsis Virgula's](/factions/temple-of-knowledge/leaders/ellipsis-virgula) disappearance, Halphanis entered his former master's private sanctum searching for answers. There he discovered correspondence between Ellipsis and a Marsandian woman living in disguise in [Gardis](/regions/gardis/).
 
 The letters revealed two extraordinary truths.
 
@@ -53,9 +53,9 @@ Halphanis decided he had to find his mentor, both to discover whether Ellipsis c
 
 ## Frederick Belmont and the Black Albatros
 
-Halphanis followed the same clue that had fascinated Ellipsis: the stories surrounding the [Belmont Family](/docs/factions/belmont-family/) and the [Cursed Islands](/docs/regions/cursed-islands).
+Halphanis followed the same clue that had fascinated Ellipsis: the stories surrounding the [Belmont Family](/factions/belmont-family/) and the [Cursed Islands](/regions/cursed-islands).
 
-His search eventually led him to [Frederick Belmont](/docs/factions/belmont-family/frederick-belmont), descendant of the infamous sailor [Manfred Belmont](/docs/factions/belmont-family/manfred-belmont) and captain of the [Black Albatros](/docs/factions/belmont-family/black-albatros).
+His search eventually led him to [Frederick Belmont](/factions/belmont-family/frederick-belmont), descendant of the infamous sailor [Manfred Belmont](/factions/belmont-family/manfred-belmont) and captain of the [Black Albatros](/factions/belmont-family/black-albatros).
 
 Frederick possessed an old family map supposedly showing the location of the Cursed Islands. Using the restoration techniques taught to him by Ellipsis, Halphanis managed to restore the damaged map.
 
@@ -63,11 +63,11 @@ During this time the two became close friends.
 
 They eventually decided to gather a crew and follow the map themselves.
 
-While Frederick temporarily returned to [Gardis](/docs/regions/gardis/) to deal with family matters, Halphanis oversaw preparations for the expedition and worked closely with the ship's navigator, [Irina](/docs/other-npcs/irina). The two fell in love and eventually married.
+While Frederick temporarily returned to [Gardis](/regions/gardis/) to deal with family matters, Halphanis oversaw preparations for the expedition and worked closely with the ship's navigator, [Irina](/other-npcs/irina). The two fell in love and eventually married.
 
 When Frederick returned months later, however, he had changed considerably.
 
-He had become quiet and distant and had acquired a strange dark spear called the [Unheilmeer](/docs/important-items/unheilmeer). Members of the crew also reported hearing him repeatedly whisper the word **Ipletherion** while alone in his cabin.
+He had become quiet and distant and had acquired a strange dark spear called the [Unheilmeer](/important-items/unheilmeer). Members of the crew also reported hearing him repeatedly whisper the word **Ipletherion** while alone in his cabin.
 
 Nevertheless, the expedition continued.
 
@@ -75,15 +75,15 @@ Nevertheless, the expedition continued.
 
 ## The Failed Expedition
 
-The Black Albatros eventually sailed toward the [Cursed Islands](/docs/regions/cursed-islands).
+The Black Albatros eventually sailed toward the [Cursed Islands](/regions/cursed-islands).
 
 The expedition never reached its destination.
 
 A violent storm destroyed the ship, and Halphanis became its only known survivor.
 
-[Frederick Belmont](/docs/factions/belmont-family/frederick-belmont), [Irina](/docs/other-npcs/irina) and the rest of the crew disappeared with the ship.
+[Frederick Belmont](/factions/belmont-family/frederick-belmont), [Irina](/other-npcs/irina) and the rest of the crew disappeared with the ship.
 
-Halphanis returned to [Longsaddle](/docs/longsaddle/) devastated. He attempted scrying, divination and every other means available to him to locate the missing crew, but none succeeded.
+Halphanis returned to [Longsaddle](/longsaddle/) devastated. He attempted scrying, divination and every other means available to him to locate the missing crew, but none succeeded.
 
 The loss of Irina and the failure to find Ellipsis pushed him into a deep depression.
 
@@ -93,7 +93,7 @@ The loss of Irina and the failure to find Ellipsis pushed him into a deep depres
 
 Years later, Halphanis resumed investigating his former mentor.
 
-Remembering the Marsandian woman with whom Ellipsis had exchanged letters, he travelled to [Gardis](/docs/regions/gardis/) hoping she might know what had happened to him.
+Remembering the Marsandian woman with whom Ellipsis had exchanged letters, he travelled to [Gardis](/regions/gardis/) hoping she might know what had happened to him.
 
 Instead, Halphanis discovered that she had died during childbirth.
 
@@ -101,13 +101,13 @@ She had left behind an apparently albino child living in an orphanage.
 
 Halphanis realized the boy was not albino at all. His appearance was the result of being born from two Marsandian parents.
 
-The child was [Dash Virgula](/docs/factions/temple-of-knowledge/members/jhandril-dash-virgula), son of Ellipsis Virgula.
+The child was [Dash Virgula](/factions/temple-of-knowledge/members/jhandril-dash-virgula), son of Ellipsis Virgula.
 
 Halphanis adopted him.
 
 Partly motivated by the memory of his former mentor and partly because Halphanis himself felt lost and needed someone to live for, he raised Dash as his own son and eventually made him his apprentice.
 
-To protect him, Halphanis magically concealed the boy's Marsandian appearance and altered his memories. Dash grew up believing himself to be [Jhandril](/docs/factions/temple-of-knowledge/members/jhandril-dash-virgula).
+To protect him, Halphanis magically concealed the boy's Marsandian appearance and altered his memories. Dash grew up believing himself to be [Jhandril](/factions/temple-of-knowledge/members/jhandril-dash-virgula).
 
 Caring for Jhandril helped Halphanis recover from the depression that followed the destruction of the Black Albatros.
 
@@ -125,13 +125,13 @@ Rather than simply giving them the map, Halphanis decided to test whether they w
 - The **breath of a winter wolf**
 - The **poison gland of an adult wyvern**
 
-He also ordered [Jhandril](/docs/factions/temple-of-knowledge/members/jhandril-dash-virgula) to accompany them.
+He also ordered [Jhandril](/factions/temple-of-knowledge/members/jhandril-dash-virgula) to accompany them.
 
 Unknown to the party, Jhandril was considerably more capable than he pretended to be and had been instructed by Halphanis to observe them and report on their actions.
 
 Halphanis later explained that the expedition he himself had attempted and failed was considerably more dangerous than this trial. He wanted to be certain that he would not send an unprepared group to their deaths.
 
-After they succeeded, Halphanis gave them a copy of [Frederick Belmont's](/docs/factions/belmont-family/frederick-belmont) restored [map](/docs/documents/halphanis-map).
+After they succeeded, Halphanis gave them a copy of [Frederick Belmont's](/factions/belmont-family/frederick-belmont) restored [map](/documents/halphanis-map).
 
 The strange ingredients had another purpose as well: Halphanis intended to use them to gain the cooperation of the other Sacred Plumes and allow one member of the party to attempt the Temple's entrance examination. **Kespien Belmont** accepted the opportunity.
 
@@ -141,7 +141,7 @@ The strange ingredients had another purpose as well: Halphanis intended to use t
 
 Halphanis eventually revealed Jhandril's true identity in the presence of the Farbound Fellowship.
 
-Jhandril was **Dash Virgula**, son of [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula) and therefore nephew of [Count Virgula](/docs/players/count-virgula/), whom Halphanis believed to be Ellipsis' supposedly long-dead brother.
+Jhandril was **Dash Virgula**, son of [Ellipsis Virgula](/factions/temple-of-knowledge/leaders/ellipsis-virgula) and therefore nephew of [Count Virgula](/players/count-virgula/), whom Halphanis believed to be Ellipsis' supposedly long-dead brother.
 
 Halphanis temporarily removed the magic concealing Dash's Marsandian appearance and told him the truth about his past.
 
@@ -149,15 +149,15 @@ The revelation overwhelmed Jhandril, who fled the room.
 
 Ellipsis had also left behind a mysterious box marked with the letter **V** which Halphanis had never managed to open.
 
-Count Virgula instinctively placed his blood upon it, causing the box to open. Inside were extracts from [Ellipsis' diary](/docs/documents/diary-of-elipsis-virgula) and a ring he had used to disguise his Marsandian heritage and influence how others perceived him.
+Count Virgula instinctively placed his blood upon it, causing the box to open. Inside were extracts from [Ellipsis' diary](/documents/diary-of-elipsis-virgula) and a ring he had used to disguise his Marsandian heritage and influence how others perceived him.
 
-The diary contained further references to **Tom Lancil**, the [Cursed Islands](/docs/regions/cursed-islands), [Manfred Belmont](/docs/factions/belmont-family/manfred-belmont), **Fabros**, **Gaurion**, and the **Crescent Wave**.
+The diary contained further references to **Tom Lancil**, the [Cursed Islands](/regions/cursed-islands), [Manfred Belmont](/factions/belmont-family/manfred-belmont), **Fabros**, **Gaurion**, and the **Crescent Wave**.
 
 ---
 
 ## Research into the Unheilmeer
 
-Halphanis' connection to the [Unheilmeer](/docs/important-items/unheilmeer) resurfaced when [Golt](/docs/players/golt/) revealed that he had become its current wielder.
+Halphanis' connection to the [Unheilmeer](/important-items/unheilmeer) resurfaced when [Golt](/players/golt/) revealed that he had become its current wielder.
 
 After learning how Golt obtained the weapon, Halphanis magically examined it and discovered three strange threads of destiny connected to the spear:
 
@@ -165,7 +165,7 @@ After learning how Golt obtained the weapon, Halphanis magically examined it and
 - A **dark and fathomless thread**
 - A third thread that appeared almost severed and was pulling strongly away
 
-Golt associated these mysteries with the names [Lathor](/docs/players/golt/lathor) and [Dagon](/docs/players/golt/dagon), as well as the [Sentinel](/docs/players/golt/the-sentinel) and **Selûne**.
+Golt associated these mysteries with the names [Lathor](/players/golt/lathor) and [Dagon](/players/golt/dagon), as well as the [Sentinel](/players/golt/the-sentinel) and **Selûne**.
 
 Halphanis promised to investigate further.
 
@@ -175,27 +175,27 @@ Halphanis promised to investigate further.
 
 Halphanis' investigation eventually appears to have led him toward an extremely dangerous ritual.
 
-On **5 March 1500**, [Jhandril](/docs/factions/temple-of-knowledge/members/jhandril-dash-virgula) informed the Farbound Fellowship that Halphanis had been seriously injured while attempting an unknown ritual spell.
+On **5 March 1500**, [Jhandril](/factions/temple-of-knowledge/members/jhandril-dash-virgula) informed the Farbound Fellowship that Halphanis had been seriously injured while attempting an unknown ritual spell.
 
 The ritual left Halphanis **unconscious and missing a leg**.
 
-Investigation of his laboratory revealed a protection circle containing a small error and damaged notes written in **Abyssal**. Once restored, the notes contained magical terminology as well as the name of [the Sentinel](/docs/players/golt/the-sentinel).
+Investigation of his laboratory revealed a protection circle containing a small error and damaged notes written in **Abyssal**. Once restored, the notes contained magical terminology as well as the name of [the Sentinel](/players/golt/the-sentinel).
 
 The evidence suggested that Halphanis had attempted to summon the Sentinel, or something connected to it.
 
-While unconscious, he was also heard mumbling the name [Lathor](/docs/players/golt/lathor).
+While unconscious, he was also heard mumbling the name [Lathor](/players/golt/lathor).
 
-With one of its Sacred Plumes incapacitated, the [Temple of Knowledge](/docs/factions/temple-of-knowledge/) attempted to keep the incident private while the remaining Sacred Plumes assumed responsibility for maintaining the institution.
+With one of its Sacred Plumes incapacitated, the [Temple of Knowledge](/factions/temple-of-knowledge/) attempted to keep the incident private while the remaining Sacred Plumes assumed responsibility for maintaining the institution.
 
 ---
 
 ## Related Pages
 
-- [Ellipsis Virgula](/docs/factions/temple-of-knowledge/leaders/ellipsis-virgula)
-- [Jhandril / Dash Virgula](/docs/factions/temple-of-knowledge/members/jhandril-dash-virgula)
-- [Frederick Belmont](/docs/factions/belmont-family/frederick-belmont)
-- [Temple of Knowledge](/docs/factions/temple-of-knowledge/)
-- [Cursed Islands](/docs/regions/cursed-islands)
-- [Unheilmeer](/docs/important-items/unheilmeer)
-- [Halphanis' Story](/docs/documents/halphanis-story)
+- [Ellipsis Virgula](/factions/temple-of-knowledge/leaders/ellipsis-virgula)
+- [Jhandril / Dash Virgula](/factions/temple-of-knowledge/members/jhandril-dash-virgula)
+- [Frederick Belmont](/factions/belmont-family/frederick-belmont)
+- [Temple of Knowledge](/factions/temple-of-knowledge/)
+- [Cursed Islands](/regions/cursed-islands)
+- [Unheilmeer](/important-items/unheilmeer)
+- [Halphanis' Story](/documents/halphanis-story)
 

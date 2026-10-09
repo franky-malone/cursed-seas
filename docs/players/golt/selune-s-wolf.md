@@ -17,10 +17,10 @@ sidebar_position: 9
 |---|---|
 | **Nature** | Spiritual wolf |
 | **Associated Deity** | Selûne |
-| **Companion** | [Golt](/docs/players/golt/) |
+| **Companion** | [Golt](/players/golt/) |
 | **Role** | Mount and manifestation of Selûne's influence |
 
-**Selûne's Wolf** is a spiritual wolf sent to [Golt](/docs/players/golt/) by **Selûne**.
+**Selûne's Wolf** is a spiritual wolf sent to [Golt](/players/golt/) by **Selûne**.
 
 It serves as Golt's mount, but its significance goes beyond that. The wolf is one of the clearest signs that Selûne's connection to her former follower was never completely severed.
 
@@ -30,11 +30,11 @@ It serves as Golt's mount, but its significance goes beyond that. The wolf is on
 
 ## Selûne's Intervention
 
-Golt had once been a devoted follower of Selûne during his time with the [Radiant Lions](/docs/factions/radiant-lions/).
+Golt had once been a devoted follower of Selûne during his time with the [Radiant Lions](/factions/radiant-lions/).
 
 After being captured and transformed by Sahuagin, however, Golt became convinced that Selûne had abandoned him. He had repeatedly prayed for her help during his captivity and believed that she had never answered.
 
-His resentment toward the goddess eventually helped drive him toward the power offered by [Dagon](/docs/players/golt/dagon).
+His resentment toward the goddess eventually helped drive him toward the power offered by [Dagon](/players/golt/dagon).
 
 Despite this, Selûne continued to reach out to him.
 
@@ -52,9 +52,9 @@ The wolf subsequently became Golt's mount and remained with him as a manifestati
 
 ## Against Dagon
 
-The wolf appeared again when [Dagon](/docs/players/golt/dagon) confronted Golt over his pact.
+The wolf appeared again when [Dagon](/players/golt/dagon) confronted Golt over his pact.
 
-Dagon forced Golt into a terrifying vision of drowning while reminding him that the [Unheilmeer](/docs/important-items/unheilmeer) had to be brought to the **Ipletherion**.
+Dagon forced Golt into a terrifying vision of drowning while reminding him that the [Unheilmeer](/important-items/unheilmeer) had to be brought to the **Ipletherion**.
 
 During the vision, Golt heard the howl of Selûne's Wolf.
 

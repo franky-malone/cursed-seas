@@ -15,7 +15,7 @@ sidebar_position: 3
 
 ## Overview
 
-**Hatu-Khnum-Amen** is a soft-spoken but ever-alert tabaxi from the golden dunes of [Neu Samir](/docs/regions/everchanging-dunes/neu-samir.md).
+**Hatu-Khnum-Amen** is a soft-spoken but ever-alert tabaxi from the golden dunes of [Neu Samir](/regions/everchanging-dunes/neu-samir.md).
 
 He carries himself with the calm elegance of someone who prefers to observe before acting. Draped in desert silks and adorned with intricate silver charms that jingle softly as he moves, Hatu carries the scent of distant spices and the warm winds of the east.
 
@@ -42,6 +42,6 @@ As a student of diplomacy and nuance, he is deeply aware of the importance of cu
 
 ## The Temple of Knowledge
 
-Hatu sees the [Temple of Knowledge](/docs/factions/temple-of-knowledge/) as more than a test of intellect. To him, it is a **proving ground for his ideals** and an opportunity to exchange ideas with people from cultures very different from his own.
+Hatu sees the [Temple of Knowledge](/factions/temple-of-knowledge/) as more than a test of intellect. To him, it is a **proving ground for his ideals** and an opportunity to exchange ideas with people from cultures very different from his own.
 
 He is there to listen, to connect, and perhaps to remind those around him that **knowledge is a conversation, not a conquest**.

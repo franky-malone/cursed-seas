@@ -15,13 +15,13 @@ sidebar_position: 3
 
 ## Overview
 
-**Vermelho** is a small, red-scaled **faerie dragon** who once lived in the [Autumn Woods](/docs/regions/autumn-forest/) near [Dorelta](/docs/dorelta/).
+**Vermelho** is a small, red-scaled **faerie dragon** who once lived in the [Autumn Woods](/regions/autumn-forest/) near [Dorelta](/dorelta/).
 
-He eventually left his home and began following [Aeriff](/docs/factions/temple-of-knowledge/members/aeriff.md), becoming a companion of the group during their travels.
+He eventually left his home and began following [Aeriff](/factions/temple-of-knowledge/members/aeriff.md), becoming a companion of the group during their travels.
 
 ## Joining the Group
 
-Vermelho first encountered the group through [Brakadanth](/docs/dorelta/npcs/brakadanth), another faerie dragon from the Autumn Woods.
+Vermelho first encountered the group through [Brakadanth](/dorelta/npcs/brakadanth), another faerie dragon from the Autumn Woods.
 
 When Aeriff invited Brakadanth to accompany them on their travels, Brakadanth declined. **Vermelho, however, decided to follow Aeriff instead.**
 
@@ -35,8 +35,8 @@ Since then, the small faerie dragon has accompanied the group on their adventure
 
 | Character | Connection |
 |---|---|
-| [Aeriff](/docs/factions/temple-of-knowledge/members/aeriff.md) | Vermelho chose to follow him on his travels |
-| [Brakadanth](/docs/dorelta/npcs/brakadanth) | Fellow faerie dragon from the Autumn Woods |
+| [Aeriff](/factions/temple-of-knowledge/members/aeriff.md) | Vermelho chose to follow him on his travels |
+| [Brakadanth](/dorelta/npcs/brakadanth) | Fellow faerie dragon from the Autumn Woods |
 
 ---
 
@@ -44,5 +44,5 @@ Since then, the small faerie dragon has accompanied the group on their adventure
 
 | Page | Connection |
 |---|---|
-| [Autumn Woods](/docs/regions/autumn-forest/) | Vermelho's former home |
-| [Dorelta](/docs/dorelta/) | Nearby city |
+| [Autumn Woods](/regions/autumn-forest/) | Vermelho's former home |
+| [Dorelta](/dorelta/) | Nearby city |

@@ -13,7 +13,7 @@ sidebar_position: 1
 
 <div className="npc-header-content">
 
-Together with the **Nevington Mountains**, the **Mauer Mountains** form one of the two great mountain systems of [Norberia](/docs/regions/norberia/).
+Together with the **Nevington Mountains**, the **Mauer Mountains** form one of the two great mountain systems of [Norberia](/regions/norberia/).
 
 The range is also commonly known as the **Sand Wall**, a name earned from the enormous natural barrier it forms against the desert to the west.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rosaline"
 sidebar_position: 3
 ---
@@ -15,7 +15,7 @@ sidebar_position: 3
 
 ## Overview
 
-**Rosaline** was a young woman from [Orchiva](/docs/orchiva/) and the daughter of [Roy](../roy).
+**Rosaline** was a young woman from [Orchiva](/orchiva/) and the daughter of [Roy](../roy).
 
 She fell in love with [Inus](../inus), whose cottage she was frequently seen visiting. [Maximilian](../maximilian) also appeared to have romantic feelings for her, although it is unclear whether those feelings were reciprocated.
 

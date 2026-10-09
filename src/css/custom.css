@@ -511,3 +511,55 @@ body:has(.world-map-page) .theme-doc-breadcrumbs {
     order: 1;
   }
 }
+/* =========================================================
+   HOME PAGE — FULL WIDTH WITH SIDEBAR
+   ========================================================= */
+
+/* Remove Docusaurus document width restrictions on Home only */
+html:has(.cursed-seas-home) .theme-doc-markdown,
+html:has(.cursed-seas-home) article,
+html:has(.cursed-seas-home) .container,
+html:has(.cursed-seas-home) main .row,
+html:has(.cursed-seas-home) main .col {
+  max-width: none !important;
+}
+
+/* Allow the document column to occupy all available space */
+html:has(.cursed-seas-home) main .col {
+  flex: 1 1 100% !important;
+  width: 100% !important;
+  min-width: 0;
+}
+
+/* Remove horizontal padding and margins */
+html:has(.cursed-seas-home) main .container {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+html:has(.cursed-seas-home) main .row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+html:has(.cursed-seas-home) main .col {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Make the map fill the entire available document width */
+.cursed-seas-home {
+  width: 100% !important;
+  max-width: none !important;
+  min-height: calc(100vh - var(--ifm-navbar-height));
+  margin: 0 !important;
+
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Remove bottom spacing added by Markdown */
+html:has(.cursed-seas-home) .theme-doc-markdown {
+  margin-bottom: 0;
+}

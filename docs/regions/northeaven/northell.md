@@ -13,7 +13,7 @@ sidebar_position: 2
 
 <div className="npc-header-content">
 
-**Northell** is a massive volcano located north of [Northeaven](/docs/regions/northeaven/).
+**Northell** is a massive volcano located north of [Northeaven](/regions/northeaven/).
 
 For generations, it was believed to be nothing more than a mountain formation. That belief came to a violent end when Northell suddenly erupted, transforming the surrounding region forever.
 
@@ -27,6 +27,6 @@ The constant volcanic activity covers the surrounding lands in a dense layer of 
 
 </div>
 
-The eruption radically changed life in nearby [Northeaven](/docs/regions/northeaven/), turning what had once been a fertile and prosperous region into a much harsher environment.
+The eruption radically changed life in nearby [Northeaven](/regions/northeaven/), turning what had once been a fertile and prosperous region into a much harsher environment.
 
 

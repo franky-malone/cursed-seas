@@ -36,9 +36,9 @@ To contact the party, Ralto gave them a **small magical snail**, which he could 
 
 ## The Reversed Hands
 
-[Jori](/docs/players/jori/) and [Aeriff](/docs/factions/temple-of-knowledge/members/aeriff.md) noticed something strange when shaking Ralto's hand: his thumb appeared to be misplaced, almost as though the hand belonged on the opposite side of his body.
+[Jori](/players/jori/) and [Aeriff](/factions/temple-of-knowledge/members/aeriff.md) noticed something strange when shaking Ralto's hand: his thumb appeared to be misplaced, almost as though the hand belonged on the opposite side of his body.
 
-When the party later discussed this observation with [Sacred Plume Silica Stein](/docs/factions/temple-of-knowledge/leaders/sacred-plume-silica-stein), he suggested a disturbing possibility.
+When the party later discussed this observation with [Sacred Plume Silica Stein](/factions/temple-of-knowledge/leaders/sacred-plume-silica-stein), he suggested a disturbing possibility.
 
 If what Jori and Aeriff noticed was correct, **Ralto could be a Rakshasa in disguise**.
 
