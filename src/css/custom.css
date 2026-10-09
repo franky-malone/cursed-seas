@@ -563,3 +563,13 @@ html:has(.cursed-seas-home) main .col {
 html:has(.cursed-seas-home) .theme-doc-markdown {
   margin-bottom: 0;
 }
+/* Hide the mobile navbar's "Back to main menu" button */
+@media (max-width: 996px) {
+  .navbar-sidebar__back {
+    display: none !important;
+  }
+}
+/* Hide breadcrumbs only on Home */
+html:has(.cursed-seas-home) nav.theme-doc-breadcrumbs {
+  display: none !important;
+}
