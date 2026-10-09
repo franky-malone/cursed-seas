@@ -105,18 +105,11 @@ navbar: {
   },
 
   items: [
-    {
-      type: 'docSidebar',
-      sidebarId: 'wikiSidebar',
-      position: 'left',
-      label: 'Wiki',
-      className: 'navbar-wiki-link',
-    },
-    {
-      type: 'search',
-      position: 'left',
-    },
-  ],
+  {
+    type: 'search',
+    position: 'right',
+  },
+],
 },
 
     footer: {

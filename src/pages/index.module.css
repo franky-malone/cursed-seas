@@ -172,6 +172,17 @@
   opacity: 0.75;
 }
 @media screen and (max-width: 600px) {
+  .content {
+  padding: 1.5rem 1rem;
+}
+
+.divider {
+  margin: 1.25rem auto;
+}
+
+.tagline {
+  margin: 1rem auto 1.75rem;
+}
   .hero {
     min-height: calc(100vh - 60px);
   }
