@@ -127,7 +127,4 @@ Both are reminders of the family he lost, but also of the legacy he continues to
 | [Belmont's Blitz](/players/kespien-belmont/belmont-s-blitz) | Kespien's custom spell |
 | [Belmont the Liar](/factions/belmont-family/belmont-the-liar-song) | A popular song responsible for part of the Belmont family's reputation |
 | [Farbound Fellowship Symbol](/players/farbound-fellowship-symbol) | Symbol of Kespien's adventuring party |
-| [Birthday Sending from Dorn](/players/kespien-belmont/birthday-sending-from-dorn) | A personal birthday message from Dorn |
 | [Spellbook Transcription Progress](/players/kespien-belmont/spellbook-transcription-progress) | Kespien's spell transcription rules and progress |
-
-

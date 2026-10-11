@@ -23,4 +23,3 @@ It spoke a strange language but seemed not to be very intelligent. It
 almost found the party in a fog cloud and fought against them.
 
 It found Kespiens magical hut and tried to break it but couldn't.
-

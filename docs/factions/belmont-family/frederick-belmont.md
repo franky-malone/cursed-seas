@@ -5,7 +5,7 @@ sidebar_position: 3
 
 ## Overview
 
-**Frederick Belmont** was a direct descendant of [Manfred Belmont](/factions/belmont-family/manfred-belmont) and captain of the [Black Albatros](/factions/belmont-family/black-albatros).
+**Frederick Belmont** was a direct descendant of [Manfred Belmont](/factions/belmont-family/manfred-belmont) and captain of the Black Albatros.
 
 Like [Manfred Belmont](/factions/belmont-family/manfred-belmont) before him, Frederick became obsessed with the [Cursed Islands](/regions/cursed-islands) and believed that reaching them was somehow tied to his destiny. He hoped that succeeding where his ancestor's stories had been dismissed as lies would finally restore the [Belmont](/factions/belmont-family/)  name.
 
@@ -29,7 +29,7 @@ His greatest lead was an **old family map of the Cursed Islands**, faded and nea
 
 ## The Black Albatros
 
-Frederick captained the [Black Albatros](/factions/belmont-family/black-albatros), an old ship that had already survived numerous accidents and could barely remain afloat.
+Frederick captained the Black Albatros, an old ship that had already survived numerous accidents and could barely remain afloat.
 
 Despite Frederick's reputation making recruitment difficult, he and [Halphanis Severus](/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) eventually managed to gather a crew for an expedition to the [Cursed Islands](/regions/cursed-islands).
 
@@ -57,13 +57,13 @@ Frederick refused to allow anyone near the weapon, while [Halphanis Severus](/fa
 
 ## The Final Voyage
 
-With Frederick back aboard, the [Black Albatros](/factions/belmont-family/black-albatros) finally departed in search of the [Cursed Islands](/regions/cursed-islands).
+With Frederick back aboard, the Black Albatros finally departed in search of the [Cursed Islands](/regions/cursed-islands).
 
 [Halphanis Severus](/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) hoped the journey would lead them not only to the islands, but also to **Fabros**, **Myth Coralis**, and his missing mentor.
 
 The expedition never reached its destination.
 
-A violent storm engulfed the [Black Albatros](/factions/belmont-family/black-albatros) and shattered the ship.
+A violent storm engulfed the Black Albatros and shattered the ship.
 
 [Halphanis Severus](/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus) washed ashore and became the **only known survivor** of the disaster.
 
@@ -80,7 +80,6 @@ Frederick, the rest of the crew, and [Halphanis Severus's](/factions/temple-of-k
 - [Kespien Belmont](/players/kespien-belmont/)
 - [Unheilmeer](/important-items/unheilmeer)
 - [Halphanis Severus](/factions/temple-of-knowledge/leaders/sacred-plume-halphanis-severus)
-- [Black Albatros](/factions/belmont-family/black-albatros)
 - [Cursed Islands](/regions/cursed-islands)
 
 

@@ -573,3 +573,6 @@ html:has(.cursed-seas-home) .theme-doc-markdown {
 html:has(.cursed-seas-home) nav.theme-doc-breadcrumbs {
   display: none !important;
 }
+.menu__list-item.hidden {
+  display: none;
+}

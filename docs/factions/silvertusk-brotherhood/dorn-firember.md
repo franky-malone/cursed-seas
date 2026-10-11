@@ -64,7 +64,6 @@ He instructed Kespien to meet him again in [Longsaddle](/longsaddle/) once the m
 | Page | Connection |
 |---|---|
 | [Silvertusk Brotherhood](/factions/silvertusk-brotherhood/) | Dorn's organization |
-| [Birthday Sending from Dorn](/players/kespien-belmont/birthday-sending-from-dorn) | Personal message sent by Dorn to Kespien |
 | [Mordian](/regions/mauer-mountains/mordian) | Where Dorn brought Kespien after rescuing him |
 | [Dorelta](/dorelta/) | Destination of Kespien's first mission |
 

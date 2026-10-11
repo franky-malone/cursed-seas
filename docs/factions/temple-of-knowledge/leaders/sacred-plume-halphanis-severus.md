@@ -25,7 +25,7 @@ Despite his considerable knowledge and position within the Temple, many of these
 
 ## Early Life
 
-Halphanis arrived in [Longsaddle](/longsaddle/) many years ago with little money but a strong fascination with history and ancient civilizations.
+Halphanis arrived in [Longsaddle](/longsaddle) many years ago with little money but a strong fascination with history and ancient civilizations.
 
 Determined to study at the [Temple of Knowledge](/factions/temple-of-knowledge/), he eventually earned a scholarship under [Ellipsis Virgula](/factions/temple-of-knowledge/leaders/ellipsis-virgula), then Sacred Plume of Archaeomancy.
 
@@ -55,7 +55,7 @@ Halphanis decided he had to find his mentor, both to discover whether Ellipsis c
 
 Halphanis followed the same clue that had fascinated Ellipsis: the stories surrounding the [Belmont Family](/factions/belmont-family/) and the [Cursed Islands](/regions/cursed-islands).
 
-His search eventually led him to [Frederick Belmont](/factions/belmont-family/frederick-belmont), descendant of the infamous sailor [Manfred Belmont](/factions/belmont-family/manfred-belmont) and captain of the [Black Albatros](/factions/belmont-family/black-albatros).
+His search eventually led him to [Frederick Belmont](/factions/belmont-family/frederick-belmont), descendant of the infamous sailor [Manfred Belmont](/factions/belmont-family/manfred-belmont) and captain of the Black Albatros.
 
 Frederick possessed an old family map supposedly showing the location of the Cursed Islands. Using the restoration techniques taught to him by Ellipsis, Halphanis managed to restore the damaged map.
 
@@ -83,7 +83,7 @@ A violent storm destroyed the ship, and Halphanis became its only known survivor
 
 [Frederick Belmont](/factions/belmont-family/frederick-belmont), [Irina](/other-npcs/irina) and the rest of the crew disappeared with the ship.
 
-Halphanis returned to [Longsaddle](/longsaddle/) devastated. He attempted scrying, divination and every other means available to him to locate the missing crew, but none succeeded.
+Halphanis returned to [Longsaddle](/longsaddle) devastated. He attempted scrying, divination and every other means available to him to locate the missing crew, but none succeeded.
 
 The loss of Irina and the failure to find Ellipsis pushed him into a deep depression.
 

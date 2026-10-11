@@ -38,6 +38,7 @@ const config = {
 docs: {
   sidebarPath: './sidebars.js',
   routeBasePath: '/',
+  sidebarCollapsible: true,
 
   editUrl: ({docPath}) => {
     if (
@@ -91,6 +92,12 @@ themes: [
 ],
 
   themeConfig: {
+     docs: {
+    sidebar: {
+      hideable: true,
+    },
+  },
+
     image: 'img/favicon.ico',
 
     colorMode: {
@@ -105,13 +112,18 @@ navbar: {
     alt: 'Cursed Seas Logo',
     src: 'img/favicon.ico',
   },
-
   items: [
-  {
-    type: 'search',
-    position: 'right',
-  },
-],
+    {
+      to: '/initiative-tracker',
+      label: 'Initiative Tracker',
+      position: 'left',
+     className: 'tracker-mobile-shortcut',
+    },
+    {
+      type: 'search',
+      position: 'right',
+    },
+  ],
 },
 
 footer: {

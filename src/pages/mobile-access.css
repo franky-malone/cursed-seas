@@ -1,0 +1,13 @@
+/* Add this to src/css/custom.css to show a persistent tracker shortcut on mobile.
+   The link itself is provided by a Docusaurus navbar item with className below. */
+@media (max-width: 996px) {
+  .navbar__item.tracker-mobile-shortcut {
+    display: inline-flex !important;
+    align-items: center;
+    margin-left: auto;
+    padding: 0 .65rem;
+    font-size: .8rem;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+}

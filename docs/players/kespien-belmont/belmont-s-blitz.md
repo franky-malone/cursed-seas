@@ -1,6 +1,6 @@
 ---
 title: "Belmont's Blitz"
-sidebar_position: 9
+sidebar_position: 3
 ---
 
 import BelmontBlitz from './belmont-s-blitz-assets/belmont-s-blitz_files/image001.webp';
