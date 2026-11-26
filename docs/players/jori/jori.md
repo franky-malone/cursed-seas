@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Race** | Water Genasi |
-| **Class** | Druid |
+| **Class** | Druid (Circle of the Shepherd) |
 | **Origin** | [Mordian](/regions/mauer-mountains/mordian) |
 | **Occupation** | Kelp Farmer |
 | **Affiliation** | Farbound Fellowship |
@@ -54,7 +54,7 @@ Sometimes, when looking at his reflection in the water, Jori could swear that **
 
 ### The Druidic Path
 
-After Jori began showing an affinity for druidic magic, his father introduced him to a druid who became his mentor.
+After Jori began showing an affinity for druidic magic, his father introduced him to [Marwa](/players/jori/marwa), who became his mentor.
 
 His training centered around one fundamental principle:
 
@@ -112,13 +112,37 @@ Jori agreed to investigate on his way to Longsaddle.
 
 And so his journey began.
 
+### From Dorelta to Longsaddle
+
+In the [Autumn Woods](/regions/autumn-forest/) near Dorelta, Jori first connected with his three druidic totem spirits: **Kassiopeia**, **Lyra**, and **Pavo**.
+
+On the road to Longsaddle, Jori learned that [Golt](/players/golt/) wielded the [Unheilmeer](/important-items/unheilmeer). When Golt spoke of the Ipletherion, Jori told the group that Undina had asked him to accompany the spear's wielder there.
+
+At the Temple of Knowledge, [Elisabeth the Twilight Oracle](/puerto-ballena/places/temple-of-the-full-moon/elisabeth-the-twilight-oracle) had a vision of five people who resembled Jori and called themselves the **Crescent Wave**. She invited him to visit her at the [Temple of the Full Moon](/puerto-ballena/places/temple-of-the-full-moon/) in Puerto Ballena to learn more.
+
+Sacred Plume Halphanis Severus shared a Selûnite legend that placed **Myth Coralis** in the lost archipelago of **Fabros**. After passing his trial, the Fellowship earned [a copy of a map to the Cursed Islands](/documents/halphanis-map).
+
+### Restoring Orchiva
+
+Jori fought alongside the Fellowship against the **Chitter King**, calling on Pavo during the battle. After accepting a boon from **Kelemvor**, Jori spent eight hours nurturing the land around Orchiva with his magic to help it recover.
+
+### A Dream of Fuegoazul
+
+On the way to Puerto Ballena, Jori dreamed of his old friend **Fuegoazul**, who appeared to him as a small blue dragon. Fuegoazul told Jori that he was having trouble waking and asked him to come to a waterfall near the **Summer Court** in the Feywild to wake him.
+
+### Reunion at the Emerald Horse
+
+Jori and [Ada Gladstone](/factions/temple-of-knowledge/members/ada-gladstone) grew closer after reconnecting in Longsaddle, where he attended her class on Fey portals and went on a date with her. They met again at the **Emerald Horse** in the Emerald Hills. Before leaving for the Shadowfell, Jori entrusted [Lily](/players/jori/lily) to Ada as company and as a promise that he would return.
+
 ---
 
 ## Goals
 
+Jori has found the [**Unheilmeer**](/important-items/unheilmeer) and identified [**Golt**](/players/golt/) as its wielder. The Fellowship agreed to gather more information and seek allies before deciding whether to bring the spear to the Ipletherion.
+
 - **Find Myth Coralis**
-- Discover the nature and location of the [**Unheilmeer**](/important-items/unheilmeer)
-- Find the **wielder of the Unheilmeer**
+- Discover the nature of the [**Unheilmeer**](/important-items/unheilmeer)
+- Follow up with **Elisabeth the Twilight Oracle** in Puerto Ballena about the **Crescent Wave**
 - Reach the **Ipletherion**
 - Help preserve the **balance between worlds**
 
@@ -129,15 +153,15 @@ And so his journey began.
 | Character | Connection to Jori |
 |---|---|
 | **Undina** | Mother |
-| **Elmo** | Father |
+| [Elmo](/players/jori/elmo) | Father |
 | [Marwa](/players/jori/marwa) | Druidic mentor |
-| [Ada Gladstone](/factions/temple-of-knowledge/members/ada-gladstone) | Close friend |
+| [Ada Gladstone](/factions/temple-of-knowledge/members/ada-gladstone) | Old acquaintance and romantic interest |
 | [Kalina Aspenflare](/factions/emerald-watchers/kalina-aspenflare) | Former pupil and old friend |
 | [Helene Soprani](/players/jori/helene-soprani) | Childhood friend |
-| [Kassiopeia](/players/jori/kassiopeia) | Druidic totem |
-| [Lily](/players/jori/lily) | Companion |
-| [Lyra](/players/jori/lyra) | Druidic totem |
-| [Pavo](/players/jori/pavo) | Druidic totem |
+| [Kassiopeia](/players/jori/kassiopeia) | Druidic totem in the form of a pond turtle |
+| [Lily](/players/jori/lily) | Awakened shrub companion, last left in Ada's care |
+| [Lyra](/players/jori/lyra) | Druidic totem in the form of a grizzly bear with fur made of water |
+| [Pavo](/players/jori/pavo) | Druidic totem in the form of a sea eagle |
 | [Miranda Greywolf](/dorelta/npcs/miranda-greywolf) | Ally in Dorelta |
-| **Conor McMellot** | Childhood acquaintance |
+| **Connor McMellot** | Childhood acquaintance who travelled with [Helene Soprani](/players/jori/helene-soprani) before leaving for Puerto Ballena |
 
