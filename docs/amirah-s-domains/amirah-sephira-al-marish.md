@@ -52,3 +52,4 @@ Amirah is believed to be the mysterious figure responsible for organizing the **
 | Page | Connection |
 |---|---|
 | [Nersand](/regions/nersand/) | Location of the Tournament of Valor |
+| [The Thousand Faces of Sephira Al-Marish](../documents/the-thousand-faces-of-sephira-al-marish.mdx) | Alaric Thistlewick's account of the Amirah |
